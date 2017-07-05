@@ -76,11 +76,12 @@ for artist in subdirectories:
 		test = test + get_parsed_file_task2(artist, song)
 	
 
-with open('lexicon.namedentities.raw.tsv', 'a') as csv_file:
-	csvfile = csv.writer(csv_file, quoting=csv.QUOTE_ALL,encoding='utf-8', delimiter='\t')
+with open('fix.tsv', 'a') as csv_file:
+	csvfile = csv.writer(csv_file, encoding='utf-8', delimiter='\t')
 	csvfile.writerow(['filename','name','ner','type'])
 	for x in test:
 		if x.ner in ['LOC']:
+			print x.filename
 			csvfile.writerow([x.filename,x.name,x.word,x.ner])
 
 
