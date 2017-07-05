@@ -4,7 +4,7 @@ from django.shortcuts import render
 
 
 def cityName(request, song_cities):
-    return HttpResponse("You're looking at song %s." % Song.get_cities_in_song(song_cities))
+    return HttpResponse("You're looking at song")
 
 
 def results(request, song_id):
