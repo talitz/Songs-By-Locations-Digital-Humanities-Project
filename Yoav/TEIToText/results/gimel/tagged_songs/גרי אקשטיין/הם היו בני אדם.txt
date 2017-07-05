@@ -1,0 +1,227 @@
+0 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+3 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+4 כמו כמו כמוני preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י כמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 ו ו וכמוך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 כמו כמו וכמוך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך וכמוך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+7 רץ רץ רצו noun masculine singular absolute unspecified unspecified  
+7 ו ו רצו possessive masculine singular unspecified 3 unspecified 0 	O	null
+8 ל ל לחלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה לחלום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 החלום חלום לחלום noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ולחיות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 לחיות חי ולחיות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+11 עברו עבר עברו verb masculine-and-feminine plural unspecified 3 past  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה המבול definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 המבול מבול המבול noun masculine singular absolute unspecified unspecified  	O	null
+14 ו ו וראו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 ראו ראה וראו verb masculine-and-feminine plural unspecified 3 past  	O	null
+15 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ה ה הזית definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הזית זית הזית noun feminine singular absolute unspecified unspecified  	O	null
+17 צף צף צף verb masculine singular unspecified 3 past  	O	null
+18 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 יונים יון יונים noun masculine plural absolute unspecified unspecified  	O	null
+20 מ מ מתות preposition unspecified unspecified unspecified unspecified unspecified 0 
+20 תות תות מתות noun masculine singular construct unspecified unspecified  	O	null
+21 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+3 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+4 כמו כמו כמוני preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י כמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 ו ו וכמוך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 כמו כמו וכמוך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך וכמוך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+7 רץ רץ רצו noun masculine singular absolute unspecified unspecified  
+7 ו ו רצו possessive masculine singular unspecified 3 unspecified 0 	O	null
+8 ל ל לאהוב preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה לאהוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 האהוב אהוב לאהוב noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ולפרות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 ל ל ולפרות preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 פרות פרה ולפרות noun feminine plural absolute unspecified unspecified  	O	null
+10 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+11 חיכו חייך חיכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+12 ש ש שהקיץ relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה שהקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הקיץ קיץ שהקיץ noun masculine singular absolute unspecified unspecified  	O	null
+13 יתן נתן יתן verb masculine singular unspecified 3 future  	O	null
+14 ל ל להם preposition unspecified unspecified unspecified unspecified unspecified  
+14 הם הם להם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+15 כוח כוח כוח noun masculine singular absolute unspecified unspecified  	O	null
+16 ו ו והקיץ conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 ה ה והקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הקיץ קיץ והקיץ noun masculine singular absolute unspecified unspecified  	O	null
+17 שרף שרף שרף verb masculine singular unspecified 3 past  	O	null
+18 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 עצמו עצמו עצמו pronoun unspecified unspecified unspecified unspecified unspecified  
+19 ו ו עצמו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+
+0 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+3 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+4 כמו כמו כמוני preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י כמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 ו ו וכמוך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 כמו כמו וכמוך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך וכמוך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+7 רץ רץ רצו noun masculine singular absolute unspecified unspecified  
+7 ו ו רצו possessive masculine singular unspecified 3 unspecified 0 	O	null
+8 להפוך הפך להפוך verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 עולמות עולם עולמות noun masculine plural absolute unspecified unspecified  	O	null
+10 ו ו והסתיו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה והסתיו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הסתיו סתיו והסתיו noun masculine singular absolute unspecified unspecified  	O	null
+11 הגיע הגיע הגיע verb masculine singular unspecified 3 past  	O	null
+12 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ש ש שסתיו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 סתיו סתיו שסתיו properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+14 מגיע הגיע מגיע verb masculine singular unspecified any beinoni  	O	null
+15 ערום ערום ערום adjective masculine singular absolute unspecified unspecified  	O	null
+16 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ו ו ועשה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 עשה עשה ועשה verb masculine singular unspecified 3 past  	O	null
+18 מ מ מזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+18 זה זה מזה pronoun masculine singular unspecified 3 unspecified  	O	null
+19 צחוק צחוק צחוק noun masculine singular absolute unspecified unspecified  	O	null
+
+0 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+3 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+4 כמו כמו כמוני preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י כמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 ו ו וכמוך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 כמו כמו וכמוך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך וכמוך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+7 עש עש עשו noun masculine singular absolute unspecified unspecified  
+7 ו ו עשו possessive masculine singular unspecified 3 unspecified 0 	O	null
+8 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה הרע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הרע רע הרע noun masculine singular absolute unspecified unspecified  	O	null
+10 ו ו והטוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה והטוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הטוב טוב והטוב noun masculine singular absolute unspecified unspecified  	O	null
+11 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+12 סגדו סגד סגדו verb masculine-and-feminine plural unspecified 3 past  	O	null
+13 ל ל לרקיע preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה לרקיע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הרקיע רקיע לרקיע noun masculine singular absolute unspecified unspecified  	O	null
+14 ו ו וקיוו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 קיוו קיווה וקיוו verb masculine-and-feminine plural unspecified 3 past  	O	null
+15 ש ש שתוכיח relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 תוכיח הוכיח שתוכיח verb feminine singular unspecified 3 future  	O	null
+16 ש ש שאתה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 אתה הוא שאתה pronoun masculine singular unspecified 2 unspecified  	O	null
+17 באמת באמת באמת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ב ב בתוכו preposition unspecified unspecified unspecified unspecified unspecified 0 
+18 תוך תוך בתוכו noun masculine singular absolute unspecified unspecified  
+18 ו ו בתוכו possessive masculine singular unspecified 3 unspecified 0 	O	null
+
+0 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+3 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+4 כמו כמו כמוני preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י כמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 ו ו וכמוך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 כמו כמו וכמוך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך וכמוך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+7 חיך חיך חיכו noun masculine singular absolute unspecified unspecified  
+7 ו ו חיכו possessive masculine singular unspecified 3 unspecified 0 	O	null
+8 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+9 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 עד עד עד noun masculine singular absolute unspecified unspecified  	O	null
+11 בוש בוש בוש properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+12 ו ו ואתה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 אתה הוא ואתה pronoun masculine singular unspecified 2 unspecified  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 היית הוא היית copula feminine singular unspecified 2 past  	O	null
+15 מעולם מעולם מעולם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 היית הוא היית copula feminine singular unspecified 2 past  	O	null
+18 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 מאשר מאשר מאשר conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+20 חלום חלום חלום noun masculine singular absolute unspecified unspecified  	O	null
+
+0 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+3 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+4 כמו כמו כמוני preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י כמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 ו ו וכמוך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 כמו כמו וכמוך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך וכמוך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 כש כש כשנגמר temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+6 נגמר נגמר כשנגמר verb masculine singular unspecified 3 past  	O	null
+7 ל ל להם preposition unspecified unspecified unspecified unspecified unspecified  
+7 הם הם להם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+8 ה ה החלום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 החלום חלום החלום noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ואתה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 את את ואתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ה ה ואתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 היית הוא היית copula feminine singular unspecified 2 past  	O	null
+12 ו ו וברגע conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 ב ב וברגע preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה וברגע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הרגע רגע וברגע noun masculine singular absolute unspecified unspecified  	O	null
+13 ה ה הקריטי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הקריטי קריטי הקריטי adjective masculine singular absolute unspecified unspecified  	O	null
+14 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+15 נטלו נטל נטלו verb masculine-and-feminine plural unspecified 3 past  	O	null
+16 ליד ליד לידם preposition unspecified unspecified unspecified unspecified unspecified  
+16 הם הם לידם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+17 שלטון שלטון שלטון noun masculine singular absolute unspecified unspecified  	O	null
+
+0 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+3 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+4 כמו כמו כמוני preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י כמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 ו ו וכמוך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 כמו כמו וכמוך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך וכמוך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+7 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+8 ש ש שנטלו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 נטלו נטל שנטלו verb masculine-and-feminine plural unspecified 3 past  	O	null
+9 שלטון שלטון שלטון noun masculine singular absolute unspecified unspecified  	O	null
+10 ו ו וכמו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 כמו כמו וכמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ש ש שרצית relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 רצית רצה שרצית verb feminine singular unspecified 2 past  	O	null
+12 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 רצית רצה רצית verb feminine singular unspecified 2 past  	O	null
+15 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+16 הפך הפך הפך verb masculine singular unspecified 3 past  	O	null
+17 את את אותם at-preposition unspecified unspecified unspecified unspecified unspecified  
+17 הם הם אותם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+18 לחיות חי לחיות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+19 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 בני בן בני noun masculine plural construct unspecified unspecified  	O	null
+3 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+4 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+5 היו... היו... היו... verb masculine singular unspecified 2 imperative  	O	null
+

@@ -1,0 +1,229 @@
+0 אי אי אי noun masculine singular construct unspecified unspecified  	O	null
+1 שם שם שם noun masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בלב preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 לב לב בלב noun masculine singular construct unspecified unspecified  	O	null
+3 הים ים הים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+4 התיכון תיכון התיכון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+5 שטה שט שטה verb feminine singular unspecified 3 past  	O	null
+6 ספינה ספינה ספינה noun feminine singular absolute unspecified unspecified  	O	null
+7 ישנה ישן ישנה adjective feminine singular absolute unspecified unspecified  	O	null
+8 ו ו ויושב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 יושב ישב ויושב verb masculine singular unspecified any beinoni  	O	null
+9 בתוך בתוך בתוכה preposition unspecified unspecified unspecified unspecified unspecified  
+9 ה ה בתוכה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+10 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+11 מוזר מוזר מוזר adjective masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ומשדר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 משדר שידר ומשדר verb masculine singular unspecified any beinoni  	O	null
+13 ל ל לעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה לעולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 העולם עולם לעולם noun masculine singular absolute unspecified unspecified  	O	null
+14 מ מ מנגינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 נגינה נגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+15 ו ו ומשדר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 משדר משדר ומשדר noun masculine singular absolute unspecified unspecified  	O	null
+16 ל ל לעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 עולם עולם לעולם noun masculine singular construct unspecified unspecified  	O	null
+17 מנגינות מנגינה מנגינות noun feminine plural absolute unspecified unspecified  	O	null
+18 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+19 ו ו ומשדר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 משדר שידר ומשדר verb masculine singular unspecified any beinoni  	O	null
+20 ל ל לעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+20 עולם עולם לעולם noun masculine singular construct unspecified unspecified  	O	null
+21 חלומות חלום חלומות noun masculine plural absolute unspecified unspecified  	O	null
+22 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+23 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+24 ש ש שהוא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 הוא הוא שהוא pronoun masculine singular unspecified 3 unspecified  	O	null
+25 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+26 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+27 נאיבי נאיבי נאיבי adjective masculine singular absolute unspecified unspecified  	O	null
+28 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+29 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+30 ש ש שרודף relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+30 רודף רדף שרודף verb masculine singular unspecified any beinoni  	O	null
+31 פרסומות פרסומת פרסומות noun feminine plural absolute unspecified unspecified  	O	null
+
+0 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+1 מוזר מוזר מוזר adjective masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+4 ש ש שתדע relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תדע ידע שתדע verb feminine singular unspecified 3 future  	O	null
+5 יש יש יש noun masculine singular absolute unspecified unspecified  	O	null
+6 מקשיב הקשיב מקשיב verb masculine singular unspecified any beinoni  	O	null
+7 ל ל לדבריך preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 דברי דבר לדבריך noun masculine plural absolute unspecified unspecified  
+7 ך ך לדבריך possessive feminine singular unspecified 2 unspecified 0 	O	null
+8 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+9 חולם חלם חולם verb masculine singular unspecified any beinoni  	O	null
+10 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+11 שותף שותף שותף noun masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לחלומותיך preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 חלומותי חלום לחלומותיך noun masculine plural absolute unspecified unspecified  
+12 ך ך לחלומותיך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+1 מוזר מוזר מוזר adjective masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+4 ש ש שתדע relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תדע ידע שתדע verb feminine singular unspecified 3 future  	O	null
+5 יש יש יש noun masculine singular absolute unspecified unspecified  	O	null
+6 מקשיב הקשיב מקשיב verb masculine singular unspecified any beinoni  	O	null
+7 ל ל לדבריך preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 דברי דבר לדבריך noun masculine plural absolute unspecified unspecified  
+7 ך ך לדבריך possessive feminine singular unspecified 2 unspecified 0 	O	null
+8 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+9 חולם חלם חולם verb masculine singular unspecified any beinoni  	O	null
+10 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+11 שותף שותף שותף noun masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לחלומותיך preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 חלומותי חלום לחלומותיך noun masculine plural absolute unspecified unspecified  
+12 ך ך לחלומותיך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לעתים לעתים לעתים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב בשעת preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 שעת שעה בשעת noun feminine singular construct unspecified unspecified  	O	null
+3 ליל ליל ליל noun masculine singular construct unspecified unspecified  	O	null
+4 קול קול קולו noun masculine singular absolute unspecified unspecified  
+4 ו ו קולו possessive masculine singular unspecified 3 unspecified 0 	O	null
+5 ל ל לפת preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 פת פת לפת properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 נשמע נשמע נשמע verb masculine singular unspecified 3 past  	O	null
+7 מ מ מדבר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 דבר דבר מדבר noun masculine singular absolute unspecified unspecified  	O	null
+8 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 שלום שלום שלום noun masculine singular absolute unspecified unspecified  	O	null
+10 ו ו ועל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 על על ועל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 מבקש ביקש מבקש verb masculine singular unspecified any beinoni  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מלחמה מלחמה מלחמה noun feminine singular absolute unspecified unspecified  	O	null
+16 ו ו ומקשיב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 מקשיב הקשיב ומקשיב verb masculine singular unspecified any beinoni  	O	null
+17 ה ה הנהג definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 הנהג נהג הנהג noun masculine singular absolute unspecified unspecified  	O	null
+18 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ה ה ההגה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 ההגה הגה ההגה noun masculine singular absolute unspecified unspecified  	O	null
+20 נערות נער נערות noun feminine plural absolute unspecified unspecified  	O	null
+21 צעירות צעיר צעירות adjective feminine plural absolute unspecified unspecified  	O	null
+22 מתרגשות התרגש מתרגשות verb feminine plural unspecified any beinoni  	O	null
+23 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+24 ה ה הרוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 הרוב רוב הרוב noun masculine singular absolute unspecified unspecified  	O	null
+25 מ מ משנים preposition unspecified unspecified unspecified unspecified unspecified 0 
+25 שנים שנה משנים noun feminine plural absolute unspecified unspecified  	O	null
+26 תחנה תחנה תחנה noun feminine singular absolute unspecified unspecified  	O	null
+27 כדי כדי כדי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+28 לשמוע שמע לשמוע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+29 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+30 ה ה החדשות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+30 החדשות חדשה החדשות noun feminine plural absolute unspecified unspecified  	O	null
+
+0 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+1 מוזר מוזר מוזר adjective masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+4 ש ש שתדע relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תדע ידע שתדע verb feminine singular unspecified 3 future  	O	null
+5 יש יש יש noun masculine singular absolute unspecified unspecified  	O	null
+6 מקשיב הקשיב מקשיב verb masculine singular unspecified any beinoni  	O	null
+7 ל ל לדבריך preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 דברי דבר לדבריך noun masculine plural absolute unspecified unspecified  
+7 ך ך לדבריך possessive feminine singular unspecified 2 unspecified 0 	O	null
+8 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+9 חולם חלם חולם verb masculine singular unspecified any beinoni  	O	null
+10 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+11 שותף שותף שותף noun masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לחלומותיך preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 חלומותי חלום לחלומותיך noun masculine plural absolute unspecified unspecified  
+12 ך ך לחלומותיך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+1 מוזר מוזר מוזר adjective masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+4 ש ש שתדע relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תדע ידע שתדע verb feminine singular unspecified 3 future  	O	null
+5 יש יש יש noun masculine singular absolute unspecified unspecified  	O	null
+6 מקשיב הקשיב מקשיב verb masculine singular unspecified any beinoni  	O	null
+7 ל ל לדבריך preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 דברי דבר לדבריך noun masculine plural absolute unspecified unspecified  
+7 ך ך לדבריך possessive feminine singular unspecified 2 unspecified 0 	O	null
+8 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+9 חולם חלם חולם verb masculine singular unspecified any beinoni  	O	null
+10 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+11 שותף שותף שותף noun masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לחלומותיך preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 חלומותי חלום לחלומותיך noun masculine plural absolute unspecified unspecified  
+12 ך ך לחלומותיך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 אי אי אי noun masculine singular construct unspecified unspecified  	O	null
+1 שם שם שם noun masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בלב preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 לב לב בלב noun masculine singular construct unspecified unspecified  	O	null
+3 הים ים הים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+4 התיכון תיכון התיכון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+5 שטה שט שטה verb feminine singular unspecified 3 past  	O	null
+6 ספינה ספינה ספינה noun feminine singular absolute unspecified unspecified  	O	null
+7 ישנה ישן ישנה adjective feminine singular absolute unspecified unspecified  	O	null
+8 ו ו ויושב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 יושב ישב ויושב verb masculine singular unspecified any beinoni  	O	null
+9 בתוך בתוך בתוכה preposition unspecified unspecified unspecified unspecified unspecified  
+9 ה ה בתוכה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+10 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+11 מוזר מוזר מוזר adjective masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ומשדר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 משדר שידר ומשדר verb masculine singular unspecified any beinoni  	O	null
+13 ל ל לעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 עולם עולם לעולם noun masculine singular construct unspecified unspecified  	O	null
+14 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+15 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+16 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+17 ש ש שהוא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 הוא הוא שהוא pronoun masculine singular unspecified 3 unspecified  	O	null
+18 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+20 נאיבי נאיבי נאיבי adjective masculine singular absolute unspecified unspecified  	O	null
+21 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+22 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+23 ש ש שרודף relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 רודף רדף שרודף verb masculine singular unspecified any beinoni  	O	null
+24 פרסומות פרסומת פרסומות noun feminine plural absolute unspecified unspecified  	O	null
+25 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+26 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+27 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+28 אומר אמר אומר verb masculine singular unspecified any beinoni  	O	null
+29 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+30 לדעת ידע לדעת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+31 ש ש שישנם relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+31 יש יש שישנם existential unspecified unspecified unspecified unspecified unspecified  
+31 הם הם שישנם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+32 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+33 חולמי חולם חולמי noun masculine plural construct unspecified unspecified  	O	null
+34 חלומות חלום חלומות noun masculine plural absolute unspecified unspecified  	O	null
+
+0 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+1 מוזר מוזר מוזר adjective masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+4 ש ש שתדע relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תדע ידע שתדע verb feminine singular unspecified 3 future  	O	null
+5 יש יש יש noun masculine singular absolute unspecified unspecified  	O	null
+6 מקשיב הקשיב מקשיב verb masculine singular unspecified any beinoni  	O	null
+7 ל ל לדבריך preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 דברי דבר לדבריך noun masculine plural absolute unspecified unspecified  
+7 ך ך לדבריך possessive feminine singular unspecified 2 unspecified 0 	O	null
+8 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+9 חולם חלם חולם verb masculine singular unspecified any beinoni  	O	null
+10 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+11 שותף שותף שותף noun masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לחלומותיך preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 חלומותי חלום לחלומותיך noun masculine plural absolute unspecified unspecified  
+12 ך ך לחלומותיך possessive feminine singular unspecified 2 unspecified 0 	O	null
+

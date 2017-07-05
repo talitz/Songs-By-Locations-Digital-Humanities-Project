@@ -1,0 +1,57 @@
+0 ה ה הגשמים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הגשמים גשם הגשמים noun masculine plural absolute unspecified unspecified  	O	null
+1 ירדו ירד ירדו verb masculine-and-feminine plural unspecified 3 past  	I_LOC	null
+2 ו ו והרחוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה והרחוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הרחוב רחוב והרחוב noun masculine singular absolute unspecified unspecified  	I_LOC	null
+3 השתנה השתנה השתנה verb masculine singular unspecified 3 past  	O	null
+4 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 בנו בנה בנו verb masculine-and-feminine plural unspecified 3 past  	O	null
+7 חדש חדש חדש adjective masculine singular absolute unspecified unspecified  	O	null
+8 ו ו ופה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 פה פה ופה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 הרסו הרס הרסו verb masculine-and-feminine plural unspecified 3 past  	O	null
+
+0 מסתובבת הסתובב מסתובבת verb feminine singular unspecified any beinoni  	O	null
+1 ב ב בעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 עולם עולם בעולם noun masculine singular absolute unspecified unspecified  	O	null
+2 ישן ישן ישן adjective masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מחפשת חיפש מחפשת verb feminine singular unspecified any beinoni  	O	null
+5 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה הגשר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הגשר גשר הגשר noun masculine singular absolute unspecified unspecified  	O	null
+7 ש ש שמביא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 מביא הביא שמביא verb masculine singular unspecified any beinoni  	O	null
+8 לכאן לכאן לכאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+1 ל ל להיות preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 היות היות להיות noun masculine singular construct unspecified unspecified  	O	null
+2 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+3 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כולם כולם כולם pronoun masculine plural unspecified 3 unspecified  	O	null
+5 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הכי הכי הכי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 פשוט פשוט פשוט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ל ל להיות preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 היות היות להיות noun masculine singular construct unspecified unspecified  	O	null
+1 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+2 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כולם כולם כולם pronoun masculine plural unspecified 3 unspecified  	O	null
+4 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+7 הכי הכי הכי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פשוט פשוט פשוט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+

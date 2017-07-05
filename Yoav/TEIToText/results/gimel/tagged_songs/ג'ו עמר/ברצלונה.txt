@@ -1,0 +1,122 @@
+0 אל אל אלייך preposition unspecified unspecified unspecified unspecified unspecified  
+0 ך ך אלייך pronomial feminine singular unspecified 2 unspecified 0 	O	null
+1 בא בא בא verb masculine singular unspecified 3 past  	O	null
+2 אני אני אני noun masculine singular absolute unspecified unspecified  	O	null
+3 ה ה המנגן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המנגן ניגן המנגן participle masculine singular absolute any unspecified  	O	null
+4 ב ב בחצרות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 חצרות חצר בחצרות noun feminine plural absolute unspecified unspecified  	O	null
+5 אל אל אלייך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך אלייך pronomial feminine singular unspecified 2 unspecified 0 	O	null
+6 בא בא בא verb masculine singular unspecified 3 past  	O	null
+7 ו ו ומזמר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 מזמר זימר ומזמר verb masculine singular unspecified any beinoni  	O	null
+8 ו ו ומנגן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מנגן ניגן ומנגן verb masculine singular unspecified any beinoni  	O	null
+9 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מנדולינה מנדולינה מנדולינה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 להלהלהלהה להלהלהלהה להלהלהלהה verb masculine singular unspecified 2 imperative  	O	null
+
+0 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+2 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כלי כלי כלי noun masculine singular construct unspecified unspecified  	O	null
+5 מיתר מיתר מיתר noun masculine singular absolute unspecified unspecified  	O	null
+6 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 גיטרה גיטרה גיטרה noun feminine singular absolute unspecified unspecified  	O	null
+8 ו ו ומנדולינה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מנדולינה מנדולינה ומנדולינה properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+9 ליי ליי ליי properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+10 ליי.. ליי.. ליי.. properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+
+0 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+2 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כלי כלי כלי noun masculine singular construct unspecified unspecified  	O	null
+5 מיתר מיתר מיתר noun masculine singular absolute unspecified unspecified  	O	null
+6 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 גיטרה גיטרה גיטרה noun feminine singular absolute unspecified unspecified  	O	null
+8 ו ו ומנדולינה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מנדולינה מנדולינה ומנדולינה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 עברתי עבר עברתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+2 יבשה יבש יבשה adjective feminine singular absolute unspecified unspecified  	O	null
+3 ו ו וים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ים ים וים noun masculine singular absolute unspecified unspecified  	O	null
+4 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+
+0 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+1 הבאתי הביא הבאתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+2 מיטב מיטב מיטב noun masculine singular construct unspecified unspecified  	O	null
+3 שירת שירה שירתי noun feminine singular absolute unspecified unspecified  
+3 י י שירתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 נא נא נא adjective masculine singular absolute unspecified unspecified  	O	null
+5 קבל קבל קבלי noun masculine singular absolute unspecified unspecified  
+5 י י קבלי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+7 תשורת תשורה תשורתי noun feminine singular absolute unspecified unspecified  
+7 י י תשורתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 אנא אנא אנא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+9 זיכרי זיכרי זיכרי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 הד הד הד noun masculine singular construct unspecified unspecified  	O	null
+12 קולי קולי קולי adjective masculine singular absolute unspecified unspecified  	O	null
+13 כ כ כמזכרת preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 מזכרת מזכרת כמזכרת noun feminine singular absolute unspecified unspecified  	O	null
+14 ל ל לאהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 ה ה לאהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 האהבה אהבה לאהבה noun feminine singular absolute unspecified unspecified  	O	null
+15 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+16 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+17 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+18 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+19 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+
+0 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+2 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כלי כלי כלי noun masculine singular construct unspecified unspecified  	O	null
+5 מיתר מיתר מיתר noun masculine singular absolute unspecified unspecified  	O	null
+6 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 גיטרה גיטרה גיטרה noun feminine singular absolute unspecified unspecified  	O	null
+8 ו ו ומנדולינה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מנדולינה מנדולינה ומנדולינה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+2 ברצלונה ברצלונה ברצלונה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כלי כלי כלי noun masculine singular construct unspecified unspecified  	O	null
+5 מיתר מיתר מיתר noun masculine singular absolute unspecified unspecified  	O	null
+6 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 גיטרה גיטרה גיטרה noun feminine singular absolute unspecified unspecified  	O	null
+8 ו ו ומנדולינה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מנדולינה מנדולינה ומנדולינה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 עוד עוד עודך noun masculine singular absolute unspecified unspecified  
+0 ך ך עודך possessive feminine singular unspecified 2 unspecified 0 	O	null
+1 אברך אברך אברך noun masculine singular construct unspecified unspecified  	O	null
+2 כבשת כבשה כבשת noun feminine singular construct unspecified unspecified  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 לבבי לבבי לבבי adjective masculine singular absolute unspecified unspecified  	O	null
+5 ב ב ב preposition unspecified unspecified unspecified unspecified unspecified 0 	I_ORG	null
+6 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+7 ר ר ר properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+8 - - - properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+9 צ צ צ properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+10 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ל ל ל preposition unspecified unspecified unspecified unspecified unspecified 0 	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ו ו ו conjunction unspecified unspecified unspecified unspecified unspecified 0 	I_ORG	null
+14 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+15 נ נ נ properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+16 - - - properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+17 ה ה ה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 	O	null
+

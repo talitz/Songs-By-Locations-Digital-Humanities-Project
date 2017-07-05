@@ -1,0 +1,152 @@
+0 רוב רוב רוב noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 רטט רטט רטט noun masculine singular construct unspecified unspecified  	O	null
+4 רוב רוב רוב noun masculine singular construct unspecified unspecified  	O	null
+5 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+6 כוכב כוכב כוכב noun masculine singular absolute unspecified unspecified  	O	null
+7 כבוי כבוי כבוי adjective masculine singular absolute unspecified unspecified  	O	null
+8 לעזאזל לעזאזל לעזאזל interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מ מ ממה preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 מה מה ממה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+11 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+11 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+12 עשוי עשוי עשוי adjective masculine singular absolute unspecified unspecified  	O	null
+13 ה ה הלב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הלב לב הלב noun masculine singular absolute unspecified unspecified  	O	null
+14 מודבק הודבק מודבק verb masculine singular unspecified any beinoni  	O	null
+15 חזק חזק חזק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+17 נשאר נשאר נשאר verb masculine singular unspecified 3 past  	O	null
+18 חצוי חצוי חצוי adjective masculine singular absolute unspecified unspecified  	O	null
+19 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+20 אביתר אביתר אביתר properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+21 ש ש שאמר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+21 אמר אמר שאמר verb masculine singular unspecified 3 past  	O	null
+22 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+22 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+23 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+24 סיכוי סיכוי סיכוי noun masculine singular absolute unspecified unspecified  	O	null
+
+0 רוב רוב רוב noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 רטט רטט רטט noun masculine singular construct unspecified unspecified  	O	null
+4 רוב רוב רוב noun masculine singular construct unspecified unspecified  	O	null
+5 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+6 ב ב בממתינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ממתין המתין בממתינה participle masculine singular unspecified any unspecified  
+6 ה ה בממתינה possessive feminine singular unspecified 3 unspecified 0 	O	null
+7 לעזאזל לעזאזל לעזאזל interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מתי מתי מתי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 תחליפי תחליף תחליפי noun masculine plural construct unspecified unspecified  	O	null
+10 תחנה תחנה תחנה noun feminine singular absolute unspecified unspecified  	O	null
+11 ב ב במקום preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 מקום מקום במקום noun masculine singular absolute unspecified unspecified  	O	null
+12 לרוץ רץ לרוץ verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 מהר מהר מהר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 הולכת הלך הולכת verb feminine singular unspecified any beinoni  	O	null
+15 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 סיכות סיכה סיכות noun feminine plural absolute unspecified unspecified  	O	null
+17 דוקר דקר דוקר verb masculine singular unspecified any beinoni  	O	null
+18 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+18 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+19 ו ו וזה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 זה זה וזה pronoun masculine singular unspecified 3 unspecified  	O	null
+20 דוקר דקר דוקר verb masculine singular unspecified any beinoni  	O	null
+21 ש ש שבא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+21 בא בא שבא verb masculine singular unspecified 3 past  	O	null
+22 לבכות בכה לבכות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 דוהרת דהר דוהרת verb feminine singular unspecified any beinoni  	O	null
+1 בלי בלי בלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מושכות מושכה מושכות noun feminine plural absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הכביש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הכביש כביש הכביש noun masculine singular absolute unspecified unspecified  	O	null
+5 ה ה הפתוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הפתוח פתוח הפתוח adjective masculine singular absolute unspecified unspecified  	O	null
+6 משנה שינה משנה verb masculine singular unspecified any beinoni  	O	null
+7 צורות צורה צורות noun feminine plural absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מתחרזת התחרז מתחרזת verb feminine singular unspecified any beinoni  	O	null
+10 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 רוח רוח רוח noun feminine singular construct unspecified unspecified  	O	null
+12 ניצוצות ניצוץ ניצוצות noun masculine plural absolute unspecified unspecified  	O	null
+13 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הכביש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הכביש כביש הכביש noun masculine singular absolute unspecified unspecified  	O	null
+15 ה ה הפתוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הפתוח פתוח הפתוח adjective masculine singular absolute unspecified unspecified  	O	null
+16 משנה שינה משנה verb masculine singular unspecified any beinoni  	O	null
+17 צורות צורה צורות noun feminine plural absolute unspecified unspecified  	O	null
+18 מתחרזת התחרז מתחרזת verb feminine singular unspecified any beinoni  	O	null
+19 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 רוח רוח רוח noun feminine singular absolute unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 ה ה הלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הלילה לילה הלילה noun masculine singular absolute unspecified unspecified  	O	null
+2 ב ב במיטה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה במיטה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 המיטה מיטה במיטה noun feminine singular absolute unspecified unspecified  	O	null
+3 סופרת ספר סופרת verb feminine singular unspecified any beinoni  	O	null
+4 ל ל לזריחה preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה לזריחה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הזריחה זריחה לזריחה noun feminine singular absolute unspecified unspecified  	O	null
+5 תבוא בא תבוא verb feminine singular unspecified 3 future  	O	null
+6 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 תבוא בא תבוא verb feminine singular unspecified 3 future  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 בטוחה בטוח בטוחה adjective feminine singular absolute unspecified unspecified  	O	null
+13 לקחת לקח לקחת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+14 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ו ו ורק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 רק רק ורק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ש ש שאת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 את את שאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 צריכה צריכה צריכה noun feminine singular absolute unspecified unspecified  	O	null
+20 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה המרפסת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 המרפסת מרפסת המרפסת noun feminine singular absolute unspecified unspecified  	O	null
+22 מתכננת תכנן מתכננת verb feminine singular unspecified any beinoni  	O	null
+23 ת'בריחה ת'בריחה ת'בריחה verb feminine singular unspecified any beinoni  	O	null
+
+0 דוהרת דהר דוהרת verb feminine singular unspecified any beinoni  	O	null
+1 בלי בלי בלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מושכות מושכה מושכות noun feminine plural absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הכביש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הכביש כביש הכביש noun masculine singular absolute unspecified unspecified  	O	null
+5 ה ה הפתוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הפתוח פתוח הפתוח adjective masculine singular absolute unspecified unspecified  	O	null
+6 משנה שינה משנה verb masculine singular unspecified any beinoni  	O	null
+7 צורות צורה צורות noun feminine plural absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מתחרזת התחרז מתחרזת verb feminine singular unspecified any beinoni  	O	null
+10 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 רוח רוח רוח noun feminine singular construct unspecified unspecified  	O	null
+12 ניצוצות ניצוץ ניצוצות noun masculine plural absolute unspecified unspecified  	O	null
+13 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הכביש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הכביש כביש הכביש noun masculine singular absolute unspecified unspecified  	O	null
+15 ה ה הפתוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הפתוח פתוח הפתוח adjective masculine singular absolute unspecified unspecified  	O	null
+16 משנה שינה משנה verb masculine singular unspecified any beinoni  	O	null
+17 צורות צורה צורות noun feminine plural absolute unspecified unspecified  	O	null
+18 מתחרזת התחרז מתחרזת verb feminine singular unspecified any beinoni  	O	null
+19 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 רוח רוח רוח noun feminine singular absolute unspecified unspecified  	O	null
+

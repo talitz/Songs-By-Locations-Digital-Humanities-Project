@@ -1,0 +1,125 @@
+0 שניה שנייה שניה noun feminine singular absolute unspecified unspecified  	O	null
+1 לפני לפני לפני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 גרדום גרדום גרדום noun masculine singular absolute unspecified unspecified  	O	null
+3 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+4 כיסתה כיסה כיסתה verb feminine singular unspecified 3 past  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 אישון אישון אישון noun masculine singular absolute unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 יכולת יכולת יכולתי noun feminine singular absolute unspecified unspecified  
+8 י י יכולתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 אפילו אפילו אפילו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 יכולתי יכול יכולתי modal masculine-and-feminine singular unspecified 1 past  	O	null
+12 אפילו אפילו אפילו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 להושיט הושיט להושיט verb unspecified unspecified unspecified unspecified infinitive  	O	null
+14 יד יד יד noun feminine singular absolute unspecified unspecified  	O	null
+15 ל ל לנגב preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 ה ה לנגב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הנגב נגב לנגב properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+16 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 עיסת עיסה עיסת noun feminine singular construct unspecified unspecified  	O	null
+18 ה ה הכמעט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 הכמעט הכמעט הכמעט noun masculine singular absolute unspecified unspecified  	O	null
+19 כנפיים כנפיים כנפיים properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+20 הזו הזה הזו verb masculine-and-feminine plural unspecified 3 past  	O	null
+21 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+22 אישי אישי אישי adjective masculine singular absolute unspecified unspecified  	O	null
+23 ו ו ועדין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 עדין עדין ועדין adjective masculine singular absolute unspecified unspecified  	O	null
+24 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+25 למות מת למות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+26 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+27 נכון נכון נכון verb masculine singular unspecified any beinoni  	O	null
+28 באמת באמת באמת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+29 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+30 קהל קהל קהל noun masculine singular absolute unspecified unspecified  	O	null
+31 עוין עוין עוין adjective masculine singular absolute unspecified unspecified  	O	null
+32 להחנק נחנק להחנק verb unspecified unspecified unspecified unspecified infinitive  	O	null
+33 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+34 ערמה ערמה ערמה noun feminine singular absolute unspecified unspecified  	O	null
+35 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+36 תינוקות תינוק תינוקות noun feminine plural absolute unspecified unspecified  	O	null
+37 יתומים יתום יתומים noun masculine plural absolute unspecified unspecified  	O	null
+38 מרוחים ריווח מרוחים verb masculine plural unspecified any beinoni  	O	null
+39 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+39 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+40 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+41 ה ה העין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+41 העין עין העין noun feminine singular absolute unspecified unspecified  	O	null
+42 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+43 פקיד פקיד פקיד noun masculine singular absolute unspecified unspecified  	O	null
+
+0 שניה שנייה שניה noun feminine singular absolute unspecified unspecified  	O	null
+1 שניה שנייה שניה noun feminine singular absolute unspecified unspecified  	O	null
+2 שניה ORD2 שניה numeral feminine singular absolute unspecified unspecified  	O	null
+
+0 שניה שנייה שניה noun feminine singular absolute unspecified unspecified  	O	null
+1 לפני לפני לפני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 גרדום גרדום גרדום noun masculine singular absolute unspecified unspecified  	O	null
+3 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+4 כיתה כיתה כיתה noun feminine singular absolute unspecified unspecified  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 אישון אישון אישון noun masculine singular absolute unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 יכולת יכולת יכולתי noun feminine singular absolute unspecified unspecified  
+8 י י יכולתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 אפילו אפילו אפילו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 יכולתי יכול יכולתי modal masculine-and-feminine singular unspecified 1 past  	O	null
+12 אפילו אפילו אפילו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 להושיט הושיט להושיט verb unspecified unspecified unspecified unspecified infinitive  	O	null
+14 יד יד יד noun feminine singular absolute unspecified unspecified  	O	null
+15 ל ל לנגב preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 ה ה לנגב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הנגב נגב לנגב properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+16 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 עיסת עיסה עיסת noun feminine singular construct unspecified unspecified  	O	null
+18 ה ה הכמעט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 הכמעט הכמעט הכמעט noun masculine singular absolute unspecified unspecified  	O	null
+19 כנפיים כנפיים כנפיים properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+20 הזו הזה הזו verb masculine-and-feminine plural unspecified 3 past  	O	null
+21 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+22 אישי אישי אישי adjective masculine singular absolute unspecified unspecified  	O	null
+23 ו ו ועדין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 עדין עדין ועדין adjective masculine singular absolute unspecified unspecified  	O	null
+24 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+25 למות מת למות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+26 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+27 נכון נכון נכון verb masculine singular unspecified any beinoni  	O	null
+28 באמת באמת באמת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+29 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 שניה שנייה שניה noun feminine singular absolute unspecified unspecified  	O	null
+1 שניה שנייה שניה noun feminine singular absolute unspecified unspecified  	O	null
+2 שניה ORD2 שניה numeral feminine singular absolute unspecified unspecified  	O	null
+
+0 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+1 אישי אישי אישי adjective masculine singular absolute unspecified unspecified  	O	null
+2 ו ו ועדין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 עדין עדין ועדין adjective masculine singular absolute unspecified unspecified  	O	null
+3 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+4 למות מת למות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+5 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נכון נכון נכון verb masculine singular unspecified any beinoni  	O	null
+7 באמת באמת באמת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 קהל קהל קהל noun masculine singular absolute unspecified unspecified  	O	null
+10 עוין עוין עוין adjective masculine singular absolute unspecified unspecified  	O	null
+11 להחנק נחנק להחנק verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ערמה ערמה ערמה noun feminine singular absolute unspecified unspecified  	O	null
+14 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 תינוקות תינוק תינוקות noun feminine plural absolute unspecified unspecified  	O	null
+16 יתומים יתום יתומים noun masculine plural absolute unspecified unspecified  	O	null
+17 מעוכים מעוך מעוכים adjective masculine plural absolute unspecified unspecified  	O	null
+18 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+18 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+19 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 ה ה העין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 העין עין העין noun feminine singular absolute unspecified unspecified  	O	null
+21 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+22 פקיד פקיד פקיד noun masculine singular absolute unspecified unspecified  	O	null
+

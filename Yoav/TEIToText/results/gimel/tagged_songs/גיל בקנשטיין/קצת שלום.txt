@@ -1,0 +1,104 @@
+0 שתים שתים שתים preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+2 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הלילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מוצא מצא מוצא verb masculine singular unspecified any beinoni  	O	null
+7 בינתיים בינתיים בינתיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 עצמי עצם עצמי noun masculine plural construct unspecified unspecified  	O	null
+11 ה ה המצב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 המצב מצב המצב noun masculine singular absolute unspecified unspecified  	O	null
+12 ה ה הזה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הזה זה הזה pronoun masculine singular unspecified 3 unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+15 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 בשביל בשביל בשבילי preposition unspecified unspecified unspecified unspecified unspecified  
+16 י י בשבילי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+17 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 בחירות בחיר בחירות noun feminine plural absolute unspecified unspecified  	O	null
+19 ב ב בפתח preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 ה ה בפתח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 הפתח פתח בפתח noun masculine singular absolute unspecified unspecified  	O	null
+20 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 אלוהים אלוהים אלוהים noun masculine singular absolute unspecified unspecified  	O	null
+
+0 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+2 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שלום שלום שלום noun masculine singular absolute unspecified unspecified  	O	null
+4 ש ש שגראד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 גראד גראד שגראד noun masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 קאסם קאסם קאסם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פצצות פצצה פצצות noun feminine plural absolute unspecified unspecified  	O	null
+9 יעופו עף יעופו verb masculine-and-feminine plural unspecified 3 future  	O	null
+10 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ב ב בחלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה בחלום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 החלום חלום בחלום noun masculine singular absolute unspecified unspecified  	O	null
+12 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+14 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 שלום שלום שלום noun masculine singular absolute unspecified unspecified  	O	null
+
+0 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חושבים חשב חושבים verb masculine plural unspecified any beinoni  	O	null
+3 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כמו כמו כמוני preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י כמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רוצים רצה רוצים verb masculine plural unspecified any beinoni  	O	null
+7 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+8 בכלל בכלל בכלל adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שלווה שלו שלווה adjective feminine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 בריאות בריאות בריאות noun feminine singular absolute unspecified unspecified  	O	null
+13 ו ו וגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 גם גם וגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 כסף כסף כסף noun masculine singular absolute unspecified unspecified  	O	null
+15 ו ו ואולי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 אולי אולי ואולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+17 בגלל בגלל בגלל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 מבקש ביקש מבקש verb masculine singular unspecified any beinoni  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+5 בינתיים בינתיים בינתיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה האש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 האש אש האש noun feminine singular absolute unspecified unspecified  	O	null
+
+0 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+2 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שלום שלום שלום noun masculine singular absolute unspecified unspecified  	O	null
+4 ש ש שגראד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 גראד גראד שגראד noun masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 קאסם קאסם קאסם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פצצות פצצה פצצות noun feminine plural absolute unspecified unspecified  	O	null
+9 יעופו עף יעופו verb masculine-and-feminine plural unspecified 3 future  	O	null
+10 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ב ב בחלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה בחלום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 החלום חלום בחלום noun masculine singular absolute unspecified unspecified  	O	null
+12 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+14 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 שלום שלום שלום noun masculine singular absolute unspecified unspecified  	O	null
+

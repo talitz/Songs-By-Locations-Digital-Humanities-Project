@@ -1,0 +1,81 @@
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 ישנתי ישן ישנתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+4 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+5 באה בא באה verb feminine singular unspecified 3 past  	O	null
+6 חזרה חזרה חזרה noun feminine singular absolute unspecified unspecified  	O	null
+7 ישנתי ישן ישנתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+10 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+12 ערה עירה ערה verb masculine singular unspecified 3 past  	O	null
+13 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+14 ישנתי ישן ישנתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+15 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+17 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+18 שטה שט שטה verb feminine singular unspecified 3 past  	O	null
+19 ב ב בכחול preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 כחול כחול בכחול adjective masculine singular absolute unspecified unspecified  	O	null
+20 ישנתי ישן ישנתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+21 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+22 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+23 ב ב בצבע preposition unspecified unspecified unspecified unspecified unspecified 0 
+23 צבע צבע בצבע noun masculine singular absolute unspecified unspecified  	O	null
+24 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 נברא נברא נברא verb masculine singular unspecified 3 past  	O	null
+26 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+27 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+27 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+28 חזרה חזר חזרה verb feminine singular unspecified 3 past  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+4 ש ש שתבוא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תבוא בא שתבוא verb feminine singular unspecified 3 future  	O	null
+5 ה ה הנפילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הנפילה נפילה הנפילה noun feminine singular absolute unspecified unspecified  	O	null
+6 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+9 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+11 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+12 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+13 ישנתי ישן ישנתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+14 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+15 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+16 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+17 שטה שט שטה verb feminine singular unspecified 3 past  	O	null
+18 לאחור לאחור לאחור adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ישנתי ישן ישנתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+20 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+21 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+22 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+24 לזכור זכר לזכור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+25 צבע צבע צבע noun masculine singular absolute unspecified unspecified  	O	null
+26 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+26 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+27 נברא נברא נברא verb masculine singular unspecified 3 past  	O	null
+28 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+29 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+29 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+30 חזרה... חזרה... חזרה... verb masculine singular unspecified 2 imperative  	O	null
+

@@ -1,0 +1,147 @@
+0 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+0 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+1 זהב זהב זהב noun masculine singular absolute unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 הביאו הביא הביאו verb masculine-and-feminine plural unspecified 3 past  	O	null
+5 עמהן עמהן עמהן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רוחות רוח רוחות noun feminine plural construct unspecified unspecified  	O	null
+7 ה ה הסתיו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הסתיו סתיו הסתיו noun masculine singular absolute unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מרבד מרבד מרבד noun masculine singular construct unspecified unspecified  	O	null
+1 עלים עלה עלים noun masculine plural absolute unspecified unspecified  	O	null
+2 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נשר נשר נשר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+4 ; ; ; punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ב ב בו preposition unspecified unspecified unspecified unspecified unspecified  
+5 ו ו בו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+8 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 זהב זהב זהב noun masculine singular absolute unspecified unspecified  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 סתיו סתיו סתיו noun masculine singular absolute unspecified unspecified  	O	null
+1 רדום רדום רדום adjective masculine singular absolute unspecified unspecified  	O	null
+2 ; ; ; punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 סתיו סתיו סתיו noun masculine singular absolute unspecified unspecified  	O	null
+4 עגום עגום עגום adjective masculine singular absolute unspecified unspecified  	O	null
+5 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 בא בא בא verb masculine singular unspecified 3 past  	O	null
+7 ה ה הקץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הקץ קץ הקץ noun masculine singular absolute unspecified unspecified  	O	null
+8 ל ל לחום preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה לחום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 החום חום לחום noun masculine singular absolute unspecified unspecified  	O	null
+9 ה ה הטוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הטוב טוב הטוב adjective masculine singular absolute unspecified unspecified  	O	null
+10 ו ו ולשירים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ל ל ולשירים preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 שירים שיר ולשירים noun masculine plural absolute unspecified unspecified  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מ מ מהלכות preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 הלכות הלכה מהלכות noun feminine plural construct unspecified unspecified  	O	null
+1 ה ה הרוחות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הרוחות רוח הרוחות noun feminine plural absolute unspecified unspecified  	O	null
+2 ו ו ועמן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 עם עם ועמן preposition unspecified unspecified unspecified unspecified unspecified  
+2 הן הן ועמן pronomial feminine plural unspecified 3 unspecified 0 	O	null
+3 בורחות ברח בורחות verb feminine plural unspecified any beinoni  	O	null
+4 אלפי ORD-CARD1000 אלפי numeral masculine plural construct unspecified unspecified  	O	null
+5 ה ה הציפורים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הציפורים ציפור הציפורים noun masculine plural absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ועמן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 עם עם ועמן preposition unspecified unspecified unspecified unspecified unspecified  
+0 הן הן ועמן pronomial feminine plural unspecified 3 unspecified 0 	O	null
+1 בורחות ברח בורחות verb feminine plural unspecified any beinoni  	O	null
+2 אלפי ORD-CARD1000 אלפי numeral masculine plural construct unspecified unspecified  	O	null
+3 ה ה הציפורים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הציפורים ציפור הציפורים noun masculine plural absolute unspecified unspecified  	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+0 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+1 זהב זהב זהב noun masculine singular absolute unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אשלח שלח אשלח verb masculine-and-feminine singular unspecified 1 future  	O	null
+5 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+6 ילדי ילד ילדי noun masculine plural construct unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ב ב במיכתבי preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 מיכתבי מיכתבי במיכתבי adjective masculine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אביב אביב אביב properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 חלף חלף חלף verb masculine singular unspecified 3 past  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+7 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ביזבז בזבז ביזבז verb masculine singular unspecified 3 past  	O	null
+9 לשוא לשוא לשוא adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 מילות מילה מילותי noun feminine plural absolute unspecified unspecified  
+11 י י מילותי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 סתיו סתיו סתיו properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+1 פשוט פשוט פשוט adjective masculine singular absolute unspecified unspecified  	O	null
+2 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 עצבות עצבות עצבות noun feminine singular absolute unspecified unspecified  	O	null
+5 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 עברה עבר עברה verb feminine singular unspecified 3 past  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לבד לבד לבד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אנשום נשם אנשום verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 לילות לילה לילות noun masculine plural absolute unspecified unspecified  	O	null
+3 קרירים קריר קרירים adjective masculine plural absolute unspecified unspecified  	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תשוב שב תשוב verb feminine singular unspecified 3 future  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 עת עת עת noun feminine singular construct unspecified unspecified  	I_ORG	null
+4 ליבלוב ליבלוב ליבלוב properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+5 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אשלח שלח אשלח verb masculine-and-feminine singular unspecified 1 future  	O	null
+7 אל אל אליך preposition unspecified unspecified unspecified unspecified unspecified  
+7 ך ך אליך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+8 אלף ORD-CARD1000 אלף numeral masculine plural absolute unspecified unspecified  	O	null
+9 ציפורים ציפור ציפורים noun masculine plural absolute unspecified unspecified  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אשלח שלח אשלח verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 אל אל אליך preposition unspecified unspecified unspecified unspecified unspecified  
+2 ך ך אליך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+3 אלף ORD-CARD1000 אלף numeral masculine plural absolute unspecified unspecified  	O	null
+4 ציפורים ציפור ציפורים noun masculine plural absolute unspecified unspecified  	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אמצא מצא אמצא verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ב ב בסתיו preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה בסתיו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הסתיו סתיו בסתיו noun masculine singular absolute unspecified unspecified  	O	null
+5 ה ה הבא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הבא בא הבא adjective masculine singular absolute unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 זהב זהב זהב noun masculine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

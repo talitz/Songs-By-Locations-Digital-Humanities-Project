@@ -1,0 +1,124 @@
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 חוזרת חזר חוזרת verb feminine singular unspecified any beinoni  	O	null
+2 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שנים שנה שנים noun feminine plural absolute unspecified unspecified  	O	null
+4 לאחור לאחור לאחור adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+6 בוסטון בוסטון בוסטון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+7 ה ה ההיא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 ההיא ההוא ההיא pronoun feminine singular unspecified 3 unspecified  	O	null
+8 ב ב ב preposition unspecified unspecified unspecified unspecified unspecified 0 	O	null
+9 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ' ' ' punctuation unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+11 ###NUMBER### ###NUMBER### ###NUMBER### numeral unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+12 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+13 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+14 הייתה הוא הייתה copula feminine singular unspecified 3 past  	O	null
+15 ה ה השנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 השנה שנה השנה noun feminine singular absolute unspecified unspecified  	O	null
+16 ה ה הקרה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הקרה קר הקרה adjective feminine singular absolute unspecified unspecified  	O	null
+17 ביותר ביותר ביותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+19 מ מ ממרפסת preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 מרפסת מרפסת ממרפסת noun feminine singular absolute unspecified unspecified  	O	null
+20 קטנה קטן קטנה adjective feminine singular absolute unspecified unspecified  	O	null
+21 רואה ראה רואה verb masculine singular unspecified any beinoni  	O	null
+22 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ה ה השלג definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+23 השלג שלג השלג noun masculine singular absolute unspecified unspecified  	O	null
+24 יורד ירד יורד verb masculine singular unspecified any beinoni  	O	null
+
+0 מ מ מטיילת preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 טיילת טייל מטיילת noun feminine singular construct unspecified unspecified  	O	null
+1 שעות שעה שעות noun feminine plural absolute unspecified unspecified  	O	null
+2 ב ב ברכבות preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 רכבות רכבת ברכבות noun feminine plural absolute unspecified unspecified  	O	null
+3 תחתיות תחתי תחתיות adjective feminine plural absolute unspecified unspecified  	O	null
+4 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 גני גן גני noun masculine plural construct unspecified unspecified  	O	null
+6 משחקים משחק משחקים noun masculine plural absolute unspecified unspecified  	O	null
+7 מסתכלת הסתכל מסתכלת verb feminine singular unspecified any beinoni  	O	null
+8 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+10 ה ה הסנאים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הסנאים סנאי הסנאים noun masculine plural absolute unspecified unspecified  	O	null
+11 ש ש שרצים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 רצים רץ שרצים verb masculine plural unspecified any beinoni  	O	null
+
+0 כותבת כותב כותבת noun feminine singular construct unspecified unspecified  	O	null
+1 שירים שיר שירים noun masculine plural absolute unspecified unspecified  	O	null
+2 פוגשת פגש פוגשת verb feminine singular unspecified any beinoni  	O	null
+3 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 כותבת כתב כותבת verb feminine singular unspecified any beinoni  	O	null
+5 שירים שיר שירים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 עוברת עבר עוברת verb feminine singular unspecified any beinoni  	O	null
+1 שנה שנה שנה noun feminine singular absolute unspecified unspecified  	O	null
+2 ו ו וחוזרים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 חוזרים חזר וחוזרים verb masculine plural unspecified any beinoni  	O	null
+3 חזרה חזרה חזרה noun feminine singular absolute unspecified unspecified  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הארץ ארץ הארץ noun feminine singular absolute unspecified unspecified  	O	null
+6 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+6 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 ו ו וכמה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 כמה כמה וכמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 דברים דבר דברים noun masculine plural absolute unspecified unspecified  	O	null
+9 קרו קרה קרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+10 כאן כאן כאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 דברים דבר דברים noun masculine plural absolute unspecified unspecified  	O	null
+13 חלומות חלום חלומות noun masculine plural absolute unspecified unspecified  	O	null
+14 נרצחו נרצח נרצחו verb masculine-and-feminine plural unspecified 3 past  	O	null
+15 ממשלות ממשלה ממשלות noun feminine plural absolute unspecified unspecified  	O	null
+16 התחלפו התחלף התחלפו verb masculine-and-feminine plural unspecified 3 past  	O	null
+17 ה ה ההורים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 ההורים הורה ההורים noun masculine plural absolute unspecified unspecified  	O	null
+18 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+18 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+19 התגרשו התגרש התגרשו verb masculine-and-feminine plural unspecified 3 past  	O	null
+20 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+21 עזבת עזב עזבת verb feminine singular unspecified 2 past  	O	null
+22 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ה ה השכונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+23 השכונה שכונה השכונה noun feminine singular absolute unspecified unspecified  	O	null
+24 ו ו ונשארתי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 נשארתי נשאר ונשארתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+25 לגמרי לגמרי לגמרי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+26 לבד לבד לבד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כותבת כותב כותבת noun feminine singular construct unspecified unspecified  	O	null
+1 שירים שיר שירים noun masculine plural absolute unspecified unspecified  	O	null
+2 פוגשת פגש פוגשת verb feminine singular unspecified any beinoni  	O	null
+3 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 כותבת כתב כותבת verb feminine singular unspecified any beinoni  	O	null
+5 שירים שיר שירים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 חוזרת חזר חוזרת verb feminine singular unspecified any beinoni  	O	null
+2 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שנים שנה שנים noun feminine plural absolute unspecified unspecified  	O	null
+4 לאחור לאחור לאחור adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה האם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 האם אם האם noun feminine singular absolute unspecified unspecified  	O	null
+6 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+7 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ש ש שיהיה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 יהיה הוא שיהיה copula masculine singular unspecified 3 future  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+13 קשה קשה קשה adjective masculine singular absolute unspecified unspecified  	O	null
+14 לאהוב אהב לאהוב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 בוא בוא בואי noun masculine singular absolute unspecified unspecified  
+0 י י בואי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+1 איתי... איתי... איתי... properName unspecified unspecified unspecified unspecified unspecified  	O	null
+

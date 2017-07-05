@@ -1,0 +1,194 @@
+0 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+2 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שנשאר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 נשאר נשאר שנשאר verb masculine singular unspecified 3 past  	O	null
+4 ו ו וראשו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ראש ראש וראשו noun masculine singular absolute unspecified unspecified  
+4 ו ו וראשו possessive masculine singular unspecified 3 unspecified 0 	O	null
+5 גר גר גר verb masculine singular unspecified 3 past  	O	null
+6 ב ב בעננים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 עננים ענן בעננים noun masculine plural absolute unspecified unspecified  	O	null
+7 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+9 נהר נהר נהר noun masculine singular absolute unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+12 מעיין מעיין מעיין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ים ים ים noun masculine singular construct unspecified unspecified  	O	null
+15 ה ה הרחמים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הרחמים רחם הרחמים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 צליל צליל צליל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+2 מתגלגל התגלגל מתגלגל verb masculine singular unspecified any beinoni  	O	null
+3 מצלצל צלצל מצלצל verb masculine singular unspecified any beinoni  	O	null
+4 ב ב בעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה בעולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 העולם עולם בעולם noun masculine singular absolute unspecified unspecified  	O	null
+5 להעיר העיר להעיר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 רחמים רחם רחמים noun masculine plural absolute unspecified unspecified  	O	null
+7 ו ו וחמלה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 חמלה חמלה וחמלה noun feminine singular absolute unspecified unspecified  	O	null
+8 כ כ כהמנון preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה כהמנון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 ההמנון המנון כהמנון noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ותפילה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 תפילה תפילה ותפילה noun feminine singular absolute unspecified unspecified  	O	null
+10 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הארץ ארץ הארץ noun feminine singular absolute unspecified unspecified  	O	null
+12 כול כול כולה quantifier unspecified unspecified unspecified unspecified unspecified  
+12 ה ה כולה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+15 ל ל למוות preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 מוות מוות למוות noun masculine singular absolute unspecified unspecified  	O	null
+16 ממשלה ממשלה ממשלה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+2 ה ה העיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 העיר עיר העיר noun feminine singular absolute unspecified unspecified  	O	null
+3 ה ה ההומה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 ההומה הומה ההומה adjective feminine singular absolute unspecified unspecified  	O	null
+4 המולה המולה המולה noun feminine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 קצב קצב קצב noun masculine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פעימה פעימה פעימה noun feminine singular absolute unspecified unspecified  	O	null
+9 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+11 ה ה השיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השיר שיר השיר noun masculine singular absolute unspecified unspecified  	O	null
+12 ש ש שנשמע relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 נשמע נשמע שנשמע verb masculine singular unspecified 3 past  	O	null
+13 ו ו ומנע conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 מנע מנע ומנע verb masculine singular unspecified 3 past  	O	null
+14 רצח רצח רצח noun masculine singular construct unspecified unspecified  	O	null
+15 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 צליל צליל צליל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+2 מתגלגל התגלגל מתגלגל verb masculine singular unspecified any beinoni  	O	null
+3 מצלצל צלצל מצלצל verb masculine singular unspecified any beinoni  	O	null
+4 ב ב בעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה בעולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 העולם עולם בעולם noun masculine singular absolute unspecified unspecified  	O	null
+5 להעיר העיר להעיר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 רחמים רחם רחמים noun masculine plural absolute unspecified unspecified  	O	null
+7 ו ו וחמלה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 חמלה חמלה וחמלה noun feminine singular absolute unspecified unspecified  	O	null
+8 כ כ כהמנון preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה כהמנון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 ההמנון המנון כהמנון noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ותפילה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 תפילה תפילה ותפילה noun feminine singular absolute unspecified unspecified  	O	null
+10 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הארץ ארץ הארץ noun feminine singular absolute unspecified unspecified  	O	null
+12 כול כול כולה quantifier unspecified unspecified unspecified unspecified unspecified  
+12 ה ה כולה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+15 ל ל למוות preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 מוות מוות למוות noun masculine singular absolute unspecified unspecified  	O	null
+16 ממשלה ממשלה ממשלה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מתגלגל... מתגלגל... מתגלגל... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 מתגלגל התגלגל מתגלגל verb masculine singular unspecified any beinoni  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מצלצל צלצל מצלצל verb masculine singular unspecified any beinoni  	O	null
+7 בעולם... בעולם... בעולם... verb feminine singular unspecified 2 imperative  	O	null
+8 כ כ כהמנון preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה כהמנון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 ההמנון ניוון כהמנון participle masculine singular absolute any unspecified  	O	null
+9 ותפילה... ותפילה... ותפילה... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+12 ל ל למוות preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 מוות מוות למוות noun masculine singular absolute unspecified unspecified  	O	null
+13 מ מ ממשלה... preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 משלה.. משלה.. ממשלה... noun masculine-and-feminine plural absolute unspecified unspecified  
+13 י י ממשלה... possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+2 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שנשאר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 נשאר נשאר שנשאר verb masculine singular unspecified 3 past  	O	null
+4 ו ו וראשו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ראש ראש וראשו noun masculine singular absolute unspecified unspecified  
+4 ו ו וראשו possessive masculine singular unspecified 3 unspecified 0 	O	null
+5 גר גר גר verb masculine singular unspecified 3 past  	O	null
+6 ב ב בעננים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 עננים ענן בעננים noun masculine plural absolute unspecified unspecified  	O	null
+7 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+9 נהר נהר נהר noun masculine singular absolute unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+12 מעיין מעיין מעיין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ים ים ים noun masculine singular construct unspecified unspecified  	O	null
+15 ה ה הרחמים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הרחמים רחם הרחמים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מתגלגל... מתגלגל... מתגלגל... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 מתגלגל התגלגל מתגלגל verb masculine singular unspecified any beinoni  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מצלצל צלצל מצלצל verb masculine singular unspecified any beinoni  	O	null
+7 בעולם... בעולם... בעולם... verb feminine singular unspecified 2 imperative  	O	null
+8 כ כ כהמנון preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה כהמנון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 ההמנון ניוון כהמנון participle masculine singular absolute any unspecified  	O	null
+9 ותפילה... ותפילה... ותפילה... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+12 ל ל למוות preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 מוות מוות למוות noun masculine singular absolute unspecified unspecified  	O	null
+13 מ מ ממשלה... preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 משלה.. משלה.. ממשלה... noun masculine-and-feminine plural absolute unspecified unspecified  
+13 י י ממשלה... possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מתגלגל... מתגלגל... מתגלגל... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 מתגלגל התגלגל מתגלגל verb masculine singular unspecified any beinoni  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מצלצל צלצל מצלצל verb masculine singular unspecified any beinoni  	O	null
+7 בעולם... בעולם... בעולם... verb feminine singular unspecified 2 imperative  	O	null
+8 כ כ כהמנון preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה כהמנון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 ההמנון ניוון כהמנון participle masculine singular absolute any unspecified  	O	null
+9 ותפילה... ותפילה... ותפילה... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+12 ל ל למוות preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 מוות מוות למוות noun masculine singular absolute unspecified unspecified  	O	null
+13 מ מ ממשלה... preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 משלה.. משלה.. ממשלה... noun masculine-and-feminine plural absolute unspecified unspecified  
+13 י י ממשלה... possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+2 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שנשאר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 נשאר נשאר שנשאר verb masculine singular unspecified 3 past  	O	null
+4 ו ו וראשו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ראש ראש וראשו noun masculine singular absolute unspecified unspecified  
+4 ו ו וראשו possessive masculine singular unspecified 3 unspecified 0 	O	null
+5 גר גר גר verb masculine singular unspecified any beinoni  	O	null
+6 בעננים... בעננים... בעננים... verb feminine singular unspecified 2 imperative  	O	null
+

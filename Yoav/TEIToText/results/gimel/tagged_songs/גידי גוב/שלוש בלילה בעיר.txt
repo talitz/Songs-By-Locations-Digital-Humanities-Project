@@ -1,0 +1,83 @@
+0 ריח ריח ריח noun masculine singular construct unspecified unspecified  	O	null
+1 אדמה אדמה אדמה noun feminine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שתיקת שתיקה שתיקת noun feminine singular construct unspecified unspecified  	O	null
+4 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פסיעות פסיעה פסיעות noun feminine plural absolute unspecified unspecified  	O	null
+1 חרישיות חרישי חרישיות adjective feminine plural absolute unspecified unspecified  	O	null
+2 מ מ מחוץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 חוץ חוץ מחוץ noun masculine singular absolute unspecified unspecified  	O	null
+3 ל ל לבית preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 בית בית לבית noun masculine singular construct unspecified unspecified  	O	null
+4 רוח רוח רוח noun feminine singular absolute unspecified unspecified  	O	null
+5 חמה חם חמה adjective feminine singular absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לילות לילה לילות noun masculine plural absolute unspecified unspecified  	O	null
+1 חיוורים חיוור חיוורים adjective masculine plural absolute unspecified unspecified  	O	null
+2 עובר עבר עובר verb masculine singular unspecified any beinoni  	O	null
+3 ו ו ושב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 שב שב ושב verb masculine singular unspecified any beinoni  	O	null
+4 ב ב בשדות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 שדות שדה בשדות noun masculine plural construct unspecified unspecified  	O	null
+5 קוצים קוץ קוצים noun masculine plural absolute unspecified unspecified  	O	null
+6 נביחה נביחה נביחה noun feminine singular absolute unspecified unspecified  	O	null
+7 רחוקה רחוק רחוקה adjective feminine singular absolute unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פנס פנס פנס noun masculine singular absolute unspecified unspecified  	O	null
+1 מצהיב הצהיב מצהיב verb masculine singular unspecified any beinoni  	O	null
+2 אור אור אור noun masculine singular construct unspecified unspecified  	O	null
+3 צל צל צל noun masculine singular construct unspecified unspecified  	O	null
+4 חליפות חליף חליפות noun feminine plural absolute unspecified unspecified  	O	null
+5 דממה דממה דממה noun feminine singular absolute unspecified unspecified  	O	null
+6 ב ב בעיר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה בעיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 העיר עיר בעיר noun feminine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 שקט שקט שקט noun masculine singular absolute unspecified unspecified  	O	null
+1 ב ב בחוץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בחוץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 החוץ חוץ בחוץ noun masculine singular absolute unspecified unspecified  	O	null
+2 בתים בית בתים noun masculine plural absolute unspecified unspecified  	O	null
+3 שקטים שקט שקטים adjective masculine plural absolute unspecified unspecified  	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פנס פנס פנס noun masculine singular construct unspecified unspecified  	O	null
+1 רחוב רחוב רחוב noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תריסים תריס תריסים noun masculine plural absolute unspecified unspecified  	O	null
+4 פתוחים פתוח פתוחים adjective masculine plural absolute unspecified unspecified  	O	null
+5 קליפות קליפה קליפות noun feminine plural construct unspecified unspecified  	O	null
+6 אבטיח אבטיח אבטיח noun masculine singular absolute unspecified unspecified  	O	null
+7 מוטלות הוטל מוטלות verb feminine plural unspecified any beinoni  	O	null
+8 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה החוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 החוף חוף החוף noun masculine singular absolute unspecified unspecified  	O	null
+10 ו ו וכבר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 כבר כבר וכבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 מאוחר מאוחר מאוחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ו ו והבוקר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 הבוקר הבוקר והבוקר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 קרוב קרוב קרוב adjective masculine singular absolute unspecified unspecified  	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רדיו רדיו רדיו noun masculine singular absolute unspecified unspecified  	O	null
+1 פתוח פתוח פתוח adjective masculine singular absolute unspecified unspecified  	O	null
+2 נשמע נשמע נשמע verb masculine singular unspecified 3 past  	O	null
+3 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+4 שיר שיר שיר noun masculine singular absolute unspecified unspecified  	O	null
+5 שעה שעה שעה noun feminine singular absolute unspecified unspecified  	O	null
+6 שלוש CARD3 שלוש numeral feminine singular absolute unspecified unspecified  	O	null
+7 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הלילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+8 ב ב בעיר preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה בעיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 העיר עיר בעיר noun feminine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

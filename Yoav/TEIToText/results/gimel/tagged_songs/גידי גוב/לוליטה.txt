@@ -1,0 +1,261 @@
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 הביטי הביט הביטי verb feminine singular unspecified 2 imperative  	O	null
+4 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+6 אראה ראה אראה verb masculine-and-feminine singular unspecified 1 future  	O	null
+7 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+8 ניצוץ ניצוץ ניצוץ noun masculine singular absolute unspecified unspecified  	O	null
+9 מחשכי מחשך מחשכי noun masculine plural construct unspecified unspecified  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מתנמנמת התנמנם מתנמנמת verb feminine singular unspecified any beinoni  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 קצפת קצפת קצפת noun feminine singular absolute unspecified unspecified  	O	null
+3 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 תות תות תות noun masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה האצבע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 האצבע אצבע האצבע noun feminine singular absolute unspecified unspecified  	O	null
+8 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+8 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+9 הקטנה הקטנה הקטנה noun feminine singular absolute unspecified unspecified  	O	null
+10 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+11 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 סמרטוט סמרטוט סמרטוט noun masculine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 הגידי הגיד הגידי verb feminine singular unspecified 2 imperative  	O	null
+4 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 שטות שטות שטות noun feminine singular absolute unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 גלגלי גלגל גלגלי noun masculine plural construct unspecified unspecified  	O	null
+8 ב ב בלשונך preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 לשון לשון בלשונך noun feminine singular absolute unspecified unspecified  
+8 ך ך בלשונך possessive feminine singular unspecified 2 unspecified 0 	O	null
+9 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+10 מיני מין מיני noun masculine plural construct unspecified unspecified  	O	null
+11 צלצול צלצול צלצול noun masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ופטפוט conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 פטפוט פטפוט ופטפוט noun masculine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משתמטת השתמט משתמטת participle feminine singular construct any unspecified  	I_ORG	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עושה עשה עושה verb masculine singular unspecified any beinoni  	O	null
+3 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 פרצוף פרצוף פרצוף noun masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מוציאה הוציא מוציאה verb feminine singular unspecified any beinoni  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 לשון לשון לשון noun feminine singular absolute unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 הקטנה הקטנה הקטנה noun feminine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 גביע גביע גביע noun masculine singular absolute unspecified unspecified  	O	null
+14 חצוף חצוף חצוף adjective masculine singular absolute unspecified unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+8 לטעום טעם לטעום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 מעט מעט מעט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מכאוב מכאוב מכאוב noun masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+16 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+20 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+21 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+22 עושה עשה עושה verb masculine singular unspecified any beinoni  	O	null
+23 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+24 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+25 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לוליטה לוליטה לוליטה adjective feminine singular absolute unspecified unspecified  	O	null
+2 קנה קנה קנה noun masculine singular absolute unspecified unspecified  	O	null
+3 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 גבעול גבעול גבעול properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+7 מזדקן הזדקן מזדקן verb masculine singular unspecified any beinoni  	O	null
+8 ש ש שכמוני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 כמו כמו שכמוני preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י שכמוני pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 נותן נתן נותן verb masculine singular unspecified any beinoni  	O	null
+10 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+11 לגדול גדל לגדול verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הרימי הרים הרימי verb feminine singular unspecified 2 imperative  	I_LOC	null
+1 עין עין עין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 הישירי הישיר הישירי verb feminine singular unspecified 2 imperative  	O	null
+4 מבט מבט מבט noun masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+7 אראה ראה אראה verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה הלב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הלב לב הלב noun masculine singular absolute unspecified unspecified  	O	null
+11 ה ה הנצבט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הנצבט נצבט הנצבט participle masculine singular absolute any unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+8 לטעום טעם לטעום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 מעט מעט מעט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מכאוב מכאוב מכאוב noun masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+16 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+20 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+21 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+22 עושה עשה עושה verb masculine singular unspecified any beinoni  	O	null
+23 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+24 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+25 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יושב יושב יושב noun masculine singular construct unspecified unspecified  	O	null
+1 ו ו ומאבך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 מ מ ומאבך preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 אבך אבך ומאבך noun feminine singular absolute unspecified unspecified  	O	null
+2 לאור לאור לאור preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ענן ענן ענן noun masculine singular absolute unspecified unspecified  	O	null
+5 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הזיות הזיה הזיות noun feminine plural absolute unspecified unspecified  	O	null
+7 ל ל לבן preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 בן בן לבן noun masculine singular construct unspecified unspecified  	O	null
+8 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 כחול כחול כחול adjective masculine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 יושב ישב יושב verb masculine singular unspecified any beinoni  	O	null
+12 ו ו ומטפח conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 מטפח טיפח ומטפח verb masculine singular unspecified any beinoni  	O	null
+13 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 זמם זמם זממו noun masculine singular absolute unspecified unspecified  
+14 ו ו זממו possessive masculine singular unspecified 3 unspecified 0 	O	null
+15 ו ו ומתחמם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 מתחמם התחמם ומתחמם verb masculine singular unspecified any beinoni  	O	null
+16 ב ב בהזיות preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 הזיות הזיה בהזיות noun feminine plural absolute unspecified unspecified  	O	null
+17 עצמו עצם עצמו verb masculine-and-feminine plural unspecified 3 past  	O	null
+18 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ענבל ענבל ענבל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 פעמון פעמון פעמון noun masculine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 רעידות רעידה רעידות noun feminine plural absolute unspecified unspecified  	O	null
+6 מקישה הקיש מקישה verb feminine singular unspecified any beinoni  	O	null
+7 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 כ כ כרעם preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 רעם רעם כרעם noun masculine singular absolute unspecified unspecified  	O	null
+9 קדמון קדמון קדמון adjective masculine singular absolute unspecified unspecified  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ריח ריח ריח noun masculine singular construct unspecified unspecified  	O	null
+1 בוסר בוסר בוסר noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אשכול אשכול אשכול noun masculine singular absolute unspecified unspecified  	O	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הבר בר הבר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 סלסילה סלסילה סלסילה noun feminine singular absolute unspecified unspecified  	O	null
+8 ל ל לשקד preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 שקד שקד לשקד properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 ודבילה ודבילה ודבילה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 צימוק צימוק צימוק noun masculine singular absolute unspecified unspecified  	O	null
+11 ו ו ותמר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 תמר תמר ותמר noun masculine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+8 לטעום טעם לטעום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 מעט מעט מעט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מכאוב מכאוב מכאוב noun masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+16 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+20 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+21 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+22 עושה עשה עושה verb masculine singular unspecified any beinoni  	O	null
+23 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+24 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+25 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 לוליטה לוליטה לוליטה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+8 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+10 עושה עשה עושה verb masculine singular unspecified any beinoni  	O	null
+11 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+12 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 הו... הו... הו... verb feminine singular unspecified 2 past  	O	null
+

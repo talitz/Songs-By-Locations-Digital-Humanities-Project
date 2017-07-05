@@ -1,0 +1,63 @@
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שפת שפה שפת noun feminine singular construct unspecified unspecified  	O	null
+2 ימה ימה ימה noun feminine singular absolute unspecified unspecified  	O	null
+3 מ מ מעברו preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 עבר עבר מעברו noun masculine singular absolute unspecified unspecified  
+3 ו ו מעברו possessive masculine singular unspecified 3 unspecified 0 	O	null
+4 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הכחול definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הכחול כחול הכחול adjective masculine singular absolute unspecified unspecified  	O	null
+6 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 גרגר גרגר גרגר noun masculine singular absolute unspecified unspecified  	O	null
+8 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+9 בודד בודד בודד adjective masculine singular absolute unspecified unspecified  	O	null
+10 יכול יכול יכול modal masculine singular unspecified any beinoni  	O	null
+11 כש כש כשהקצף temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה כשהקצף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הקצף קצף כשהקצף noun masculine singular absolute unspecified unspecified  	O	null
+12 לבן לבן לבן adjective masculine singular construct unspecified unspecified  	O	null
+13 ו ו וזהוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 זהוב זהוב וזהוב adjective masculine singular absolute unspecified unspecified  	O	null
+14 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+15 ה ה החול definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 החול חול החול noun masculine singular absolute unspecified unspecified  	O	null
+16 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+17 גרגר גרגר גרגר noun masculine singular absolute unspecified unspecified  	O	null
+18 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+19 בודד בודד בודד adjective masculine singular absolute unspecified unspecified  	O	null
+20 יכול יכול יכול modal masculine singular unspecified any beinoni  	O	null
+
+0 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+2 ה ה הקטן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הקטן קטן הקטן adjective masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שבקטנים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ב ב שבקטנים preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 קטנים קטן שבקטנים adjective masculine plural absolute unspecified unspecified  	O	null
+4 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+6 ה ה הבודד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הבודד בודד הבודד adjective masculine singular absolute unspecified unspecified  	O	null
+7 ש ש שברבים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 ב ב שברבים preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 רבים רב שברבים adjective masculine plural absolute unspecified unspecified  	O	null
+
+0 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+2 למרות למרות למרות conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יכול יכול יכול modal masculine singular unspecified any beinoni  	O	null
+5 גם גם גם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+7 למרות למרות למרות conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+9 יכול יכול יכול modal masculine singular unspecified any beinoni  	O	null
+10 גם גם גם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+12 למרות למרות למרות conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+14 יכול יכול יכול modal masculine singular unspecified any beinoni  	O	null
+

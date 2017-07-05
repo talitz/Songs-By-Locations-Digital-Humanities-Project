@@ -1,0 +1,129 @@
+0 ערב ערב ערב noun masculine singular construct unspecified unspecified  	O	null
+1 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+2 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כוכב כוכב כוכב noun masculine singular absolute unspecified unspecified  	O	null
+4 לחשתי לחש לחשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 תפילה תפילה תפילה noun feminine singular absolute unspecified unspecified  	O	null
+7 ה ה הילדה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הילדה ילד הילדה noun feminine singular absolute unspecified unspecified  	O	null
+8 אשר אשר אשר properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+9 אוהב אהב אוהב verb masculine singular unspecified any beinoni  	O	null
+10 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+11 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 ל ל לכלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה לכלה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הכלה כלה לכלה noun feminine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אמת אמת אמת noun feminine singular absolute unspecified unspecified  	O	null
+2 ב ב בכוכבים preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 כוכבים כוכב בכוכבים noun masculine plural absolute unspecified unspecified  	O	null
+3 כך כך כך adverb unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+5 ה ה החברים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 החברים חבר החברים noun masculine plural absolute unspecified unspecified  	O	null
+6 כוכבים כוכב כוכבים noun masculine plural absolute unspecified unspecified  	O	null
+7 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 משקרים שיקר משקרים verb masculine plural unspecified any beinoni  	O	null
+9 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 תאמין האמין תאמין verb feminine singular unspecified 3 future  	O	null
+11 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אמת אמת אמת noun feminine singular absolute unspecified unspecified  	O	null
+13 ב ב בכוכבים preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 כוכבים כוכב בכוכבים noun masculine plural absolute unspecified unspecified  	O	null
+14 כך כך כך adverb unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+15 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+16 ה ה החברים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 החברים חבר החברים noun masculine plural absolute unspecified unspecified  	O	null
+17 כוכבים כוכב כוכבים noun masculine plural absolute unspecified unspecified  	O	null
+18 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+19 משקרים שיקר משקרים verb masculine plural unspecified any beinoni  	O	null
+20 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 תאמין האמין תאמין verb feminine singular unspecified 3 future  	O	null
+22 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ב ב בכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 כל כול בכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בערבו preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ערב ערב בערבו noun masculine singular absolute unspecified unspecified  
+2 ו ו בערבו possessive masculine singular unspecified 3 unspecified 0 	O	null
+3 לחשתי לחש לחשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+4 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כוכב כוכב כוכב noun masculine singular construct unspecified unspecified  	O	null
+6 ש ש שאלי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 אלי אל שאלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+8 סוף סוף סוף noun masculine singular absolute unspecified unspecified  	O	null
+9 תבוא בא תבוא verb feminine singular unspecified 3 future  	O	null
+10 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+11 אשר אישר אשר verb masculine singular unspecified 3 past  	O	null
+12 אוהב אהב אוהב verb masculine singular unspecified any beinoni  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו והלילה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 הלילה הלילה והלילה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 כוכבים כוכב כוכבים noun masculine plural absolute unspecified unspecified  	O	null
+2 האירו האיר האירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 בית בית ביתי noun masculine singular absolute unspecified unspecified  
+4 י י ביתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אנחנו הוא אנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+7 אוהבים אהב אוהבים verb masculine plural unspecified any beinoni  	O	null
+8 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+10 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+11 איתי... איתי... איתי... properName unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אמת אמת אמת noun feminine singular absolute unspecified unspecified  	O	null
+2 ב ב בכוכבים preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 כוכבים כוכב בכוכבים noun masculine plural absolute unspecified unspecified  	O	null
+3 כך כך כך adverb unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+5 ה ה החברים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 החברים חבר החברים noun masculine plural absolute unspecified unspecified  	O	null
+6 כוכבים כוכב כוכבים noun masculine plural absolute unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 משקרים שיקר משקרים verb masculine plural unspecified any beinoni  	O	null
+9 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 תאמין האמין תאמין verb feminine singular unspecified 3 future  	O	null
+11 יש יש יש noun masculine singular absolute unspecified unspecified  	O	null
+12 אמת אמת אמת noun feminine singular absolute unspecified unspecified  	O	null
+13 ב ב בכוכבים preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 כוכבים כוכב בכוכבים noun masculine plural absolute unspecified unspecified  	O	null
+14 כך כך כך adverb unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+15 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+16 ה ה החברים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 החברים חבר החברים noun masculine plural absolute unspecified unspecified  	O	null
+17 כוכבים כוכב כוכבים noun masculine plural absolute unspecified unspecified  	O	null
+18 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 משקרים שיקר משקרים verb masculine plural unspecified any beinoni  	O	null
+20 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+21 נאמין האמין נאמין verb masculine-and-feminine plural unspecified 1 future  	O	null
+22 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ערב ערב ערב noun masculine singular construct unspecified unspecified  	O	null
+1 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+2 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כוכב כוכב כוכב noun masculine singular construct unspecified unspecified  	O	null
+4 אלחש לחש אלחש verb masculine-and-feminine singular unspecified 1 future  	O	null
+5 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+6 ה ה התפילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 התפילה תפילה התפילה noun feminine singular absolute unspecified unspecified  	O	null
+7 ש ש שתמיד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 תמיד תמיד שתמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נאהב נאהב נאהב verb masculine singular unspecified 3 past  	O	null
+10 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ב ב בהתחלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה בהתחלה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 ההתחלה התחלה בהתחלה noun feminine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

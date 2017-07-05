@@ -1,0 +1,82 @@
+0 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+0 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+1 ה ה האמת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 האמת אמת האמת noun feminine singular absolute unspecified unspecified  	O	null
+2 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+2 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+3 האחד האחיד האחד verb masculine singular unspecified 2 imperative  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שעלי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 על על שעלי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י שעלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 שומר שמר שומר verb masculine singular unspecified any beinoni  	O	null
+8 ו ו ומגונן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מגונן גונן ומגונן verb masculine singular unspecified any beinoni  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רחום רחום רחום adjective masculine singular absolute unspecified unspecified  	O	null
+1 ו ו וחנון conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 חנון חנון וחנון noun masculine singular absolute unspecified unspecified  	O	null
+2 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+4 האחד האחיד האחד verb masculine singular unspecified 2 imperative  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 בורא בורא בורא noun masculine singular construct unspecified unspecified  	O	null
+7 עולם עולם עולם noun masculine singular construct unspecified unspecified  	O	null
+8 אבי אב אבי noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה האהוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 האהוב אהוב האהוב noun masculine singular absolute unspecified unspecified  	O	null
+
+0 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה הנשמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הנשמה נשמה הנשמה noun feminine singular absolute unspecified unspecified  	O	null
+2 אל אל אליך preposition unspecified unspecified unspecified unspecified unspecified  
+2 ך ך אליך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+3 תפילה תפילה תפילה noun feminine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מתוך מתוך מתוכי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י מתוכי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+7 ב ב בכוונה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 כוונה כוונה בכוונה noun feminine singular absolute unspecified unspecified  	O	null
+8 גדולה גדול גדולה adjective feminine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מן מן ממך preposition unspecified unspecified unspecified unspecified unspecified  
+0 ך ך ממך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+1 אבקש ביקש אבקש verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+5 האחד האחיד האחד verb masculine singular unspecified 2 imperative  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 בורא בורא בורא noun masculine singular construct unspecified unspecified  	O	null
+1 עולם עולם עולם noun masculine singular absolute unspecified unspecified  	O	null
+2 שמור שמור שמור adjective masculine singular absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה הנשמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הנשמה נשמה הנשמה noun feminine singular absolute unspecified unspecified  	O	null
+2 ב ב באהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 אהבה אהבה באהבה noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו ותפילה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 תפילה תפילה ותפילה noun feminine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+6 אקרא קרא אקרא verb masculine-and-feminine singular unspecified 1 future  	O	null
+7 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אמונה אמונה אמונה noun feminine singular absolute unspecified unspecified  	O	null
+9 ב ב בך preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך בך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 האחד האחיד האחד verb masculine singular unspecified 2 imperative  	O	null
+11 בורא בורא בורא noun masculine singular construct unspecified unspecified  	O	null
+12 עולם עולם עולם noun masculine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

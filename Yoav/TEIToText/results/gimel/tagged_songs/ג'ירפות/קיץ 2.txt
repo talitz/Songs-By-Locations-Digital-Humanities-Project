@@ -1,0 +1,154 @@
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+3 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שכר שכר שכר noun masculine singular construct unspecified unspecified  	O	null
+5 דירה דירה דירה noun feminine singular absolute unspecified unspecified  	O	null
+6 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+9 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מעלית מעלית מעלית noun feminine singular absolute unspecified unspecified  	O	null
+11 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+12 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+14 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 חניה חניה חניה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שדבר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 דבר דבר שדבר noun masculine singular absolute unspecified unspecified  	O	null
+4 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+5 מובן הובן מובן verb masculine singular unspecified any beinoni  	O	null
+6 ש ש שפתאום relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 פתאום פתאום שפתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+8 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	O	null
+9 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+11 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	I_DATE	null
+
+0 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 קורה קרה קורה verb masculine singular unspecified any beinoni  	O	null
+3 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יוצאים יצא יוצאים verb masculine plural unspecified any beinoni  	O	null
+6 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה הבית definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הבית בית הבית noun masculine singular absolute unspecified unspecified  	O	null
+8 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ו ו וצועקים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 צועקים צעק וצועקים verb masculine plural unspecified any beinoni  	O	null
+10 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 נשבר נשבר נשבר verb masculine singular unspecified 3 past  	O	null
+12 ה ה הזין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הזין זין הזין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 ( ( ( punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 קיץ קיץ קיץ noun masculine singular absolute unspecified unspecified  	I_DATE	null
+15 ) ) ) punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ###NUMBER### ###NUMBER### ###NUMBER### numeral unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+17 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+19 קור קור קורה noun masculine singular absolute unspecified unspecified  
+19 ה ה קורה possessive feminine singular unspecified 3 unspecified 0 	O	null
+20 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+21 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+22 פשוט פשוט פשוט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+23 נותנים נתן נותנים verb masculine plural unspecified any beinoni  	O	null
+24 פייט פייט פייט verb masculine singular unspecified 2 imperative  	O	null
+25 ה ה הרחובות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+25 הרחובות רחוב הרחובות noun masculine plural absolute unspecified unspecified  	O	null
+26 ממריאים המריא ממריאים verb masculine plural unspecified any beinoni  	O	null
+27 ל ל להם preposition unspecified unspecified unspecified unspecified unspecified  
+27 הם הם להם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+
+0 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 בא בא בא verb masculine singular unspecified any beinoni  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+3 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הכניסות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הכניסות כניסה הכניסות noun feminine plural absolute unspecified unspecified  	O	null
+5 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+8 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 יציאות יציאה יציאות noun feminine plural absolute unspecified unspecified  	O	null
+10 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+11 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+13 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 משהו משהו משהו noun masculine singular absolute unspecified unspecified  	O	null
+15 חורק חרק חורק participle masculine singular construct any unspecified  	O	null
+16 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+17 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+19 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 רבנות רבנות רבנות noun feminine singular absolute unspecified unspecified  	O	null
+21 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+22 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+24 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+25 סרבנות סרבנות סרבנות noun feminine singular absolute unspecified unspecified  	O	null
+26 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+27 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+28 עניין עניין עניין noun masculine singular construct unspecified unspecified  	O	null
+29 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+29 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+30 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+31 מתפרק התפרק מתפרק verb masculine singular unspecified any beinoni  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שדבר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 דבר דבר שדבר noun masculine singular absolute unspecified unspecified  	O	null
+4 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+5 מובן הובן מובן verb masculine singular unspecified any beinoni  	O	null
+6 ש ש שפתאום relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 פתאום פתאום שפתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+8 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	O	null
+9 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+11 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	I_DATE	null
+
+0 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 קורה קרה קורה verb masculine singular unspecified any beinoni  	O	null
+3 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יוצאים יצא יוצאים verb masculine plural unspecified any beinoni  	O	null
+6 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה הבית definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הבית בית הבית noun masculine singular absolute unspecified unspecified  	O	null
+8 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ו ו וצועקים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 צועקים צעק וצועקים verb masculine plural unspecified any beinoni  	O	null
+10 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 נשבר נשבר נשבר verb masculine singular unspecified 3 past  	O	null
+12 ה ה הזין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הזין זין הזין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 ( ( ( punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 קיץ קיץ קיץ noun masculine singular absolute unspecified unspecified  	I_DATE	null
+15 ) ) ) punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ###NUMBER### ###NUMBER### ###NUMBER### numeral unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+17 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+19 קורה קרה קורה verb masculine singular unspecified any beinoni  	O	null
+20 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+21 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+22 פשוט פשוט פשוט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+23 נותנים נתן נותנים verb masculine plural unspecified any beinoni  	O	null
+24 פייט פייט פייט verb masculine singular unspecified 3 past  	O	null
+

@@ -1,0 +1,112 @@
+0 ב ב בוגי preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 וגי וגי בוגי noun masculine plural construct unspecified unspecified  	O	null
+1 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 הלילה הלילה הלילה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ב ב בוגי preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 וגי וגי בוגי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 כדאי כדאי כדאי modal unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+8 ב ב בוגי preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 וגי וגי בוגי noun masculine plural construct unspecified unspecified  	O	null
+9 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 הערב הערב הערב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ירד ירד ירד verb masculine singular unspecified 3 past  	O	null
+14 ב ב בוגי preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 וגי וגי בוגי noun masculine plural construct unspecified unspecified  	O	null
+15 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+15 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+16 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+19 זמן זמן זמן noun masculine singular absolute unspecified unspecified  	O	null
+20 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 תעשי עשה תעשי verb feminine singular unspecified 2 future  	O	null
+22 מ מ מזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 זה זה מזה pronoun masculine singular unspecified 3 unspecified  	O	null
+23 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+24 ב ב בוגי preposition unspecified unspecified unspecified unspecified unspecified 0 
+24 וגי וגי בוגי noun masculine plural construct unspecified unspecified  	O	null
+25 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+25 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+26 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+27 הלילה הלילה הלילה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+28 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+29 עבר עבר עבר noun masculine singular absolute unspecified unspecified  	O	null
+
+0 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 פעם פעם פעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 בילוי בילוי בילוי noun masculine singular absolute unspecified unspecified  	O	null
+4 נעים נעים נעים adjective masculine singular absolute unspecified unspecified  	O	null
+5 ב ב בבני preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 בני בן בבני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 עקיבא עקיבא עקיבא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 ו ו וגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 גם גם וגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ב ב בצופים preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 צופים צוף בצופים noun masculine plural absolute unspecified unspecified  	I_LOC	null
+10 במקום במקום במקום preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 בית בית בית noun masculine singular construct unspecified unspecified  	O	null
+12 ספר ספר ספר noun masculine singular construct unspecified unspecified  	O	null
+13 הפסקה הפסקה הפסקה noun feminine singular absolute unspecified unspecified  	O	null
+14 יומית יומי יומית adjective feminine singular absolute unspecified unspecified  	O	null
+15 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 הפעם הפעם הפעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+18 אחרת אחר אחרת adjective feminine singular absolute unspecified unspecified  	O	null
+19 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+20 השתלמות השתלמות השתלמות noun feminine singular absolute unspecified unspecified  	O	null
+21 אישית אישי אישית adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בוגי preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 וגי וגי בוגי noun masculine plural construct unspecified unspecified  	O	null
+2 איתי... איתי... איתי... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+
+0 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בקיבוץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בקיבוץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הקיבוץ קיבוץ בקיבוץ noun masculine singular absolute unspecified unspecified  	O	null
+2 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+3 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ל ל לחוץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה לחוץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 החוץ חוץ לחוץ noun masculine singular absolute unspecified unspecified  	O	null
+5 עבודה עבודה עבודה noun feminine singular absolute unspecified unspecified  	O	null
+6 ב ב בלול preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה בלול definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הלול לול בלול noun masculine singular absolute unspecified unspecified  	O	null
+7 היתה הוא היתה copula feminine singular unspecified 3 past  	O	null
+8 ממש ממש ממש adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 בלבול בלבול בלבול noun masculine singular absolute unspecified unspecified  	O	null
+10 ו ו ועל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 על על ועל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הדשא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הדשא דשא הדשא noun masculine singular absolute unspecified unspecified  	O	null
+12 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+13 שרים שר שרים noun masculine plural absolute unspecified unspecified  	O	null
+14 ב ב בציבור preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 ציבור ציבור בציבור noun masculine singular construct unspecified unspecified  	O	null
+15 שלושים ORD-CARD30 שלושים numeral masculine-and-feminine plural construct unspecified unspecified  	O	null
+16 שירי שיר שירי noun masculine plural construct unspecified unspecified  	O	null
+17 סוכנות סוכנות סוכנות noun feminine singular construct unspecified unspecified  	O	null
+18 תגידי הגיד תגידי verb feminine singular unspecified 2 future  	O	null
+19 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+21 בידור בידור בידור noun masculine singular absolute unspecified unspecified  	O	null
+22 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בוגי preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 וגי וגי בוגי noun masculine plural construct unspecified unspecified  	O	null
+2 איתי... איתי... איתי... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+

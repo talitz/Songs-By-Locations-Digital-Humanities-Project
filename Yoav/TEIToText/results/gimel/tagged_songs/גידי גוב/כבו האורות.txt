@@ -1,0 +1,127 @@
+0 כבו כבה כבו verb masculine-and-feminine plural unspecified 3 past  	O	null
+1 ה ה האורות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 האורות אור האורות noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+4 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+5 ב ב ברחובות preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 רחובות רחוב ברחובות noun masculine plural construct unspecified unspecified  	O	null
+6 בא בא בא verb masculine singular unspecified 3 past  	O	null
+7 זמן זמן זמן noun masculine singular absolute unspecified unspecified  	O	null
+8 ללכת הלך ללכת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 לומר אמר לומר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 ל ל להתראות preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 התראות התראה להתראות noun feminine plural absolute unspecified unspecified  	O	null
+11 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 שותקת שתק שותקת verb feminine singular unspecified any beinoni  	I_ORG	null
+13 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+14 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+15 נשאר נשאר נשאר verb masculine singular unspecified any beinoni  	O	null
+16 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+16 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+1 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נאמר נאמר נאמר verb masculine singular unspecified 3 past  	O	null
+3 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 מרגיש הרגיש מרגיש verb masculine singular unspecified any beinoni  	O	null
+5 כ כ כזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 זר זר כזר noun masculine singular absolute unspecified unspecified  	O	null
+6 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הלילה הלילה הלילה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אלך הלך אלך verb masculine-and-feminine singular unspecified 1 future  	O	null
+11 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 שותקת שתק שותקת verb feminine singular unspecified any beinoni  	I_ORG	null
+14 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+15 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+16 נשאר נשאר נשאר verb masculine singular unspecified any beinoni  	O	null
+17 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+17 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+18 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו וסיפור conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 סיפור סיפור וסיפור noun masculine singular absolute unspecified unspecified  	O	null
+1 מתחיל התחיל מתחיל verb masculine singular unspecified any beinoni  	O	null
+2 ו ו וסיפור conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 סיפור סיפור וסיפור noun masculine singular absolute unspecified unspecified  	O	null
+3 נגמר נגמר נגמר verb masculine singular unspecified any beinoni  	O	null
+4 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 הולך הלך הולך verb masculine singular unspecified any beinoni  	O	null
+6 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+7 נשאר נשאר נשאר verb masculine singular unspecified any beinoni  	O	null
+8 נשאר נשאר נשאר verb masculine singular unspecified 3 past  	O	null
+9 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 איתך... איתך... איתך... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 ו ו ובוקר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 בוקר בוקר ובוקר noun masculine singular absolute unspecified unspecified  	O	null
+1 בא בא בא verb masculine singular unspecified 3 past  	O	null
+2 כמעט כמעט כמעט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מוכר מוכר מוכר adjective masculine singular absolute unspecified unspecified  	O	null
+7 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אלך הלך אלך verb masculine-and-feminine singular unspecified 1 future  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 אשוב נשב אשוב verb masculine-and-feminine singular unspecified 1 future  	O	null
+12 ודאי ודאי ודאי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 שותקת שתק שותקת verb feminine singular unspecified any beinoni  	O	null
+16 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ו ו וכמו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 כמו כמו וכמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+21 נשאר... נשאר... נשאר... participle feminine singular construct any unspecified  	O	null
+
+0 ו ו וסיפור conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 סיפור סיפור וסיפור noun masculine singular absolute unspecified unspecified  	O	null
+1 מתחיל... מתחיל... מתחיל... participle feminine plural construct any unspecified  	O	null
+
+0 כבו כבה כבו verb masculine-and-feminine plural unspecified 3 past  	O	null
+1 ה ה האורות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 האורות אור האורות noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+4 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+5 ב ב ברחובות preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 רחובות רחוב ברחובות noun masculine plural construct unspecified unspecified  	O	null
+6 בא בא בא verb masculine singular unspecified 3 past  	O	null
+7 זמן זמן זמן noun masculine singular absolute unspecified unspecified  	O	null
+8 ל ל ללכת preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 לכת לכת ללכת noun feminine singular absolute unspecified unspecified  	O	null
+9 לומר אמר לומר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 ל ל להתראות preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 התראות התראה להתראות noun feminine plural absolute unspecified unspecified  	O	null
+11 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 שותקת שתק שותקת verb feminine singular unspecified any beinoni  	O	null
+13 ל ל לך preposition unspecified unspecified unspecified unspecified unspecified  
+13 ך ך לך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+14 ו ו וכמו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 כמו כמו וכמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+18 נשאר... נשאר... נשאר... participle feminine singular construct any unspecified  	O	null
+

@@ -1,0 +1,138 @@
+0 ה ה הקולות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הקולות קול הקולות noun masculine plural absolute unspecified unspecified  	O	null
+1 בוקעים בקע בוקעים verb masculine plural unspecified any beinoni  	O	null
+2 ו ו ומציירים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 מציירים צייר ומציירים verb masculine plural unspecified any beinoni  	O	null
+3 מראות מראה מראות noun masculine plural absolute unspecified unspecified  	O	null
+4 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נראים נראה נראים verb masculine plural unspecified any beinoni  	O	null
+6 כש כש כשכל temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+6 כל כול כשכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+7 ה ה השערים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 השערים שער השערים noun masculine plural absolute unspecified unspecified  	O	null
+8 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נעולים נעול נעולים adjective masculine plural absolute unspecified unspecified  	O	null
+10 דמעה דמעה דמעה noun feminine singular absolute unspecified unspecified  	O	null
+11 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+12 שוברת שבר שוברת verb feminine singular unspecified any beinoni  	O	null
+13 מנעולים מנעול מנעולים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 צו צו צו noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה השעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השעה שעה השעה noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו ולהט conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 להט להט ולהט noun masculine singular construct unspecified unspecified  	O	null
+4 ה ה החרב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 החרב חרב החרב noun feminine singular absolute unspecified unspecified  	O	null
+5 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מתהפכת התהפך מתהפכת verb feminine singular unspecified any beinoni  	O	null
+7 אסירי אסיר אסירי noun masculine plural construct unspecified unspecified  	O	null
+8 ה ה התקוה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 התקוה התקוה התקוה noun feminine singular absolute unspecified unspecified  	O	null
+9 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 קול קול קול noun masculine singular construct unspecified unspecified  	O	null
+11 שופר שופר שופר noun masculine singular absolute unspecified unspecified  	O	null
+12 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 תוך תוך תוך noun masculine singular construct unspecified unspecified  	O	null
+14 ה ה השקט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 השקט שקט השקט noun masculine singular absolute unspecified unspecified  	O	null
+15 ש ש שמתפשט relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 מתפשט התפשט שמתפשט verb masculine singular unspecified any beinoni  	O	null
+16 ו ו ומתאמת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 מתאמת התאמת ומתאמת verb masculine singular unspecified any beinoni  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 ה ה הימים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הימים יום הימים noun masculine plural absolute unspecified unspecified  	O	null
+2 אוספים אסף אוספים verb masculine plural unspecified any beinoni  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שאבד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 אבד אבד שאבד verb masculine singular unspecified 3 past  	O	null
+6 ב ב בצעדים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 צעדים צעד בצעדים noun masculine plural absolute unspecified unspecified  	O	null
+7 קטנים קטן קטנים adjective masculine plural absolute unspecified unspecified  	O	null
+8 פוסעים פסע פוסעים verb masculine plural unspecified any beinoni  	O	null
+9 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מעגלים מעגל מעגלים noun masculine plural absolute unspecified unspecified  	O	null
+11 ו ו ולא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 לא לא ולא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 יוצאים יצא יוצאים verb masculine plural unspecified any beinoni  	O	null
+13 מזה מזה מזה noun masculine singular absolute unspecified unspecified  	O	null
+14 שנים שנה שנים noun feminine plural absolute unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 צו צו צו noun masculine singular absolute unspecified unspecified  	O	null
+2 השעה... השעה... השעה... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 כש כש כשכל temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 כל כול כשכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 ה ה הדרכים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הדרכים דרך הדרכים noun feminine plural absolute unspecified unspecified  	O	null
+2 מובילות הוביל מובילות verb feminine plural unspecified any beinoni  	O	null
+3 שבע CARD7 שבע numeral feminine singular absolute unspecified unspecified  	O	null
+4 שנים שנה שנים noun feminine plural absolute unspecified unspecified  	O	null
+5 כה כה כה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 קשות קשה קשות adjective feminine plural absolute unspecified unspecified  	O	null
+7 נופצו נופץ נופצו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 שערי שער שערי noun masculine plural construct unspecified unspecified  	O	null
+9 ה ה הדמעות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הדמעות דמעה הדמעות noun feminine plural absolute unspecified unspecified  	O	null
+
+0 אצבעות אצבע אצבעותי noun feminine plural absolute unspecified unspecified  
+0 י י אצבעותי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+1 קשות קשות קשות adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עמוק עמוק עמוק adjective masculine singular absolute unspecified unspecified  	O	null
+3 ב ב באדמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 אדמה אדמה באדמה noun feminine singular absolute unspecified unspecified  	O	null
+4 קולי קולי קולי adjective masculine singular absolute unspecified unspecified  	O	null
+5 צועק צעק צועק verb masculine singular unspecified any beinoni  	O	null
+6 ב ב בדרך preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 דרך דרך בדרך noun feminine singular absolute unspecified unspecified  	O	null
+7 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 תביט הביט תביט verb feminine singular unspecified 3 future  	O	null
+9 ב ב בשקיעה preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה בשקיעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 השקיעה שקיעה בשקיעה noun feminine singular absolute unspecified unspecified  	O	null
+10 ככלות כלה ככלות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+11 כוח כוח כוחי noun masculine singular absolute unspecified unspecified  
+11 י י כוחי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 ו ו ועוצם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 עוצם עוצם ועוצם noun masculine singular construct unspecified unspecified  	O	null
+13 ה ה הטביעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הטביעה טביעה הטביעה noun feminine singular absolute unspecified unspecified  	O	null
+14 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 זורמים זרם זורמים verb masculine plural unspecified any beinoni  	O	null
+17 ב ב בזרם preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 זרם זרם בזרם noun masculine singular construct unspecified unspecified  	O	null
+18 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+19 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+21 שהיה שהייה שהיה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 צו צו צו noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה השעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השעה שעה השעה noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו ולהט conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 להט להט ולהט noun masculine singular construct unspecified unspecified  	O	null
+4 ה ה החרב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 החרב חרב החרב noun feminine singular absolute unspecified unspecified  	O	null
+5 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מתהפכת התהפך מתהפכת verb feminine singular unspecified any beinoni  	O	null
+7 אסירי אסיר אסירי noun masculine plural construct unspecified unspecified  	O	null
+8 ה ה התקוה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 התקוה התקוה התקוה noun feminine singular absolute unspecified unspecified  	O	null
+9 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 קול קול קול noun masculine singular construct unspecified unspecified  	O	null
+11 שופר שופר שופר noun masculine singular absolute unspecified unspecified  	O	null
+12 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 תוך תוך תוך noun masculine singular construct unspecified unspecified  	O	null
+14 ה ה השקט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 השקט שקט השקט noun masculine singular absolute unspecified unspecified  	O	null
+15 ש ש שמתפשט relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 מתפשט התפשט שמתפשט verb masculine singular unspecified any beinoni  	O	null
+

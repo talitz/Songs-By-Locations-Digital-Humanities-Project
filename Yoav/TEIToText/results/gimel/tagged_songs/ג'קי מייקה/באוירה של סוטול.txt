@@ -1,0 +1,140 @@
+0 שתי CARD2 שתי numeral feminine dual construct unspecified unspecified  	O	null
+1 טיפות טיפה טיפות noun feminine plural absolute unspecified unspecified  	O	null
+2 סגולות סגול סגולות adjective feminine plural absolute unspecified unspecified  	O	null
+3 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יין יין יין noun masculine singular absolute unspecified unspecified  	O	null
+5 נוצצות נוצץ נוצצות adjective feminine plural absolute unspecified unspecified  	O	null
+6 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 שפתותי שפה שפתותייך noun feminine plural absolute unspecified unspecified  
+7 ך ך שפתותייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+8 שתי CARD2 שתי numeral feminine dual construct unspecified unspecified  	O	null
+9 טיפות טיפה טיפות noun feminine plural absolute unspecified unspecified  	O	null
+10 סגולות סגול סגולות adjective feminine plural absolute unspecified unspecified  	O	null
+11 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 יין יין יין noun masculine singular absolute unspecified unspecified  	O	null
+13 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 זולגות זלג זולגות verb feminine plural unspecified any beinoni  	O	null
+15 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 שפתותי שפה שפתותייך noun feminine plural absolute unspecified unspecified  
+16 ך ך שפתותייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 ו ו ובאוירה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 ב ב ובאוירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 אויר אוויר ובאוירה noun masculine singular absolute unspecified unspecified  
+0 ה ה ובאוירה possessive feminine singular unspecified 3 unspecified 0 	O	null
+1 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 סוטול סוטול סוטול properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+4 נזרק נזרק נזרק verb masculine singular unspecified 3 past  	O	null
+5 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+7 ו ו ולוגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 לוגם לגם ולוגם verb masculine singular unspecified any beinoni  	O	null
+8 כוסית כוסית כוסית noun feminine singular absolute unspecified unspecified  	O	null
+9 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 יין יין יין noun masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+13 דרך דרך דרכו noun feminine singular absolute unspecified unspecified  
+13 ו ו דרכו possessive masculine singular unspecified 3 unspecified 0 	O	null
+14 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ה ה השתיין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 השתיין שתיין השתיין noun masculine singular absolute unspecified unspecified  	O	null
+16 ו ו ובאוירה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 ב ב ובאוירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 אויר אוויר ובאוירה noun masculine singular absolute unspecified unspecified  
+16 ה ה ובאוירה possessive feminine singular unspecified 3 unspecified 0 	O	null
+17 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+18 סוטול סוטול סוטול properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+19 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+19 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+20 נדלק נדלק נדלק verb masculine singular unspecified 3 past  	O	null
+21 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+22 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+23 ו ו ולוגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 לוגם לגם ולוגם verb masculine singular unspecified any beinoni  	O	null
+24 כוסית כוסית כוסית noun feminine singular absolute unspecified unspecified  	O	null
+25 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+26 יין יין יין noun masculine singular absolute unspecified unspecified  	O	null
+27 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+28 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+29 דרך דרך דרכו noun feminine singular absolute unspecified unspecified  
+29 ו ו דרכו possessive masculine singular unspecified 3 unspecified 0 	O	null
+30 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+31 ה ה השתיין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+31 השתיין שתיין השתיין noun masculine singular absolute unspecified unspecified  	O	null
+
+0 שתי CARD2 שתי numeral feminine dual construct unspecified unspecified  	O	null
+1 טיפות טיפה טיפות noun feminine plural absolute unspecified unspecified  	O	null
+2 סגולות סגול סגולות adjective feminine plural absolute unspecified unspecified  	O	null
+3 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יין יין יין noun masculine singular absolute unspecified unspecified  	O	null
+5 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 זולגות זלג זולגות verb feminine plural unspecified any beinoni  	O	null
+7 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 שפתותי שפה שפתותייך noun feminine plural absolute unspecified unspecified  
+8 ך ך שפתותייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+9 שתי CARD2 שתי numeral feminine dual construct unspecified unspecified  	O	null
+10 טיפות טיפה טיפות noun feminine plural absolute unspecified unspecified  	O	null
+11 סגולות סגול סגולות adjective feminine plural absolute unspecified unspecified  	O	null
+12 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 יין יין יין noun masculine singular absolute unspecified unspecified  	O	null
+14 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 זולגות זלג זולגות verb feminine plural unspecified any beinoni  	O	null
+16 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 זוג זוג זוג noun masculine singular construct unspecified unspecified  	O	null
+18 עיני עין עינייך noun feminine plural absolute unspecified unspecified  
+18 ך ך עינייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 ו ו ובאוירה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 ב ב ובאוירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 אויר אוויר ובאוירה noun masculine singular absolute unspecified unspecified  
+0 ה ה ובאוירה possessive feminine singular unspecified 3 unspecified 0 	O	null
+1 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 סוטול סוטול סוטול properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+4 נזרק נזרק נזרק verb masculine singular unspecified 3 past  	O	null
+5 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה השולחן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 השולחן שולחן השולחן noun masculine singular absolute unspecified unspecified  	O	null
+7 ו ו ולוגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 לוגם לגם ולוגם verb masculine singular unspecified any beinoni  	O	null
+8 כוסית כוסית כוסית noun feminine singular absolute unspecified unspecified  	O	null
+9 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 יין יין יין noun masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+13 דרך דרך דרכו noun feminine singular absolute unspecified unspecified  
+13 ו ו דרכו possessive masculine singular unspecified 3 unspecified 0 	O	null
+14 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ה ה השתיין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 השתיין שתיין השתיין noun masculine singular absolute unspecified unspecified  	O	null
+16 ו ו ובאוירה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 ב ב ובאוירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 אויר אוויר ובאוירה noun masculine singular absolute unspecified unspecified  
+16 ה ה ובאוירה possessive feminine singular unspecified 3 unspecified 0 	O	null
+17 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+18 סוטול סוטול סוטול properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+19 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+19 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+20 נדלק נדלק נדלק verb masculine singular unspecified 3 past  	O	null
+21 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+22 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+23 ו ו ולוגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 לוגם לגם ולוגם verb masculine singular unspecified any beinoni  	O	null
+24 כוסית כוסית כוסית noun feminine singular absolute unspecified unspecified  	O	null
+25 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+26 יין יין יין noun masculine singular absolute unspecified unspecified  	O	null
+27 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+28 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+29 דרך דרך דרכו noun feminine singular absolute unspecified unspecified  
+29 ו ו דרכו possessive masculine singular unspecified 3 unspecified 0 	O	null
+30 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+31 ה ה השתיין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+31 השתיין שתיין השתיין noun masculine singular absolute unspecified unspecified  	O	null
+

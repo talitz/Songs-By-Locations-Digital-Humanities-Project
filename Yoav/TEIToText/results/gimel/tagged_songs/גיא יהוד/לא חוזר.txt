@@ -1,0 +1,109 @@
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+1 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+2 אהבתי אהב אהבתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+1 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+2 מצאתי מצא מצאתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 נשאר נשאר נשאר verb masculine singular unspecified 3 past  	O	null
+2 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 חלום... חלום... חלום... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 כמה כמה כמה verb masculine singular unspecified 3 past  	O	null
+3 כאב כאב כאב noun masculine singular absolute unspecified unspecified  	I_DATE	null
+4 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נותר נותר נותר verb masculine singular unspecified 3 past  	O	null
+8 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 לעשות עשה לעשות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 חוזר חזר חוזר verb masculine singular unspecified any beinoni  	O	null
+6 ה ה הלכת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הלכת לכת הלכת noun feminine singular absolute unspecified unspecified  	O	null
+7 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 גבר גבר גבר noun masculine singular absolute unspecified unspecified  	O	null
+9 אחר אחר אחר adjective masculine singular absolute unspecified unspecified  	O	null
+10 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תצפי צפה תצפי verb feminine singular unspecified 2 future  	O	null
+12 ש ש שאעמוד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 אעמוד עמד שאעמוד verb masculine-and-feminine singular unspecified 1 future  	O	null
+13 ב ב בפתח preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 פתח פתח בפתח noun masculine singular construct unspecified unspecified  	O	null
+14 דלת דלת דלתך noun feminine singular absolute unspecified unspecified  
+14 ך ך דלתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+15 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+16 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 חוזר חזר חוזר verb masculine singular unspecified any beinoni  	O	null
+21 ה ה הלכת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הלכת לכת הלכת noun feminine singular absolute unspecified unspecified  	O	null
+22 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+23 גבר גבר גבר noun masculine singular absolute unspecified unspecified  	O	null
+24 אחר אחר אחר adjective masculine singular absolute unspecified unspecified  	O	null
+25 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+26 תצפי צפה תצפי verb feminine singular unspecified 2 future  	O	null
+27 ש ש שאעמוד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+27 אעמוד עמד שאעמוד verb masculine-and-feminine singular unspecified 1 future  	O	null
+28 ב ב בפתח preposition unspecified unspecified unspecified unspecified unspecified 0 
+28 פתח פתח בפתח noun masculine singular construct unspecified unspecified  	O	null
+29 דלת דלת דלתך noun feminine singular absolute unspecified unspecified  
+29 ך ך דלתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+30 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+31 תצפי צפה תצפי verb feminine singular unspecified 2 future  	O	null
+32 ש ש שאעמוד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+32 אעמוד עמד שאעמוד verb masculine-and-feminine singular unspecified 1 future  	O	null
+33 ב ב בפתח preposition unspecified unspecified unspecified unspecified unspecified 0 
+33 פתח פתח בפתח noun masculine singular construct unspecified unspecified  	O	null
+34 דלת דלת דלתך noun feminine singular absolute unspecified unspecified  
+34 ך ך דלתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 דמעות דמעה דמעות noun feminine plural absolute unspecified unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 יעזרו עזר יעזרו verb masculine-and-feminine plural unspecified 3 future  	O	null
+3 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+4 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אלף ORD-CARD1000 אלף numeral masculine plural absolute unspecified unspecified  	O	null
+7 מכתבים מכתב מכתבים noun masculine plural absolute unspecified unspecified  	O	null
+8 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 טעות טעות טעות noun feminine singular absolute unspecified unspecified  	O	null
+11 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 טעות טעות טעות noun feminine singular absolute unspecified unspecified  	O	null
+13 משלמים שילם משלמים verb masculine plural unspecified any beinoni  	O	null
+14 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 גרמת גרם גרמת verb feminine singular unspecified 2 past  	O	null
+16 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+16 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+17 בלילות בלילה בלילות noun feminine plural absolute unspecified unspecified  	O	null
+18 לבכות בכה לבכות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+19 ב ב ברחובות preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 רחובות רחוב ברחובות noun masculine plural construct unspecified unspecified  	O	null
+20 להתהלך התהלך להתהלך verb unspecified unspecified unspecified unspecified infinitive  	O	null
+21 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+22 שיכור שיכור שיכור noun masculine singular absolute unspecified unspecified  	O	null
+23 כ כ כאדם preposition unspecified unspecified unspecified unspecified unspecified 0 
+23 אדם אדם כאדם noun masculine singular absolute unspecified unspecified  	O	null
+24 אובד אבד אובד verb masculine singular unspecified any beinoni  	O	null
+25 עצות עצה עצות noun feminine plural absolute unspecified unspecified  	O	null
+

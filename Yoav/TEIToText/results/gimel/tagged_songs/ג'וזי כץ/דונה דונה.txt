@@ -1,0 +1,132 @@
+0 עגל עגל עגל noun masculine singular absolute unspecified unspecified  	O	null
+1 רך רך רך adjective masculine singular absolute unspecified unspecified  	O	null
+2 קשור קשור קשור adjective masculine singular absolute unspecified unspecified  	O	null
+3 ב ב בחבל preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 חבל חבל בחבל noun masculine singular absolute unspecified unspecified  	O	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה העגלה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 העגלה עגלה העגלה noun feminine singular absolute unspecified unspecified  	O	null
+6 מוטל הוטל מוטל verb masculine singular unspecified any beinoni  	O	null
+7 ו ו ולמעלה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 למעלה למעלה ולמעלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ב ב בשמיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה בשמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 השמיים שמיים בשמיים noun masculine plural absolute unspecified unspecified  	O	null
+9 עפרוני עפרוני עפרוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 ממריא המריא ממריא verb masculine singular unspecified any beinoni  	O	null
+11 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רוח רוח רוח noun feminine singular construct unspecified unspecified  	O	null
+1 סתיו סתיו סתיו properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+2 צוחק צחק צוחק verb masculine singular unspecified any beinoni  	O	null
+3 ל ל לו preposition unspecified unspecified unspecified unspecified unspecified  
+3 ו ו לו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 צוחק צחק צוחק verb masculine singular unspecified any beinoni  	O	null
+6 ו ו ומתהולל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 מתהולל התהולל ומתהולל verb masculine singular unspecified any beinoni  	O	null
+7 צחוק צחוק צחוק noun masculine singular absolute unspecified unspecified  	O	null
+8 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+9 צחוק צחוק צחוק noun masculine singular absolute unspecified unspecified  	O	null
+10 מ מ מבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 בוקר בוקר מבוקר noun masculine singular absolute unspecified unspecified  	O	null
+11 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ועד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 עד עד ועד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 חצי חץ חצי noun masculine plural construct unspecified unspecified  	O	null
+14 ה ה הליל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הליל ליל הליל noun masculine singular absolute unspecified unspecified  	O	null
+
+0 דונה דן דונה verb feminine plural unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 דונה... דונה... דונה... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 למה למה למה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 תבכה בכה תבכה verb feminine singular unspecified 3 future  	O	null
+3 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אומר אמר אומר verb masculine singular unspecified any beinoni  	O	null
+1 איכר איכר איכר noun masculine singular absolute unspecified unspecified  	O	null
+2 ל ל לעגל preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 עגל עגל לעגל noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה המוטל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המוטל מוטל המוטל noun masculine singular absolute unspecified unspecified  	O	null
+4 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 צימחת צימח צימחת verb feminine singular unspecified 2 past  	O	null
+6 שתי שתה שתי verb feminine singular unspecified 2 imperative  	O	null
+7 כנפיים כנפיים כנפיים properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+8 ו ו והמראת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 המראת המראה והמראת noun feminine singular construct unspecified unspecified  	O	null
+9 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+
+0 רוח רוח רוח noun feminine singular construct unspecified unspecified  	O	null
+1 סתיו סתיו סתיו properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+2 צוחק צחק צוחק verb masculine singular unspecified any beinoni  	O	null
+3 ל ל לו preposition unspecified unspecified unspecified unspecified unspecified  
+3 ו ו לו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 צוחק צחק צוחק verb masculine singular unspecified any beinoni  	O	null
+6 ו ו ומתהולל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 מתהולל התהולל ומתהולל verb masculine singular unspecified any beinoni  	O	null
+7 צחוק צחוק צחוק noun masculine singular absolute unspecified unspecified  	O	null
+8 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+9 צחוק צחוק צחוק noun masculine singular absolute unspecified unspecified  	O	null
+10 מ מ מבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 בוקר בוקר מבוקר noun masculine singular absolute unspecified unspecified  	O	null
+11 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ועד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 עד עד ועד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 חצי חץ חצי noun masculine plural construct unspecified unspecified  	O	null
+14 ה ה הליל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הליל ליל הליל noun masculine singular absolute unspecified unspecified  	O	null
+
+0 דונה דן דונה verb feminine plural unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 דונה... דונה... דונה... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 עגלים עגל עגלים noun masculine plural absolute unspecified unspecified  	O	null
+1 בלי בלי בלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 דעת דעה דעת noun feminine singular construct unspecified unspecified  	O	null
+3 למה לאמה למה noun feminine singular absolute unspecified unspecified  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הטבח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הטבח טבח הטבח noun masculine singular absolute unspecified unspecified  	O	null
+6 הולכים הלך הולכים verb masculine plural unspecified any beinoni  	O	null
+7 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ו ו ואשר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 אשר אישר ואשר verb masculine singular unspecified 3 past  	O	null
+9 ליבם ייבם ליבם verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 ל ל לחופש preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה לחופש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 החופש חופש לחופש noun masculine singular absolute unspecified unspecified  	O	null
+11 ממריאים המריא ממריאים verb masculine plural unspecified any beinoni  	O	null
+12 כעפרוני כעפרוני כעפרוני verb feminine singular unspecified 2 imperative  	O	null
+
+0 רוח רוח רוח noun feminine singular construct unspecified unspecified  	O	null
+1 סתיו סתיו סתיו properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+2 צוחק צחק צוחק verb masculine singular unspecified any beinoni  	O	null
+3 ל ל לו preposition unspecified unspecified unspecified unspecified unspecified  
+3 ו ו לו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 צוחק צחק צוחק verb masculine singular unspecified any beinoni  	O	null
+6 ו ו ומתהולל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 מתהולל התהולל ומתהולל verb masculine singular unspecified any beinoni  	O	null
+7 צחוק צחוק צחוק noun masculine singular absolute unspecified unspecified  	O	null
+8 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+9 צחוק צחוק צחוק noun masculine singular absolute unspecified unspecified  	O	null
+10 מ מ מבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 בוקר בוקר מבוקר noun masculine singular absolute unspecified unspecified  	O	null
+11 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ועד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 עד עד ועד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 חצי חץ חצי noun masculine plural construct unspecified unspecified  	O	null
+14 ה ה הליל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הליל ליל הליל noun masculine singular absolute unspecified unspecified  	O	null
+
+0 דונה דן דונה verb feminine plural unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 דונה... דונה... דונה... adjective masculine singular construct unspecified unspecified  	O	null
+

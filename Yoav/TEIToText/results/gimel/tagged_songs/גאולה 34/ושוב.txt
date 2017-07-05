@@ -1,0 +1,91 @@
+0 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 צודק צדק צודק verb masculine singular unspecified any beinoni  	O	null
+3 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ש ש שאת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 את את שאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 טועה טעה טועה verb feminine singular unspecified any beinoni  	O	null
+6 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 חסין חסין חסין adjective masculine singular absolute unspecified unspecified  	O	null
+9 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שאת שאת שאת noun feminine singular absolute unspecified unspecified  	O	null
+11 פגועה פגוע פגועה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שולט שולט שולט verb masculine singular unspecified 3 past  	O	null
+3 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שאת שאת שאת noun feminine singular absolute unspecified unspecified  	O	null
+5 כנועה כנוע כנועה adjective feminine singular absolute unspecified unspecified  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+9 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 עיוור עיוור עיוור adjective masculine singular absolute unspecified unspecified  	O	null
+11 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ש ש שאת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 את את שאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 רואה ראה רואה verb feminine singular unspecified any beinoni  	O	null
+
+0 ו ו ושוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 שוב שוב ושוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מאמינה האמין מאמינה verb feminine singular unspecified any beinoni  	O	null
+2 ו ו ושותקת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 שותקת שתק ושותקת verb feminine singular unspecified any beinoni  	O	null
+3 בוכה בכה בוכה verb feminine singular unspecified any beinoni  	O	null
+4 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 בוכה בכה בוכה verb masculine singular unspecified any beinoni  	O	null
+9 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ושוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 שוב שוב ושוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מחפשת חיפש מחפשת verb feminine singular unspecified any beinoni  	O	null
+2 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שקט שקט שקט noun masculine singular absolute unspecified unspecified  	O	null
+4 בוכה בכה בוכה verb masculine singular unspecified any beinoni  	O	null
+5 ל ל לאף preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה לאף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 האף אף לאף noun masculine singular absolute unspecified unspecified  	O	null
+6 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 בוכה בכה בוכה verb masculine singular unspecified any beinoni  	O	null
+9 ( ( ( punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ) ) ) punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 טועה טעה טועה verb masculine singular unspecified any beinoni  	O	null
+3 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הבנת הבין הבנת verb feminine singular unspecified 2 past  	O	null
+6 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ש ש שיקר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 יקר ייקר שיקר verb masculine singular unspecified 3 past  	O	null
+9 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ידעת ידע ידעת verb feminine singular unspecified 2 past  	O	null
+
+0 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 פחדן פחדן פחדן adjective masculine singular absolute unspecified unspecified  	O	null
+3 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ש ש שאת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 את את שאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 חנקת חנק חנקת verb feminine singular unspecified 2 past  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+9 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אכזב אכזב אכזב verb masculine singular unspecified 3 past  	O	null
+11 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ש ש שהתאכזבת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 התאכזבת התאכזב שהתאכזבת verb feminine singular unspecified 2 past  	O	null
+

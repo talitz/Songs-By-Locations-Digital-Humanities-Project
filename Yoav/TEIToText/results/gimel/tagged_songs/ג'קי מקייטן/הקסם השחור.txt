@@ -1,0 +1,98 @@
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 הייתה הוא הייתה copula feminine singular unspecified 3 past  	O	null
+2 שחורה שחור שחורה adjective feminine singular absolute unspecified unspecified  	O	null
+3 ו ו ולוהטת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 לוהטת לוהט ולוהטת adjective feminine singular absolute unspecified unspecified  	O	null
+4 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+5 לעולם לעולם לעולם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אשכח שכח אשכח verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 פעם פעם פעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אמרה אמר אמרה verb feminine singular unspecified 3 past  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 ב ב ברטט preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 רטט רטט ברטט noun masculine singular absolute unspecified unspecified  	O	null
+12 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 מן מן ממך preposition unspecified unspecified unspecified unspecified unspecified  
+13 ך ך ממך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+14 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 אברח ברח אברח verb masculine-and-feminine singular unspecified 1 future  	O	null
+16 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+17 הייתה הוא הייתה copula feminine singular unspecified 3 past  	O	null
+18 שחורה שחור שחורה adjective feminine singular absolute unspecified unspecified  	O	null
+19 ו ו ולוהטת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 לוהטת לוהט ולוהטת adjective feminine singular absolute unspecified unspecified  	O	null
+20 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+21 לעולם לעולם לעולם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 אשכח שכח אשכח verb masculine-and-feminine singular unspecified 1 future  	O	null
+24 פעם פעם פעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+25 אמרה אמר אמרה verb feminine singular unspecified 3 past  	O	null
+26 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+26 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+27 ב ב ברטט preposition unspecified unspecified unspecified unspecified unspecified 0 
+27 רטט רטט ברטט noun masculine singular absolute unspecified unspecified  	O	null
+28 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+29 מן מן ממך preposition unspecified unspecified unspecified unspecified unspecified  
+29 ך ך ממך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+30 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+31 אברח ברח אברח verb masculine-and-feminine singular unspecified 1 future  	O	null
+
+0 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+1 גופה גופה גופה noun feminine singular absolute unspecified unspecified  	O	null
+2 שחור שחור שחור adjective masculine singular absolute unspecified unspecified  	O	null
+3 מ מ משחור preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 שחור שחור משחור adjective masculine singular absolute unspecified unspecified  	O	null
+4 ו ו ולא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 לא לא ולא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יכולתי יכול יכולתי modal masculine-and-feminine singular unspecified 1 past  	O	null
+6 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 ליבי ליבי ליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 הפך הפך הפך verb masculine singular unspecified 3 past  	O	null
+9 לעבד עיבד לעבד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 ל ל לקסם preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה לקסם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הקסם קסם לקסם noun masculine singular absolute unspecified unspecified  	O	null
+11 ה ה השחור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השחור שחור השחור adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 גלויה גלויה גלויה noun feminine singular absolute unspecified unspecified  	O	null
+1 לבנה לבן לבנה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ו ו ולוהטת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 לוהטת לוהט ולוהטת adjective feminine singular absolute unspecified unspecified  	O	null
+3 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 כאן כאן כאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 בדד בדד בדד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 שט שט שט verb masculine singular unspecified 3 past  	O	null
+7 ב ב בספינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בספינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הספינה ספינה בספינה noun feminine singular absolute unspecified unspecified  	O	null
+8 מתרחקת התרחק מתרחקת verb feminine singular unspecified any beinoni  	O	null
+9 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 חופי חוף חופי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 טרינידד טרינידד טרינידד properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+12 ל ל לפתע preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 פתע פתע לפתע noun masculine singular absolute unspecified unspecified  	O	null
+13 תוקפני תוקפני תוקפני adjective masculine singular absolute unspecified unspecified  	O	null
+14 געגוע געגוע געגוע noun masculine singular absolute unspecified unspecified  	O	null
+15 ו ו ומושכני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 מושכני הושכן ומושכני participle masculine plural construct any unspecified  	O	null
+16 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 לשם לשם לשם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+18 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ה ה הסיבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 הסיבה סיבה הסיבה noun feminine singular absolute unspecified unspecified  	O	null
+20 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+21 ידוע ידוע ידוע noun masculine singular absolute unspecified unspecified  	O	null
+22 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+23 ספוגה ספוג ספוגה adjective feminine singular absolute unspecified unspecified  	O	null
+24 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+24 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+25 ב ב בדם preposition unspecified unspecified unspecified unspecified unspecified 0 
+25 דם דם בדם noun masculine singular absolute unspecified unspecified  	O	null
+
+0 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+1 גופה... גופה... גופה... verb feminine singular unspecified any beinoni  	O	null
+

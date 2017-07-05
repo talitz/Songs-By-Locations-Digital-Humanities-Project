@@ -1,0 +1,122 @@
+0 יושב ישב יושב verb masculine singular unspecified any beinoni  	I_LOC	null
+1 ב ב בבר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 בר בר בבר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ב ב בסלוניקי preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 סלוניקי סלוניקי בסלוניקי properName masculine singular unspecified unspecified unspecified  	I_LOC	null
+3 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+4 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+5 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+6 מן מן ממך preposition unspecified unspecified unspecified unspecified unspecified  
+6 ך ך ממך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+7 מזמין הזמין מזמין verb masculine singular unspecified any beinoni  	O	null
+8 כוסית כוסית כוסית noun feminine singular absolute unspecified unspecified  	O	null
+9 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+10 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 וויסקי ויסקי וויסקי noun masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ועוד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 עוד עוד ועוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+14 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 בשביל בשביל בשבילך preposition unspecified unspecified unspecified unspecified unspecified  
+15 ך ך בשבילך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+16 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה הרגל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הרגל רגל הרגל noun feminine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 לוקח לקח לוקח verb masculine singular unspecified any beinoni  	O	null
+4 כסא כסא כסא noun masculine singular absolute unspecified unspecified  	O	null
+5 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+6 ו ו ושם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 שם שם ושם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מול מול מולי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י מולי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 ו ו ורק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 רק רק ורק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 איני איני איני adjective masculine singular absolute unspecified unspecified  	O	null
+11 שוכח שכח שוכח verb masculine singular unspecified any beinoni  	O	null
+12 חבל חבל חבל noun masculine singular absolute unspecified unspecified  	O	null
+13 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 שאת שאת שאת noun feminine singular absolute unspecified unspecified  	O	null
+15 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+16 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה הבוזוקי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הבוזוקי הבוזוקי הבוזוקי noun masculine singular absolute unspecified unspecified  	O	null
+1 מנגן ניגן מנגן verb masculine singular unspecified any beinoni  	O	null
+2 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+4 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 קצב קצב קצב noun masculine singular absolute unspecified unspecified  	O	null
+6 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תופים תוף תופים noun masculine plural absolute unspecified unspecified  	O	null
+8 ה ה החיוך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 החיוך חיוך החיוך noun masculine singular absolute unspecified unspecified  	O	null
+9 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 חסר חסר חסר verb masculine singular unspecified 3 past  	O	null
+11 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה השולחן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 השולחן שולחן השולחן noun masculine singular absolute unspecified unspecified  	O	null
+14 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+15 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 פרחים פרח פרחים noun masculine plural absolute unspecified unspecified  	O	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+1 הלכתי הלכתי הלכתי adjective masculine singular absolute unspecified unspecified  	O	null
+2 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+3 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 חשבתי חשב חשבתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+5 ש ש שאוכל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 אוכל אכל שאוכל verb masculine singular unspecified any beinoni  	O	null
+6 לשרוד שרד לשרוד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 איתי איתי איתי properName unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+11 לבד לבד לבד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 אחליף החליף אחליף verb masculine-and-feminine singular unspecified 1 future  	O	null
+14 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+14 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+15 ב ב באף preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 אף אף באף quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יושב ישב יושב verb masculine singular unspecified any beinoni  	I_LOC	null
+1 ב ב בבר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 בר בר בבר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ב ב בסלוניקי preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 סלוניקי סלוניקי בסלוניקי properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 ו ו ולידי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ל ל ולידי preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ידי יד ולידי noun feminine plural construct unspecified unspecified  	O	null
+4 מקום מקום מקום noun masculine singular absolute unspecified unspecified  	O	null
+5 פנוי פנוי פנוי adjective masculine singular absolute unspecified unspecified  	O	null
+6 עשן עשן עשן noun masculine singular construct unspecified unspecified  	O	null
+7 סיגר סיגר סיגר noun masculine singular construct unspecified unspecified  	O	null
+8 צלילי צליל צלילי noun masculine plural construct unspecified unspecified  	O	null
+9 בוזוקי בוזוקי בוזוקי properName unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה הראש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הראש ראש הראש noun masculine singular absolute unspecified unspecified  	O	null
+11 מלא מלא מלא adjective masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+13 שתוי שתוי שתוי adjective masculine singular absolute unspecified unspecified  	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה הבוזוקי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הבוזוקי הבוזוקי הבוזוקי noun masculine singular absolute unspecified unspecified  	O	null
+1 מנגן ניגן מנגן verb masculine singular unspecified any beinoni  	O	null
+2 לי... לי... לי... verb feminine singular unspecified 2 imperative  	O	null
+

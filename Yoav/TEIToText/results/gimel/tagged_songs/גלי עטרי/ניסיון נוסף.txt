@@ -1,0 +1,155 @@
+0 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+1 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ב ב בחלון preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה בחלון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 החלון חילון בחלון noun masculine singular absolute unspecified unspecified  	O	null
+4 עומדת עמד עומדת verb feminine singular unspecified any beinoni  	O	null
+5 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+7 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+8 מדוע מדוע מדוע adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נפחדת נפחד נפחדת adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בנפשך preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 נפש נפש בנפשך noun feminine singular absolute unspecified unspecified  
+1 ך ך בנפשך possessive feminine singular unspecified 2 unspecified 0 	O	null
+2 ש ש שכך relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 כך כך שכך adverb unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 הרעידה הרעיד הרעידה verb feminine singular unspecified 3 past  	O	null
+4 איזה איזה איזו interrogative unspecified unspecified unspecified unspecified unspecified  
+4 ה ה איזו pronomial feminine singular unspecified 3 unspecified 0 	O	null
+5 דאגה דאגה דאגה noun feminine singular absolute unspecified unspecified  	O	null
+6 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+6 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+7 השיגה השיג השיגה verb feminine singular unspecified 3 past  	O	null
+
+0 נוחי נוח נוחי adjective masculine plural construct unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוחי נוח נוחי adjective masculine plural construct unspecified unspecified  	O	null
+3 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ראש ראש ראשך noun masculine singular absolute unspecified unspecified  
+4 ך ך ראשך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 השעיני השעין השעיני verb feminine singular unspecified 2 imperative  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה הבכי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הבכי בכי הבכי noun masculine singular absolute unspecified unspecified  	O	null
+8 ב ב בנשיקה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 נשיקה נשיקה בנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+9 הרדימי הרדים הרדימי verb feminine singular unspecified 2 imperative  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 בפני בפני בפניו preposition unspecified unspecified unspecified unspecified unspecified  
+1 ו ו בפניו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+2 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+4 תביטי הביט תביטי verb feminine singular unspecified 2 future  	O	null
+5 אנא אנא אנא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ב ב בכוחו preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 כוח כוח בכוחו noun masculine singular absolute unspecified unspecified  
+6 ו ו בכוחו possessive masculine singular unspecified 3 unspecified 0 	O	null
+7 אל אל אל noun masculine singular absolute unspecified unspecified  	O	null
+8 נא נא נא adjective masculine singular absolute unspecified unspecified  	O	null
+9 תמעיטי המעיט תמעיטי verb feminine singular unspecified 2 future  	O	null
+
+0 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+1 ל ל לרוחות preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה לרוחות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הרוחות רוח לרוחות noun feminine plural absolute unspecified unspecified  	O	null
+2 לפזר פיזר לפזר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 אנחות אנחה אנחות noun feminine plural absolute unspecified unspecified  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יכולה יכול יכולה modal feminine singular unspecified any beinoni  	O	null
+6 לנסות ניסה לנסות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 רוגז רוגז רוגז noun masculine singular absolute unspecified unspecified  	O	null
+9 למחות מחה למחות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 יכולה יכול יכולה modal feminine singular unspecified any beinoni  	O	null
+12 לנסות ניסה לנסות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+14 צער צער צער noun masculine singular absolute unspecified unspecified  	O	null
+15 לדחוק דחק לדחוק verb unspecified unspecified unspecified unspecified infinitive  	O	null
+16 צפוי צפוי צפוי adjective masculine singular absolute unspecified unspecified  	O	null
+17 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+18 נסיון ניסיון נסיון noun masculine singular absolute unspecified unspecified  	O	null
+19 נוסף נוסף נוסף adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 נוחי נח נוחי verb feminine singular unspecified 2 imperative  	O	null
+1 מעט.. מעט.. מעט.. properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 נוחי נח נוחי verb feminine singular unspecified 2 imperative  	O	null
+3 מעט.. מעט.. מעט.. adjective masculine singular construct unspecified unspecified  	O	null
+
+0 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+1 יזכור זכר יזכור verb masculine singular unspecified 3 future  	O	null
+2 נשאת נישא נשאת verb feminine singular unspecified any beinoni  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 רחמיי רחם רחמייך noun masculine plural absolute unspecified unspecified  
+4 ך ך רחמייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ציפור ציפור ציפור noun masculine singular construct unspecified unspecified  	O	null
+7 המראת המראה המראת noun feminine singular construct unspecified unspecified  	O	null
+8 אל אל אל noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ש ש שראית relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 ראית ראיה שראית noun feminine singular construct unspecified unspecified  	O	null
+3 בדידות בדידות בדידות noun feminine singular absolute unspecified unspecified  	O	null
+4 ו ו ורוע conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 רוע רוע ורוע noun masculine singular construct unspecified unspecified  	O	null
+5 נוחי נוח נוחי adjective masculine plural construct unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+8 ל ל לעייפות preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 עייפות עייפות לעייפות noun feminine singular absolute unspecified unspecified  	O	null
+9 לכרוע כרע לכרוע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+1 ל ל לרוחות preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה לרוחות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הרוחות רוח לרוחות noun feminine plural absolute unspecified unspecified  	O	null
+2 לפזר פיזר לפזר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 אנחות אנחה אנחות noun feminine plural absolute unspecified unspecified  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יכולה יכול יכולה modal feminine singular unspecified any beinoni  	O	null
+6 לנסות ניסה לנסות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 רוגז רוגז רוגז noun masculine singular absolute unspecified unspecified  	O	null
+9 למחות מחה למחות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 יכולה יכול יכולה modal feminine singular unspecified any beinoni  	O	null
+12 לנסות ניסה לנסות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+14 צער צער צער noun masculine singular absolute unspecified unspecified  	O	null
+15 לדחוק דחק לדחוק verb unspecified unspecified unspecified unspecified infinitive  	O	null
+16 צפוי צפוי צפוי adjective masculine singular absolute unspecified unspecified  	O	null
+17 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+18 נסיון ניסיון נסיון noun masculine singular absolute unspecified unspecified  	O	null
+19 נוסף נוסף נוסף adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 נוחי נח נוחי verb feminine singular unspecified 2 imperative  	O	null
+1 מעט.. מעט.. מעט.. properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 נוחי נח נוחי verb feminine singular unspecified 2 imperative  	O	null
+3 מעט.. מעט.. מעט.. adjective masculine singular construct unspecified unspecified  	O	null
+
+0 נוחי נוח נוחי adjective masculine plural construct unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוחי נוח נוחי adjective masculine plural construct unspecified unspecified  	O	null
+3 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ראש ראש ראשך noun masculine singular absolute unspecified unspecified  
+4 ך ך ראשך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 השעיני השעין השעיני verb feminine singular unspecified 2 imperative  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה הבכי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הבכי בכי הבכי noun masculine singular absolute unspecified unspecified  	O	null
+8 ב ב בנשיקה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 נשיקה נשיקה בנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+9 הרדימי הרדים הרדימי verb feminine singular unspecified 2 imperative  	O	null
+

@@ -1,0 +1,133 @@
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 צריכה צריכה צריכה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שתבקר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 תבקר ביקר שתבקר verb feminine singular unspecified 3 future  	O	null
+3 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+7 ש ש שתתעצבן relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 תתעצבן התעצבן שתתעצבן verb feminine singular unspecified 3 future  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+10 ש ש שתשתף relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 תשתף שיתף שתשתף verb feminine singular unspecified 3 future  	O	null
+11 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 ב ב במלחמות preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 מלחמות מלחמה במלחמות noun feminine plural absolute unspecified unspecified  	O	null
+13 ש ש שאתה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 אתה הוא שאתה pronoun masculine singular unspecified 2 unspecified  	O	null
+14 מתכנן תכנן מתכנן verb masculine singular unspecified any beinoni  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 צריכה צריכה צריכה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שתתחנן relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 תתחנן התחנן שתתחנן verb feminine singular unspecified 3 future  	O	null
+3 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+7 ש ש שתשקר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 תשקר שיקר שתשקר verb feminine singular unspecified 3 future  	O	null
+8 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+9 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+11 ש ש שתחבר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 תחבר חיבר שתחבר verb feminine singular unspecified 3 future  	O	null
+12 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+12 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+13 ל ל לפחדים preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 פחדים פחד לפחדים noun masculine plural absolute unspecified unspecified  	O	null
+14 ש ש שאתה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 אתה הוא שאתה pronoun masculine singular unspecified 2 unspecified  	O	null
+15 מתמכר התמכר מתמכר verb masculine singular unspecified any beinoni  	O	null
+
+0 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 חזקה חזק חזקה adjective feminine singular absolute unspecified unspecified  	O	null
+3 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ש ש שרק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 רק רק שרק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אשה איש אשה noun feminine singular absolute unspecified unspecified  	O	null
+6 אוהבת אהב אוהבת verb feminine singular unspecified any beinoni  	O	null
+7 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+8 חזקה חזק חזקה adjective feminine singular absolute unspecified unspecified  	O	null
+9 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+11 ה ה הטובה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הטובה טוב הטובה adjective feminine singular absolute unspecified unspecified  	O	null
+12 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+13 חזקה חזק חזקה adjective feminine singular absolute unspecified unspecified  	O	null
+14 ו ו ויכולה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 יכולה יכול ויכולה modal feminine singular unspecified any beinoni  	O	null
+15 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ללכת הלך ללכת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+17 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+18 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+19 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+20 ש ש שמפחד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 מפחד פיחד שמפחד verb masculine singular unspecified any beinoni  	O	null
+21 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+22 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+23 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+24 ש ש שמפחד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 מפחד פיחד שמפחד verb masculine singular unspecified any beinoni  	O	null
+25 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+26 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+27 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 צריכה צריכה צריכה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שתלווה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 תלווה לווה שתלווה verb feminine singular unspecified 3 future  	O	null
+3 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+7 ש ש שתתחייב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 תתחייב התחייב שתתחייב verb feminine singular unspecified 3 future  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+10 ש ש שתבלבל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 תבלבל בלבל שתבלבל verb feminine singular unspecified 3 future  	O	null
+11 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 ב ב בשאלות preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 שאלות שאלה בשאלות noun feminine plural absolute unspecified unspecified  	O	null
+13 ש ש שאתה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 אתה הוא שאתה pronoun masculine singular unspecified 2 unspecified  	O	null
+14 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 עוזב עזב עוזב verb masculine singular unspecified any beinoni  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 צריכה צריכה צריכה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שתלמד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 תלמד למד שתלמד verb feminine singular unspecified 3 future  	O	null
+3 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+7 להתנצל התנצל להתנצל verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+10 ש ש שתפתה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 תפתה פיתה שתפתה verb feminine singular unspecified 3 future  	O	null
+11 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה המילים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 המילים מילה המילים noun feminine plural absolute unspecified unspecified  	O	null
+14 ש ש שאתה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 אתה הוא שאתה pronoun masculine singular unspecified 2 unspecified  	O	null
+15 ממלמל ממלמל ממלמל verb masculine singular unspecified any beinoni  	O	null
+
+0 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 חזקה... חזקה... חזקה... adjective masculine singular construct unspecified unspecified  	O	null
+

@@ -1,0 +1,65 @@
+0 שני CARD2 שני numeral masculine dual construct unspecified unspecified  	O	null
+1 דגים דג דגים noun masculine plural absolute unspecified unspecified  	O	null
+2 נחפזו נחפז נחפזו verb masculine-and-feminine plural unspecified 3 past  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ו ו וירדו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ירדו ירד וירדו verb masculine-and-feminine plural unspecified 3 past  	O	null
+5 ל ל למצולות preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 מצולות מצולה למצולות noun feminine plural construct unspecified unspecified  	O	null
+6 ה ה הים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הים ים הים noun masculine singular absolute unspecified unspecified  	O	null
+7 ל ל לספר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ספר ספר לספר noun masculine singular construct unspecified unspecified  	O	null
+8 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+9 ל ל לרעותו preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 רעות רעות לרעותו noun feminine singular absolute unspecified unspecified  
+9 ו ו לרעותו possessive masculine singular unspecified 3 unspecified 0 	O	null
+10 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+11 גדלה גדל גדלה verb feminine singular unspecified 3 past  	O	null
+12 אהבת אהבה אהבתם noun feminine singular absolute unspecified unspecified  
+12 ם ם אהבתם possessive masculine plural unspecified 3 unspecified 0 	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 שני CARD2 שני numeral masculine dual construct unspecified unspecified  	O	null
+1 דגים דג דגים noun masculine plural absolute unspecified unspecified  	O	null
+2 צללו צלל צללו verb masculine-and-feminine plural unspecified 3 past  	O	null
+3 ו ו ושהו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 שהו שהה ושהו verb masculine-and-feminine plural unspecified 3 past  	O	null
+4 ב ב במצולות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 מצולות מצולה במצולות noun feminine plural construct unspecified unspecified  	O	null
+5 ה ה הים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הים ים הים noun masculine singular absolute unspecified unspecified  	O	null
+6 ו ו וככל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 ככל ככל וככל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ש ש שהרחיקו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 הרחיקו הרחיק שהרחיקו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 הלוך הלך הלוך verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 כן כן כן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 גדלה גדל גדלה verb feminine singular unspecified 3 past  	O	null
+11 אהבת אהבה אהבתם noun feminine singular absolute unspecified unspecified  
+11 ם ם אהבתם possessive masculine plural unspecified 3 unspecified 0 	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ולא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 לא לא ולא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עלו עלה עלו verb masculine-and-feminine plural unspecified 3 past  	O	null
+3 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה החוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 החוף חוף החוף noun masculine singular absolute unspecified unspecified  	O	null
+5 אוהבי אהב אוהבי participle masculine plural construct any unspecified  	O	null
+6 מצולות מצולה מצולות noun feminine plural construct unspecified unspecified  	O	null
+7 ה ה הים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הים ים הים noun masculine singular absolute unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ילא ילא ילא noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה הפה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הפה פה הפה noun masculine singular absolute unspecified unspecified  	O	null
+2 מספר מספר מספר verb masculine singular unspecified 3 past  	O	null
+3 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+4 גדלה גדל גדלה verb feminine singular unspecified 3 past  	O	null
+5 אהבת אהבה אהבתם noun feminine singular absolute unspecified unspecified  
+5 ם ם אהבתם possessive masculine plural unspecified 3 unspecified 0 	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

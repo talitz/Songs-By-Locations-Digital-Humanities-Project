@@ -1,0 +1,144 @@
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יפים יפה יפים adjective masculine plural absolute unspecified unspecified  	O	null
+2 ה ה הלילות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הלילות לילה הלילות noun masculine plural absolute unspecified unspecified  	O	null
+3 ב ב בכנען preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 כנען כנען בכנען properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+4 צוננים צונן צוננים adjective masculine plural absolute unspecified unspecified  	O	null
+5 המה המה המה verb masculine singular unspecified 3 past  	O	null
+6 ו ו ובהירים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 בהירים בהיר ובהירים adjective masculine plural absolute unspecified unspecified  	O	null
+7 ה ה הדממה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הדממה דממה הדממה noun feminine singular absolute unspecified unspecified  	O	null
+8 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 תשיר שר תשיר verb feminine singular unspecified 3 future  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+11 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+12 יען יען יען noun masculine singular construct unspecified unspecified  	O	null
+13 יען יען יען noun masculine singular construct unspecified unspecified  	O	null
+14 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+15 לבי ליבה לבי verb feminine singular unspecified 2 imperative  	O	null
+16 ב ב בשירים preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 שירים שיר בשירים noun masculine plural absolute unspecified unspecified  	O	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יללת יללה יללת noun feminine singular construct unspecified unspecified  	O	null
+1 תנים תן תנים noun masculine plural absolute unspecified unspecified  	O	null
+2 נוגה נוגה נוגה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 תחצה חצה תחצה verb feminine singular unspecified 3 future  	O	null
+4 דמי דם דמי noun masculine plural construct unspecified unspecified  	O	null
+5 ה ה הליל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הליל ליל הליל noun masculine singular absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הולכים הלך הולכים verb masculine plural unspecified any beinoni  	O	null
+1 ו ו ואובדים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 אובדים אבד ואובדים verb masculine plural unspecified any beinoni  	O	null
+2 ה ה השירים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השירים שיר השירים noun masculine plural absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הדם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הדם דם הדם noun masculine singular absolute unspecified unspecified  	O	null
+6 ה ה הקל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הקל קל הקל adjective masculine singular absolute unspecified unspecified  	O	null
+7 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+8 יען יען יען noun masculine singular absolute unspecified unspecified  	O	null
+9 צוננים צונן צוננים adjective masculine plural absolute unspecified unspecified  	O	null
+10 המה המה המה verb masculine singular unspecified 3 past  	O	null
+11 ו ו ובהירים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 בהירים בהיר ובהירים adjective masculine plural absolute unspecified unspecified  	O	null
+12 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ו ו ויפים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 יפים יפה ויפים adjective masculine plural absolute unspecified unspecified  	O	null
+14 ה ה הלילות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הלילות לילה הלילות noun masculine plural absolute unspecified unspecified  	O	null
+15 ב ב בכנען preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 כנען כנען בכנען properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+16 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יללת יללה יללת noun feminine singular construct unspecified unspecified  	O	null
+1 תנים תן תנים noun masculine plural absolute unspecified unspecified  	O	null
+2 נוגה... נוגה... נוגה... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 יפים יפה יפים adjective masculine plural absolute unspecified unspecified  	O	null
+1 ה ה הלילות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הלילות לילה הלילות noun masculine plural absolute unspecified unspecified  	O	null
+2 ו ו ובהירים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 בהירים בהיר ובהירים adjective masculine plural absolute unspecified unspecified  	O	null
+3 ו ו וצוננים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 צוננים צונן וצוננים adjective masculine plural absolute unspecified unspecified  	O	null
+4 המה המה המה verb masculine singular unspecified 3 past  	O	null
+5 ב ב בכנען preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 כנען כנען בכנען properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 צללו צלל צללו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נדמו נדמה נדמו verb masculine-and-feminine plural unspecified 3 past  	O	null
+10 ה ה השירים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 השירים שיר השירים noun masculine plural absolute unspecified unspecified  	O	null
+11 ו ו והדם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה והדם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הדם דם והדם noun masculine singular absolute unspecified unspecified  	O	null
+12 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 יען יען יען noun masculine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 יען יען יען noun masculine singular absolute unspecified unspecified  	O	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יללת יללה יללת noun feminine singular construct unspecified unspecified  	O	null
+1 תנים תן תנים noun masculine plural absolute unspecified unspecified  	O	null
+2 נוגה... נוגה... נוגה... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 אחי אחי אחי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 הלכו הלך הלכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 ל ל לרעות preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 רעות רעות לרעות noun feminine singular construct unspecified unspecified  	O	null
+3 צאן צאן צאנם noun masculine singular absolute unspecified unspecified  
+3 ם ם צאנם possessive masculine plural unspecified 3 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 להשקות השקה להשקות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 העדרים העדר העדרים noun masculine plural absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ו ו ורחל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 רחל רחל ורחל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 רחל רחל רחל properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+11 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 תטפס טיפס תטפס verb feminine singular unspecified 3 future  	O	null
+13 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה ההרים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 ההרים הר ההרים noun masculine plural absolute unspecified unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יללת יללה יללת noun feminine singular construct unspecified unspecified  	O	null
+1 תנים תן תנים noun masculine plural absolute unspecified unspecified  	O	null
+2 נוגה... נוגה... נוגה... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 ה ה השלג definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 השלג שלג השלג noun masculine singular absolute unspecified unspecified  	O	null
+1 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה החרמון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 החרמון חרמון החרמון properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 הולך הלך הולך verb masculine singular unspecified any beinoni  	O	null
+4 ו ו ונמס conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 נמס נמס ונמס adjective masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 בואי בא בואי verb feminine singular unspecified 2 imperative  	O	null
+7 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רחל רחל רחל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 שלי שלי שלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 בואי בא בואי verb feminine singular unspecified 2 imperative  	O	null
+12 ו ו ונתעלס conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 נתעלס התעלס ונתעלס verb masculine-and-feminine plural unspecified 1 future  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יללת יללה יללת noun feminine singular construct unspecified unspecified  	O	null
+1 תנים תן תנים noun masculine plural absolute unspecified unspecified  	O	null
+2 נוגה... נוגה... נוגה... adjective masculine singular construct unspecified unspecified  	O	null
+

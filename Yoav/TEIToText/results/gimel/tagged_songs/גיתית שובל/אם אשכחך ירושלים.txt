@@ -1,0 +1,61 @@
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אשכחך אשכחך אשכחך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ירושלים ירושלים ירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 תשכח שכח תשכח verb feminine singular unspecified 3 future  	O	null
+4 ימיני ימין ימיני noun masculine plural construct unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תידבק נדבק תידבק verb feminine singular unspecified 3 future  	O	null
+7 ל ל לשוני preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 שוני שוני לשוני noun masculine singular absolute unspecified unspecified  	O	null
+8 ל ל לחיכי preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 חיכי חיך לחיכי noun masculine plural construct unspecified unspecified  	O	null
+9 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אזכרכי אזכרכי אזכרכי adjective masculine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אשכחך אשכחך אשכחך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ירושלים ירושלים ירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אעלה עלה אעלה verb masculine-and-feminine singular unspecified 1 future  	O	null
+3 ירושלים ירושלים ירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ראש ראש ראש noun masculine singular absolute unspecified unspecified  	O	null
+6 שימחתי שימח שימחתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+7 זכור זכור זכור adjective masculine singular absolute unspecified unspecified  	O	null
+8 אדוני אדון אדוני noun masculine plural construct unspecified unspecified  	O	null
+9 ל ל לבני preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 בני בן לבני noun masculine plural construct unspecified unspecified  	O	null
+10 אדום אדום אדום properName masculine singular unspecified unspecified unspecified  	I_LOC	null
+11 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 יום יום יום noun masculine singular construct unspecified unspecified  	I_DATE	null
+13 ירושלים ירושלים ירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אשכחך אשכחך אשכחך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ירושלים ירושלים ירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה האומרים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 האומרים אמר האומרים participle masculine plural absolute any unspecified  	O	null
+1 ערו עירה ערו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 ערו עירה ערו verb masculine-and-feminine plural unspecified 3 past  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה היסוד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 היסוד יסוד היסוד noun masculine singular absolute unspecified unspecified  	O	null
+6 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+6 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+7 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אעלה עלה אעלה verb masculine-and-feminine singular unspecified 1 future  	O	null
+10 ירושלים ירושלים ירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+11 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ראש ראש ראש noun masculine singular absolute unspecified unspecified  	O	null
+13 שימחתי שימח שימחתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

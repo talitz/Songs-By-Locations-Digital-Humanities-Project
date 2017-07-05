@@ -1,0 +1,186 @@
+0 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה הצבא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הצבא צבא הצבא noun masculine singular absolute unspecified unspecified  	O	null
+2 ה ה הלכת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הלכת לכת הלכת noun feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הנשמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הנשמה נשמה הנשמה noun feminine singular absolute unspecified unspecified  	O	null
+6 נתת נתן נתת verb feminine singular unspecified 2 past  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נתת נתן נתת verb feminine singular unspecified 2 past  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ידעת ידע ידעת verb feminine singular unspecified 2 past  	O	null
+12 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+13 ה ה המדינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 המדינה מדינה המדינה noun feminine singular absolute unspecified unspecified  	O	null
+14 של של שלנו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+14 נו נו שלנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 כש כש כשתשתחרר temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+16 תשתחרר השתחרר כשתשתחרר verb feminine singular unspecified 3 future  	O	null
+17 אינשאללה אינשאללה אינשאללה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+18 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 נדאג דאג נדאג verb masculine-and-feminine plural unspecified 1 future  	O	null
+20 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+21 הבטיחו הבטיח הבטיחו verb masculine-and-feminine plural unspecified 3 past  	O	null
+22 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+23 כש כש כשהשתחררת temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+23 השתחררת השתחרר כשהשתחררת verb feminine singular unspecified 2 past  	O	null
+24 ה ה ההבטחות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 ההבטחות הבטחה ההבטחות noun feminine plural absolute unspecified unspecified  	O	null
+25 זכרת זכר זכרת verb feminine singular unspecified 2 past  	O	null
+26 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה המדינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המדינה מדינה המדינה noun feminine singular absolute unspecified unspecified  	O	null
+1 של של שלנו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+1 נו נו שלנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נולדה נולד נולדה verb feminine singular unspecified 3 past  	O	null
+4 בשביל בשביל בשביל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כול כול כולנו quantifier unspecified unspecified unspecified unspecified unspecified  
+5 נו נו כולנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נולדה נולד נולדה verb feminine singular unspecified 3 past  	O	null
+8 בשביל בשביל בשביל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 כול כול כולנו quantifier unspecified unspecified unspecified unspecified unspecified  
+9 נו נו כולנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 שכחה שכח שכחה verb feminine singular unspecified 3 past  	O	null
+13 את את אותנו at-preposition unspecified unspecified unspecified unspecified unspecified  
+13 נו נו אותנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה המדינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המדינה מדינה המדינה noun feminine singular absolute unspecified unspecified  	O	null
+1 של של שלנו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+1 נו נו שלנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נולדה נולד נולדה verb feminine singular unspecified 3 past  	O	null
+4 בשביל בשביל בשביל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כול כול כולנו quantifier unspecified unspecified unspecified unspecified unspecified  
+5 נו נו כולנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נולדה נולד נולדה verb feminine singular unspecified 3 past  	O	null
+8 בשביל בשביל בשביל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 כול כול כולנו quantifier unspecified unspecified unspecified unspecified unspecified  
+9 נו נו כולנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 שכחה שכח שכחה verb feminine singular unspecified 3 past  	O	null
+13 את את אותנו at-preposition unspecified unspecified unspecified unspecified unspecified  
+13 נו נו אותנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 להתחתן התחתן להתחתן verb unspecified unspecified unspecified unspecified infinitive  	O	null
+1 רצית רצייה רצית noun feminine singular construct unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 למצוא מצא למצוא verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 דירה דירה דירה noun feminine singular absolute unspecified unspecified  	O	null
+5 ניסית ניסה ניסית verb feminine singular unspecified 2 past  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ו ו ורק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 רק רק ורק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כש כש כשהתחתנת temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+8 התחתנת התחתן כשהתחתנת verb feminine singular unspecified 2 past  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 קיבלת קיבל קיבלת verb feminine singular unspecified 2 past  	O	null
+11 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 משכנתא משכנתא משכנתא noun feminine singular absolute unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 כש כש כשהזדקנת temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+15 הזדקנת הזדקן כשהזדקנת verb feminine singular unspecified 2 past  	O	null
+16 הבנת הבין הבנת verb feminine singular unspecified 2 past  	O	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ו ו ועכשיו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 עכשיו עכשיו ועכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 הבנת הבין הבנת verb feminine singular unspecified 2 past  	O	null
+20 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 בעצם בעצם בעצם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 התחתנת התחתן התחתנת verb feminine singular unspecified 2 past  	O	null
+23 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 התחתנת התחתן התחתנת verb feminine singular unspecified 2 past  	O	null
+25 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+26 ה ה המשכנתא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+26 המשכנתא משכנתא המשכנתא noun feminine singular absolute unspecified unspecified  	O	null
+27 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה המדינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המדינה מדינה המדינה noun feminine singular absolute unspecified unspecified  	O	null
+1 ש ש שלנו... relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 ל ל שלנו... preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 נו... נו... שלנו... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 ב ב במדינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה במדינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המדינה מדינה במדינה noun feminine singular absolute unspecified unspecified  	O	null
+1 של של שלנו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+1 נו נו שלנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ל ל לכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 כל כול לכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+4 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+5 מגיע הגיע מגיע verb masculine singular unspecified any beinoni  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אחד איחד אחד verb masculine singular unspecified 3 past  	I_LOC	null
+8 ב ב בכפר preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 כפר כפר בכפר noun masculine singular construct unspecified unspecified  	I_LOC	null
+9 שמריהו שמריהו שמריהו properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ו ו והשני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה והשני definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השני שני והשני noun masculine singular absolute unspecified unspecified  	O	null
+12 חיריה חיריה חיריה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כולם כולם כולם pronoun masculine plural unspecified 3 unspecified  	O	null
+1 שווים שווה שווים adjective masculine plural absolute unspecified unspecified  	O	null
+2 אצלינו אצלינו אצלינו verb masculine-and-feminine plural unspecified 3 past  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+5 מפותחת מפותח מפותחת adjective feminine singular absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+1 שווה שווה שווה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מיליונים ORD-CARD1000000 מיליונים numeral masculine plural absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שני שני שני noun masculine singular absolute unspecified unspecified  	O	null
+5 שווה שווה שווה adjective masculine singular absolute unspecified unspecified  	O	null
+6 ל ל לתחת preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה לתחת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 התחת תחת לתחת noun masculine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה המדינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המדינה מדינה המדינה noun feminine singular absolute unspecified unspecified  	O	null
+1 של של שלנו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+1 נו נו שלנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הייתה הוא הייתה copula feminine singular unspecified 3 past  	O	null
+6 עוברת עבר עוברת verb feminine singular unspecified any beinoni  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ש ש שפוס relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 פוס פוס שפוס noun masculine singular absolute unspecified unspecified  	O	null
+9 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+10 בין בין בינינו preposition unspecified unspecified unspecified unspecified unspecified  
+10 נו נו בינינו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+11 היתה הוא היתה copula feminine singular unspecified 3 past  	O	null
+12 נראית נראה נראית verb feminine singular unspecified any beinoni  	O	null
+13 אחרת אחר אחרת adjective feminine singular absolute unspecified unspecified  	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה המדינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המדינה מדינה המדינה noun feminine singular absolute unspecified unspecified  	O	null
+1 ש ש שלנו... relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 ל ל שלנו... preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 נו... נו... שלנו... adjective masculine singular construct unspecified unspecified  	O	null
+

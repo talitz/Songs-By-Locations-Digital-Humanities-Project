@@ -1,0 +1,112 @@
+0 ו ו ויום conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 יום יום ויום noun masculine singular absolute unspecified unspecified  	O	null
+1 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+2 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+3 קמה קם קמה verb feminine singular unspecified 3 past  	O	null
+4 עזבה עזב עזבה verb feminine singular unspecified 3 past  	O	null
+5 ו ו ונעלמה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 נעלמה נעלם ונעלמה verb feminine singular unspecified 3 past  	O	null
+6 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+6 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+7 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+9 על על עליה preposition unspecified unspecified unspecified unspecified unspecified  
+9 ה ה עליה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+10 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 חושב חשב חושב verb masculine singular unspecified any beinoni  	O	null
+12 ליב לב ליבי noun masculine singular absolute unspecified unspecified  
+12 י י ליבי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+13 שייך שייך שייך verb masculine singular unspecified 3 past  	O	null
+14 אל אל אליה preposition unspecified unspecified unspecified unspecified unspecified  
+14 ה ה אליה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+15 נפש נפש נפשי noun feminine singular absolute unspecified unspecified  
+15 י י נפשי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+16 אומה אומה אומה noun feminine singular absolute unspecified unspecified  	O	null
+17 אל אל אליה preposition unspecified unspecified unspecified unspecified unspecified  
+17 ה ה אליה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+18 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+19 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+20 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+20 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+21 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+23 אוהב אהב אוהב verb masculine singular unspecified any beinoni  	O	null
+24 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+26 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+27 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+27 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+28 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+29 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+30 אוהב אהב אוהב verb masculine singular unspecified any beinoni  	O	null
+
+0 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+4 ב ב בלב preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 לב לב בלב noun masculine singular construct unspecified unspecified  	O	null
+5 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+7 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+8 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+9 אוהב אהב אוהב verb masculine singular unspecified any beinoni  	O	null
+
+0 כולים כלה כולים verb masculine plural unspecified any beinoni  	O	null
+1 רוצים רצה רוצים verb masculine plural unspecified any beinoni  	O	null
+2 אל אל אליה preposition unspecified unspecified unspecified unspecified unspecified  
+2 ה ה אליה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+3 יפה יפה יפה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 אין יש ואין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כמו כמו כמוה preposition unspecified unspecified unspecified unspecified unspecified  
+5 ה ה כמוה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+6 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+7 ב ב בכולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 כול כול בכולם quantifier unspecified unspecified unspecified unspecified unspecified  
+7 הם הם בכולם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+8 ב ב במבטים preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 מבטים מבט במבטים noun masculine plural absolute unspecified unspecified  	O	null
+9 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+11 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 אוהבת אהב אוהבת verb feminine singular unspecified any beinoni  	O	null
+13 ו ו ועלי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 על על ועלי preposition unspecified unspecified unspecified unspecified unspecified  
+13 י י ועלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+14 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מוותרת ויתר מוותרת verb feminine singular unspecified any beinoni  	O	null
+16 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+17 ל ל לזו preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 זו זו לזו pronoun feminine singular unspecified 3 unspecified  	O	null
+18 נשבענו נשבע נשבענו verb masculine-and-feminine plural unspecified 1 past  	O	null
+19 אמונים אמון אמונים noun masculine plural absolute unspecified unspecified  	O	null
+20 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+21 ל ל לזו preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 זו זו לזו pronoun feminine singular unspecified 3 unspecified  	O	null
+22 נשבענו נשבע נשבענו verb masculine-and-feminine plural unspecified 1 past  	O	null
+23 אמונים אמון אמונים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 אורלי... אורלי... אורלי... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+
+0 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+4 ב ב בלב preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 לב לב בלב noun masculine singular construct unspecified unspecified  	O	null
+5 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 אורלי אורלי אורלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+7 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+8 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+9 אוהב אהב אוהב verb masculine singular unspecified any beinoni  	O	null
+10 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+10 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+12 אוהב אהב אוהב verb masculine singular unspecified any beinoni  	O	null
+

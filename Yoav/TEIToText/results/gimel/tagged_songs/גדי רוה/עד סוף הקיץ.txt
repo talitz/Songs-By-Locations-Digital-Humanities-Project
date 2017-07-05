@@ -1,0 +1,146 @@
+0 ניסיתי ניסה ניסיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 להדביק הדביק להדביק verb unspecified unspecified unspecified unspecified infinitive  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 צעדי צעד צעדיה noun masculine plural absolute unspecified unspecified  
+3 ה ה צעדיה possessive feminine singular unspecified 3 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כתפה כתפה כתפה noun feminine singular absolute unspecified unspecified  	O	null
+6 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ב ב בכתפי preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 כתפי כתף בכתפי noun feminine plural construct unspecified unspecified  	O	null
+8 כמעט כמעט כמעט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 חיכיתי חיכה חיכיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 ל ל לעיניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 עין עין לעיניה noun feminine plural absolute unspecified unspecified  
+1 ה ה לעיניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 חיכיתי חיכה חיכיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+4 ל ל לעיניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 עין עין לעיניה noun feminine plural absolute unspecified unspecified  
+4 ה ה לעיניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 יכולתי יכול יכולתי modal masculine-and-feminine singular unspecified 1 past  	O	null
+9 לבקש ביקש לבקש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 ב ב באמצע preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 אמצע אמצע באמצע noun masculine singular construct unspecified unspecified  	O	null
+11 ה ה הרחוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הרחוב רחוב הרחוב noun masculine singular absolute unspecified unspecified  	O	null
+12 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	O	null
+3 אדע ידע אדע verb masculine-and-feminine singular unspecified 1 future  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה התשובה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 התשובה תשובה התשובה noun feminine singular absolute unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פשר פשר פשר noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה הקולות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הקולות קול הקולות noun masculine plural absolute unspecified unspecified  	O	null
+10 אלמד למד אלמד verb masculine-and-feminine singular unspecified 1 future  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+14 ה ה החלומות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 החלומות חלום החלומות noun masculine plural absolute unspecified unspecified  	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 אפתור פתר אפתור verb masculine-and-feminine singular unspecified 1 future  	O	null
+17 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ה ה הפחדים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 הפחדים פחד הפחדים noun masculine plural absolute unspecified unspecified  	O	null
+19 ב ב בסוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 סוף סוף בסוף noun masculine singular construct unspecified unspecified  	O	null
+20 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	O	null
+21 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 אשב ישב אשב verb masculine-and-feminine singular unspecified 1 future  	O	null
+23 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+24 ידידים ידיד ידידים noun masculine plural absolute unspecified unspecified  	O	null
+25 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+2 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לחזור חזר לחזור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 הביתה הביתה הביתה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 צילה צילה צילה properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+7 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ב ב בצילי preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 צילי צילי בצילי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 כמעט כמעט כמעט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נוגע נגע נוגע verb masculine singular unspecified any beinoni  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אנחנו הוא אנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+2 שניים ORD2 שניים numeral masculine plural absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ש ש שלובי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 לובי לובי שלובי noun masculine singular absolute unspecified unspecified  	O	null
+5 צילי צילי צילי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 ידיים יד ידיים noun feminine plural absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+9 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 יכולתי יכול יכולתי modal masculine-and-feminine singular unspecified 1 past  	O	null
+11 לבקש ביקש לבקש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 ב ב באמצע preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 אמצע אמצע באמצע noun masculine singular construct unspecified unspecified  	O	null
+13 ה ה הרחוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הרחוב רחוב הרחוב noun masculine singular absolute unspecified unspecified  	O	null
+14 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה הקיץ... definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הקיץ... הקיץ... הקיץ... participle masculine singular absolute any unspecified  	O	null
+
+0 נדמה נדמה נדמה verb masculine singular unspecified 3 past  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 ש ש שראיתי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 ראיתי ראה שראיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 עין עין עיניה noun feminine plural absolute unspecified unspecified  
+4 ה ה עיניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+5 נחות נחות נחות adjective masculine singular absolute unspecified unspecified  	O	null
+6 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+6 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 ב ב בדרך preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 דרך דרך בדרך noun feminine singular absolute unspecified unspecified  	O	null
+8 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+10 ב ב באור preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 אור אור באור noun masculine singular absolute unspecified unspecified  	O	null
+11 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ה ה הערבים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הערבים ערב הערבים noun masculine plural absolute unspecified unspecified  	O	null
+13 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+14 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+14 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+15 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+16 בית בית בית noun masculine singular construct unspecified unspecified  	O	null
+17 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+18 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 יכולתי יכול יכולתי modal masculine-and-feminine singular unspecified 1 past  	O	null
+20 לבקש ביקש לבקש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+21 ב ב באמצע preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 אמצע אמצע באמצע noun masculine singular construct unspecified unspecified  	O	null
+22 ה ה הרחוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 הרחוב רחוב הרחוב noun masculine singular absolute unspecified unspecified  	O	null
+
+0 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה הקיץ... definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הקיץ... הקיץ... הקיץ... participle masculine singular absolute any unspecified  	O	null
+

@@ -1,0 +1,103 @@
+0 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+1 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 ה ה הכבוד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכבוד כבוד הכבוד noun masculine singular absolute unspecified unspecified  	O	null
+4 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נדע ידע נדע verb masculine-and-feminine plural unspecified 1 future  	O	null
+6 מ מ מהצרות preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 הצרות הצרה מהצרות noun feminine plural absolute unspecified unspecified  	O	null
+7 תהיו הוא תהיו copula masculine-and-feminine plural unspecified 2 future  	O	null
+8 בריאים בריא בריאים adjective masculine plural absolute unspecified unspecified  	O	null
+9 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ב ב בשמחות preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 שמחות שמחה בשמחות noun feminine plural absolute unspecified unspecified  	O	null
+11 ו ו ושתחיו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 ש ש ושתחיו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 תחיו חי ושתחיו verb masculine-and-feminine plural unspecified 2 future  	O	null
+12 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 מאה ORD-CARD100 מאה numeral feminine plural absolute unspecified unspecified  	O	null
+14 ל ל לפחות preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 פחות פחה לפחות noun masculine plural absolute unspecified unspecified  	O	null
+
+0 ב ב בתיאבון preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה בתיאבון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 התיאבון תיאבון בתיאבון noun masculine singular absolute unspecified unspecified  	O	null
+1 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+2 שלום שלום שלום noun masculine singular construct unspecified unspecified  	O	null
+3 יברך בירך יברך verb masculine singular unspecified 3 future  	O	null
+4 את את אתכם at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 כם כם אתכם pronomial masculine plural unspecified 2 unspecified 0 	O	null
+5 ה ה האל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 האל אל האל noun masculine singular absolute unspecified unspecified  	O	null
+6 ה ה הטוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הטוב טוב הטוב adjective masculine singular absolute unspecified unspecified  	O	null
+7 ו ו ושתזכו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 ש ש ושתזכו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 תזכו זכה ושתזכו verb masculine-and-feminine plural unspecified 2 future  	O	null
+8 ל ל למצוות preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 מצוות מצווה למצוות noun feminine plural absolute unspecified unspecified  	O	null
+9 ש ש שיתגשמו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 יתגשמו התגשם שיתגשמו verb masculine-and-feminine plural unspecified 3 future  	O	null
+10 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+11 ה ה התקוות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 התקוות תקווה התקוות noun feminine plural absolute unspecified unspecified  	O	null
+
+0 ב ב בהצלחה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 הצלחה הצלחה בהצלחה noun feminine singular absolute unspecified unspecified  	O	null
+1 ו ו וברכה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 ברכה בריכה וברכה noun feminine singular absolute unspecified unspecified  	O	null
+2 לרגל לרגל לרגל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 עליה עלייה עליה noun feminine singular absolute unspecified unspecified  	O	null
+4 ב ב בדרגה preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 דרגה דרגה בדרגה noun feminine singular absolute unspecified unspecified  	O	null
+5 ו ו ובשנה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ב ב ובשנה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה ובשנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 השנה שנה ובשנה noun feminine singular absolute unspecified unspecified  	O	null
+6 ה ה הבאה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הבאה בא הבאה adjective feminine singular absolute unspecified unspecified  	O	null
+7 ב ב בירושלים preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ירושלים ירושלים בירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+8 ה ה הבנויה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הבנויה בנוי הבנויה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 ש ש שיבנה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 יבנה בנה שיבנה verb masculine singular unspecified 3 future  	O	null
+1 ה ה המקדש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המקדש מקדש המקדש noun masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בימינו preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ימין ימין בימינו noun masculine singular absolute unspecified unspecified  
+2 ו ו בימינו possessive masculine singular unspecified 3 unspecified 0 	O	null
+3 במהרה במהרה במהרה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ש ש שיבנה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 יבנה בנה שיבנה verb masculine singular unspecified 3 future  	O	null
+5 ה ה המקדש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 המקדש מקדש המקדש noun masculine singular absolute unspecified unspecified  	O	null
+6 ב ב בימינו preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ימין ימין בימינו noun masculine singular absolute unspecified unspecified  
+6 ו ו בימינו possessive masculine singular unspecified 3 unspecified 0 	O	null
+7 במהרה במהרה במהרה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ל ל לבריאות preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה לבריאות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הבריאות בריאות לבריאות noun feminine singular absolute unspecified unspecified  	O	null
+1 ו ו וזיי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 זי זי וזיי noun masculine plural absolute unspecified unspecified  
+1 ו ו וזיי possessive masculine singular unspecified 3 unspecified 0 	O	null
+2 גזונט גזונט גזונט properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ש ש שכל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 כל כול שכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+6 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+7 מבסוט מבסוט מבסוט adjective masculine singular absolute unspecified unspecified  	O	null
+8 נרים הרים נרים verb masculine-and-feminine plural unspecified 1 future  	O	null
+9 כוסית כוסית כוסית noun feminine singular absolute unspecified unspecified  	O	null
+10 לראות ראה לראות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+11 תוכנית תוכנית תוכנית noun feminine singular absolute unspecified unspecified  	O	null
+12 ב ב בטלוויזיה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 טלוויזיה טלוויזיה בטלוויזיה noun feminine singular absolute unspecified unspecified  	O	null
+13 צבעונית צבעוני צבעונית adjective feminine singular absolute unspecified unspecified  	O	null
+

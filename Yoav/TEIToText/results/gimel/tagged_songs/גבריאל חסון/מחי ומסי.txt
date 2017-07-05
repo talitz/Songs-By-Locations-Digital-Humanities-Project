@@ -1,0 +1,130 @@
+0 מחי מחי מחי noun masculine singular construct unspecified unspecified  	O	null
+1 ו ו ומסי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 מ מ ומסי preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 סי סי ומסי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ממית המית ממית verb masculine singular unspecified any beinoni  	O	null
+3 ו ו ומחי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 מ מ ומחי preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 חי חי ומחי noun masculine singular absolute unspecified unspecified  	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מסיק הסיק מסיק verb masculine singular unspecified any beinoni  	O	null
+1 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שאול שאול שאול properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ל ל לחיי preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 חיי חיים לחיי noun masculine plural construct unspecified unspecified  	O	null
+4 עלמא עלמא עלמא noun masculine singular absolute unspecified unspecified  	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ברא ברא ברא verb masculine singular unspecified 3 past  	O	null
+1 כד כד כד noun masculine singular construct unspecified unspecified  	O	null
+2 חט חט חטי noun masculine singular absolute unspecified unspecified  
+2 י י חטי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 אבו אבו אבוהי noun masculine plural absolute unspecified unspecified  
+3 הם הם אבוהי possessive masculine plural unspecified 3 unspecified 0 	O	null
+4 לקיה לקייה לקיה noun feminine singular absolute unspecified unspecified  	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אבו אבו אבוהי noun masculine plural absolute unspecified unspecified  
+0 הם הם אבוהי possessive masculine plural unspecified 3 unspecified 0 	O	null
+1 דחיי דחיי דחייס noun masculine singular absolute unspecified unspecified  
+1 ו ו דחייס possessive masculine singular unspecified 3 unspecified 0 	O	null
+2 אסי אסי אסי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ל ל לכאבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 כאב כאב לכאבה noun masculine singular absolute unspecified unspecified  
+3 ה ה לכאבה possessive feminine singular unspecified 3 unspecified 0 	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עבד עבד עבדא noun masculine singular absolute unspecified unspecified  
+0 ו ו עבדא possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 דמרי דמרי דמריד noun masculine singular absolute unspecified unspecified  
+1 י י דמריד possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 ו ו ונפיק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 נפיק הפיק ונפיק verb masculine-and-feminine plural unspecified 1 future  	O	null
+3 ב ב בקולר preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה בקולר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הקולר קולר בקולר noun masculine singular absolute unspecified unspecified  	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 למארה למארה למארה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תאי תאי תאיב noun masculine plural absolute unspecified unspecified  
+1 י י תאיב possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 יתבר יתבר יתבר verb feminine singular unspecified 2 past  	O	null
+3 קולר קולר קולרה noun masculine singular absolute unspecified unspecified  
+3 ה ה קולרה possessive feminine singular unspecified 3 unspecified 0 	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ברך בירך ברך verb masculine singular unspecified 3 past  	O	null
+1 ב ב בוכרך preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 וכר וכר בוכרך noun masculine singular absolute unspecified unspecified  
+1 ה ה בוכרך possessive feminine singular unspecified 3 unspecified 0 	O	null
+2 אנן אנן אנן verb masculine singular unspecified 3 past  	O	null
+3 ו ו וחטינן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 חטין חטין וחטינן noun feminine singular absolute unspecified unspecified  
+3 ו ו וחטינן possessive masculine singular unspecified 3 unspecified 0 	O	null
+4 קם קם קמך noun masculine singular absolute unspecified unspecified  
+4 ך ך קמך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הא הא הא properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+1 רוי רוי רויא noun masculine singular absolute unspecified unspecified  
+1 ה ה רויא possessive feminine singular unspecified 3 unspecified 0 	O	null
+2 נפשין נפשין נפשין verb feminine singular unspecified 2 imperative  	O	null
+3 ב ב בגידין preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 גידי גידי בגידין noun masculine plural absolute unspecified unspecified  
+3 י י בגידין possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 ו ו ומרדין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 מרדין מרדין ומרדין properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עבד עבד עבדך noun masculine singular absolute unspecified unspecified  
+0 ך ך עבדך possessive feminine singular unspecified 2 unspecified 0 	O	null
+1 אנן אנן אנן properName unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ו ו ומרדינן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 מ מ ומרדינן preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 רדינן רדינן ומרדינן noun feminine plural construct unspecified unspecified  	O	null
+3 קם קם קמך noun masculine singular absolute unspecified unspecified  
+3 ך ך קמך possessive feminine singular unspecified 2 unspecified 0 	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הא הא הא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 בבזתא בבזתא בבזתא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ו ו ושביא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 שביא שביא ושביא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 הא הא הא properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+5 ב ב במלקיותא preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 מלקיות מלקיות במלקיותא noun masculine-and-feminine plural absolute unspecified unspecified  
+5 י י במלקיותא possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 בבעו בבעו בבעו noun masculine singular construct unspecified unspecified  	O	null
+1 מין מין מינך noun masculine singular absolute unspecified unspecified  
+1 ך ך מינך possessive feminine singular unspecified 2 unspecified 0 	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ב ב במטו preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 מט מטה במטו noun masculine singular absolute unspecified unspecified  
+3 ו ו במטו possessive masculine singular unspecified 3 unspecified 0 	O	null
+4 מין מין מינך noun masculine singular absolute unspecified unspecified  
+4 ך ך מינך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 ב ב ברחמן preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 רחמן רחמן ברחמן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 נפשין נפשין נפשין verb feminine singular unspecified 2 imperative  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אסי אסי אסי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 ל ל לכאבין preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 כאבי כאבי לכאבין noun masculine plural absolute unspecified unspecified  
+1 י י לכאבין possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 דאיתקפו דאיתקפו דאיתקפו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 על עלה עלן noun masculine singular absolute unspecified unspecified  
+3 ן ן עלן possessive feminine plural unspecified 3 unspecified 0 	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 דלא דלא דלא noun masculine singular absolute unspecified unspecified  	O	null
+2 נהוי נהוי נהוי verb feminine singular unspecified 2 imperative  	O	null
+3 גמירא גמירא גמירא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 בשביא בשביא בשביא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

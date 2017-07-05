@@ -1,0 +1,127 @@
+0 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה בארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הארץ ארץ בארץ noun feminine singular absolute unspecified unspecified  	O	null
+1 להד"ם להד"ם להד"ם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נשמע נשמע נשמע verb masculine singular unspecified 3 past  	O	null
+4 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הדם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הדם דם הדם noun masculine singular absolute unspecified unspecified  	O	null
+6 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נבל נבל נבל noun masculine singular absolute unspecified unspecified  	O	null
+8 ו ו וקתרוס conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 קתרוס קתרוס וקתרוס noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו וחלילים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 חלילים חליל וחלילים noun masculine plural absolute unspecified unspecified  	O	null
+10 ו ו וחרש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 חרש חרש וחרש verb masculine singular unspecified 3 past  	O	null
+11 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 יד יד ידם noun feminine singular absolute unspecified unspecified  
+12 ם ם ידם possessive masculine plural unspecified 3 unspecified 0 	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 ה ה בארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הארץ ארץ בארץ noun feminine singular absolute unspecified unspecified  	O	null
+15 להד"ם להד"ם להד"ם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+16 מכים הכה מכים verb masculine plural unspecified any beinoni  	O	null
+17 תופי תוף תופי noun masculine plural construct unspecified unspecified  	O	null
+18 געגועים געגוע געגועים noun masculine plural absolute unspecified unspecified  	O	null
+19 גדולים גדול גדולים adjective masculine plural absolute unspecified unspecified  	O	null
+
+0 קח לקח קח verb masculine singular unspecified 2 imperative  	O	null
+1 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ל ל לשם preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה לשם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 השם שם לשם noun masculine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אדע ידע אדע verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ארץ ארץ ארץ noun feminine singular absolute unspecified unspecified  	O	null
+10 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+11 חמדת חמדה חמדתי noun feminine singular absolute unspecified unspecified  
+11 י י חמדתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ארץ ארץ ארץ noun feminine singular absolute unspecified unspecified  	O	null
+14 להד"ם להד"ם להד"ם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה בארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הארץ ארץ בארץ noun feminine singular absolute unspecified unspecified  	O	null
+1 להד"ם להד"ם להד"ם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 פורחים פרח פורחים verb masculine plural unspecified any beinoni  	O	null
+4 ב ב בכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 כל כול בכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 הוד הוד הודם noun masculine singular absolute unspecified unspecified  
+5 ם ם הודם possessive masculine plural unspecified 3 unspecified 0 	O	null
+6 פרחי פרח פרחי noun masculine plural construct unspecified unspecified  	O	null
+7 ה ה החמנית definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 החמנית חמנייה החמנית noun feminine singular absolute unspecified unspecified  	O	null
+8 ו ו וההדר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה וההדר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 ההדר הדר וההדר noun masculine singular absolute unspecified unspecified  	O	null
+9 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה בארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הארץ ארץ בארץ noun feminine singular absolute unspecified unspecified  	O	null
+10 להד"ם להד"ם להד"ם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 יורדים ירד יורדים verb masculine plural unspecified any beinoni  	O	null
+13 ב ב במועדם preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 מועד מועד במועדם noun masculine singular absolute unspecified unspecified  
+13 ם ם במועדם possessive masculine plural unspecified 3 unspecified 0 	O	null
+14 ה ה השלג definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 השלג שלג השלג noun masculine singular absolute unspecified unspecified  	O	null
+15 ו ו והטל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 ה ה והטל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הטל טל והטל noun masculine singular absolute unspecified unspecified  	O	null
+16 ו ו והמטר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 ה ה והמטר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 המטר מטר והמטר noun masculine singular absolute unspecified unspecified  	O	null
+
+0 קח לקח קח verb masculine singular unspecified 2 imperative  	O	null
+1 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לשם... לשם... לשם... verb feminine singular unspecified 2 imperative  	O	null
+
+0 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה בארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הארץ ארץ בארץ noun feminine singular absolute unspecified unspecified  	O	null
+1 להד"ם להד"ם להד"ם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 פוסע פסע פוסע verb masculine singular unspecified any beinoni  	O	null
+4 ל ל לו preposition unspecified unspecified unspecified unspecified unspecified  
+4 ו ו לו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+5 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+6 ו ו ואור conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 אור אור ואור noun masculine singular absolute unspecified unspecified  	O	null
+7 גדול גדול גדול adjective masculine singular absolute unspecified unspecified  	O	null
+8 זרוע זרוע זרוע noun feminine singular absolute unspecified unspecified  	O	null
+9 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 יום יום יומו noun masculine singular absolute unspecified unspecified  
+10 ו ו יומו possessive masculine singular unspecified 3 unspecified 0 	O	null
+11 ו ו וכל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 כל כול וכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 תינוק תינוק תינוק noun masculine singular absolute unspecified unspecified  	O	null
+13 נרדם נרדם נרדם verb masculine singular unspecified any beinoni  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 ארץ ארץ בארץ noun feminine singular construct unspecified unspecified  	O	null
+16 להד"ם להד"ם להד"ם properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+17 ו ו וארץ conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 ארץ ארץ וארץ noun feminine singular construct unspecified unspecified  	O	null
+18 להד"ם להד"ם להד"ם properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+19 ב ב בחלומו preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 חלום חלום בחלומו noun masculine singular absolute unspecified unspecified  
+19 ו ו בחלומו possessive masculine singular unspecified 3 unspecified 0 	O	null
+
+0 קח לקח קח verb masculine singular unspecified 2 imperative  	O	null
+1 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לשם... לשם... לשם... verb feminine singular unspecified 2 imperative  	O	null
+

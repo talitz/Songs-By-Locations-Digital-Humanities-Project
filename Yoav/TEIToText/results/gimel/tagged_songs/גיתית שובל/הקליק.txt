@@ -1,0 +1,121 @@
+0 מבט מבט מבט noun masculine singular absolute unspecified unspecified  	O	null
+1 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+2 ו ו ועוד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 עוד עוד ועוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+4 ועוד ועוד ועוד conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מבט מבט מבט noun masculine singular absolute unspecified unspecified  	O	null
+6 ו ו ודי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 די די ודי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ו ו ומה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 מה מה ומה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נקלט נקלט נקלט verb masculine singular unspecified 3 past  	O	null
+10 מיד מייד מיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 יאבד אבד יאבד verb masculine singular unspecified 3 future  	O	null
+12 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 בחשאי בחשאי בחשאי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 כוסית כוסית כוסית noun feminine singular absolute unspecified unspecified  	O	null
+15 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	I_ORG	null
+16 ועוד ועוד ועוד conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+17 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+18 ו ו ועוד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 עוד עוד ועוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 מבט מבט מבט noun masculine singular absolute unspecified unspecified  	O	null
+20 מספיק הספיק מספיק verb masculine singular unspecified any beinoni  	O	null
+21 כדי כדי כדי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+22 להבין הבין להבין verb unspecified unspecified unspecified unspecified infinitive  	O	null
+23 ב ב בבת preposition unspecified unspecified unspecified unspecified unspecified 0 
+23 בת בת בבת noun feminine singular absolute unspecified unspecified  	O	null
+24 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+25 ש ש שכאן relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+25 כאן כאן שכאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+26 נולד נולד נולד verb masculine singular unspecified 3 past  	O	null
+27 הקליק הקליק הקליק verb masculine singular unspecified 3 past  	O	null
+
+0 ו ו וכמו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 כמו כמו וכמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מעל מעל מעל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נפתחים נפתח נפתחים verb masculine plural unspecified any beinoni  	O	null
+3 שמים שמי שמים noun masculine plural absolute unspecified unspecified  	O	null
+4 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 רוח רוח רוח noun feminine singular construct unspecified unspecified  	O	null
+6 ה ה המדוכה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 המדוכה מדוכה המדוכה noun feminine singular absolute unspecified unspecified  	O	null
+7 נושב נושב נושב verb masculine singular unspecified 3 past  	O	null
+8 ו ו ומסביב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מסביב מסביב ומסביב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נפקחות נפקח נפקחות verb feminine plural unspecified any beinoni  	O	null
+10 עיניים עין עיניים noun feminine plural absolute unspecified unspecified  	O	null
+11 ו ו ובנתיים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 בנתיים בנתיים ובנתיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 קליק קליק קליק noun masculine singular absolute unspecified unspecified  	O	null
+15 ב ב בלב preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 לב לב בלב noun masculine singular absolute unspecified unspecified  	O	null
+16 ב ב בלב preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 לב לב בלב noun masculine singular absolute unspecified unspecified  	O	null
+
+0 כתף כתף כתף noun feminine singular absolute unspecified unspecified  	O	null
+1 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+2 ב ב בכתף preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 כתף כתף בכתף noun feminine singular construct unspecified unspecified  	O	null
+3 מקרה מקרה מקרה noun masculine singular absolute unspecified unspecified  	O	null
+4 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 שיכרון שיכרון שיכרון noun masculine singular absolute unspecified unspecified  	O	null
+6 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 חמימות חמימות חמימות noun feminine singular absolute unspecified unspecified  	O	null
+8 בלתי בלתי בלתי wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ברורה ברור ברורה adjective feminine singular absolute unspecified unspecified  	O	null
+10 ו ו וחנק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 חנק חנק וחנק noun masculine singular absolute unspecified unspecified  	O	null
+11 ב ב בגרון preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 גרון גרון בגרון noun masculine singular construct unspecified unspecified  	O	null
+12 ה ה הראש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הראש ראש הראש noun masculine singular absolute unspecified unspecified  	O	null
+13 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 נע נע נע verb masculine singular unspecified 3 past  	O	null
+15 מצד מצד מצד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ל ל לצד preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 ה ה לצד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הצד צד לצד noun masculine singular absolute unspecified unspecified  	O	null
+17 ב ב בקצב preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 קצב קצב בקצב noun masculine singular construct unspecified unspecified  	O	null
+18 ה ה הריקוד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 הריקוד ריקוד הריקוד noun masculine singular absolute unspecified unspecified  	O	null
+19 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+20 אינך הוא אינך copula masculine singular unspecified 2 beinoni  	O	null
+21 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+22 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+23 לבד לבד לבד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+24 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+25 אינך הוא אינך copula masculine singular unspecified 2 beinoni  	O	null
+26 אבוד אבוד אבוד adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 ו ו וכמו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 כמו כמו וכמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מעל... מעל... מעל... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+
+0 ו ו ומרגישים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 מרגישים הרגיש ומרגישים verb masculine plural unspecified any beinoni  	O	null
+1 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה התחושה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 התחושה תחושה התחושה noun feminine singular absolute unspecified unspecified  	O	null
+3 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יד יד יד noun feminine singular absolute unspecified unspecified  	O	null
+5 לוחצת לחץ לוחצת verb feminine singular unspecified any beinoni  	O	null
+6 יד יד יד noun feminine singular absolute unspecified unspecified  	O	null
+7 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 אין אין ואין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כלל כלל כלל adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 צורך צורך צורך noun masculine singular absolute unspecified unspecified  	O	null
+10 ב ב בלחישה preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 לחישה לחישה בלחישה noun feminine singular absolute unspecified unspecified  	O	null
+11 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הלב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הלב לב הלב noun masculine singular absolute unspecified unspecified  	O	null
+14 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+

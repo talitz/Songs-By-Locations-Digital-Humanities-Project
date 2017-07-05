@@ -1,0 +1,112 @@
+0 ב ב ביום preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 יום יום ביום noun masculine singular absolute unspecified unspecified  	I_DATE	null
+1 שישי ORD6 שישי numeral masculine singular absolute unspecified unspecified  	I_DATE	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ככה ככה ככה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ב ב באמצע preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 אמצע אמצע באמצע noun masculine singular construct unspecified unspecified  	O	null
+5 ה ה הצהריים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הצהריים צהריים הצהריים noun masculine plural absolute unspecified unspecified  	O	null
+6 אבא אבא אבא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 הכין הכין הכין verb masculine singular unspecified 3 past  	O	null
+8 חביתה חביתה חביתה noun feminine singular absolute unspecified unspecified  	O	null
+9 ו ו וסלט conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 סלט סלט וסלט noun masculine singular absolute unspecified unspecified  	O	null
+10 ב ב במטבח preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה במטבח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 המטבח מטבח במטבח noun masculine singular absolute unspecified unspecified  	O	null
+11 פנים פנים פנים noun masculine-and-feminine plural absolute unspecified unspecified  	O	null
+12 אפורות אפור אפורות adjective feminine plural absolute unspecified unspecified  	O	null
+13 מיהר מיהר מיהר verb masculine singular unspecified 3 past  	O	null
+14 ו ו ויצא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 יצא יצא ויצא verb masculine singular unspecified 3 past  	O	null
+15 החוצה החוצה החוצה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ל ל לנגריה preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 נגריה נגרייה לנגריה noun feminine singular absolute unspecified unspecified  	O	null
+17 כש כש כשדודה temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+17 דוד דוד כשדודה noun masculine singular absolute unspecified unspecified  
+17 ה ה כשדודה possessive feminine singular unspecified 3 unspecified 0 	O	null
+18 דניס דניס דניס properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+19 ו ו ודוד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 דוד דוד ודוד properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+20 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+20 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+21 הגיעו הגיע הגיעו verb masculine-and-feminine plural unspecified 3 past  	O	null
+22 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ה ה הסובארו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+23 הסובארו הסובארו הסובארו noun feminine singular absolute unspecified unspecified  	O	null
+24 ה ה הלבנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 הלבנה לבן הלבנה adjective feminine singular absolute unspecified unspecified  	O	null
+25 ה ה החביתה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+25 החביתה חביתה החביתה noun feminine singular absolute unspecified unspecified  	O	null
+26 נתקעה נתקע נתקעה verb feminine singular unspecified 3 past  	O	null
+27 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+27 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+28 ב ב בגרון preposition unspecified unspecified unspecified unspecified unspecified 0 
+28 גרון גרון בגרון noun masculine singular construct unspecified unspecified  	O	null
+29 גוש גוש גוש noun masculine singular absolute unspecified unspecified  	O	null
+30 כ כ כזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+30 זה זה כזה pronoun masculine singular unspecified 3 unspecified  	O	null
+31 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+32 נכנסו נכנס נכנסו verb masculine-and-feminine plural unspecified 3 past  	O	null
+33 ו ו ונישקו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+33 נישקו נישק ונישקו verb masculine-and-feminine plural unspecified 3 past  	O	null
+34 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+34 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+35 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+35 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+36 חיבק חיבק חיבק verb masculine singular unspecified 3 past  	O	null
+37 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+37 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+38 ו ו והזיפים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+38 ה ה והזיפים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+38 הזיפים זיף והזיפים noun masculine plural absolute unspecified unspecified  	O	null
+39 ש ש שלו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+39 ל ל שלו preposition unspecified unspecified unspecified unspecified unspecified  
+39 ו ו שלו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+40 דקרו דקר דקרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+41 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+41 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+42 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+43 ה ה הפרצוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+43 הפרצוף פרצוף הפרצוף noun masculine singular absolute unspecified unspecified  	O	null
+44 ה ה העיניים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+44 העיניים עין העיניים noun feminine plural absolute unspecified unspecified  	O	null
+45 של של שלו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+45 ו ו שלו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+46 היו הוא היו copula masculine plural unspecified 2 imperative  	O	null
+47 אדומות אדום אדומות adjective feminine plural absolute unspecified unspecified  	O	null
+48 ###NUMBER### ###NUMBER### ###NUMBER### numeral unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+49 ה ה התעודה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+49 התעודה תעודה התעודה noun feminine singular absolute unspecified unspecified  	O	null
+50 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+50 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+51 מחורבנת מחורבן מחורבנת adjective feminine singular absolute unspecified unspecified  	O	null
+52 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+53 מספיק מספיק מספיק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+54 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+55 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+56 מספיק מספיק מספיק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+57 שתקתי שתק שתקתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+58 ו ו ודחפתי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+58 דחפתי דחף ודחפתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+59 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+60 ה ה המזלג definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+60 המזלג מזלג המזלג noun masculine singular absolute unspecified unspecified  	O	null
+61 ב ב בסלט preposition unspecified unspecified unspecified unspecified unspecified 0 
+61 סלט סלט בסלט noun masculine singular absolute unspecified unspecified  	O	null
+62 ו ו ורצתי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+62 רצתי רץ ורצתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+63 החוצה החוצה החוצה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+64 ישר ישר ישר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+65 ל ל לתוך preposition unspecified unspecified unspecified unspecified unspecified 0 
+65 תוך תוך לתוך noun masculine singular construct unspecified unspecified  	O	null
+66 ה ה השיחים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+66 השיחים שיח השיחים noun masculine plural absolute unspecified unspecified  	O	null
+67 ל ל לתוך preposition unspecified unspecified unspecified unspecified unspecified 0 
+67 תוך תוך לתוך noun masculine singular construct unspecified unspecified  	O	null
+68 ה ה הקוצים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+68 הקוצים קוץ הקוצים noun masculine plural absolute unspecified unspecified  	O	null
+69 מתגלגל התגלגל מתגלגל verb masculine singular unspecified any beinoni  	O	null
+70 שורט שרט שורט verb masculine singular unspecified any beinoni  	O	null
+

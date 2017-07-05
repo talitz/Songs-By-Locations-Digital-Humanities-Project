@@ -1,0 +1,132 @@
+0 ב ב בקצה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 קצה קצה בקצה noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+2 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+3 עומד עמד עומד verb masculine singular unspecified any beinoni  	O	null
+4 ו ו ובקולי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ב ב ובקולי preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 קולי קולי ובקולי adjective masculine singular absolute unspecified unspecified  	O	null
+5 קולות קול קולות noun masculine plural absolute unspecified unspecified  	O	null
+6 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+7 צועק צעק צועק verb masculine singular unspecified any beinoni  	O	null
+8 מ מ מקצה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 קצה קצה מקצה noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 צועק צעק צועק verb masculine singular unspecified any beinoni  	O	null
+12 חזק חזק חזק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+15 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+16 אשר אשר אשר properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+17 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 תמצא מצא תמצא verb feminine singular unspecified 3 future  	O	null
+19 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+20 ענן ענן ענן noun masculine singular absolute unspecified unspecified  	O	null
+21 כ כ כזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 זה זה כזה pronoun masculine singular unspecified 3 unspecified  	O	null
+22 ש ש שיעבור relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+22 יעבור עבר שיעבור verb masculine singular unspecified 3 future  	O	null
+23 מעל מעל מעליך preposition unspecified unspecified unspecified unspecified unspecified  
+23 ך ך מעליך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+24 ו ו וישקה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 ישקה השקה וישקה verb masculine singular unspecified 3 future  	O	null
+25 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+25 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+26 ב ב במים preposition unspecified unspecified unspecified unspecified unspecified 0 
+26 מים מים במים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 ב ב בקצה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 קצה קצה בקצה noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כנפי כנף כנפי noun feminine plural construct unspecified unspecified  	O	null
+4 ציפור ציפור ציפור noun masculine singular construct unspecified unspecified  	O	null
+5 ה ה הדרור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הדרור דרור הדרור noun masculine singular absolute unspecified unspecified  	O	null
+6 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ש ש שתפסיק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 תפסיק הפסיק שתפסיק verb feminine singular unspecified 3 future  	O	null
+8 לזכור זכר לזכור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ו ו ולשבילים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ל ל ולשבילים preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 שבילים שביל ולשבילים noun masculine plural absolute unspecified unspecified  	O	null
+11 ה ה הסוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הסוף סוף הסוף noun masculine singular absolute unspecified unspecified  	O	null
+12 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ש ש שתגיע relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 תגיע הגיע שתגיע verb feminine singular unspecified 3 future  	O	null
+15 ל ל לחוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 ה ה לחוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 החוף חוף לחוף noun masculine singular absolute unspecified unspecified  	O	null
+16 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 כנפי כנף כנפי noun feminine plural construct unspecified unspecified  	O	null
+18 ציפור ציפור ציפור noun masculine singular construct unspecified unspecified  	O	null
+19 ה ה הדרור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 הדרור דרור הדרור noun masculine singular absolute unspecified unspecified  	O	null
+20 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ש ש שתפסיק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+21 תפסיק הפסיק שתפסיק verb feminine singular unspecified 3 future  	O	null
+22 ל ל לזכור preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 ה ה לזכור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 הזכור זכור לזכור adjective masculine singular absolute unspecified unspecified  	O	null
+23 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+25 ל ל לירח preposition unspecified unspecified unspecified unspecified unspecified 0 
+25 ה ה לירח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+25 הירח ירח לירח noun masculine singular absolute unspecified unspecified  	O	null
+26 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+27 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+28 ל ל לסוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+28 סוף סוף לסוף noun masculine singular construct unspecified unspecified  	O	null
+29 עולם עולם עולם noun masculine singular construct unspecified unspecified  	O	null
+30 ה ה הישימון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+30 הישימון ישימון הישימון noun masculine singular absolute unspecified unspecified  	O	null
+
+0 ב ב בקצה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 קצה קצה בקצה noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+2 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+3 עומד עמד עומד verb masculine singular unspecified any beinoni  	O	null
+4 ו ו ובקולי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ב ב ובקולי preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 קולי קולי ובקולי adjective masculine singular absolute unspecified unspecified  	O	null
+5 קולות קול קולות noun masculine plural absolute unspecified unspecified  	O	null
+6 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+7 צועק צעק צועק verb masculine singular unspecified any beinoni  	O	null
+8 מ מ מקצה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 קצה קצה מקצה noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+12 לראות ראה לראות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 זיו זיו זיו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+15 פניה פנייה פניה noun feminine singular absolute unspecified unspecified  	O	null
+16 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+17 אשר אשר אשר properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+18 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 תראה ראה תראה verb feminine singular unspecified 3 future  	O	null
+20 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+21 פרפר פרפר פרפר noun masculine singular absolute unspecified unspecified  	O	null
+22 כ כ כזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 זה זה כזה pronoun masculine singular unspecified 3 unspecified  	O	null
+23 ש ש שיעוף relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 יעוף עף שיעוף verb masculine singular unspecified 3 future  	O	null
+24 עד עד עד noun masculine singular absolute unspecified unspecified  	O	null
+25 אל אל אליך preposition unspecified unspecified unspecified unspecified unspecified  
+25 ך ך אליך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+26 ויישא ויישא ויישא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+27 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+27 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+28 אל אל אליה preposition unspecified unspecified unspecified unspecified unspecified  
+28 ה ה אליה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+

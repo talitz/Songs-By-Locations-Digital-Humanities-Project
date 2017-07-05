@@ -1,0 +1,147 @@
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+2 ב ב באהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה באהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 האהבה אהבה באהבה noun feminine singular absolute unspecified unspecified  	O	null
+3 ה ה הזאת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזאת זאת הזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+4 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 מקוללת קולל מקוללת verb feminine singular unspecified any beinoni  	O	null
+6 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+7 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+8 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+9 תוביל הוביל תוביל verb feminine singular unspecified 3 future  	O	null
+10 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+10 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 ל ל לאבדון preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה לאבדון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 האבדון אבדון לאבדון noun masculine singular absolute unspecified unspecified  	O	null
+12 שותקת שתק שותקת verb feminine singular unspecified any beinoni  	O	null
+13 ו ו ויפה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 יפה יפה ויפה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+2 ב ב באהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה באהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 האהבה אהבה באהבה noun feminine singular absolute unspecified unspecified  	O	null
+3 ה ה הזאת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזאת זאת הזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+4 ו ו ואל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 אל אל ואל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 תביטי הביט תביטי verb feminine singular unspecified 2 future  	O	null
+6 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תקשיבי הקשיב תקשיבי verb feminine singular unspecified 2 future  	O	null
+8 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+8 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+9 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 תנשמי נשם תנשמי verb feminine singular unspecified 2 future  	O	null
+11 כש כש כשהיא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+11 היא הוא כשהיא pronoun feminine singular unspecified 3 unspecified  	O	null
+12 נושפת נשף נושפת verb feminine singular unspecified any beinoni  	O	null
+13 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ש ש שהיא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 היא הוא שהיא pronoun feminine singular unspecified 3 unspecified  	O	null
+15 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+2 ב ב באהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה באהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 האהבה אהבה באהבה noun feminine singular absolute unspecified unspecified  	O	null
+3 ה ה הזאת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזאת זאת הזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+6 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 שמרי שמרים שמרי noun masculine plural construct unspecified unspecified  	O	null
+8 מרחק מרחק מרחק noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ואולי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 אולי אולי ואולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+11 תעבור עבר תעבור verb feminine singular unspecified 3 future  	O	null
+12 זרה זר זרה adjective feminine singular absolute unspecified unspecified  	O	null
+13 שותקת שתק שותקת verb feminine singular unspecified any beinoni  	O	null
+14 ו ו ויפה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 יפה יפה ויפה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+2 ב ב באהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה באהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 האהבה אהבה באהבה noun feminine singular absolute unspecified unspecified  	O	null
+3 ה ה הזאת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזאת זאת הזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+4 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+7 ה ה האחרונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 האחרונה אחרון האחרונה adjective feminine singular absolute unspecified unspecified  	O	null
+8 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אחרי אחרי אחריה preposition unspecified unspecified unspecified unspecified unspecified  
+10 ה ה אחריה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+11 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 לחיות חי לחיות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 פני פנים פני noun masculine-and-feminine plural construct unspecified unspecified  	O	null
+15 ה ה האדמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 האדמה אדמה האדמה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+2 ב ב באהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה באהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 האהבה אהבה באהבה noun feminine singular absolute unspecified unspecified  	O	null
+3 ה ה הזאת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזאת זאת הזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+4 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מכאן מכאן מכאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+9 מ מ מכוכב preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 כוכב כוכב מכוכב noun masculine singular absolute unspecified unspecified  	O	null
+10 ש ש שאין relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 אין אין שאין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 אתמול אתמול אתמול adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ו ו ולא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 לא לא ולא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ו ו ולא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 לא לא ולא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+2 ב ב באהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה באהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 האהבה אהבה באהבה noun feminine singular absolute unspecified unspecified  	O	null
+3 ה ה הזאת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזאת זאת הזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+4 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+5 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 תגעי געה תגעי verb feminine singular unspecified 2 future  	O	null
+11 ב ב באהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה באהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 האהבה אהבה באהבה noun feminine singular absolute unspecified unspecified  	O	null
+12 ה ה הזאת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הזאת זאת הזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+13 ו ו ואם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 אם אם ואם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 נגעת נגע נגעת verb feminine singular unspecified 2 past  	O	null
+15 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 לכי הלך לכי verb feminine singular unspecified 2 imperative  	O	null
+17 את את איתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+17 ה ה איתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+18 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

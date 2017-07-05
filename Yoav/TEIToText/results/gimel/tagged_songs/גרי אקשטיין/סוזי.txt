@@ -1,0 +1,108 @@
+0 סוזי סוזי סוזי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 מרחפת ריחף מרחפת verb feminine singular unspecified any beinoni  	O	null
+2 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שקיעה שקיעה שקיעה noun feminine singular absolute unspecified unspecified  	O	null
+4 ב ב בים preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה בים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הים ים בים noun masculine singular absolute unspecified unspecified  	O	null
+5 לבין לבין לבין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+7 בלי בלי בלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מנוחה מנוחה מנוחה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 סוזי סוזי סוזי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 מחפשת חיפש מחפשת verb feminine singular unspecified any beinoni  	O	null
+11 מלאכים מלאך מלאכים noun masculine plural absolute unspecified unspecified  	O	null
+12 ש ש שיפרשו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 יפרשו פרש שיפרשו verb masculine-and-feminine plural unspecified 3 future  	O	null
+13 כנפיים כנפיים כנפיים properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+14 סוזי סוזי סוזי properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+15 בוכה בכה בוכה verb masculine singular unspecified any beinoni  	O	null
+
+0 דמעות דמעה דמעותיה noun feminine plural absolute unspecified unspecified  
+0 ה ה דמעותיה possessive feminine singular unspecified 3 unspecified 0 	O	null
+1 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 גלים גל גלים noun masculine plural absolute unspecified unspecified  	O	null
+3 נופלות נפל נופלות verb feminine plural unspecified any beinoni  	O	null
+4 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 אין יש ואין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שידע relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 ידע ידע שידע verb masculine singular unspecified 3 past  	O	null
+7 קול קול קול noun masculine singular construct unspecified unspecified  	O	null
+8 בכייה בכייה בכייה noun feminine singular absolute unspecified unspecified  	O	null
+9 נישא נישא נישא verb masculine singular unspecified 3 past  	O	null
+10 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הרוחות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הרוחות רוח הרוחות noun feminine plural absolute unspecified unspecified  	O	null
+12 ו ו וסוזי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 סוזי סוזי וסוזי properName feminine singular unspecified unspecified unspecified  	O	null
+13 בודדה בודד בודדה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 סוזי סוזי סוזי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 מרחפת ריחף מרחפת verb feminine singular unspecified any beinoni  	O	null
+2 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גלים גל גלים noun masculine plural absolute unspecified unspecified  	O	null
+4 שחורים שחור שחורים adjective masculine plural absolute unspecified unspecified  	O	null
+5 ל ל ללובן preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 לובן לובן ללובן noun masculine singular construct unspecified unspecified  	O	null
+6 זעם זעם זעם noun masculine singular absolute unspecified unspecified  	O	null
+7 בלי בלי בלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נגיעה נגיעה נגיעה noun feminine singular absolute unspecified unspecified  	O	null
+9 סוזי סוזי סוזי properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+10 מחפשת חיפש מחפשת verb feminine singular unspecified any beinoni  	O	null
+11 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 פיסת פיסה פיסת noun feminine singular construct unspecified unspecified  	O	null
+13 מקום מקום מקום noun masculine singular absolute unspecified unspecified  	O	null
+14 ש ש שאין relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 אין יש שאין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+15 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+16 צער צער צער noun masculine singular construct unspecified unspecified  	O	null
+17 סוזי סוזי סוזי properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+18 רואה ראה רואה verb masculine singular unspecified any beinoni  	O	null
+
+0 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 כוכב כוכב כוכב noun masculine singular absolute unspecified unspecified  	O	null
+2 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+3 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה המזרח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 המזרח מזרח המזרח noun masculine singular absolute unspecified unspecified  	O	null
+5 כ כ כמדרגות preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה כמדרגות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 המדרגות מדרגה כמדרגות noun feminine plural absolute unspecified unspecified  	O	null
+6 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אור אור אור noun masculine singular construct unspecified unspecified  	O	null
+8 מבט מבט מבטו noun masculine singular absolute unspecified unspecified  
+8 ו ו מבטו possessive masculine singular unspecified 3 unspecified 0 	O	null
+9 נועץ נועץ נועץ verb masculine singular unspecified 3 past  	O	null
+10 ב ב בחול preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה בחול definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 החול חול בחול noun masculine singular absolute unspecified unspecified  	O	null
+11 ה ה הרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הרך רך הרך adjective masculine singular absolute unspecified unspecified  	O	null
+12 ו ו וסוזי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 סוזי סוזי וסוזי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 תעבור עבר תעבור verb feminine singular unspecified 3 future  	O	null
+
+0 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 צחוק צחוק צחוקה noun masculine singular absolute unspecified unspecified  
+1 ה ה צחוקה possessive feminine singular unspecified 3 unspecified 0 	O	null
+2 שומעים שמע שומעים verb masculine plural unspecified any beinoni  	O	null
+3 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה השקיעות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 השקיעות שקיעה השקיעות noun feminine plural absolute unspecified unspecified  	O	null
+5 יורד ירד יורד verb masculine singular unspecified any beinoni  	O	null
+6 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 פני פנים פני noun masculine-and-feminine plural construct unspecified unspecified  	O	null
+8 הים ים הים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+9 סוזי סוזי סוזי properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+10 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אספה אסף אספה verb feminine singular unspecified 3 past  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הדמעות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הדמעות דמעה הדמעות noun feminine plural absolute unspecified unspecified  	O	null
+14 ו ו ולא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 לא לא ולא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 תחזור חזר תחזור verb feminine singular unspecified 3 future  	O	null
+16 משם משם משם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+

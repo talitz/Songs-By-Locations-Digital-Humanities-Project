@@ -1,0 +1,82 @@
+0 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+1 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+2 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 בוא בא בוא verb masculine singular unspecified 2 imperative  	O	null
+5 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+6 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+7 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+10 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+11 נותנת נתן נותנת verb feminine singular unspecified any beinoni  	O	null
+12 סימן סימן סימן noun masculine singular absolute unspecified unspecified  	O	null
+13 ב ב בליבו preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ליב לב בליבו noun masculine singular absolute unspecified unspecified  
+13 ו ו בליבו possessive masculine singular unspecified 3 unspecified 0 	O	null
+14 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+1 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+2 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 די די די adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+6 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+7 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ו ו וכל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 כל כול וכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+11 שתיקות שתיקה שתיקותיו noun feminine plural absolute unspecified unspecified  
+11 ו ו שתיקותיו possessive masculine singular unspecified 3 unspecified 0 	O	null
+12 צועקות צעק צועקות verb feminine plural unspecified any beinoni  	O	null
+13 ב ב בידי preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ידי יד בידי noun feminine plural construct unspecified unspecified  	O	null
+14 עד עד עד noun masculine singular absolute unspecified unspecified  	O	null
+15 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+1 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+2 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 הן הן הן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+6 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+7 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 עיני עיני עיני adjective masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 גווע גווע גווע verb masculine singular unspecified 3 past  	O	null
+14 ה ה האור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 האור אור האור noun masculine singular absolute unspecified unspecified  	O	null
+15 ב ב בשתיהן preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 שתיהן שתיים בשתיהן pronoun feminine plural unspecified 3 unspecified  	O	null
+16 לצילו לצילו לצילו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+1 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+2 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 בוא בא בוא verb masculine singular unspecified 2 imperative  	O	null
+5 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+6 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+7 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+10 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+11 תכולה תכולה תכולה noun feminine singular absolute unspecified unspecified  	O	null
+12 ו ו ויפה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 יפה יפה ויפה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ב ב בגבו preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 גב גב בגבו noun masculine singular absolute unspecified unspecified  
+13 ו ו בגבו possessive masculine singular unspecified 3 unspecified 0 	O	null
+14 ה ה ההולך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 ההולך הלך ההולך participle masculine singular absolute any unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

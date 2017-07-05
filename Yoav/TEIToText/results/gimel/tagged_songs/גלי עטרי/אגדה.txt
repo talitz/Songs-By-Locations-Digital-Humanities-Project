@@ -1,0 +1,177 @@
+0 ב ב בעמק preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 עמק עמק בעמק noun masculine singular absolute unspecified unspecified  	O	null
+1 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+2 סבתא סבא סבתא noun feminine singular absolute unspecified unspecified  	O	null
+3 טובה טוב טובה adjective feminine singular absolute unspecified unspecified  	O	null
+4 יושבת יושב יושבת noun feminine singular construct unspecified unspecified  	O	null
+5 יום יום יומם noun masculine singular absolute unspecified unspecified  
+5 ם ם יומם possessive masculine plural unspecified 3 unspecified 0 	O	null
+6 ו ו וליל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 ליל ליל וליל noun masculine singular construct unspecified unspecified  	O	null
+7 ו ו וטווה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 טווה טווה וטווה verb masculine singular unspecified 3 past  	O	null
+8 טווה טווה טווה verb masculine singular unspecified 3 past  	O	null
+9 ו ו ואורגת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 אורגת אורג ואורגת noun feminine singular construct unspecified unspecified  	O	null
+10 בדים בד בדים noun masculine plural absolute unspecified unspecified  	O	null
+11 מקפלת קיפל מקפלת verb feminine singular unspecified any beinoni  	O	null
+12 לתפור תפר לתפור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 ל ל לשמיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 שמיים שמיים לשמיים noun masculine plural absolute unspecified unspecified  	O	null
+14 ש ש שמלה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 מלה מילה שמלה noun feminine singular absolute unspecified unspecified  	O	null
+15 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 תכלת תכלת תכלת noun feminine singular absolute unspecified unspecified  	O	null
+
+0 ב ב ביד preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 יד יד ביד noun feminine singular absolute unspecified unspecified  	O	null
+1 מצומקת צומק מצומקת verb feminine singular unspecified any beinoni  	O	null
+2 רועד רעד רועד verb masculine singular unspecified any beinoni  	O	null
+3 המנור המנור המנור preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שתי CARD2 שתי numeral feminine dual construct unspecified unspecified  	I_LOC	null
+5 ו ו וערב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ערב ערב וערב noun masculine singular absolute unspecified unspecified  	I_LOC	null
+6 תכלת תכלת תכלת properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+7 ו ו ואור conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 אור אור ואור noun masculine singular construct unspecified unspecified  	O	null
+8 סובב סובב סובב noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה הגלגל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הגלגל גלגל הגלגל noun masculine singular absolute unspecified unspecified  	O	null
+10 ו ו וגדל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 גדל גדל וגדל verb masculine singular unspecified 3 past  	O	null
+11 ה ה הבד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הבד בד הבד noun masculine singular absolute unspecified unspecified  	O	null
+12 לובשים לבש לובשים verb masculine plural unspecified any beinoni  	O	null
+13 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+14 שמלת שמלה שמלת noun feminine singular construct unspecified unspecified  	O	null
+15 שבת שבת שבת properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+
+0 צוחקת צחק צוחקת verb feminine singular unspecified any beinoni  	O	null
+1 ה ה הסבתא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הסבתא סבא הסבתא noun feminine singular absolute unspecified unspecified  	O	null
+2 שולבת שולב שולבת verb feminine singular unspecified 2 past  	O	null
+3 ידיים יד ידיים noun feminine plural absolute unspecified unspecified  	O	null
+4 עמק עמק עמק noun masculine singular absolute unspecified unspecified  	O	null
+5 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+6 תחת תחת תחת preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תכלת תכלה תכלת noun feminine singular construct unspecified unspecified  	O	null
+8 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 ב ב באות preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 אות אות באות noun masculine singular construct unspecified unspecified  	O	null
+1 חסידות חסיד חסידות noun feminine plural absolute unspecified unspecified  	O	null
+2 ו ו וחוזרות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 חוזרות חוזר וחוזרות adjective feminine plural absolute unspecified unspecified  	O	null
+3 ב ב במעוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 מעוף מעוף במעוף noun masculine singular construct unspecified unspecified  	O	null
+4 סבתא סבא סבתא noun feminine singular absolute unspecified unspecified  	O	null
+5 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה בארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הארץ ארץ בארץ noun feminine singular absolute unspecified unspecified  	O	null
+6 של של שלנו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+6 נו נו שלנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+7 עצוב עצוב עצוב adjective masculine singular absolute unspecified unspecified  	O	null
+8 סבתא סבא סבתא noun feminine singular absolute unspecified unspecified  	O	null
+9 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה בארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הארץ ארץ בארץ noun feminine singular absolute unspecified unspecified  	O	null
+10 של של שלנו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+10 נו נו שלנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+11 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 תכול תכול תכול adjective masculine singular absolute unspecified unspecified  	O	null
+13 לובשים לבש לובשים verb masculine plural unspecified any beinoni  	O	null
+14 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+15 שמלה שמלה שמלה noun feminine singular absolute unspecified unspecified  	O	null
+16 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 חול חול חול noun masculine singular absolute unspecified unspecified  	O	null
+
+0 צוחקת צחק צוחקת verb feminine singular unspecified any beinoni  	O	null
+1 הסבתא... הסבתא... הסבתא... verb feminine singular unspecified 3 future  	O	null
+
+0 קרע קרע קרע noun masculine singular absolute unspecified unspecified  	O	null
+1 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 קרע קרע קרע noun masculine singular absolute unspecified unspecified  	O	null
+3 ו ו וטלאי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 טלאי טלאי וטלאי noun masculine singular absolute unspecified unspecified  	O	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 גב גב גב noun masculine singular construct unspecified unspecified  	O	null
+6 טלאי טלאי טלאי noun masculine singular absolute unspecified unspecified  	O	null
+7 אפור אפור אפור adjective masculine singular absolute unspecified unspecified  	O	null
+8 ה ה הרום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הרום רום הרום noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו וקרח conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 קרח קרח וקרח noun masculine singular construct unspecified unspecified  	O	null
+10 ה ה הגיא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הגיא גיא הגיא noun masculine singular absolute unspecified unspecified  	O	null
+
+0 סבתא סבא סבתא noun feminine singular absolute unspecified unspecified  	O	null
+1 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 ה ה החוטים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 החוטים חוט החוטים noun masculine plural absolute unspecified unspecified  	O	null
+4 מקפלת קיפל מקפלת verb feminine singular unspecified any beinoni  	O	null
+5 סבתא סבא סבתא noun feminine singular absolute unspecified unspecified  	O	null
+6 אוספת אסף אוספת verb feminine singular unspecified any beinoni  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 בד בד בד noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה התכלת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 התכלת תכלת התכלת noun feminine singular absolute unspecified unspecified  	O	null
+10 סבתא סבא סבתא noun feminine singular absolute unspecified unspecified  	O	null
+11 הולכת הלך הולכת verb feminine singular unspecified any beinoni  	O	null
+12 ל ל לארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ארץ ארץ לארץ noun feminine singular absolute unspecified unspecified  	O	null
+13 אחרת אחר אחרת adjective feminine singular absolute unspecified unspecified  	O	null
+14 לתפור תפר לתפור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 ל ל לשמיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 שמיים שמיים לשמיים noun masculine plural absolute unspecified unspecified  	O	null
+16 ש ש שמלה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 מלה מילה שמלה noun feminine singular absolute unspecified unspecified  	O	null
+17 מפוארת מפואר מפוארת adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 צוחקת צחק צוחקת verb feminine singular unspecified any beinoni  	O	null
+1 הסבתא... הסבתא... הסבתא... verb feminine singular unspecified 3 future  	O	null
+
+0 תופרת תופרת תופרת noun feminine singular absolute unspecified unspecified  	O	null
+1 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הלילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+2 תופרת תפר תופרת verb feminine singular unspecified any beinoni  	O	null
+3 ב ב ביום preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 יום יום ביום noun masculine singular absolute unspecified unspecified  	O	null
+4 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+5 ה ה העמק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 העמק עמק העמק noun masculine singular absolute unspecified unspecified  	O	null
+6 ו ו ובהיר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 בהיר בהיר ובהיר adjective masculine singular absolute unspecified unspecified  	O	null
+7 ה ה הרום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הרום רום הרום noun masculine singular absolute unspecified unspecified  	O	null
+8 לבשו לבש לבשו verb masculine-and-feminine plural unspecified 3 past  	O	null
+9 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+10 שמחה שמחה שמחה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 כחולה כחול כחולה adjective feminine singular absolute unspecified unspecified  	O	null
+12 ב ב בכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 כל כול בכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+13 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+14 שבת שבת שבת properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+15 גדולה גדול גדולה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 צוחקת צחק צוחקת verb feminine singular unspecified any beinoni  	O	null
+1 הסבתא... הסבתא... הסבתא... verb feminine singular unspecified 3 future  	O	null
+
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ראש ראש ראש noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה הגבעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הגבעה גבעה הגבעה noun feminine singular absolute unspecified unspecified  	O	null
+3 צמרות צמרת צמרות noun feminine plural absolute unspecified unspecified  	O	null
+4 רועדות רעד רועדות verb feminine plural unspecified any beinoni  	O	null
+5 מ מ מארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ארץ ארץ מארץ noun feminine singular absolute unspecified unspecified  	O	null
+6 אחרת אחר אחרת adjective feminine singular absolute unspecified unspecified  	O	null
+7 ב ב באות preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 אות אות באות noun masculine singular construct unspecified unspecified  	O	null
+8 חסידות חסיד חסידות noun feminine plural absolute unspecified unspecified  	O	null
+

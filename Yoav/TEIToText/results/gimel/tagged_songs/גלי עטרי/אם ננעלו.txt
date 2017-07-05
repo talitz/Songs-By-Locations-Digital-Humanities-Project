@@ -1,0 +1,88 @@
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ננעלו ננעל ננעלו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 דלת דלת דלתי noun feminine singular absolute unspecified unspecified  
+2 י י דלתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 נדיבים נדיב נדיבים adjective masculine plural absolute unspecified unspecified  	O	null
+4 דלת דלת דלתי noun feminine singular absolute unspecified unspecified  
+4 י י דלתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 מרום מרום מרום properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ננעלו ננעל ננעלו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 חי חי חי noun masculine singular absolute unspecified unspecified  	O	null
+10 מרומם רומם מרומם verb masculine singular unspecified any beinoni  	O	null
+11 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 כרובים כרוב כרובים noun masculine plural absolute unspecified unspecified  	O	null
+13 כולם כולם כולם pronoun masculine plural unspecified 3 unspecified  	O	null
+14 ב ב ברוחו preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 רוח רוח ברוחו noun feminine singular absolute unspecified unspecified  
+14 ו ו ברוחו possessive masculine singular unspecified 3 unspecified 0 	O	null
+15 יעלו ייעל יעלו verb masculine-and-feminine plural unspecified 3 past  	O	null
+16 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 חי חי חי noun masculine singular absolute unspecified unspecified  	O	null
+
+0 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+2 אלי אל אלי noun masculine plural construct unspecified unspecified  	O	null
+3 כיסא כיסא כיסאו noun masculine singular absolute unspecified unspecified  
+3 ו ו כיסאו possessive masculine singular unspecified 3 unspecified 0 	O	null
+4 קרובים קרוב קרובים noun masculine plural absolute unspecified unspecified  	O	null
+5 יודו הודה יודו verb masculine-and-feminine plural unspecified 3 future  	O	null
+6 שם שם שמו noun masculine singular absolute unspecified unspecified  
+6 ו ו שמו possessive masculine singular unspecified 3 unspecified 0 	O	null
+7 ו ו ויהללו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 יהללו הילל ויהללו verb masculine-and-feminine plural unspecified 3 future  	O	null
+8 חיות חיה חיות noun feminine plural absolute unspecified unspecified  	O	null
+9 ש ש שהם relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 הם הוא שהם pronoun masculine plural unspecified 3 unspecified  	O	null
+10 רצוא רצוא רצוא noun masculine singular absolute unspecified unspecified  	O	null
+11 ו ו ושבים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 שבים שב ושבים verb masculine plural unspecified any beinoni  	O	null
+12 מ מ מיום preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 יום יום מיום noun masculine singular absolute unspecified unspecified  	O	null
+13 ב ב בריאה preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה בריאה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הריאה ריאה בריאה noun feminine singular absolute unspecified unspecified  	O	null
+14 נכללו נכלל נכללו verb masculine-and-feminine plural unspecified 3 past  	O	null
+
+0 גלגל גלגל גלגל noun masculine singular absolute unspecified unspecified  	O	null
+1 ו ו ואופן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 אופן אופן ואופן noun masculine singular absolute unspecified unspecified  	O	null
+2 רועשים רעש רועשים verb masculine plural unspecified any beinoni  	O	null
+3 מודים הודה מודים verb masculine plural unspecified any beinoni  	O	null
+4 שם שם שמו noun masculine singular absolute unspecified unspecified  
+4 ו ו שמו possessive masculine singular unspecified 3 unspecified 0 	O	null
+5 ו ו ומקדשים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 מקדשים קידש ומקדשים verb masculine plural unspecified any beinoni  	O	null
+6 מ מ מזיו preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 זיו זיו מזיו noun masculine singular construct unspecified unspecified  	O	null
+7 כבוד כבוד כבודו noun masculine singular absolute unspecified unspecified  
+7 ו ו כבודו possessive masculine singular unspecified 3 unspecified 0 	O	null
+8 לובשים לבש לובשים verb masculine plural unspecified any beinoni  	O	null
+9 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 חי חי חי noun masculine singular absolute unspecified unspecified  	O	null
+
+0 ו ו ובשש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 ב ב ובשש preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 שש שש ובשש noun masculine singular construct unspecified unspecified  	O	null
+1 כנפיים כנפיים כנפיים properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 סביבים סביבים סביבים properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 עפים עף עפים verb masculine plural unspecified any beinoni  	O	null
+4 ב ב בעת preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה בעת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 העת עת בעת noun feminine singular absolute unspecified unspecified  	O	null
+5 יתגלגלו התגלגל יתגלגלו verb masculine-and-feminine plural unspecified 3 future  	O	null
+6 יענו ענה יענו verb masculine-and-feminine plural unspecified 3 future  	O	null
+7 ב ב בקול preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 קול קול בקול noun masculine singular construct unspecified unspecified  	O	null
+8 שירים שיר שירים noun masculine plural absolute unspecified unspecified  	O	null
+9 ערבים ערב ערבים adjective masculine plural absolute unspecified unspecified  	O	null
+10 יחד יחד יחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ב ב באותות preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה באותות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 האותות אות באותות noun masculine plural absolute unspecified unspecified  	O	null
+12 נדגלו נדגלו נדגלו verb masculine-and-feminine plural unspecified 1 future  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ננעלו... ננעלו... ננעלו... verb masculine-and-feminine plural unspecified 2 imperative  	O	null
+

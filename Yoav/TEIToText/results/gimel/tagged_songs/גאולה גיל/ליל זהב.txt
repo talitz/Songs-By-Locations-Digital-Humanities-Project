@@ -1,0 +1,85 @@
+0 אי אי אי noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה הטל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הטל טל הטל noun masculine singular absolute unspecified unspecified  	O	null
+2 ש ש שלן relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 לן לן שלן verb masculine singular unspecified 3 past  	O	null
+3 ב ב בשערך preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 שער שער בשערך noun masculine singular absolute unspecified unspecified  
+3 ך ך בשערך possessive feminine singular unspecified 2 unspecified 0 	O	null
+4 ו ו וגנבוהו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 גנבוהו גנבוהו וגנבוהו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ערמות ערמה ערמות noun feminine plural construct unspecified unspecified  	O	null
+6 ה ה השחת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 השחת שחת השחת noun feminine singular absolute unspecified unspecified  	O	null
+7 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אי אי אי noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה התן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 התן תן התן noun masculine singular absolute unspecified unspecified  	O	null
+2 ש ש שצחק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 צחק צחק שצחק verb masculine singular unspecified 3 past  	O	null
+3 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+4 בליל בליל בליל noun masculine singular construct unspecified unspecified  	O	null
+5 זהב זהב זהב noun masculine singular absolute unspecified unspecified  	O	null
+6 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 רן רן רן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 חליל חליל חליל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 ש ש שפתייך relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 פתיי פתי שפתייך noun masculine plural absolute unspecified unspecified  
+4 ך ך שפתייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 ש ש שטבלו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 טבלו טבל שטבלו verb masculine-and-feminine plural unspecified 3 past  	O	null
+6 ב ב בזמר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה בזמר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הזמר זמר בזמר noun masculine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 גן גן גנך noun masculine singular absolute unspecified unspecified  
+1 ך ך גנך possessive feminine singular unspecified 2 unspecified 0 	O	null
+2 מגן מגן מגן noun masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 גן גן גנך noun masculine singular absolute unspecified unspecified  
+4 ך ך גנך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 ה ה החיננית definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 החיננית חינני החיננית adjective feminine singular absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 עשב עשב עשב noun masculine singular absolute unspecified unspecified  	O	null
+2 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 נומי נם נומי verb feminine singular unspecified 2 imperative  	O	null
+4 כבחלום כבחלום כבחלום participle feminine plural construct any unspecified  	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אור אור אור noun masculine singular construct unspecified unspecified  	O	null
+1 גחלילית גחלילית גחלילית noun feminine singular construct unspecified unspecified  	O	null
+2 הנה הנה הנה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כבה כבה כבה verb masculine singular unspecified 3 past  	O	null
+4 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בשערים preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בשערים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 השערים שער בשערים noun masculine plural absolute unspecified unspecified  	O	null
+2 חרש חרש חרש noun masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שאי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 אי אי שאי noun masculine singular construct unspecified unspecified  	O	null
+4 בוא בוא בואך noun masculine singular absolute unspecified unspecified  
+4 ך ך בואך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אלף ORD-CARD1000 אלף numeral masculine plural absolute unspecified unspecified  	O	null
+7 קול קול קול noun masculine singular absolute unspecified unspecified  	O	null
+8 אלי אל אלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ירעש רעש ירעש verb masculine singular unspecified 3 future  	O	null
+10 קול קול קולך noun masculine singular absolute unspecified unspecified  
+10 ך ך קולך possessive feminine singular unspecified 2 unspecified 0 	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

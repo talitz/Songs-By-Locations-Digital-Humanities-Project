@@ -1,0 +1,189 @@
+0 מ מ מיום preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 יום יום מיום noun masculine singular construct unspecified unspecified  	O	null
+1 שאת שאת שאת noun feminine singular construct unspecified unspecified  	O	null
+2 ה ה הלכת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הלכת לכת הלכת noun feminine singular absolute unspecified unspecified  	O	null
+3 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+4 נהיה נהיה נהיה verb masculine singular unspecified 3 past  	O	null
+5 אפור אפור אפור adjective masculine singular absolute unspecified unspecified  	O	null
+6 אפילו אפילו אפילו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 ה ה השירים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 השירים שיר השירים noun masculine plural absolute unspecified unspecified  	O	null
+9 נמוגו נמוג נמוגו verb masculine-and-feminine plural unspecified 3 past  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 כ כ כחלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 חלום חלום כחלום noun masculine singular absolute unspecified unspecified  	O	null
+12 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 נותרו נותר נותרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+14 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+14 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+15 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+16 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+18 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+19 איננה הוא איננה copula feminine singular unspecified 3 beinoni  	O	null
+20 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+21 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+22 נותרו נותר נותרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+23 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+23 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+24 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+25 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+26 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+27 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+27 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+28 איננה הוא איננה copula feminine singular unspecified 3 beinoni  	O	null
+29 עוד עוד עוד noun masculine singular absolute unspecified unspecified  	O	null
+
+0 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 המציא המציא המציא verb masculine singular unspecified 3 past  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה המילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המילה מילה המילה noun feminine singular absolute unspecified unspecified  	O	null
+4 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+1 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ש ש שהיא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 היא הוא שהיא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 שורפת שרף שורפת verb feminine singular unspecified any beinoni  	O	null
+2 לבבות לב לבבות noun masculine plural construct unspecified unspecified  	O	null
+3 ה ה האין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 האין אין האין noun masculine singular absolute unspecified unspecified  	O	null
+4 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+5 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+6 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+7 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ש ש שלפעמים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 לפעמים לפעמים שלפעמים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 בא בא בא verb masculine singular unspecified 3 past  	O	null
+3 לבכות בכה לבכות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 המציא המציא המציא verb masculine singular unspecified 3 past  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה המילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 המילה מילה המילה noun feminine singular absolute unspecified unspecified  	O	null
+8 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+1 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 שורפת שרף שורפת verb feminine singular unspecified any beinoni  	O	null
+2 לבבות לב לבבות noun masculine plural construct unspecified unspecified  	O	null
+3 ה ה האין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 האין אין האין noun masculine singular absolute unspecified unspecified  	O	null
+4 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+5 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+6 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+7 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ש ש שלפעמים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 לפעמים לפעמים שלפעמים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 בא בא בא verb masculine singular unspecified 3 past  	O	null
+3 לבכות בכה לבכות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 הייתה הוא הייתה copula feminine singular unspecified 3 past  	O	null
+1 יפה יפה יפה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מ מ מכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 כל כול מכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 העלמות העלמה העלמות noun feminine plural construct unspecified unspecified  	O	null
+6 פניה פנייה פניה noun feminine singular absolute unspecified unspecified  	O	null
+7 כ כ כמלאך preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 מלאך מלאך כמלאך noun masculine singular construct unspecified unspecified  	O	null
+8 הרס הרס הרסו noun masculine singular absolute unspecified unspecified  
+8 ו ו הרסו possessive masculine singular unspecified 3 unspecified 0 	O	null
+9 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+10 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 נותרו נותר נותרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+13 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+13 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+14 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+15 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+17 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+18 איננה הוא איננה copula feminine singular unspecified 3 beinoni  	O	null
+19 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+20 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+21 נותרו נותר נותרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+22 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+22 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+23 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+24 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+25 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+26 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+26 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+27 איננה הוא איננה copula feminine singular unspecified 3 beinoni  	O	null
+28 עוד עוד עוד noun masculine singular absolute unspecified unspecified  	O	null
+
+0 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 המציא המציא המציא verb masculine singular unspecified 3 past  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה המילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המילה מילה המילה noun feminine singular absolute unspecified unspecified  	O	null
+4 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+1 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+2 שורפת שרף שורפת verb feminine singular unspecified any beinoni  	O	null
+3 לבבות לב לבבות noun masculine plural construct unspecified unspecified  	O	null
+4 ה ה האין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 האין אין האין noun masculine singular absolute unspecified unspecified  	O	null
+5 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+6 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+7 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+8 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ש ש שלפעמים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 לפעמים לפעמים שלפעמים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 בא בא בא verb masculine singular unspecified 3 past  	O	null
+3 לבכות בכה לבכות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 המציא המציא המציא verb masculine singular unspecified 3 past  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה המילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 המילה מילה המילה noun feminine singular absolute unspecified unspecified  	O	null
+8 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+1 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 שורפת שרף שורפת verb feminine singular unspecified any beinoni  	O	null
+2 לבבות לב לבבות noun masculine plural absolute unspecified unspecified  	O	null
+3 אכן אכן אכן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+5 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+6 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+7 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ש ש שלפעמים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 לפעמים לפעמים שלפעמים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 בא בא בא verb masculine singular unspecified 3 past  	O	null
+3 לבכות בכה לבכות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 המציא המציא המציא verb masculine singular unspecified 3 past  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 המילה... המילה... המילה... verb feminine singular unspecified 2 imperative  	O	null
+

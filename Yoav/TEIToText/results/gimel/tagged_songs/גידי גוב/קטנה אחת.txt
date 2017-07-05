@@ -1,0 +1,79 @@
+0 קטנה קטן קטנה adjective feminine singular absolute unspecified unspecified  	O	null
+1 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 פלומה פלומה פלומה noun feminine singular absolute unspecified unspecified  	O	null
+4 פקע פקע פקע verb masculine singular unspecified 3 past  	O	null
+5 ניצן ניצן ניצן properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+6 ב ב בבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 בוקר בוקר בבוקר noun masculine singular absolute unspecified unspecified  	O	null
+7 ש ש שפתיים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 פתיים פתי שפתיים noun masculine plural absolute unspecified unspecified  	O	null
+8 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 חלב חלב חלב properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+10 רכות רך רכות adjective feminine plural absolute unspecified unspecified  	O	null
+11 עיניים עין עיניים noun feminine plural absolute unspecified unspecified  	O	null
+12 נפקחות נפקח נפקחות verb feminine plural unspecified any beinoni  	O	null
+13 ו ו וחמימות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 חמימות חמימות וחמימות noun feminine singular absolute unspecified unspecified  	O	null
+14 ו ו וריח conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 ריח ריח וריח noun masculine singular absolute unspecified unspecified  	O	null
+15 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 תינוקת תינוק תינוקת noun feminine singular absolute unspecified unspecified  	O	null
+17 ו ו והבעות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 הבעות הבעה והבעות noun feminine plural absolute unspecified unspecified  	O	null
+18 ו ו ואצבעות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 אצבעות אצבע ואצבעות noun feminine plural absolute unspecified unspecified  	O	null
+19 ו ו ומתיקות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 מתיקות מתיקה ומתיקות noun feminine plural absolute unspecified unspecified  	O	null
+
+0 קטנה קטן קטנה adjective feminine singular absolute unspecified unspecified  	O	null
+1 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אי אי אי noun masculine singular construct unspecified unspecified  	O	null
+4 שם שם שם noun masculine singular absolute unspecified unspecified  	O	null
+5 תלוי תלוי תלוי adjective masculine singular absolute unspecified unspecified  	O	null
+6 כדור כדור כדור noun masculine singular absolute unspecified unspecified  	O	null
+7 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 בדולח בדולח בדולח properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 ו ו וקרן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 קרן קרן וקרן noun feminine singular construct unspecified unspecified  	O	null
+10 שמש שמש שמש properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 ב ב בזהירות preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 זהירות זהירות בזהירות noun feminine singular absolute unspecified unspecified  	O	null
+12 ניגשת ניגש ניגשת verb feminine singular unspecified any beinoni  	O	null
+13 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+14 ב ב בו preposition unspecified unspecified unspecified unspecified unspecified  
+14 ו ו בו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+15 ב ב בעור preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 ה ה בעור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 העור עור בעור noun masculine singular absolute unspecified unspecified  	O	null
+16 ו ו והפיות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 ה ה והפיות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הפיות פה והפיות noun masculine plural absolute unspecified unspecified  	O	null
+17 כול כול כולן quantifier unspecified unspecified unspecified unspecified unspecified  
+17 הן הן כולן pronomial feminine plural unspecified 3 unspecified 0 	O	null
+18 באות בא באות verb feminine plural unspecified any beinoni  	O	null
+19 ל ל לעריסה preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 עריסה עריסה לעריסה noun feminine singular absolute unspecified unspecified  	O	null
+20 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+20 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+21 ב ב בכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 כל כול בכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+22 צבעי צבע צבעי noun masculine plural construct unspecified unspecified  	O	null
+23 הקשת הקשה הקשת noun feminine singular construct unspecified unspecified  	O	null
+
+0 עיניים עין עיניים noun feminine plural absolute unspecified unspecified  	O	null
+1 נפקחות נפקח נפקחות verb feminine plural unspecified any beinoni  	O	null
+2 ו ו וחמימות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 חמימות חמימות וחמימות noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו וריח conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ריח ריח וריח noun masculine singular absolute unspecified unspecified  	O	null
+4 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 תינוקת תינוק תינוקת noun feminine singular absolute unspecified unspecified  	O	null
+6 ו ו והבעות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 הבעות הבעה והבעות noun feminine plural absolute unspecified unspecified  	O	null
+7 ו ו ואצבעות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 אצבעות אצבע ואצבעות noun feminine plural absolute unspecified unspecified  	O	null
+8 ו ו ומתיקות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מתיקות מתיקה ומתיקות noun feminine plural absolute unspecified unspecified  	O	null
+

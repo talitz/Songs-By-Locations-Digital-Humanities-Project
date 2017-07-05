@@ -1,0 +1,125 @@
+0 רוני רוני רוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+4 ש ש שהכל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה שהכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הכל כול שהכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+6 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מצטערת הצטער מצטערת verb feminine singular unspecified any beinoni  	O	null
+8 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+10 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לומר אמר לומר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 לפני לפני לפני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ש ש שאת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 את את שאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 עוזבת עזב עוזבת verb feminine singular unspecified any beinoni  	I_ORG	null
+15 נשמטת נשמט נשמטת verb feminine singular unspecified any beinoni  	O	null
+16 מ מ מידי preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 ידי יד מידי noun feminine plural construct unspecified unspecified  	O	null
+17 קלף קלף קלף noun masculine singular absolute unspecified unspecified  	O	null
+18 נואש נואש נואש verb masculine singular unspecified 3 past  	O	null
+19 אזרוק זרק אזרוק verb masculine-and-feminine singular unspecified 1 future  	O	null
+20 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+21 רוני רוני רוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+22 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+23 תלכי הלך תלכי verb feminine singular unspecified 2 future  	O	null
+24 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רוני רוני רוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תלכי הלך תלכי verb feminine singular unspecified 2 future  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תזרח זרח תזרח verb feminine singular unspecified 3 future  	O	null
+8 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 כש כש כשאת temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+9 את את כשאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לידי לידי לידי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 רוני רוני רוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 תלכי הלך תלכי verb feminine singular unspecified 2 future  	O	null
+16 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+17 פשוט פשוט פשוט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+19 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+19 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+20 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+20 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+21 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רוני רוני רוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 בלעדי בלעדי בלעדייך preposition unspecified unspecified unspecified unspecified unspecified  
+2 ך ך בלעדייך pronomial feminine singular unspecified 2 unspecified 0 	O	null
+3 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 שום שום שום quantifier unspecified unspecified construct unspecified unspecified  	O	null
+6 כיוון כיוון כיוון noun masculine singular absolute unspecified unspecified  	I_LOC	null
+7 אפליג הפליג אפליג verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מכתביי מכתב מכתבייך noun masculine plural absolute unspecified unspecified  
+9 ך ך מכתבייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+10 שיכור שיכור שיכור adjective masculine singular absolute unspecified unspecified  	O	null
+11 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ה ה הסיפון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הסיפון סיפון הסיפון noun masculine singular absolute unspecified unspecified  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+15 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+17 לצאת יצא לצאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+18 ו ו ולחפש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 לחפש חיפש ולחפש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+19 תרגום תרגום תרגום noun masculine singular absolute unspecified unspecified  	O	null
+20 ב ב בגוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+20 ה ה בגוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הגוף גוף בגוף noun masculine singular absolute unspecified unspecified  	O	null
+21 אחרת אחרת אחרת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+23 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+23 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+24 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+25 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+25 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+26 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רוני רוני רוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תלכי... תלכי... תלכי... noun feminine plural absolute unspecified unspecified  	O	null
+
+0 רוני רוני רוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ב ב בטבע preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 טבע טבע בטבע noun masculine singular construct unspecified unspecified  	O	null
+4 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+5 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עצבות עצבות עצבות noun feminine singular absolute unspecified unspecified  	O	null
+7 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 תתני התנה תתני verb feminine singular unspecified 2 future  	O	null
+10 ל ל לרגע preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 רגע רגע לרגע noun masculine singular absolute unspecified unspecified  	O	null
+11 להפוך הפך להפוך verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 ל ל למציאות preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה למציאות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 המציאות מציאות למציאות noun feminine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רוני רוני רוני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תלכי... תלכי... תלכי... noun feminine plural absolute unspecified unspecified  	O	null
+

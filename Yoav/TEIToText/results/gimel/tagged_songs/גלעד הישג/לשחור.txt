@@ -1,0 +1,73 @@
+0 המולת המולה המולת noun feminine singular construct unspecified unspecified  	O	null
+1 ילדים ילד ילדים noun masculine plural absolute unspecified unspecified  	O	null
+2 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נדמה נדמה נדמה verb masculine singular unspecified 3 past  	O	null
+4 עברה עבר עברה verb feminine singular unspecified 3 past  	O	null
+5 ה ה השמחה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 השמחה שמחה השמחה noun feminine singular absolute unspecified unspecified  	O	null
+6 עברה עבר עברה verb feminine singular unspecified 3 past  	O	null
+7 ו ו וגלתה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 גלתה גלה וגלתה verb feminine singular unspecified 3 past  	O	null
+8 ה ה הדירה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הדירה דירה הדירה noun feminine singular absolute unspecified unspecified  	O	null
+9 נתרוקנה נתרוקנה נתרוקנה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 ו ו ונשמה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 נשמה נשם ונשמה verb feminine singular unspecified 3 past  	O	null
+11 נותרנו נותר נותרנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+12 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+13 ו ו ואתה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 את את ואתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+13 ה ה ואתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הן הן הן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שעשוע שעשוע שעשוע noun masculine singular absolute unspecified unspecified  	O	null
+2 ביקשת ביקש ביקשת verb feminine singular unspecified 2 past  	O	null
+3 כ כ כזרת preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה כזרת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזרת זרת כזרת noun feminine singular absolute unspecified unspecified  	O	null
+4 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 בודד בודד בודד adjective masculine singular absolute unspecified unspecified  	O	null
+6 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תרבץ תרבץ תרבץ adjective masculine singular absolute unspecified unspecified  	O	null
+8 ב ב בפינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 פינה פינה בפינה noun feminine singular absolute unspecified unspecified  	O	null
+9 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+10 קבוצת קבוצה קבוצת noun feminine singular construct unspecified unspecified  	O	null
+11 ש ש שערך relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 ערך ערך שערך noun masculine singular absolute unspecified unspecified  	O	null
+12 ש ש שחרחרת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 חרחרת חרחר שחרחרת verb feminine singular unspecified 2 past  	O	null
+13 תאמר אמר תאמר verb feminine singular unspecified 3 future  	O	null
+14 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+14 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+15 עצבות עצבות עצבות noun feminine singular absolute unspecified unspecified  	O	null
+16 ו ו ותלונה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 תלונה תלונה ותלונה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מ מ מלבי preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 לב לב מלבי noun masculine singular absolute unspecified unspecified  
+1 י י מלבי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 ה ה הקרוע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הקרוע קרע הקרוע participle masculine singular absolute any unspecified  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 נפשי נפשי נפשי adjective masculine singular absolute unspecified unspecified  	O	null
+5 מבט מבט מבטך noun masculine singular absolute unspecified unspecified  
+5 ך ך מבטך possessive feminine singular unspecified 2 unspecified 0 	O	null
+6 יעכור עכר יעכור verb masculine singular unspecified 3 future  	O	null
+7 רעי רעי רעי noun masculine singular absolute unspecified unspecified  	O	null
+8 ה ה המסכן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 המסכן מסכן המסכן adjective masculine singular absolute unspecified unspecified  	O	null
+9 ה ה הפרוע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הפרוע פרוע הפרוע adjective masculine singular absolute unspecified unspecified  	O	null
+10 כ כ כלבלב preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 לבלב לבלב כלבלב noun masculine singular absolute unspecified unspecified  	O	null
+11 נאמן נאמן נאמן adjective masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+12 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+13 כלבלב כלבלב כלבלב noun masculine singular absolute unspecified unspecified  	O	null
+14 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+14 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+15 שחור שחור שחור adjective masculine singular absolute unspecified unspecified  	O	null
+

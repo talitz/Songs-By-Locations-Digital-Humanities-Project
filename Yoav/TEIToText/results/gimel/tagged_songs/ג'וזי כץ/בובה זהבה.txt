@@ -1,0 +1,101 @@
+0 עייפה עייף עייפה adjective feminine singular absolute unspecified unspecified  	O	null
+1 בובה בובה בובה noun feminine singular absolute unspecified unspecified  	O	null
+2 זהבה זהבה זהבה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ו ו ועייף conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 עייף עייף ועייף verb masculine singular unspecified 3 past  	O	null
+4 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הדוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הדוב דוב הדוב noun masculine singular absolute unspecified unspecified  	O	null
+6 ה ה הצללים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הצללים צל הצללים noun masculine plural absolute unspecified unspecified  	O	null
+7 ל ל לחדר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה לחדר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 החדר חדר לחדר noun masculine singular absolute unspecified unspecified  	O	null
+8 באו בא באו verb masculine-and-feminine plural unspecified 3 past  	O	null
+9 לוחשים לחש לוחשים verb masculine plural unspecified any beinoni  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+12 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 ב ב במיטה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה במיטה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המיטה מיטה במיטה noun feminine singular absolute unspecified unspecified  	O	null
+1 שוכבת שכב שוכבת verb feminine singular unspecified any beinoni  	O	null
+2 נורית נורית נורית noun feminine singular absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יד יד ידה noun feminine singular absolute unspecified unspecified  
+4 ה ה ידה possessive feminine singular unspecified 3 unspecified 0 	O	null
+5 יושב יושב יושב noun masculine singular construct unspecified unspecified  	O	null
+6 דובון דובון דובון noun masculine singular absolute unspecified unspecified  	O	null
+7 ו ו וכדור conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 כדור כדור וכדור noun masculine singular absolute unspecified unspecified  	O	null
+8 ו ו וגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 גם גם וגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ארנבת ארנבת ארנבת noun feminine singular absolute unspecified unspecified  	O	null
+10 ו ו וכולם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 כולם כולם וכולם pronoun masculine plural unspecified 3 unspecified  	O	null
+11 רוצים רצה רוצים verb masculine plural unspecified any beinoni  	O	null
+12 לישון ישן לישון verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לפתע לפתע לפתע adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 קמה קם קמה verb feminine singular unspecified 3 past  	O	null
+3 נורית נורית נורית noun feminine singular construct unspecified unspecified  	O	null
+4 אבא אבא אבא noun masculine singular absolute unspecified unspecified  	O	null
+5 אבא אבא אבא properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+6 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+7 קוראה קרא קוראה verb feminine singular unspecified any beinoni  	O	null
+8 בוא בא בוא verb masculine singular unspecified 2 imperative  	O	null
+9 מ מ מהר preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 הר הר מהר noun masculine singular construct unspecified unspecified  	O	null
+10 גרש גרש גרש noun masculine singular construct unspecified unspecified  	O	null
+11 ה ה החושך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 החושך חושך החושך noun masculine singular absolute unspecified unspecified  	O	null
+12 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+13 מפריע הפריע מפריע verb masculine singular unspecified any beinoni  	O	null
+14 ילד ילד ילד noun masculine singular absolute unspecified unspecified  	O	null
+15 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 צחקה צחק צחקה verb feminine singular unspecified 3 past  	O	null
+1 בובה בובה בובה noun feminine singular absolute unspecified unspecified  	O	null
+2 זהבה זהבה זהבה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ו ו וצחק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 צחק צחק וצחק verb masculine singular unspecified 3 past  	O	null
+4 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הדוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הדוב דוב הדוב noun masculine singular absolute unspecified unspecified  	O	null
+6 ל ל למה preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 מה מה למה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לגרש גירש לגרש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 ה ה החושך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 החושך חושך החושך noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו והרי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 הרי הרי והרי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+11 ילד ילד ילד noun masculine singular absolute unspecified unspecified  	O	null
+12 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 עייפה עייף עייפה adjective feminine singular absolute unspecified unspecified  	O	null
+1 בובה בובה בובה noun feminine singular absolute unspecified unspecified  	O	null
+2 זהבה זהבה זהבה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ו ו ועייף conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 עייף עייף ועייף verb masculine singular unspecified 3 past  	O	null
+4 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הדוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הדוב דוב הדוב noun masculine singular absolute unspecified unspecified  	O	null
+6 ה ה הצללים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הצללים צל הצללים noun masculine plural absolute unspecified unspecified  	O	null
+7 ל ל לחדר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה לחדר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 החדר חדר לחדר noun masculine singular absolute unspecified unspecified  	O	null
+8 באו בא באו verb masculine-and-feminine plural unspecified 3 past  	O	null
+9 לוחשים לחש לוחשים verb masculine plural unspecified any beinoni  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+12 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+1 טוב... טוב... טוב... verb masculine singular unspecified 2 imperative  	O	null
+

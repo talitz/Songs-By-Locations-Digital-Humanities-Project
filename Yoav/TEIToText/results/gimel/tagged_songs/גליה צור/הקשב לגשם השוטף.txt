@@ -1,0 +1,314 @@
+0 ה ה הקשב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הקשב קשב הקשב noun masculine singular absolute unspecified unspecified  	O	null
+1 ל ל לגשם preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה לגשם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הגשם גשם לגשם noun masculine singular absolute unspecified unspecified  	O	null
+2 ה ה השוטף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השוטף שוטף השוטף adjective masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הקשב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הקשב קשב הקשב noun masculine singular absolute unspecified unspecified  	O	null
+5 ל ל לכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 כל כול לכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+6 טיפה טיפה טיפה noun feminine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 שוטף שוטף שוטף adjective masculine singular absolute unspecified unspecified  	O	null
+1 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 סימטאות סימטאות סימטאות noun feminine singular construct unspecified unspecified  	O	null
+3 ליבי ליבי ליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 משכיח השכיח משכיח verb masculine singular unspecified any beinoni  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 דמות דמות דמותך noun feminine singular absolute unspecified unspecified  
+7 ך ך דמותך possessive feminine singular unspecified 2 unspecified 0 	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 צל צל צל noun masculine singular construct unspecified unspecified  	O	null
+1 ירח ירח ירח noun masculine singular absolute unspecified unspecified  	O	null
+2 מלמעלה מלמעלה מלמעלה adverb unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+6 ל ל לבד preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 בד בד לבד noun masculine singular absolute unspecified unspecified  	O	null
+7 ו ו ולילה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 לילה לילה ולילה noun masculine singular absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אר אר אר noun masculine singular construct unspecified unspecified  	O	null
+11 נר נר נר noun masculine singular absolute unspecified unspecified  	O	null
+12 מפיץ הפיץ מפיץ verb masculine singular unspecified any beinoni  	O	null
+13 ב ב בחושך preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה בחושך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 החושך חושך בחושך noun masculine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 זיכרון זיכרון זיכרון noun masculine singular absolute unspecified unspecified  	O	null
+16 שיכור שיכור שיכור adjective masculine singular absolute unspecified unspecified  	O	null
+17 מאושר מאושר מאושר adjective masculine singular absolute unspecified unspecified  	O	null
+18 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ה ה הקשב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 הקשב קשב הקשב noun masculine singular absolute unspecified unspecified  	O	null
+20 ל ל לגשם preposition unspecified unspecified unspecified unspecified unspecified 0 
+20 ה ה לגשם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הגשם גשם לגשם noun masculine singular absolute unspecified unspecified  	O	null
+21 ה ה השוטף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 השוטף שוטף השוטף adjective masculine singular absolute unspecified unspecified  	O	null
+22 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ה ה הקשב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+23 הקשב קשב הקשב noun masculine singular absolute unspecified unspecified  	O	null
+24 ל ל לכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+24 כל כול לכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+25 טיפה טיפה טיפה noun feminine singular absolute unspecified unspecified  	O	null
+26 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ידעת ידע ידעת verb feminine singular unspecified 2 past  	O	null
+2 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ויתרת ויתר ויתרת verb feminine singular unspecified 2 past  	O	null
+7 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 טעות טעות טעות noun feminine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 הבנתי הבין הבנתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+13 ל ל למה preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 מה מה למה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+16 התפוגג התפוגג התפוגג verb masculine singular unspecified 3 past  	O	null
+17 בכזו בכזו בכזו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+18 קלות קלות קלות noun feminine singular absolute unspecified unspecified  	O	null
+19 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לאן לאן לאן interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הלך הלך הלך verb masculine singular unspecified 3 past  	O	null
+2 ה ה הירח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הירח ירח הירח noun masculine singular absolute unspecified unspecified  	O	null
+3 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הלכה הלכה הלכה noun feminine singular absolute unspecified unspecified  	O	null
+1 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+3 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לאן לאן לאן interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הלכו הלך הלכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 ה ה הזיכרונות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזיכרונות זיכרון הזיכרונות noun masculine plural absolute unspecified unspecified  	O	null
+4 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ומה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 מה מה ומה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שורקת שרק שורקת verb feminine singular unspecified any beinoni  	O	null
+2 דומם דומם דומם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה הרוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הרוח רוח הרוח noun feminine singular absolute unspecified unspecified  	O	null
+4 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ומה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 מה מה ומה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רומזות רמז רומזות verb feminine plural unspecified any beinoni  	O	null
+2 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 את את אותן at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 הן הן אותן pronomial feminine plural unspecified 3 unspecified 0 	O	null
+4 טיפות טיפה טיפות noun feminine plural absolute unspecified unspecified  	O	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 Sieno Sieno Sieno foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 cuando cuando cuando foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 tu tu tu foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 no no no foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 estas estas estas foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 morir morir morir foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+7 mi mi mi foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+8 Corazon Corazon Corazon foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 Pues Pues Pues foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+11 mi mi mi foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+12 alma alma alma foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+13 se se se foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+14 alimenta alimenta alimenta foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 solo solo solo foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+17 de de de foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+18 tu tu tu foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+19 amor amor amor foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+20 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 Si Si Si foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+1 estas estas estas foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+2 lejos lejos lejos foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 quiero quiero quiero foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+5 verte verte verte foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 Si Si Si foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+8 estas estas estas foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+9 cerca cerca cerca foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 estar estar estar foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+12 contigo contigo contigo foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 Y Y Y foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+15 si si si foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+16 algo algo algo foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+17 me me me foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+18 lo lo lo foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+19 impide impide impide foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+20 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 Es Es Es foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+22 mi mi mi foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+23 enemigo enemigo enemigo foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+24 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 Sineto Sineto Sineto foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+26 quando quando quando foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+27 tu tu tu foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+28 no no no foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+29 estas estas estas foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+30 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+31 morir morir morir foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+32 mi mi mi foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+33 Corazon Corazon Corazon foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+
+0 No No No foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 me me me foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 digas digas digas foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 adios adios adios foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 Que Que Que foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+6 si si si foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+7 te te te foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+8 vas vas vas foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+9 tu tu tu foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+10 me me me foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+11 muero muero muero foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+12 yo yo yo foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 No No No foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+15 me me me foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+16 digas digas digas foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+17 que que que foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+18 no no no foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+19 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 y y y foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+21 dame dame dame foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+22 el el el foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+23 rojo rojo rojo foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+24 de de de foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+25 tus tus tus foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+26 labios labios labios foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+27 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 Quien Quien Quien foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 fuera fuera fuera foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 la la la foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 luna luna luna foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 Quien Quien Quien foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 fuera fuera fuera foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 la la la foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 brisa brisa brisa foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 Quien Quien Quien foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+1 fuera fuera fuera foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+2 iianto iianto iianto foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 Quien Quien Quien foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+5 fuera fuera fuera foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+6 flor flor flor foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 Quien Quien Quien foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 fuera fuera fuera foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 parte parte parte foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 de de de foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 la la la foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+5 plegaria plegaria plegaria foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 Que Que Que foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+8 solitaria solitaria solitaria foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+9 mandas mandas mandas foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+10 adios adios adios foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה הקשב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הקשב קשב הקשב noun masculine singular absolute unspecified unspecified  	O	null
+1 ל ל לגשם preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה לגשם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הגשם גשם לגשם noun masculine singular absolute unspecified unspecified  	O	null
+2 ה ה השוטף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השוטף שוטף השוטף adjective masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מרצד ריצד מרצד verb masculine singular unspecified any beinoni  	O	null
+6 ב ב באור preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 אור אור באור noun masculine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 Sieno Sieno Sieno foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 cuando cuando cuando foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 tu tu tu foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 no no no foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 estas estas estas foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 morir morir morir foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+7 mi mi mi foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+8 Corazon Corazon Corazon foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 צל צל צל noun masculine singular construct unspecified unspecified  	O	null
+11 ירח ירח ירח noun masculine singular absolute unspecified unspecified  	O	null
+12 מלמעלה מלמעלה מלמעלה adverb unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+16 ל ל לבד preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 בד בד לבד noun masculine singular absolute unspecified unspecified  	O	null
+17 ו ו ולילה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 לילה לילה ולילה noun masculine singular absolute unspecified unspecified  	O	null
+18 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 Y Y Y foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+20 si si si foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+21 algo algo algo foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+22 me me me foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+23 lo lo lo foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+24 impide impide impide foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+25 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+26 Es Es Es foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+27 mi mi mi foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+28 enemigo enemigo enemigo foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+29 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+30 ה ה הקשב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+30 הקשב קשב הקשב noun masculine singular absolute unspecified unspecified  	O	null
+31 ל ל לגשם preposition unspecified unspecified unspecified unspecified unspecified 0 
+31 ה ה לגשם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+31 הגשם גשם לגשם noun masculine singular absolute unspecified unspecified  	O	null
+32 ה ה השוטף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+32 השוטף שוטף השוטף adjective masculine singular absolute unspecified unspecified  	O	null
+33 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+34 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+35 מרצד ריצד מרצד verb masculine singular unspecified any beinoni  	O	null
+36 ב ב באור preposition unspecified unspecified unspecified unspecified unspecified 0 
+36 אור אור באור noun masculine singular absolute unspecified unspecified  	O	null
+37 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 Sieno Sieno Sieno foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 cuando cuando cuando foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 tu tu tu foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 no no no foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 estas estas estas foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 morir morir morir foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+7 mi mi mi foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+8 Corazon Corazon Corazon foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

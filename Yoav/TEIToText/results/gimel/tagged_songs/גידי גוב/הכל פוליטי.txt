@@ -1,0 +1,264 @@
+0 אנחנו הוא אנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+1 ילדי ילד ילדי noun masculine plural construct unspecified unspecified  	O	null
+2 ה ה התקופה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 התקופה תקופה התקופה noun feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה התקופה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 התקופה תקופה התקופה noun feminine singular absolute unspecified unspecified  	O	null
+5 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+6 פוליטית פוליטי פוליטית adjective feminine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 ה ה המעשים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המעשים מעשה המעשים noun masculine plural absolute unspecified unspecified  	O	null
+2 ה ה היומיומיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 היומיומיים יומיומי היומיומיים adjective masculine plural absolute unspecified unspecified  	O	null
+3 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הליליים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הליליים לילי הליליים adjective masculine plural absolute unspecified unspecified  	O	null
+5 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 של של שלנו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+7 נו נו שלנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 של של שלכם shel-preposition unspecified unspecified unspecified unspecified unspecified  
+9 כם כם שלכם pronomial masculine plural unspecified 2 unspecified 0 	O	null
+10 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+11 מעשים מעשה מעשים noun masculine plural absolute unspecified unspecified  	O	null
+12 פוליטיים פוליטי פוליטיים adjective masculine plural absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 תרצה תירץ תרצה verb feminine singular unspecified 3 past  	O	null
+1 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תרצה תירץ תרצה verb feminine singular unspecified 3 past  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל לגנים preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה לגנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הגנים גן לגנים noun masculine plural absolute unspecified unspecified  	O	null
+6 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+6 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+7 עבר עבר עבר noun masculine singular absolute unspecified unspecified  	O	null
+8 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ל ל לעור preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 עור עור לעור noun masculine singular construct unspecified unspecified  	O	null
+11 גוון גוון גוון noun masculine singular absolute unspecified unspecified  	O	null
+12 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ל ל לעיניים preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 עיניים עין לעיניים noun feminine plural absolute unspecified unspecified  	O	null
+15 היבט היבט היבט noun masculine singular absolute unspecified unspecified  	O	null
+16 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כך כך כך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אחרת אחרת אחרת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ל ל לכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 כל כול לכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+4 דברי דבר דבריך noun masculine plural absolute unspecified unspecified  
+4 ך ך דבריך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 הדהוד הדהוד הדהוד noun feminine singular absolute unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ל ל לכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 כל כול לכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 שתיקות שתיקות שתיקותך noun feminine plural absolute unspecified unspecified  
+8 ו ו שתיקותך possessive masculine singular unspecified 3 unspecified 0 	O	null
+9 ה ה ההשתמעות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 ההשתמעות השתמעות ההשתמעות noun feminine singular absolute unspecified unspecified  	O	null
+10 פוליטים פוליטים פוליטים adjective masculine plural absolute unspecified unspecified  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אף אף אף conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בלכתך preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 לכת לכה בלכתך noun feminine singular absolute unspecified unspecified  
+1 ך ך בלכתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+2 ב ב בסבך preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 סבך סבך בסבך noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה היער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 היער יער היער noun masculine singular absolute unspecified unspecified  	O	null
+4 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+5 צועד צעד צועד verb masculine singular unspecified any beinoni  	O	null
+6 צעדים צעד צעדים noun masculine plural absolute unspecified unspecified  	O	null
+7 פוליטיים פוליטי פוליטיים adjective masculine plural absolute unspecified unspecified  	O	null
+8 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 קרקע קרקע קרקע noun feminine singular absolute unspecified unspecified  	O	null
+10 פוליטית פוליטי פוליטית adjective feminine singular absolute unspecified unspecified  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שירים שיר שירים noun masculine plural absolute unspecified unspecified  	O	null
+2 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 פוליטיים פוליטי פוליטיים adjective masculine plural absolute unspecified unspecified  	O	null
+4 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+5 פוליטיים פוליטי פוליטיים adjective masculine plural absolute unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ו ו ובמרומים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 ב ב ובמרומים preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 מרומים מרום ובמרומים noun masculine plural absolute unspecified unspecified  	O	null
+8 מאיר מאיר מאיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 ירח ירח ירח noun masculine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+12 מכבר מכבר מכבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ירחי ירחי ירחי adjective masculine singular absolute unspecified unspecified  	O	null
+16 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 להיות הוא להיות copula unspecified unspecified unspecified unspecified infinitive  	O	null
+18 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ל ל להיות preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 היות היות להיות noun masculine singular construct unspecified unspecified  	O	null
+20 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+22 ה ה השאלה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 השאלה שאלה השאלה noun feminine singular absolute unspecified unspecified  	O	null
+23 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 איזה איזה איזו interrogative unspecified unspecified unspecified unspecified unspecified  
+0 ה ה איזו pronomial feminine singular unspecified 3 unspecified 0 	O	null
+1 שאלה שאלה שאלה noun feminine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 חביבי חביב חביבי adjective masculine plural construct unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה השב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 השב שב השב participle masculine singular absolute any unspecified  	O	null
+6 ב ב בהקלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 הקלה הקלה בהקלה noun feminine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 שאלה שאלה שאלה noun feminine singular absolute unspecified unspecified  	O	null
+1 פוליטית פוליטי פוליטית adjective feminine singular absolute unspecified unspecified  	O	null
+2 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אינך הוא אינך copula masculine singular unspecified 2 beinoni  	O	null
+1 חייב חייב חייב modal masculine singular unspecified any unspecified  	O	null
+2 להיות הוא להיות copula unspecified unspecified unspecified unspecified infinitive  	O	null
+3 בן בן בן noun masculine singular absolute unspecified unspecified  	O	null
+4 אנוש אנוש אנוש adjective masculine singular absolute unspecified unspecified  	O	null
+5 כדי כדי כדי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 להיות הוא להיות copula unspecified unspecified unspecified unspecified infinitive  	O	null
+7 בעל בעל בעל noun masculine singular construct unspecified unspecified  	O	null
+8 משמעות משמעות משמעות noun feminine singular absolute unspecified unspecified  	O	null
+9 פוליטית פוליטי פוליטית adjective feminine singular absolute unspecified unspecified  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 די די די adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בכך preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 כך כך בכך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ש ש שתהיה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 תהיה הוא שתהיה copula feminine singular unspecified 3 future  	O	null
+3 נפט נפט נפט noun masculine singular absolute unspecified unspecified  	O	null
+4 גולמי גולמי גולמי adjective masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מספוא מספוא מספוא noun masculine singular absolute unspecified unspecified  	O	null
+7 מרוכז מרוכז מרוכז adjective masculine singular absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 חומר חומר חומר noun masculine singular construct unspecified unspecified  	O	null
+10 גלם גלם גלם noun masculine singular absolute unspecified unspecified  	O	null
+11 ממוחזר מוחזר ממוחזר verb masculine singular unspecified any beinoni  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אף אף אף conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שולחן שולחן שולחן noun masculine singular construct unspecified unspecified  	O	null
+3 ישיבות ישיבה ישיבות noun feminine plural absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שעל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 על על שעל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 צורת צורה צורתו noun feminine singular absolute unspecified unspecified  
+6 ו ו צורתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+7 התווכחו התווכח התווכחו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 חודשים חודש חודשים noun masculine plural absolute unspecified unspecified  	O	null
+9 ארוכים ארוך ארוכים adjective masculine plural absolute unspecified unspecified  	O	null
+10 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 מסביב מסביב מסביב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ל ל לאיזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 איזה איזה לאיזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+13 שולחן שולחן שולחן noun masculine singular absolute unspecified unspecified  	O	null
+14 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+15 לשאת נשא לשאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+16 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 לתת נתן לתת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+18 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 אודות אודות אודות preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+21 ו ו ומוות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+21 מוות מוות ומוות noun masculine singular absolute unspecified unspecified  	O	null
+22 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 עגול עגול עגול adjective masculine singular absolute unspecified unspecified  	O	null
+24 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+25 מרובע מרובע מרובע adjective masculine singular absolute unspecified unspecified  	O	null
+26 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 בינתיים בינתיים בינתיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+2 נהרגו נהרג נהרגו verb masculine-and-feminine plural unspecified 3 past  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 חיות חיה חיות noun feminine plural absolute unspecified unspecified  	O	null
+5 גוועו גווע גוועו verb masculine-and-feminine plural unspecified 3 past  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 בתים בית בתים noun masculine plural absolute unspecified unspecified  	O	null
+8 עלו עלה עלו verb masculine-and-feminine plural unspecified 3 past  	O	null
+9 ב ב בלהבות preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה בלהבות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הלהבות להבה בלהבות noun feminine plural absolute unspecified unspecified  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ושדות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 שדות שדה ושדות noun masculine plural absolute unspecified unspecified  	O	null
+1 צמחו צמח צמחו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 פרא פרא פרא noun masculine singular absolute unspecified unspecified  	O	null
+3 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ב ב בתקופות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 תקופות תקופה בתקופות noun feminine plural absolute unspecified unspecified  	O	null
+5 קדם קדם קדם noun masculine singular absolute unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 פחות פחת פחות noun feminine plural absolute unspecified unspecified  	O	null
+8 פוליטיות פוליטי פוליטיות adjective feminine plural absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 דבר דבר דבר noun masculine singular absolute unspecified unspecified  	O	null
+2 ש ש שאתה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 אתה הוא שאתה pronoun masculine singular unspecified 2 unspecified  	O	null
+3 עושה עשה עושה verb masculine singular unspecified any beinoni  	O	null
+4 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+5 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+6 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 בכלל בכלל בכלל adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 דבר דבר דבר noun masculine singular absolute unspecified unspecified  	O	null
+9 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 יוצא יוצא יוצא noun masculine singular absolute unspecified unspecified  	O	null
+11 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+12 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+13 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+16 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+17 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+19 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+20 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+22 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+23 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+24 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+25 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+26 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+26 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+27 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+28 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+29 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+29 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+30 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+31 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+32 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+33 פוליטי פוליטי פוליטי adjective masculine singular absolute unspecified unspecified  	O	null
+

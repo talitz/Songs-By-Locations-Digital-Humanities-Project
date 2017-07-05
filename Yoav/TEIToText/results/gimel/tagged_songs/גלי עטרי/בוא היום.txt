@@ -1,0 +1,156 @@
+0 הבוקר הבוקר הבוקר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 בא בא בא verb masculine singular unspecified 3 past  	O	null
+2 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+3 חדש חדש חדש adjective masculine singular absolute unspecified unspecified  	O	null
+4 נולד נולד נולד verb masculine singular unspecified 3 past  	O	null
+5 יושבת יושב יושבת noun feminine singular absolute unspecified unspecified  	O	null
+6 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 כוס כוס כוס noun feminine singular construct unspecified unspecified  	O	null
+8 קפה קפה קפה noun masculine singular absolute unspecified unspecified  	O	null
+9 ב ב ביד preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 יד יד ביד noun feminine singular absolute unspecified unspecified  	O	null
+10 ו ו ומחכה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 מחכה חיכה ומחכה verb masculine singular unspecified any beinoni  	O	null
+11 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+12 לאט לאט לאט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 חולמת חלם חולמת verb feminine singular unspecified any beinoni  	O	null
+14 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 שנינו שנה שנינו verb masculine-and-feminine plural unspecified 1 past  	O	null
+16 יחד יחד יחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 לבד לבד לבד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 שעה שעה שעה noun feminine singular absolute unspecified unspecified  	O	null
+1 עברה עבר עברה verb feminine singular unspecified 3 past  	O	null
+2 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שניה שנייה שניה noun feminine singular absolute unspecified unspecified  	O	null
+4 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 תקרא קרא תקרא verb feminine singular unspecified 3 future  	O	null
+6 ב ב בשמי preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 שמי שמי בשמי noun masculine singular absolute unspecified unspecified  	O	null
+7 תחייך חייך תחייך verb feminine singular unspecified 3 future  	O	null
+8 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+10 לישון ישן לישון verb unspecified unspecified unspecified unspecified infinitive  	O	null
+11 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+11 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+12 חלום חלום חלום noun masculine singular absolute unspecified unspecified  	O	null
+13 אורגת אורג אורגת noun feminine singular absolute unspecified unspecified  	O	null
+14 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+16 ה ה היום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 היום יום היום noun masculine singular absolute unspecified unspecified  	O	null
+17 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+19 ו ו ודי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 די די ודי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה היום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 היום יום היום noun masculine singular absolute unspecified unspecified  	O	null
+3 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+4 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+5 כך כך כך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אלי אל אלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+10 אלי אל אלי noun masculine plural construct unspecified unspecified  	O	null
+11 ו ו ותן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 תן תן ותן noun masculine singular absolute unspecified unspecified  	O	null
+12 לטעום טעם לטעום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הרגע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הרגע רגע הרגע noun masculine singular absolute unspecified unspecified  	O	null
+15 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ב ב בחלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 חלום חלום בחלום noun masculine singular absolute unspecified unspecified  	O	null
+
+0 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+2 ו ו ופנה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 פנה פנה ופנה verb masculine singular unspecified 3 past  	O	null
+3 אחור אחור אחור noun masculine singular construct unspecified unspecified  	O	null
+4 אוויר אוויר אוויר noun masculine singular absolute unspecified unspecified  	O	null
+5 קריר קריר קריר adjective masculine singular absolute unspecified unspecified  	O	null
+6 שביב שביב שביב noun masculine singular absolute unspecified unspecified  	O	null
+7 חלום חלום חלום noun masculine singular absolute unspecified unspecified  	O	null
+8 טהור טהור טהור adjective masculine singular absolute unspecified unspecified  	O	null
+9 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+12 הכל הכיל הכל verb masculine singular unspecified 2 imperative  	O	null
+13 ו ו ומותרת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 מותרת הותר ומותרת verb feminine singular unspecified any beinoni  	O	null
+14 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 בוא בא בוא verb masculine singular unspecified 2 imperative  	O	null
+16 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ה ה הבא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 הבא בא הבא adjective masculine singular absolute unspecified unspecified  	O	null
+18 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+18 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+19 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+
+0 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה היום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 היום יום היום noun masculine singular absolute unspecified unspecified  	O	null
+3 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+4 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+5 כך כך כך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אלי אל אלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+10 אלי אל אלי noun masculine plural construct unspecified unspecified  	O	null
+11 ו ו ותן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 תן תן ותן noun masculine singular absolute unspecified unspecified  	O	null
+12 לטעום טעם לטעום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הרגע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הרגע רגע הרגע noun masculine singular absolute unspecified unspecified  	O	null
+15 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ב ב בחלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 חלום חלום בחלום noun masculine singular absolute unspecified unspecified  	O	null
+
+0 צללים צל צללים noun masculine plural absolute unspecified unspecified  	O	null
+1 הלכו הלך הלכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שעה שעה שעה noun feminine singular absolute unspecified unspecified  	O	null
+4 חלפה חלף חלפה verb feminine singular unspecified 3 past  	O	null
+5 מול מול מולי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י מולי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 אישה איש אישה noun feminine singular absolute unspecified unspecified  	O	null
+7 עייפה עייף עייפה adjective feminine singular absolute unspecified unspecified  	O	null
+8 רפה רפה רפה adjective feminine singular absolute unspecified unspecified  	O	null
+9 אורות אור אורות properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 כיביתי כיבה כיביתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+11 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ראיתי ראה ראיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+13 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+13 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+14 ב ב בשער preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 שער שער בשער noun masculine singular construct unspecified unspecified  	O	null
+15 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+16 סוף סוף סוף noun masculine singular absolute unspecified unspecified  	O	null
+17 בא בא בא verb masculine singular unspecified any beinoni  	O	null
+
+0 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 באם באם באם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אלי אל אלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+7 יופי יופי יופי noun masculine singular absolute unspecified unspecified  	O	null
+8 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 חלום חלום חלום noun masculine singular absolute unspecified unspecified  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הרגע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הרגע רגע הרגע noun masculine singular absolute unspecified unspecified  	O	null
+12 יחד יחד יחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לטעום טעם לטעום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+

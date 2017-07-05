@@ -1,0 +1,102 @@
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+2 ב ב בסטריאו preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 סטריאו סטריאו בסטריאו properName unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אמא אמא אמא noun feminine singular absolute unspecified unspecified  	O	null
+4 שומעת שמע שומעת verb feminine singular unspecified any beinoni  	O	null
+5 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ב ב במונו preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 מון מונה במונו noun masculine singular absolute unspecified unspecified  
+6 ו ו במונו possessive masculine singular unspecified 3 unspecified 0 	O	null
+7 אבא אבא אבא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 שומע שמע שומע verb masculine singular unspecified any beinoni  	O	null
+9 דיסק דיסק דיסק noun masculine singular absolute unspecified unspecified  	O	null
+10 קלאסי קלאסי קלאסי adjective masculine singular absolute unspecified unspecified  	O	null
+11 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+12 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 יודע ידע יודע verb masculine singular unspecified any beinoni  	O	null
+14 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+15 קורה קרה קורה verb masculine singular unspecified any beinoni  	O	null
+16 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 סטריאו סטריאו סטריאו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+3 טריק טריק טריק noun masculine singular absolute unspecified unspecified  	O	null
+4 קלאסי קלאסי קלאסי adjective masculine singular absolute unspecified unspecified  	O	null
+5 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 קורה קרה קורה verb masculine singular unspecified any beinoni  	O	null
+7 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מתקשה התקשה מתקשה verb masculine singular unspecified any beinoni  	O	null
+1 לפתח פיתח לפתח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+2 שיחה שיחה שיחה noun feminine singular absolute unspecified unspecified  	O	null
+3 ל ל לכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 כל כול לכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+4 מקום מקום מקום noun masculine singular absolute unspecified unspecified  	O	null
+5 בילוי בילוי בילוי noun masculine singular absolute unspecified unspecified  	O	null
+6 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+7 גורר גרר גורר verb masculine singular unspecified any beinoni  	O	null
+8 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 גווית גווייה גוויתה noun feminine singular absolute unspecified unspecified  
+9 ה ה גוויתה possessive feminine singular unspecified 3 unspecified 0 	O	null
+10 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 חווה חווה חווה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+2 ב ב בסטריאו preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 סטריאו סטריאו בסטריאו properName unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אמא אמא אמא noun feminine singular absolute unspecified unspecified  	O	null
+4 שומעת שמע שומעת verb feminine singular unspecified any beinoni  	O	null
+5 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ב ב במונו preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 מון מונה במונו noun masculine singular absolute unspecified unspecified  
+6 ו ו במונו possessive masculine singular unspecified 3 unspecified 0 	O	null
+7 אבא אבא אבא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 שומע שמע שומע verb masculine singular unspecified any beinoni  	O	null
+9 דיסק דיסק דיסק noun masculine singular absolute unspecified unspecified  	O	null
+10 קלאסי קלאסי קלאסי adjective masculine singular absolute unspecified unspecified  	O	null
+11 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+12 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 יודע ידע יודע verb masculine singular unspecified any beinoni  	O	null
+14 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+15 קורה קרה קורה verb masculine singular unspecified any beinoni  	O	null
+16 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+2 ו ו ומדבר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 מדבר דיבר ומדבר verb masculine singular unspecified any beinoni  	O	null
+3 ו ו ומדבר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 מדבר דיבר ומדבר verb masculine singular unspecified any beinoni  	O	null
+4 ו ו ומדבר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 מדבר דיבר ומדבר verb masculine singular unspecified any beinoni  	O	null
+5 מונו מונה מונו verb masculine-and-feminine plural unspecified 3 past  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 סטריאו סטריאו סטריאו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מונו מונה מונו verb masculine-and-feminine plural unspecified 3 past  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מתקשה התקשה מתקשה verb masculine singular unspecified any beinoni  	O	null
+1 לפתח פיתח לפתח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+2 שיחה שיחה שיחה noun feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ל ל לכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 כל כול לכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 מקום מקום מקום noun masculine singular absolute unspecified unspecified  	O	null
+6 בילוי בילוי בילוי noun masculine singular absolute unspecified unspecified  	O	null
+7 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+8 גורר גרר גורר verb masculine singular unspecified any beinoni  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 גווית גווייה גוויתה noun feminine singular absolute unspecified unspecified  
+10 ה ה גוויתה possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 חוה חוה חוה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אמרת אמר אמרת verb feminine singular unspecified 2 past  	O	null
+2 מה..? מה..? מה..? adjective masculine singular construct unspecified unspecified  	O	null
+

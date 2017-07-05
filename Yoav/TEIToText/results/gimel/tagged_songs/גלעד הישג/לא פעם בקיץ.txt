@@ -1,0 +1,145 @@
+0 לֹא לֹא לֹא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 פַּעַם פַּעַם פַּעַם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ב ב בַּקַּיִץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ַּקַּיִץ ַּקַּיִץ בַּקַּיִץ noun masculine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 עִם עִם עִם noun masculine singular construct unspecified unspecified  	O	null
+6 רֶדֶת רֶדֶת רֶדֶת noun feminine singular construct unspecified unspecified  	O	null
+7 ה ה הַיּוֹם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הַיּוֹם הַיּוֹם הַיּוֹם noun masculine singular absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ל ל לְאוֹר preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה לְאוֹר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הְאוֹר הְאוֹר לְאוֹר noun masculine singular absolute unspecified unspecified  	O	null
+10 הַשְּׁקִיעָה הַשְּׁקִיעָה הַשְּׁקִיעָה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 הַדּוֹעֵך הַדּוֹעֵך הַדּוֹעֵך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+12 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הָלַכְתִּי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הָלַכְתִּי הָלַכְתִּי הָלַכְתִּי adjective masculine singular absolute unspecified unspecified  	O	null
+15 אֵלַיִך אֵלַיִך אֵלַיִך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+16 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 וְעֵת וְעֵת וְעֵת noun feminine singular construct unspecified unspecified  	O	null
+18 אֲרֻכָּה אֲרֻכָּה אֲרֻכָּה noun feminine singular absolute unspecified unspecified  	O	null
+19 הִקְשַׁבְתִּי הִקְשַׁבְתִּי הִקְשַׁבְתִּי properName unspecified unspecified unspecified unspecified unspecified  	O	null
+20 ל ל לְקוֹל preposition unspecified unspecified unspecified unspecified unspecified 0 
+20 ה ה לְקוֹל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הְקוֹל הְקוֹל לְקוֹל noun masculine singular absolute unspecified unspecified  	O	null
+21 זִמְרָתֵ זִמְרָתֵ זִמְרָתֵך noun masculine plural absolute unspecified unspecified  
+21 י י זִמְרָתֵך possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+22 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 קָטָן קָטָן קָטָן noun masculine singular absolute unspecified unspecified  	O	null
+26 הוּא הוּא הוּא verb masculine singular unspecified 3 past  	O	null
+27 וְדַל וְדַל וְדַל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+28 הוּא הוּא הוּא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+29 חַדְרִי חַדְרִי חַדְרִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+30 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+31 וַאֲנִי וַאֲנִי וַאֲנִי noun masculine singular absolute unspecified unspecified  	O	null
+32 ב ב בּו preposition unspecified unspecified unspecified unspecified unspecified 0 
+32 ּו ּו בּו properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+33 ֹ ֹ ֹ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+34 ש ש שָׁרוּי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+34 ָׁרוּי ָׁרוּי שָׁרוּי noun masculine singular absolute unspecified unspecified  	O	null
+35 עֲרִירִי..." עֲרִירִי..." עֲרִירִי..." noun masculine singular absolute unspecified unspecified  	O	null
+
+0 וְחַי וְחַי וְחַי noun masculine singular absolute unspecified unspecified  	O	null
+1 ב ב בִּי preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ִּי ִּי בִּי noun masculine singular absolute unspecified unspecified  	O	null
+2 הַזֵּכֶר הַזֵּכֶר הַזֵּכֶר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה הַזֶּה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הַזֶּה הַזֶּה הַזֶּה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 הַנּוֹהֵר הַנּוֹהֵר הַנּוֹהֵר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה הַשֶּׁקֶט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הַשֶּׁקֶט הַשֶּׁקֶט הַשֶּׁקֶט noun masculine singular absolute unspecified unspecified  	O	null
+7 ה ה הַזֶּה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הַזֶּה הַזֶּה הַזֶּה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 וְהָרֹך וְהָרֹך וְהָרֹך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ו ו וּמֶתֶק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 ּמֶתֶק ּמֶתֶק וּמֶתֶק noun masculine singular construct unspecified unspecified  	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הָעֶצֶב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הָעֶצֶב הָעֶצֶב הָעֶצֶב noun masculine singular absolute unspecified unspecified  	I_ORG	null
+14 אֲשֶׁר אֲשֶׁר אֲשֶׁר properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+15 זִמְרָתֵ זִמְרָתֵ זִמְרָתֵך noun masculine plural absolute unspecified unspecified  
+15 י י זִמְרָתֵך possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+16 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 יָדְעָה יָדְעָה יָדְעָה noun masculine singular construct unspecified unspecified  	O	null
+18 עַל עַל עַל noun masculine singular construct unspecified unspecified  	O	null
+19 ה ה הַנֶּפֶש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 הַנֶּפֶש הַנֶּפֶש הַנֶּפֶש noun masculine singular absolute unspecified unspecified  	O	null
+20 ׁ ׁ ׁ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ל ל לִנְסֹך preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 ה ה לִנְסֹך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הִנְסֹך הִנְסֹך לִנְסֹך noun masculine singular absolute unspecified unspecified  	O	null
+22 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 קָטָן קָטָן קָטָן properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 הוּ הוּ הוּא noun masculine singular absolute unspecified unspecified  
+2 ה ה הוּא possessive feminine singular unspecified 3 unspecified 0 	O	null
+3 ו ו וְדַל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ְדַל ְדַל וְדַל properName unspecified unspecified unspecified unspecified unspecified  	O	null
+4 הוּ הוּ הוּא noun masculine plural absolute unspecified unspecified  
+4 י י הוּא possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 חַדְרִי חַדְרִי חַדְרִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 וַאֲנִי וַאֲנִי וַאֲנִי adjective masculine plural construct unspecified unspecified  	O	null
+8 ב ב בּו preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ּו ּו בּו properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+9 ֹ ֹ ֹ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שָׁרוּי שָׁרוּי שָׁרוּי verb feminine singular unspecified 2 imperative  	O	null
+11 עֲרִירִי..." עֲרִירִי..." עֲרִירִי..." adjective masculine singular construct unspecified unspecified  	O	null
+
+0 וְיֵש וְיֵש וְיֵש properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 ׁ ׁ ׁ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 כִּי כִּי כִּי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 נִדְמֶה נִדְמֶה נִדְמֶה properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+4 ל ל לִי preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ִי ִי לִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עִם עִם עִם noun masculine singular construct unspecified unspecified  	O	null
+7 רֶדֶת רֶדֶת רֶדֶת noun feminine singular construct unspecified unspecified  	O	null
+8 ה ה הַיוֹם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הַיוֹם הַיוֹם הַיוֹם properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ב ב בִּשְׁלֹט preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ִּשְׁלֹט ִּשְׁלֹט בִּשְׁלֹט noun masculine singular construct unspecified unspecified  	O	null
+11 ב ב בִּי preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ִּי ִּי בִּי noun masculine singular absolute unspecified unspecified  	O	null
+12 תוּגַת תוּגַת תוּגַת noun feminine singular construct unspecified unspecified  	O	null
+13 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 דִּמְדּוּמִים דִּמְדּוּמִים דִּמְדּוּמִים noun masculine singular construct unspecified unspecified  	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 עֲדַיִן עֲדַיִן עֲדַיִן noun masculine singular absolute unspecified unspecified  	O	null
+17 כְּקֶדֶם כְּקֶדֶם כְּקֶדֶם noun masculine singular construct unspecified unspecified  	O	null
+18 קוֹלֶטֶת קוֹלֶטֶת קוֹלֶטֶת noun feminine singular absolute unspecified unspecified  	O	null
+19 אָזְנִי אָזְנִי אָזְנִי noun masculine singular absolute unspecified unspecified  	O	null
+20 ה ה הַלַּחַן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הַלַּחַן הַלַּחַן הַלַּחַן noun masculine singular absolute unspecified unspecified  	O	null
+21 ה ה הַהוּא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הַהוּא הַהוּא הַהוּא noun masculine singular absolute unspecified unspecified  	O	null
+22 ה ה הַתָּמִים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 הַתָּמִים הַתָּמִים הַתָּמִים noun feminine singular absolute unspecified unspecified  	O	null
+23 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 קָטָן קָטָן קָטָן noun masculine singular absolute unspecified unspecified  	O	null
+26 הוּא הוּא הוּא verb masculine singular unspecified 3 past  	O	null
+27 וְדַל וְדַל וְדַל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+28 הוּא הוּא הוּא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+29 חַדְרִי חַדְרִי חַדְרִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+30 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+31 וַאֲנִי וַאֲנִי וַאֲנִי noun masculine singular absolute unspecified unspecified  	O	null
+32 ב ב בּו preposition unspecified unspecified unspecified unspecified unspecified 0 
+32 ּו ּו בּו properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+33 ֹ ֹ ֹ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+34 ש ש שָׁרוּי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+34 ָׁרוּי ָׁרוּי שָׁרוּי noun masculine singular absolute unspecified unspecified  	O	null
+35 עֲרִירִי..." עֲרִירִי..." עֲרִירִי..." noun masculine singular absolute unspecified unspecified  	O	null
+

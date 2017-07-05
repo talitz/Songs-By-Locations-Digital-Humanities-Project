@@ -1,0 +1,122 @@
+0 יוצאת יצא יוצאת verb feminine singular unspecified any beinoni  	O	null
+1 ילדה ילד ילדה noun feminine singular absolute unspecified unspecified  	O	null
+2 קטנה קטן קטנה adjective feminine singular absolute unspecified unspecified  	O	null
+3 ב ב בשמלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 שמלה שמלה בשמלה noun feminine singular absolute unspecified unspecified  	O	null
+4 מגוהצת גוהץ מגוהצת verb feminine singular unspecified any beinoni  	O	null
+5 יוצאת יצא יוצאת verb feminine singular unspecified any beinoni  	O	null
+6 לקטוף קטף לקטוף verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 פרחים פרח פרחים noun masculine plural absolute unspecified unspecified  	O	null
+8 ב ב ביער preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 יער יער ביער noun masculine singular absolute unspecified unspecified  	O	null
+9 כחול כחול כחול adjective masculine singular absolute unspecified unspecified  	O	null
+10 ו ו והזאב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה והזאב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הזאב זאב והזאב noun masculine singular absolute unspecified unspecified  	O	null
+11 יושב ישב יושב verb masculine singular unspecified any beinoni  	O	null
+12 ב ב בשער preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 שער שער בשער noun masculine singular construct unspecified unspecified  	O	null
+13 בונה בונה בונה noun masculine singular construct unspecified unspecified  	O	null
+14 טירות טירה טירות noun feminine plural absolute unspecified unspecified  	O	null
+15 יפות יפה יפות adjective feminine plural absolute unspecified unspecified  	O	null
+16 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ה ה החול definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 החול חול החול noun masculine singular absolute unspecified unspecified  	O	null
+
+0 רקדה רקד רקדה verb feminine singular unspecified 3 past  	O	null
+1 ילדה ילד ילדה noun feminine singular absolute unspecified unspecified  	O	null
+2 טובה טוב טובה adjective feminine singular absolute unspecified unspecified  	O	null
+3 ב ב בדרך preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 דרך דרך בדרך noun feminine singular absolute unspecified unspecified  	O	null
+4 ל ל למטה preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה למטה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 המטה מטה למטה noun masculine singular absolute unspecified unspecified  	O	null
+5 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה החולצה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 החולצה חולצה החולצה noun feminine singular absolute unspecified unspecified  	O	null
+7 הרימה הרים הרימה verb feminine singular unspecified 3 past  	O	null
+8 לראות ראה לראות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 עננים ענן עננים noun masculine plural absolute unspecified unspecified  	O	null
+10 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+13 לחזור חזר לחזור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+14 הביתה הביתה הביתה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+16 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+18 לרחוץ רחץ לרחוץ verb unspecified unspecified unspecified unspecified infinitive  	O	null
+19 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 ה ה הכלים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הכלים כלי הכלים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+2 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+8 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+11 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+12 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+13 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+14 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ‟ ‟ ‟ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ירה ירה ירה verb masculine singular unspecified 3 past  	O	null
+17 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+18 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+19 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+20 ‟ ‟ ‟ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 נפגע נפגע נפגע verb masculine singular unspecified 3 past  	O	null
+
+0 פוגש פגש פוגש verb masculine singular unspecified any beinoni  	O	null
+1 זאב זאב זאב properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 גדול גדול גדול adjective masculine singular absolute unspecified unspecified  	O	null
+3 ב ב בילדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה בילדה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הילדה ילד בילדה noun feminine singular absolute unspecified unspecified  	O	null
+4 ה ה הכובשת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הכובשת כובש הכובשת adjective feminine singular absolute unspecified unspecified  	O	null
+5 נופל נפל נופל verb masculine singular unspecified any beinoni  	O	null
+6 זאב זאב זאב properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+7 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+8 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה האדמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 האדמה אדמה האדמה noun feminine singular absolute unspecified unspecified  	O	null
+10 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הזאב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הזאב זאב הזאב noun masculine singular absolute unspecified unspecified  	O	null
+12 נפל נפל נפל verb masculine singular unspecified 3 past  	O	null
+13 ב ב ברשת preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 רשת רשת ברשת noun feminine singular construct unspecified unspecified  	O	null
+14 מלכודת מלכודת מלכודת noun feminine singular construct unspecified unspecified  	O	null
+15 ה ה השמלה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 השמלה שמלה השמלה noun feminine singular absolute unspecified unspecified  	O	null
+16 ה ה האדומה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 האדומה אדום האדומה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה החזק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 החזק חזק החזק adjective masculine singular absolute unspecified unspecified  	O	null
+3 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+4 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נהרס נהרס נהרס verb masculine singular unspecified 3 past  	O	null
+6 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+8 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+11 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+13 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+14 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+17 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+18 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
