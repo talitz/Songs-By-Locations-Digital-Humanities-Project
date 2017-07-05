@@ -89,11 +89,15 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-preview">
                         <h2 class="post-title">
-                        {{ all_songs }}
                         </h2>
                         <h3 class="post-subtitle">
                             try to fetch here another get request
                         </h3>
+                        <ul>
+                          {% for song in songs_name%}
+                            <li><a href="/findbyid/{{song.id}}">{{ song.song_name }}</a> </li>
+                          {% endfor %} 
+                        </ul>
                 </div>
                 <hr>
                 <div class="post-preview">
@@ -179,5 +183,20 @@
     </footer>
 
 </body>
+
+
+    {% load staticfiles %}
+    <!-- jQuery -->
+    <script src= "{% static 'vendor/jquery/jquery.min.js' %}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{% static 'vendor/bootstrap/js/bootstrap.min.js' %}"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="{% static 'js/jqBootstrapValidation.js' %}"></script>
+    <script src="{% static 'js/contact_me.js' %}"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="{% static 'js/clean-blog.min.js' %} "></script>
 
 </html>
