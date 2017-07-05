@@ -1,0 +1,100 @@
+0 דרך דרך דרך noun feminine singular construct unspecified unspecified  	O	null
+1 בארי בארי בארי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 יד יד ידיו noun feminine plural absolute unspecified unspecified  
+2 ו ו ידיו possessive masculine singular unspecified 3 unspecified 0 	O	null
+3 רכות רך רכות adjective feminine plural absolute unspecified unspecified  	O	null
+4 דבוקות דבוק דבוקות adjective feminine plural absolute unspecified unspecified  	O	null
+5 ב ב בנשק preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 נשק נשק בנשק noun masculine singular construct unspecified unspecified  	O	null
+6 יללות יללה יללות noun feminine plural construct unspecified unspecified  	O	null
+7 ראשונות ראשונות ראשונות noun feminine singular absolute unspecified unspecified  	O	null
+8 דבר דבר דבר noun masculine singular absolute unspecified unspecified  	O	null
+9 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ירח ירח ירח noun masculine singular absolute unspecified unspecified  	O	null
+11 ראה ראה ראה verb masculine singular unspecified 3 past  	O	null
+12 דלת דלת דלת noun feminine singular construct unspecified unspecified  	O	null
+13 ברזל ברזל ברזל noun masculine singular absolute unspecified unspecified  	O	null
+14 יפתח פתח יפתח verb masculine singular unspecified 3 future  	O	null
+15 רבדי רובד רבדיה noun masculine plural absolute unspecified unspecified  
+15 ה ה רבדיה possessive feminine singular unspecified 3 unspecified 0 	O	null
+
+0 עין עין עיניו noun feminine plural absolute unspecified unspecified  
+0 ו ו עיניו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 מאירות האיר מאירות verb feminine plural unspecified any beinoni  	O	null
+2 כ כ כאור preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 אור אור כאור noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה הזריחה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזריחה זריחה הזריחה noun feminine singular absolute unspecified unspecified  	O	null
+4 שין שן שיניו noun feminine plural absolute unspecified unspecified  
+4 ו ו שיניו possessive masculine singular unspecified 3 unspecified 0 	O	null
+5 ה ה הצחורות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הצחורות הצחורות הצחורות adjective feminine plural absolute unspecified unspecified  	O	null
+6 בוהקות בהק בוהקות verb feminine plural unspecified any beinoni  	O	null
+7 מ מ משמחה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 שמחה שמחה משמחה noun feminine singular absolute unspecified unspecified  	O	null
+8 קודש קודש קודש noun masculine singular absolute unspecified unspecified  	O	null
+9 קודשים קודש קודשים noun masculine plural absolute unspecified unspecified  	O	null
+10 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+11 ב ב באוויר preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה באוויר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 האוויר אוויר באוויר noun masculine singular absolute unspecified unspecified  	O	null
+
+0 דלת דלת דלתי noun feminine singular absolute unspecified unspecified  
+0 י י דלתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+1 ב ב בהלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 הל הל בהלה noun masculine singular absolute unspecified unspecified  
+1 ה ה בהלה possessive feminine singular unspecified 3 unspecified 0 	O	null
+2 יביאו הביא יביאו verb masculine-and-feminine plural unspecified 3 future  	O	null
+3 רעש רעש רעש noun masculine singular construct unspecified unspecified  	O	null
+4 דברי דבר דברי noun masculine plural construct unspecified unspecified  	O	null
+5 ברכה ברכה ברכה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 ינעלו נעל ינעלו verb masculine-and-feminine plural unspecified 3 future  	O	null
+7 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+
+0 עין עין עיניו noun feminine plural absolute unspecified unspecified  
+0 ו ו עיניו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 מאירות האיר מאירות verb feminine plural unspecified any beinoni  	O	null
+2 כ כ כאור preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 אור אור כאור noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה הזריחה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזריחה זריחה הזריחה noun feminine singular absolute unspecified unspecified  	O	null
+4 שין שן שיניו noun feminine plural absolute unspecified unspecified  
+4 ו ו שיניו possessive masculine singular unspecified 3 unspecified 0 	O	null
+5 ה ה הצחורות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הצחורות הצחורות הצחורות adjective feminine plural absolute unspecified unspecified  	O	null
+6 בוהקות בהק בוהקות verb feminine plural unspecified any beinoni  	O	null
+7 מ מ משמחה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 שמחה שמחה משמחה noun feminine singular absolute unspecified unspecified  	O	null
+8 קודש קודש קודש noun masculine singular absolute unspecified unspecified  	O	null
+9 קודשים קודש קודשים noun masculine plural absolute unspecified unspecified  	O	null
+10 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+
+0 עין עין עיניו noun feminine plural absolute unspecified unspecified  
+0 ו ו עיניו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 מאירות האיר מאירות verb feminine plural unspecified any beinoni  	O	null
+2 כ כ כאור preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 אור אור כאור noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה הזריחה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הזריחה זריחה הזריחה noun feminine singular absolute unspecified unspecified  	O	null
+4 עין עין עיניו noun feminine plural absolute unspecified unspecified  
+4 ו ו עיניו possessive masculine singular unspecified 3 unspecified 0 	O	null
+5 ה ה הרכות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הרכות רך הרכות adjective feminine plural absolute unspecified unspecified  	O	null
+6 כ כ כאור preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 אור אור כאור noun masculine singular construct unspecified unspecified  	O	null
+7 ה ה הלבנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הלבנה לבנה הלבנה noun feminine singular absolute unspecified unspecified  	O	null
+8 שינו שינה שינו verb masculine-and-feminine plural unspecified 3 past  	O	null
+9 ה ה הצחורות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הצחורות הצחורות הצחורות noun masculine plural absolute unspecified unspecified  	O	null
+10 זיכרון זיכרון זיכרון noun masculine singular construct unspecified unspecified  	O	null
+11 חברת חבר חברתך noun feminine singular absolute unspecified unspecified  
+11 ך ך חברתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+12 קודש קודש קודש noun masculine singular absolute unspecified unspecified  	O	null
+13 קודשים קודש קודשים noun masculine plural absolute unspecified unspecified  	O	null
+14 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+15 ב ב באוויר preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 ה ה באוויר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 האוויר אוויר באוויר noun masculine singular absolute unspecified unspecified  	O	null
+

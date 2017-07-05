@@ -1,0 +1,85 @@
+0 אוכלים אכל אוכלים verb masculine plural unspecified any beinoni  	O	null
+1 ו ו וצמים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 צמים צם וצמים verb masculine plural unspecified any beinoni  	O	null
+2 שמנים שמן שמנים noun masculine plural absolute unspecified unspecified  	O	null
+3 ו ו ורזים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 רזים רז ורזים noun masculine plural absolute unspecified unspecified  	O	null
+4 נופלים נפל נופלים verb masculine plural unspecified any beinoni  	O	null
+5 ו ו וקמים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 קמים קם וקמים verb masculine plural unspecified any beinoni  	O	null
+6 בורחים ברח בורחים verb masculine plural unspecified any beinoni  	O	null
+7 ו ו וחוזרים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 חוזרים חזר וחוזרים verb masculine plural unspecified any beinoni  	O	null
+8 ו ו ומעבירים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מעבירים העביר ומעבירים verb masculine plural unspecified any beinoni  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+
+0 ילדים ילד ילדים noun masculine plural absolute unspecified unspecified  	O	null
+1 מתבגרים התבגר מתבגרים verb masculine plural unspecified any beinoni  	O	null
+2 מזדקנים הזדקן מזדקנים verb masculine plural unspecified any beinoni  	O	null
+3 ו ו ומתים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 מתים מת ומתים adjective masculine plural absolute unspecified unspecified  	I_ORG	null
+4 הופכים הפך הופכים verb masculine plural unspecified any beinoni  	O	null
+5 ילדים ילד ילדים noun masculine plural absolute unspecified unspecified  	O	null
+6 נערים נוער נערים noun masculine plural absolute unspecified unspecified  	O	null
+7 מתבגרים התבגר מתבגרים verb masculine plural unspecified any beinoni  	O	null
+8 ו ו והסיבוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה והסיבוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הסיבוב סיבוב והסיבוב noun masculine singular absolute unspecified unspecified  	O	null
+9 נמשך נמשך נמשך verb masculine singular unspecified 3 past  	O	null
+
+0 כש כש כשתבוא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 תבוא בא כשתבוא verb feminine singular unspecified 3 future  	O	null
+1 ה ה השעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 השעה שעה השעה noun feminine singular absolute unspecified unspecified  	O	null
+2 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+3 ו ו ונאבד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 נאבד נאבד ונאבד verb masculine singular unspecified 3 past  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+
+0 שונאים שונא שונאים noun masculine plural absolute unspecified unspecified  	O	null
+1 אוהבים אהב אוהבים verb masculine plural unspecified any beinoni  	O	null
+2 טובים טוב טובים adjective masculine plural absolute unspecified unspecified  	O	null
+3 ו ו ורעים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 רעים רע ורעים adjective masculine plural absolute unspecified unspecified  	O	null
+4 ישרים ישר ישרים adjective masculine plural absolute unspecified unspecified  	O	null
+5 עקומים עקום עקומים adjective masculine plural absolute unspecified unspecified  	O	null
+6 רעבים רעב רעבים adjective masculine plural absolute unspecified unspecified  	O	null
+7 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 בולעים בלע בולעים verb masculine plural unspecified any beinoni  	O	null
+9 אחד CARD1 אחד numeral masculine singular construct unspecified unspecified  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה השני definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השני שני השני noun masculine singular absolute unspecified unspecified  	O	null
+
+0 פושעים פושע פושעים noun masculine plural absolute unspecified unspecified  	O	null
+1 צדיקים צדיק צדיקים adjective masculine plural absolute unspecified unspecified  	O	null
+2 חכמים חכם חכמים adjective masculine plural absolute unspecified unspecified  	O	null
+3 ו ו וטפשים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 טפשים טיפש וטפשים adjective masculine plural absolute unspecified unspecified  	O	null
+4 צועקים צעק צועקים verb masculine plural unspecified any beinoni  	O	null
+5 ו ו ושותקים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 שותקים שתק ושותקים verb masculine plural unspecified any beinoni  	O	null
+6 ישנים ישן ישנים adjective masculine plural absolute unspecified unspecified  	O	null
+7 ו ו וערים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 ערים ער וערים adjective masculine plural absolute unspecified unspecified  	O	null
+8 ו ו ועוברת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 עוברת עבר ועוברת verb feminine singular unspecified any beinoni  	O	null
+9 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שנה שנה שנה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 כש כש כשתבוא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 תבוא בא כשתבוא verb feminine singular unspecified 3 future  	O	null
+1 ה ה השעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 השעה שעה השעה noun feminine singular absolute unspecified unspecified  	O	null
+2 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+3 ו ו ונאבד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 נאבד נאבד ונאבד verb masculine singular unspecified 3 past  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+

@@ -1,0 +1,113 @@
+0 תחת תחת תחת preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ש ש שמיים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 מיים מים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 ריקים ריק ריקים adjective masculine plural absolute unspecified unspecified  	O	null
+3 נשען נשען נשען verb masculine singular unspecified 3 past  	O	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מילים מילה מילים noun feminine plural absolute unspecified unspecified  	O	null
+6 ב ב באוויר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה באוויר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 האוויר אוויר באוויר noun masculine singular absolute unspecified unspecified  	O	null
+7 ב ב ביד preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 יד יד ביד noun feminine singular absolute unspecified unspecified  	O	null
+8 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אוחז אחז אוחז verb masculine singular unspecified any beinoni  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הריח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הריח ריח הריח noun masculine singular absolute unspecified unspecified  	O	null
+12 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 גוף גוף גופך noun masculine singular absolute unspecified unspecified  
+13 ך ך גופך possessive feminine singular unspecified 2 unspecified 0 	O	null
+14 ה ה המקום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 המקום מקום המקום noun masculine singular absolute unspecified unspecified  	O	null
+15 ש ש שנגעת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 נגעת נגע שנגעת verb feminine singular unspecified 2 past  	O	null
+16 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+16 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+17 שורף שרף שורף verb masculine singular unspecified any beinoni  	O	null
+18 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 אינך הוא אינך copula masculine singular unspecified 2 beinoni  	O	null
+
+0 תחת תחת תחת preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 שחורים שחור שחורים adjective masculine plural absolute unspecified unspecified  	O	null
+3 עומד עמד עומד verb masculine singular unspecified any beinoni  	O	null
+4 מקופל קופל מקופל verb masculine singular unspecified any beinoni  	O	null
+5 מ מ מכאב preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 כאב כאב מכאב noun masculine singular absolute unspecified unspecified  	O	null
+6 חוזר חוזר חוזר adjective masculine singular absolute unspecified unspecified  	O	null
+7 לחפש חיפש לחפש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 ב ב בתוך preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 תוך תוך בתוך noun masculine singular construct unspecified unspecified  	O	null
+11 ה ה החשיכה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 החשיכה חשכה החשיכה noun feminine singular absolute unspecified unspecified  	O	null
+12 לראות ראה לראות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 עדיין עדיין עדיין adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 בוכה בכה בוכה verb feminine singular unspecified any beinoni  	O	null
+17 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+18 אינך הוא אינך copula masculine singular unspecified 2 beinoni  	O	null
+
+0 ב ב במקום preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 מקום מקום במקום noun masculine singular absolute unspecified unspecified  	O	null
+1 ב ב בו preposition unspecified unspecified unspecified unspecified unspecified  
+1 ו ו בו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+2 עמדת עמדה עמדת noun feminine singular construct unspecified unspecified  	O	null
+3 נשאר נשאר נשאר verb masculine singular unspecified 3 past  	O	null
+4 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אוויר אוויר אוויר noun masculine singular absolute unspecified unspecified  	O	null
+6 בלי בלי בלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 חמץ חמץ חמצן participle masculine singular unspecified any unspecified  
+7 ן ן חמצן possessive feminine plural unspecified 3 unspecified 0 	O	null
+8 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+9 עומד עמד עומד verb masculine singular unspecified any beinoni  	O	null
+10 נאחז נאחז נאחז verb masculine singular unspecified 3 past  	O	null
+11 ב ב באוויר preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה באוויר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 האוויר אוויר באוויר noun masculine singular absolute unspecified unspecified  	O	null
+12 נאחז נאחז נאחז verb masculine singular unspecified 3 past  	O	null
+13 ב ב באוויר preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה באוויר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 האוויר אוויר באוויר noun masculine singular absolute unspecified unspecified  	O	null
+14 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 אינך הוא אינך copula masculine singular unspecified 2 beinoni  	O	null
+
+0 תחת תחת תחת preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 שותקים שתק שותקים verb masculine plural unspecified any beinoni  	O	null
+3 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+5 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה הקיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הקיר קיר הקיר noun masculine singular absolute unspecified unspecified  	O	null
+7 מבטיח הבטיח מבטיח verb masculine singular unspecified any beinoni  	O	null
+8 ל ל לו preposition unspecified unspecified unspecified unspecified unspecified  
+8 ו ו לו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+9 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 להשתנות השתנה להשתנות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+11 בשביל בשביל בשבילך preposition unspecified unspecified unspecified unspecified unspecified  
+11 ך ך בשבילך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+12 ו ו ויודע conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 יודע ידע ויודע verb masculine singular unspecified any beinoni  	O	null
+13 ש ש שזה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 זה זה שזה pronoun masculine singular unspecified 3 unspecified  	O	null
+14 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ילך הלך ילך verb masculine singular unspecified 3 future  	O	null
+16 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 אינך הוא אינך copula masculine singular unspecified 2 beinoni  	O	null
+
+0 ב ב במקום preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 מקום מקום במקום noun masculine singular absolute unspecified unspecified  	O	null
+1 ב ב בו preposition unspecified unspecified unspecified unspecified unspecified  
+1 ו ו בו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+2 עמדת... עמדת... עמדת... verb masculine singular unspecified 2 imperative  	O	null
+

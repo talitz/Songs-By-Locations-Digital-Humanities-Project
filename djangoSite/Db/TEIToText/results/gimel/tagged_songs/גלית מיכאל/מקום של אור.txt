@@ -1,0 +1,87 @@
+0 מקום מקום מקום noun masculine singular absolute unspecified unspecified  	O	null
+1 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+2 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+4 עדן עדן עדן noun masculine singular absolute unspecified unspecified  	O	null
+5 רב רב רב adjective masculine singular absolute unspecified unspecified  	O	null
+6 לבן לבן לבן adjective masculine singular construct unspecified unspecified  	O	null
+7 ו ו ואנשי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 אנשי איש ואנשי noun masculine plural construct unspecified unspecified  	O	null
+8 חסד חסד חסד noun masculine singular absolute unspecified unspecified  	O	null
+9 בן בן בן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 דמעה דמעה דמעה noun feminine singular absolute unspecified unspecified  	O	null
+11 ל ל לשקיעה preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה לשקיעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השקיעה שקיעה לשקיעה noun feminine singular absolute unspecified unspecified  	O	null
+12 בן בן בן noun masculine singular construct unspecified unspecified  	O	null
+13 גלים גל גלים noun masculine plural absolute unspecified unspecified  	O	null
+14 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 תקווה תקווה תקווה noun feminine singular absolute unspecified unspecified  	O	null
+16 אישה איש אישה noun feminine singular absolute unspecified unspecified  	O	null
+17 ל ל לבדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 בד בד לבדה noun masculine singular absolute unspecified unspecified  
+17 ה ה לבדה possessive feminine singular unspecified 3 unspecified 0 	O	null
+18 מבט מבט מבטה noun masculine singular absolute unspecified unspecified  
+18 ה ה מבטה possessive feminine singular unspecified 3 unspecified 0 	O	null
+19 ל ל לשמים preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 שמים שמי לשמים noun masculine plural absolute unspecified unspecified  	O	null
+20 ו ו ושפתיה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 ש ש ושפתיה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 פתיה פתי ושפתיה noun feminine singular absolute unspecified unspecified  	O	null
+21 לוחשות לחש לוחשות verb feminine plural unspecified any beinoni  	O	null
+22 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+23 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+26 סימן סימן סימן noun masculine singular absolute unspecified unspecified  	O	null
+27 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+28 ה ה המסע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+28 המסע מסע המסע noun masculine singular absolute unspecified unspecified  	O	null
+29 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+29 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+30 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+31 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+32 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+33 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+33 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+34 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+1 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+2 כש כש כשפגשתי temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+2 פגשתי פגש כשפגשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+4 חיפשתי חיפש חיפשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+5 מהות מהות מהות noun feminine singular absolute unspecified unspecified  	O	null
+6 מצאתי מצא מצאתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+7 תשובה תשובה תשובה noun feminine singular absolute unspecified unspecified  	O	null
+8 אהבת אהבה אהבת noun feminine singular construct unspecified unspecified  	O	null
+9 אמת אמת אמת noun feminine singular absolute unspecified unspecified  	O	null
+10 ל ל ללא preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 לא לא ללא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תנאי....השפעה תנאי....השפעה תנאי....השפעה verb masculine singular unspecified 3 past  	O	null
+12 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ש ש שאשאר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 אשאר נשאר שאשאר verb masculine-and-feminine singular unspecified 1 future  	O	null
+14 לנצח ניצח לנצח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 ב ב בשמחה preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 שמחה שמחה בשמחה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 ה ה הרצונות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הרצונות רצון הרצונות noun masculine plural absolute unspecified unspecified  	O	null
+1 אכזבו אכזב אכזבו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 מצאתי מצא מצאתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 רצון רצון רצון noun masculine singular absolute unspecified unspecified  	O	null
+5 חדש חדש חדש adjective masculine singular absolute unspecified unspecified  	O	null
+6 להתקרב התקרב להתקרב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 ל ל לבורא preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 בורא בורא לבורא noun masculine singular construct unspecified unspecified  	O	null
+8 אל אל אל noun masculine singular absolute unspecified unspecified  	O	null
+9 תוך תוך תוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מקום מקום מקום noun masculine singular absolute unspecified unspecified  	O	null
+11 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+

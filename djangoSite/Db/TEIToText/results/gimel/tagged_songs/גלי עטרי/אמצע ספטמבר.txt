@@ -1,0 +1,128 @@
+0 ה ה השנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 השנה שנה השנה noun feminine singular absolute unspecified unspecified  	O	null
+1 מתחילה התחיל מתחילה verb feminine singular unspecified any beinoni  	O	null
+2 ב ב באמצע preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 אמצע אמצע באמצע noun masculine singular construct unspecified unspecified  	O	null
+3 ספטמבר ספטמבר ספטמבר properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+4 ב ב בזעם preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 זעם זעם בזעם noun masculine singular absolute unspecified unspecified  	O	null
+5 עצום עצום עצום adjective masculine singular absolute unspecified unspecified  	O	null
+6 ו ו וגובר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 גובר גבר וגובר verb masculine singular unspecified any beinoni  	O	null
+7 רוחות רוח רוחות noun feminine plural absolute unspecified unspecified  	O	null
+8 סוערות סוער סוערות adjective feminine plural absolute unspecified unspecified  	O	null
+9 לוחמות לחם לוחמות verb feminine plural unspecified any beinoni  	O	null
+10 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 עבר עבר עבר noun masculine singular construct unspecified unspecified  	O	null
+13 ה ה החורף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 החורף חורף החורף noun masculine singular absolute unspecified unspecified  	O	null
+14 ממית המית ממית verb masculine singular unspecified any beinoni  	O	null
+15 ו ו וקוצר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 קוצר קוצר וקוצר noun masculine singular construct unspecified unspecified  	O	null
+
+0 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+1 ש ש שסוף relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 סוף סוף שסוף noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+3 מתקרב התקרב מתקרב verb masculine singular unspecified any beinoni  	O	null
+4 ב ב בלילות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 לילות לילה בלילות noun masculine plural construct unspecified unspecified  	O	null
+5 ה ה החשכה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 החשכה חשכה החשכה noun feminine singular absolute unspecified unspecified  	O	null
+6 גוברת גבר גוברת verb feminine singular unspecified any beinoni  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	O	null
+9 ה ה הרקיע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הרקיע רקיע הרקיע noun masculine singular absolute unspecified unspecified  	O	null
+10 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+11 אדום אדום אדום adjective masculine singular absolute unspecified unspecified  	O	null
+12 מ מ מכאב preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 כאב כאב מכאב noun masculine singular absolute unspecified unspecified  	O	null
+13 מתחת מתחת מתחתיו preposition unspecified unspecified unspecified unspecified unspecified  
+13 ו ו מתחתיו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+14 ה ה האדמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 האדמה אדמה האדמה noun feminine singular absolute unspecified unspecified  	O	null
+15 בוערת בער בוערת verb feminine singular unspecified any beinoni  	O	null
+
+0 ו ו ובינינו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 בין בין ובינינו preposition unspecified unspecified unspecified unspecified unspecified  
+0 נו נו ובינינו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 נכנס נכנס נכנס verb masculine singular unspecified 3 past  	O	null
+2 שיגעון שיגעון שיגעון noun masculine singular absolute unspecified unspecified  	O	null
+3 ו ו ויוצא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 יוצא יוצא ויוצא noun masculine singular absolute unspecified unspecified  	O	null
+4 ה ה החיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 החיים חיים החיים noun masculine plural absolute unspecified unspecified  	O	null
+5 משטים שיטה משטים verb masculine plural unspecified any beinoni  	O	null
+6 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 בן בן בנו noun masculine singular absolute unspecified unspecified  
+7 ו ו בנו possessive masculine singular unspecified 3 unspecified 0 	O	null
+8 מחפש חיפש מחפש verb masculine singular unspecified any beinoni  	O	null
+9 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+9 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה השקט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השקט שקט השקט noun masculine singular absolute unspecified unspecified  	O	null
+12 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 מוצא מצא מוצא verb masculine singular unspecified any beinoni  	O	null
+15 ל ל לאן preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 אן אן לאן properName unspecified unspecified unspecified unspecified unspecified  	O	null
+16 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+17 מוביל הוביל מוביל verb masculine singular unspecified any beinoni  	O	null
+18 את את אותנו at-preposition unspecified unspecified unspecified unspecified unspecified  
+18 נו נו אותנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+
+0 ה ה השנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 השנה שנה השנה noun feminine singular absolute unspecified unspecified  	O	null
+1 מתחילה התחיל מתחילה verb feminine singular unspecified any beinoni  	O	null
+2 ב ב באמצע preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 אמצע אמצע באמצע noun masculine singular construct unspecified unspecified  	O	null
+3 ספטמבר ספטמבר ספטמבר properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+4 החורף חורף החורף properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+5 קשה קשה קשה adjective masculine singular absolute unspecified unspecified  	O	null
+6 מ מ מכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 כל כול מכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 שירי שיר שירי noun masculine plural construct unspecified unspecified  	O	null
+9 נמלטים נמלט נמלטים verb masculine plural unspecified any beinoni  	O	null
+10 הרחק הרחק הרחק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 מ מ מקו preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 קו קו מקו noun masculine singular construct unspecified unspecified  	O	null
+12 ה ה האש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 האש אש האש noun feminine singular absolute unspecified unspecified  	O	null
+13 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+15 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 רוצים רצה רוצים verb masculine plural unspecified any beinoni  	O	null
+17 לסבול סבל לסבול verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+1 ש ש שסוף relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 סוף סוף שסוף noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+3 מתקרב התקרב מתקרב verb masculine singular unspecified any beinoni  	O	null
+4 ב ב בלילות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 לילות לילה בלילות noun masculine plural construct unspecified unspecified  	O	null
+5 ה ה החשכה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 החשכה חשכה החשכה noun feminine singular absolute unspecified unspecified  	O	null
+6 גוברת גבר גוברת verb feminine singular unspecified any beinoni  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 ה ה הקיץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הקיץ קיץ הקיץ noun masculine singular absolute unspecified unspecified  	O	null
+9 ה ה הרקיע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הרקיע רקיע הרקיע noun masculine singular absolute unspecified unspecified  	O	null
+10 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+11 אדום אדום אדום adjective masculine singular absolute unspecified unspecified  	O	null
+12 מ מ מכאב preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 כאב כאב מכאב noun masculine singular absolute unspecified unspecified  	O	null
+13 מתחת מתחת מתחתיו preposition unspecified unspecified unspecified unspecified unspecified  
+13 ו ו מתחתיו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+14 ה ה האדמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 האדמה אדמה האדמה noun feminine singular absolute unspecified unspecified  	O	null
+15 בוערת בער בוערת verb feminine singular unspecified any beinoni  	O	null
+

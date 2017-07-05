@@ -1,0 +1,164 @@
+0 כש כש כשראיתי temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 ראיתי ראה כשראיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+2 לראשונה לראשונה לראשונה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כש כש כשנפשי temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+4 נפשי נפשי כשנפשי adjective masculine singular absolute unspecified unspecified  	O	null
+5 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נפש נפש נפשך noun feminine singular absolute unspecified unspecified  
+6 ך ך נפשך possessive feminine singular unspecified 2 unspecified 0 	O	null
+7 פגשה פגש פגשה verb feminine singular unspecified 3 past  	O	null
+8 בתוך בתוך בתוכי preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י בתוכי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+10 ש ש שאת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 את את שאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תהיי הוא תהיי copula feminine singular unspecified 2 future  	O	null
+12 אישת איש אישתי noun feminine singular absolute unspecified unspecified  
+12 י י אישתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+1 עזב עזב עזב verb masculine singular unspecified 3 past  	O	null
+2 אבי אב אביו noun masculine singular absolute unspecified unspecified  
+2 ו ו אביו possessive masculine singular unspecified 3 unspecified 0 	O	null
+3 ו ו ואימו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 אים אם ואימו noun feminine singular absolute unspecified unspecified  
+3 ו ו ואימו possessive masculine singular unspecified 3 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ו ו ודבק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 דבק דבק ודבק verb masculine singular unspecified 3 past  	O	null
+6 ב ב באישתו preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 אישת איש באישתו noun feminine singular absolute unspecified unspecified  
+6 ו ו באישתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ו ו והיו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 היו הוא והיו copula masculine plural unspecified 2 imperative  	O	null
+9 ל ל לבשר preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 בשר בשר לבשר noun masculine singular absolute unspecified unspecified  	O	null
+10 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ב ב בליבנו preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ליב לב בליבנו noun masculine singular absolute unspecified unspecified  
+0 נו נו בליבנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אלוקים אלוקים אלוקים noun masculine singular absolute unspecified unspecified  	O	null
+5 יודע ידע יודע verb masculine singular unspecified any beinoni  	O	null
+6 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 קרה קרה קרה verb masculine singular unspecified 3 past  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נשמת נשמה נשמתנו noun feminine singular absolute unspecified unspecified  
+9 נו נו נשמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+10 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+12 טהורה טהור טהורה adjective feminine singular absolute unspecified unspecified  	O	null
+13 נשמת נשמה נשמתנו noun feminine singular absolute unspecified unspecified  
+13 נו נו נשמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+14 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+16 קדושה קדוש קדושה adjective feminine singular absolute unspecified unspecified  	O	null
+17 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ב ב בליבנו preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ליב לב בליבנו noun masculine singular absolute unspecified unspecified  
+0 נו נו בליבנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 זיו זיו זיו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 שכינה שכינה שכינה noun feminine singular absolute unspecified unspecified  	O	null
+3 חקוקה חקק חקוקה participle feminine singular absolute any unspecified  	O	null
+4 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 ב ב בזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 זר זר בזר noun masculine singular absolute unspecified unspecified  	O	null
+6 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ברכה ברכה ברכה properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+8 נשמת נשמה נשמתנו noun feminine singular absolute unspecified unspecified  
+8 נו נו נשמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+9 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+11 טהורה טהור טהורה adjective feminine singular absolute unspecified unspecified  	O	null
+12 נשמת נשמה נשמתנו noun feminine singular absolute unspecified unspecified  
+12 נו נו נשמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+13 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+15 קדושה קדוש קדושה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 אישת איש אישתך noun feminine singular absolute unspecified unspecified  
+0 ך ך אישתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+1 כ כ כגפן preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 גפן גפן כגפן noun feminine singular absolute unspecified unspecified  	O	null
+2 פורייה פורה פורייה adjective feminine singular absolute unspecified unspecified  	O	null
+3 ו ו וכתר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 כתר כתר וכתר noun masculine singular absolute unspecified unspecified  	O	null
+4 ל ל לראשה preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ראש ראש לראשה noun masculine singular absolute unspecified unspecified  
+4 ה ה לראשה possessive feminine singular unspecified 3 unspecified 0 	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+7 ו ו ואישה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 אישה איש ואישה noun feminine singular absolute unspecified unspecified  	O	null
+8 ו ו וקרה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 קרה קרה וקרה verb masculine singular unspecified 3 past  	O	null
+9 נשמת נשמה נשמת noun feminine singular construct unspecified unspecified  	O	null
+10 ה ה האדם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 האדם אדם האדם noun masculine singular absolute unspecified unspecified  	O	null
+
+0 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+1 ה ה הזכות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הזכות זכות הזכות noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שנפלה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 נפלה נפל שנפלה verb feminine singular unspecified 3 past  	O	null
+3 ב ב בחלקי preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 חלקי חלק בחלקי noun masculine plural construct unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אישה איש אישה noun feminine singular absolute unspecified unspecified  	O	null
+6 ש ש שגם relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 גם גם שגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+8 לצד לצד לצידי preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י לצידי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 אישה איש אישה noun feminine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 יראת יראה יראת noun feminine singular construct unspecified unspecified  	O	null
+4 ה ה השם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 השם שם השם noun masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תתהלל התהלל תתהלל verb feminine singular unspecified 3 future  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ב ב בליבנו preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ליב לב בליבנו noun masculine singular absolute unspecified unspecified  
+0 נו נו בליבנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אלוקים אלוקים אלוקים noun masculine singular absolute unspecified unspecified  	O	null
+5 יודע ידע יודע verb masculine singular unspecified any beinoni  	O	null
+6 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 קרה קרה קרה verb masculine singular unspecified 3 past  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נשמת נשמה נשמתנו noun feminine singular absolute unspecified unspecified  
+0 נו נו נשמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+3 טהורה טהור טהורה adjective feminine singular absolute unspecified unspecified  	O	null
+4 נשמת נשמה נשמתנו noun feminine singular absolute unspecified unspecified  
+4 נו נו נשמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+5 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+7 קדושה קדוש קדושה adjective feminine singular absolute unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ב ב בליבנו preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ליב לב בליבנו noun masculine singular absolute unspecified unspecified  
+0 נו נו בליבנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 זיו זיו זיו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 שכינה... שכינה... שכינה... properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+

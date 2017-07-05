@@ -1,0 +1,98 @@
+0 הילולה הילולה הילולה noun feminine singular absolute unspecified unspecified  	O	null
+1 הלילה הלילה הלילה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שמחה שמחה שמחה noun feminine singular absolute unspecified unspecified  	O	null
+3 גדולה גדול גדולה adjective feminine singular absolute unspecified unspecified  	O	null
+4 הלילה הלילה הלילה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כול כול כולנו quantifier unspecified unspecified unspecified unspecified unspecified  
+5 נו נו כולנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+6 כאן כאן כאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ביחד ביחד ביחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+10 סיבה סיבה סיבה noun feminine singular absolute unspecified unspecified  	O	null
+11 ל ל לפחד preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה לפחד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הפחד פחד לפחד noun masculine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נדלקו נדלק נדלקו verb masculine-and-feminine plural unspecified 3 past  	O	null
+1 ה ה הלפידים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הלפידים לפיד הלפידים noun masculine plural absolute unspecified unspecified  	O	null
+2 ה ה החלילים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 החלילים חליל החלילים noun masculine plural absolute unspecified unspecified  	O	null
+3 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מ מ מנגנים preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 נגנים נגן מנגנים noun masculine plural absolute unspecified unspecified  	O	null
+5 מכוונים מכוון מכוונים adjective masculine plural absolute unspecified unspecified  	O	null
+6 ת'מיתרים ת'מיתרים ת'מיתרים verb masculine singular unspecified 2 future  	O	null
+7 ו ו ויחד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 יחד יחד ויחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה השיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 השיר שיר השיר noun masculine singular absolute unspecified unspecified  	O	null
+10 שרים שר שרים noun masculine plural absolute unspecified unspecified  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 חתן חיתן חתן verb masculine singular unspecified 3 past  	O	null
+2 ו ו וגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 גם גם וגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כלה כלה כלה verb masculine singular unspecified 3 past  	O	null
+4 הצטרפו הצטרף הצטרפו verb masculine-and-feminine plural unspecified 3 past  	O	null
+5 ל ל למקהלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה למקהלה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 המקהלה מקהלה למקהלה noun feminine singular absolute unspecified unspecified  	O	null
+6 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ב ב בקול preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 קול קול בקול noun masculine singular construct unspecified unspecified  	O	null
+8 תרועה תרועה תרועה noun feminine singular absolute unspecified unspecified  	O	null
+9 גדולה גדול גדולה adjective feminine singular absolute unspecified unspecified  	O	null
+10 תפתח פתח תפתח verb feminine singular unspecified 3 future  	O	null
+11 ה ה התהילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 התהילה תהילה התהילה noun feminine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הג'מע הג'מע הג'מע preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שרים שר שרים noun masculine plural absolute unspecified unspecified  	O	null
+2 שירים שיר שירים noun masculine plural absolute unspecified unspecified  	O	null
+3 ב ב במעגל preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה במעגל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המעגל מעגל במעגל noun masculine singular absolute unspecified unspecified  	O	null
+4 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+5 מברכים בירך מברכים verb masculine plural unspecified any beinoni  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+8 ה ה הכחולים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הכחולים כחול הכחולים adjective masculine plural absolute unspecified unspecified  	O	null
+9 משכן משכן משכנו noun masculine singular absolute unspecified unspecified  
+9 ו ו משכנו possessive masculine singular unspecified 3 unspecified 0 	O	null
+10 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אלוהים אלוהים אלוהים noun masculine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה המנגינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המנגינה מנגינה המנגינה noun feminine singular absolute unspecified unspecified  	O	null
+2 עולה עלה עולה verb feminine singular unspecified any beinoni  	O	null
+3 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+4 עולה עלה עולה verb feminine singular unspecified any beinoni  	O	null
+5 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+5 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+6 ו ו ועולה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 עולה עלה ועולה verb masculine singular unspecified any beinoni  	O	null
+7 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 הילה הילה הילה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה היללה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 היללה יללה היללה noun feminine singular absolute unspecified unspecified  	O	null
+12 ש ש שירו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 ירו ירה שירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+13 שיר שיר שיר noun masculine singular absolute unspecified unspecified  	O	null
+14 ל ל לאהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 אהבה אהבה לאהבה noun feminine singular absolute unspecified unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

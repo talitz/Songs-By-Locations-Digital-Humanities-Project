@@ -1,0 +1,69 @@
+0 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+1 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+2 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מדי מדי מדי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הפך הפך הפך verb masculine singular unspecified 3 past  	O	null
+7 לבן לבן לבן adjective masculine singular construct unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 חייכי חייך חייכי verb feminine singular unspecified 2 imperative  	O	null
+10 מלאך מלאך מלאך noun masculine singular absolute unspecified unspecified  	O	null
+11 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 יפה יפה יפה properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הערב הערב הערב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רד ירד רד verb masculine singular unspecified 2 imperative  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה האור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 האור אור האור noun masculine singular absolute unspecified unspecified  	O	null
+4 עלה עלה עלה verb masculine singular unspecified 3 past  	O	null
+5 ו ו וזה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 זה זה וזה pronoun masculine singular unspecified 3 unspecified  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 משנה שינה משנה verb masculine singular unspecified any beinoni  	O	null
+8 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+10 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+10 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+11 קשה קשה קשה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ו ו וזה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 זה זה וזה pronoun masculine singular unspecified 3 unspecified  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 משנה שינה משנה verb masculine singular unspecified any beinoni  	O	null
+15 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+17 משוגע משוגע משוגע adjective masculine singular absolute unspecified unspecified  	O	null
+18 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 ניסיתי ניסה ניסיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+2 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ונכוותי ונכוותי ונכוותי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 בחרתי בחר בחרתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+6 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+7 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 התפתתי התפתתי התפתתי noun feminine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ניסיתי ניסה ניסיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+12 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+13 אחרת אחר אחרת adjective feminine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 נפלתי נפל נפלתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+19 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+20 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+21 משחק שיחק משחק verb masculine singular unspecified any beinoni  	O	null
+22 ב ב בסרט preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 ה ה בסרט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 הסרט סרט בסרט noun masculine singular absolute unspecified unspecified  	O	null
+23 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

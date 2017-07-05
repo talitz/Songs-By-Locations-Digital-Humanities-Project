@@ -1,0 +1,150 @@
+0 ב ב ברחובות preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 רחובות רחוב ברחובות noun masculine plural construct unspecified unspecified  	I_LOC	null
+1 תל תל תל properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+2 אביב אביב אביב properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 ה ה הסמוכים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הסמוכים סמך הסמוכים participle masculine plural absolute any unspecified  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הים ים הים noun masculine singular absolute unspecified unspecified  	O	null
+6 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+7 נולדה נולד נולדה verb feminine singular unspecified 3 past  	O	null
+8 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+9 נברה נבר נברה verb feminine singular unspecified 3 past  	O	null
+10 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 חתול חתול חתול noun masculine singular absolute unspecified unspecified  	O	null
+12 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 פחי פח פחי noun masculine plural construct unspecified unspecified  	O	null
+14 ה ה האשפה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 האשפה אשפה האשפה noun feminine singular absolute unspecified unspecified  	O	null
+15 ל ל לבדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 בד בד לבדה noun masculine singular absolute unspecified unspecified  
+15 ה ה לבדה possessive feminine singular unspecified 3 unspecified 0 	O	null
+16 כך כך כך adverb unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+17 עברו עבר עברו verb masculine-and-feminine plural unspecified 3 past  	O	null
+18 ה ה החיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 החיים חיים החיים noun masculine plural absolute unspecified unspecified  	O	null
+19 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 כמעט כמעט כמעט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+21 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+22 משים השים משים verb masculine singular unspecified any beinoni  	O	null
+23 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+24 יד יד ידה noun feminine singular absolute unspecified unspecified  
+24 ה ה ידה possessive feminine singular unspecified 3 unspecified 0 	O	null
+
+0 חורפים חורף חורפים noun masculine plural absolute unspecified unspecified  	O	null
+1 ארוכים ארוך ארוכים adjective masculine plural absolute unspecified unspecified  	O	null
+2 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+3 ישבה ישב ישבה verb feminine singular unspecified 3 past  	O	null
+4 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הים ים הים noun masculine singular absolute unspecified unspecified  	O	null
+6 להקשיב הקשיב להקשיב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+8 עטפה עטף עטפה verb feminine singular unspecified 3 past  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 גופה גופה גופה noun feminine singular absolute unspecified unspecified  	O	null
+11 ב ב בקרעי preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 קרעי קרע בקרעי noun masculine plural construct unspecified unspecified  	O	null
+12 חלומות חלום חלומות noun masculine plural absolute unspecified unspecified  	O	null
+13 להכאיב הכאיב להכאיב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+14 ו ו וגופה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 גוף גוף וגופה noun masculine singular absolute unspecified unspecified  
+14 ה ה וגופה possessive feminine singular unspecified 3 unspecified 0 	O	null
+15 ה ה העייף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 העייף עייף העייף adjective masculine singular absolute unspecified unspecified  	O	null
+16 התפלל התפלל התפלל verb masculine singular unspecified 3 past  	O	null
+17 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+18 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+19 ל ל לאביב preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 אביב אביב לאביב properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+
+0 ב ב בירקון preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ירקון ירקון בירקון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 ב ב בפינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 פינה פינה בפינה noun feminine singular absolute unspecified unspecified  	O	null
+2 פנסים פנס פנסים noun masculine plural absolute unspecified unspecified  	O	null
+3 מספרים סיפר מספרים verb masculine plural unspecified any beinoni  	O	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+5 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+6 ה ה השכונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 השכונה שכונה השכונה noun feminine singular absolute unspecified unspecified  	O	null
+7 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+8 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+9 נערה נער נערה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 שיכורים שיכור שיכורים noun masculine plural absolute unspecified unspecified  	O	null
+1 ו ו וזקנים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 זקנים זקן וזקנים noun masculine plural absolute unspecified unspecified  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 יד יד ידיה noun feminine plural absolute unspecified unspecified  
+3 ה ה ידיה possessive feminine singular unspecified 3 unspecified 0 	O	null
+4 קרבו קרב קרבו verb masculine-and-feminine plural unspecified 3 past  	O	null
+5 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 גוף גוף גופם noun masculine singular absolute unspecified unspecified  
+6 ם ם גופם possessive masculine plural unspecified 3 unspecified 0 	O	null
+7 ו ו וקרעו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 קרעו קרע וקרעו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 ב ב בחזקה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 חזקה חזקה בחזקה noun feminine singular absolute unspecified unspecified  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 עור עור עורה noun masculine singular absolute unspecified unspecified  
+10 ה ה עורה possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 ה ה הלבן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הלבן לבן הלבן adjective masculine singular absolute unspecified unspecified  	O	null
+12 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 זוב זב זוב verb masculine singular unspecified 2 imperative  	O	null
+14 דם דם דם noun masculine singular absolute unspecified unspecified  	O	null
+15 ב ב בלילות preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 לילות לילה בלילות noun masculine plural absolute unspecified unspecified  	O	null
+16 חשוכים חשוך חשוכים adjective masculine plural absolute unspecified unspecified  	O	null
+17 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+18 היתה הוא היתה copula feminine singular unspecified 3 past  	O	null
+19 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 פנס פנס פנס noun masculine singular absolute unspecified unspecified  	O	null
+21 מיותם מיותם מיותם adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 ב ב בירקון preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ירקון ירקון בירקון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 ב ב בפינה... preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 פינה... פינה... בפינה... noun feminine plural absolute unspecified unspecified  	O	null
+
+0 ב ב ברחובות preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 רחובות רחוב ברחובות noun masculine plural construct unspecified unspecified  	I_LOC	null
+1 תל תל תל properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+2 אביב אביב אביב properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 נופלים נפל נופלים verb masculine plural unspecified any beinoni  	O	null
+5 כוכבים כוכב כוכבים noun masculine plural absolute unspecified unspecified  	O	null
+6 ב ב בשתיקה preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה בשתיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 השתיקה שתיקה בשתיקה noun feminine singular absolute unspecified unspecified  	O	null
+7 ו ו והלילה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה והלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הלילה לילה והלילה noun masculine singular absolute unspecified unspecified  	O	null
+8 לוטף לוטף לוטף verb masculine singular unspecified 3 past  	O	null
+9 בידי בידי בידיו preposition unspecified unspecified unspecified unspecified unspecified  
+9 ו ו בידיו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה העיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 העיר עיר העיר noun feminine singular absolute unspecified unspecified  	O	null
+12 ה ה הריקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הריקה ריק הריקה adjective feminine singular absolute unspecified unspecified  	O	null
+13 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+14 נותרה נותר נותרה verb feminine singular unspecified 3 past  	O	null
+15 ב ב בפינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 פינה פינה בפינה noun feminine singular absolute unspecified unspecified  	O	null
+16 מחבקת חיבק מחבקת verb feminine singular unspecified any beinoni  	O	null
+17 חתול חתול חתול noun masculine singular absolute unspecified unspecified  	O	null
+18 ב ב בחיקה preposition unspecified unspecified unspecified unspecified unspecified 0 
+18 חיק חיק בחיקה noun masculine singular absolute unspecified unspecified  
+18 ה ה בחיקה possessive feminine singular unspecified 3 unspecified 0 	O	null
+
+0 ב ב בירקון preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ירקון ירקון בירקון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 ב ב בפינה... preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 פינה... פינה... בפינה... noun feminine plural absolute unspecified unspecified  	O	null
+

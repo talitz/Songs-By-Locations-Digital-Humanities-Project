@@ -1,0 +1,92 @@
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+2 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+3 מצילה הציל מצילה verb feminine singular unspecified any beinoni  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה החתולים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 החתולים חתול החתולים noun masculine plural absolute unspecified unspecified  	O	null
+6 ב ב בחלומות preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה בחלומות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 החלומות חלום בחלומות noun masculine plural absolute unspecified unspecified  	O	null
+7 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+8 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+9 מילים מילה מילים noun feminine plural absolute unspecified unspecified  	O	null
+10 לתאר תיאר לתאר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+11 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 איבוד איבוד איבוד noun masculine singular construct unspecified unspecified  	O	null
+13 ה ה העשתונות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 העשתונות העשתונות העשתונות noun feminine singular absolute unspecified unspecified  	O	null
+14 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+15 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+16 כלים כלי כלים noun masculine plural absolute unspecified unspecified  	O	null
+17 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+18 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ה ה הרוחות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 הרוחות רוח הרוחות noun feminine plural absolute unspecified unspecified  	O	null
+20 ה ה הרעות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הרעות רע הרעות adjective feminine plural absolute unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+
+0 “ “ “ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 פוחדת פחד פוחדת verb feminine singular unspecified any beinoni  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 פשוט פשוט פשוט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 משתגעת השתגע משתגעת verb feminine singular unspecified any beinoni  	O	null
+6 ” ” ” punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+8 לוחשת לחש לוחשת verb feminine singular unspecified any beinoni  	O	null
+9 ל ל לעצמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 עצמה עוצמה לעצמה noun feminine singular absolute unspecified unspecified  	O	null
+10 משפט משפט משפט noun masculine singular absolute unspecified unspecified  	O	null
+11 ש ש ששמעה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 שמעה שמע ששמעה verb feminine singular unspecified 3 past  	O	null
+12 במקרה במקרה במקרה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 כש כש כשהייתה temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+13 הייתה הוא כשהייתה copula feminine singular unspecified 3 past  	O	null
+14 עצובה עצוב עצובה adjective feminine singular absolute unspecified unspecified  	O	null
+15 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+17 עצובה עצוב עצובה adjective feminine singular absolute unspecified unspecified  	O	null
+18 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+
+0 חלום חלום חלום noun masculine singular absolute unspecified unspecified  	O	null
+1 נסוג נסוג נסוג verb masculine singular unspecified 3 past  	O	null
+2 מפני מפני מפני conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה היממה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 היממה יממה היממה noun feminine singular absolute unspecified unspecified  	O	null
+4 כ כ כזוהר preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 זוהר זוהר כזוהר noun masculine singular construct unspecified unspecified  	O	null
+5 כוכבים כוכב כוכבים noun masculine plural absolute unspecified unspecified  	O	null
+6 מפני מפני מפני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 חמה חמה חמה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 “ “ “ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 נורא נורא נורא adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 עייפה עייף עייפה adjective feminine singular absolute unspecified unspecified  	O	null
+4 ו ו וקשה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 קשה קשה וקשה adjective feminine singular absolute unspecified unspecified  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 לישון ישן לישון verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+9 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 אותו אותו אותו quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 חלום חלום חלום noun masculine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

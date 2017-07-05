@@ -1,0 +1,145 @@
+0 שחקו שחק שחקו verb masculine-and-feminine plural unspecified 3 past  	O	null
+1 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 טף טף טף noun masculine singular absolute unspecified unspecified  	O	null
+4 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 אביב אביב אביב properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 התחיל התחיל התחיל verb masculine singular unspecified 3 past  	O	null
+7 עתה עתה עתה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אוי אוי אוי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 כמה כמה כמה verb masculine singular unspecified 3 past  	O	null
+2 ליבי ליבי ליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 מלא מלא מלא adjective masculine singular absolute unspecified unspecified  	O	null
+4 ב ב ברגש preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 רגש רגש ברגש noun masculine singular absolute unspecified unspecified  	O	null
+5 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 קנאה קנאה קנאה noun feminine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 חול חול חולו noun masculine singular absolute unspecified unspecified  
+0 ו ו חולו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חול חול חולו noun masculine singular absolute unspecified unspecified  
+2 ו ו חולו possessive masculine singular unspecified 3 unspecified 0 	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 טף טף טף noun masculine singular absolute unspecified unspecified  	O	null
+5 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ל ל לכם preposition unspecified unspecified unspecified unspecified unspecified  
+7 כם כם לכם pronomial masculine plural unspecified 2 unspecified 0 	O	null
+8 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מ מ מאביב preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 אביב אביב מאביב properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+1 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה החורף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 החורף חורף החורף noun masculine singular absolute unspecified unspecified  	I_DATE	null
+4 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מרחק מרחק מרחק noun masculine singular absolute unspecified unspecified  	O	null
+6 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 שחקו שחק שחקו verb masculine-and-feminine plural unspecified 3 past  	O	null
+1 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 טף טף טף noun masculine singular absolute unspecified unspecified  	O	null
+4 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תאחרו איחר תאחרו verb masculine-and-feminine plural unspecified 2 future  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הכניסוני הכניסוני הכניסוני verb feminine singular unspecified 2 imperative  	O	null
+1 ל ל למשחק preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה למשחק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המשחק משחק למשחק noun masculine singular absolute unspecified unspecified  	O	null
+2 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 שתפו שיתף שתפו verb masculine-and-feminine plural unspecified 3 past  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 חול חול חולו noun masculine singular absolute unspecified unspecified  
+0 ו ו חולו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חולו... חולו... חולו... verb masculine-and-feminine plural unspecified 2 imperative  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תביטו הביט תביטו verb masculine-and-feminine plural unspecified 2 future  	O	null
+2 ראש ראש ראש noun masculine singular absolute unspecified unspecified  	O	null
+3 שיבה שיבה שיבה noun feminine singular absolute unspecified unspecified  	O	null
+4 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+5 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+6 יפריעכם יפריעכם יפריעכם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ליבי ליבי ליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 עוד עוד עודו adverb unspecified unspecified unspecified unspecified unspecified  
+10 ו ו עודו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+11 צעיר צעיר צעיר adjective masculine singular absolute unspecified unspecified  	O	null
+12 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ב ב בזמן preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 זמן זמן בזמן noun masculine singular absolute unspecified unspecified  	O	null
+14 קודם קודם קודם adjective masculine singular absolute unspecified unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 חול חול חולו noun masculine singular absolute unspecified unspecified  
+0 ו ו חולו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חולו.... חולו.... חולו.... noun feminine plural absolute unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 ליבי ליבי ליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 עוד עוד עודו adverb unspecified unspecified unspecified unspecified unspecified  
+2 ו ו עודו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+3 צעיר צעיר צעיר adjective masculine singular absolute unspecified unspecified  	O	null
+4 מ מ מכוסף preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 כוסף כוסף מכוסף properName unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+6 יוצא יצא יוצא verb masculine singular unspecified any beinoni  	O	null
+7 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+10 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+11 לצאת יצא לצאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 מ מ מגוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 גוף גוף מגוף noun masculine singular absolute unspecified unspecified  	O	null
+13 זקן זקן זקן adjective masculine singular absolute unspecified unspecified  	O	null
+14 כ כ כזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 זה זה כזה pronoun masculine singular unspecified 3 unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 חול חול חולו noun masculine singular absolute unspecified unspecified  
+0 ו ו חולו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חולו.... חולו.... חולו.... noun feminine plural absolute unspecified unspecified  	O	null
+
+0 שחקו שחק שחקו verb masculine-and-feminine plural unspecified 3 past  	O	null
+1 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 טף טף טף noun masculine singular absolute unspecified unspecified  	O	null
+4 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 בטרם בטרם בטרם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 סתיו סתיו סתיו properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+7 יבוא בא יבוא verb masculine singular unspecified 3 future  	O	null
+8 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מייד מייד מייד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אביב אביב אביב properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 נגמר נגמר נגמר verb masculine singular unspecified any beinoni  	O	null
+12 ו ו ושיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 שיא שיא ושיא noun masculine singular construct unspecified unspecified  	O	null
+13 חדווה חדווה חדווה noun feminine singular absolute unspecified unspecified  	O	null
+14 את את איתו at-preposition unspecified unspecified unspecified unspecified unspecified  
+14 ו ו איתו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

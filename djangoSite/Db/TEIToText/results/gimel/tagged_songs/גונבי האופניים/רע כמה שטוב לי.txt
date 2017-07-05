@@ -1,0 +1,101 @@
+0 בואי בא בואי verb feminine singular unspecified 2 imperative  	O	null
+1 תתקרבי התקרב תתקרבי verb feminine singular unspecified 2 future  	O	null
+2 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מאוהב מאוהב מאוהב adjective masculine singular absolute unspecified unspecified  	O	null
+7 בואי בא בואי verb feminine singular unspecified 2 imperative  	O	null
+8 תנצלי ניצל תנצלי verb feminine singular unspecified 2 future  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה המצב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 המצב מצב המצב noun masculine singular absolute unspecified unspecified  	O	null
+11 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+12 מפנה הפנה מפנה verb masculine singular unspecified any beinoni  	O	null
+13 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הגב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הגב גב הגב noun masculine singular absolute unspecified unspecified  	O	null
+15 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 יכאב כאב יכאב verb masculine singular unspecified 3 future  	O	null
+17 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 יכאב כאב יכאב verb masculine singular unspecified 3 future  	O	null
+19 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+
+0 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+1 כ כ כמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 מה מה כמה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ש ש שטוב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 טוב טוב שטוב adjective masculine singular absolute unspecified unspecified  	O	null
+3 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+5 כ כ כמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 מה מה כמה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שטוב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 טוב טוב שטוב adjective masculine singular absolute unspecified unspecified  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 בואי בא בואי verb feminine singular unspecified 2 imperative  	O	null
+1 תחפשי חיפש תחפשי verb feminine singular unspecified 2 future  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה הגנב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הגנב גנב הגנב noun masculine singular absolute unspecified unspecified  	O	null
+4 תמצאי מצא תמצאי verb feminine singular unspecified 2 future  	O	null
+5 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 בואי בא בואי verb feminine singular unspecified 2 imperative  	O	null
+8 תכבי כבה תכבי verb feminine singular unspecified 2 future  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה השריפה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 השריפה שריפה השריפה noun feminine singular absolute unspecified unspecified  	O	null
+11 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+12 בוער בער בוער verb masculine singular unspecified any beinoni  	O	null
+13 שלושים ORD-CARD30 שלושים numeral masculine-and-feminine plural construct unspecified unspecified  	O	null
+14 שנה ישן שנה verb feminine plural unspecified 2 imperative  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נרגע נרגע נרגע verb masculine singular unspecified any beinoni  	O	null
+3 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נרגע נרגע נרגע verb masculine singular unspecified any beinoni  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+1 כ כ כמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 מה מה כמה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ש ש שטוב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 טוב טוב שטוב adjective masculine singular absolute unspecified unspecified  	O	null
+3 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+5 כ כ כמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 מה מה כמה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שטוב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 טוב טוב שטוב adjective masculine singular absolute unspecified unspecified  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+9 כ כ כמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 מה מה כמה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ש ש שטוב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 טוב טוב שטוב adjective masculine singular absolute unspecified unspecified  	O	null
+11 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+13 רע רע רע adjective masculine singular absolute unspecified unspecified  	O	null
+14 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+14 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+15 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+17 ש ש שטוב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 טוב טוב שטוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+18 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+

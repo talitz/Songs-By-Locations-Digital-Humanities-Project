@@ -1,0 +1,145 @@
+0 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 פישלנו פישל פישלנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+3 מ מ מהבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה מהבוקר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הבוקר בוקר מהבוקר noun masculine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נכשלנו נכשל נכשלנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+8 ב ב בבחינות preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 בחינות בחינה בבחינות noun feminine plural absolute unspecified unspecified  	O	null
+9 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אבדנו אבד אבדנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הכסף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הכסף כסף הכסף noun masculine singular absolute unspecified unspecified  	O	null
+14 ו ו והמצב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 ה ה והמצב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 המצב מצב והמצב noun masculine singular absolute unspecified unspecified  	O	null
+15 קשה קשה קשה adjective masculine singular absolute unspecified unspecified  	O	null
+16 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+18 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+19 מישור מישור מישור noun masculine singular absolute unspecified unspecified  	O	null
+20 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 עצב עצב עצב noun masculine singular absolute unspecified unspecified  	O	null
+22 ו ו ומהוראל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+22 מ מ ומהוראל preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 הוראל הוראל ומהוראל noun masculine singular absolute unspecified unspecified  	O	null
+23 נמוך נמוך נמוך adjective masculine singular absolute unspecified unspecified  	O	null
+24 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+25 עשב עשב עשב noun masculine singular construct unspecified unspecified  	O	null
+26 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+27 בא בא בא verb masculine singular unspecified any beinoni  	O	null
+28 נלך הלך נלך verb masculine-and-feminine plural unspecified 1 future  	O	null
+29 לרקוד רקד לרקוד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+30 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ידידים ידיד ידידים noun masculine plural absolute unspecified unspecified  	O	null
+2 בוגדים בגד בוגדים verb masculine plural unspecified any beinoni  	O	null
+3 לפתע לפתע לפתע adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ו ו והמחר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה והמחר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 המחר מחר והמחר noun masculine singular absolute unspecified unspecified  	O	null
+5 אינו הוא אינו copula masculine singular unspecified 3 beinoni  	O	null
+6 ורוד ורוד ורוד adjective masculine singular absolute unspecified unspecified  	O	null
+7 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נכזבה נכזבה נכזבה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 תקוות תקווה תקוותנו noun feminine singular absolute unspecified unspecified  
+10 נו נו תקוותנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+11 ו ו ושוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 שוב שוב ושוב noun masculine singular construct unspecified unspecified  	O	null
+12 ה ה הלב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הלב לב הלב noun masculine singular absolute unspecified unspecified  	O	null
+13 מתחיל התחיל מתחיל verb masculine singular unspecified any beinoni  	O	null
+14 לרעוד רעד לרעוד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 ו ו ומה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 מה מה ומה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+16 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+18 על על עלינו preposition unspecified unspecified unspecified unspecified unspecified  
+18 נו נו עלינו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+19 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+21 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+23 עלינו עלה עלינו verb masculine-and-feminine plural unspecified 1 past  	O	null
+24 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+25 בא בא בא verb masculine singular unspecified 3 past  	O	null
+26 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+27 בא בא בא verb masculine singular unspecified 3 past  	O	null
+28 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+29 בא בא בא verb masculine singular unspecified any beinoni  	O	null
+30 נלך הלך נלך verb masculine-and-feminine plural unspecified 1 future  	O	null
+31 לרקוד רקד לרקוד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+1 בא בא בא verb masculine singular unspecified 3 past  	O	null
+2 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+3 בא בא בא verb masculine singular unspecified 3 past  	O	null
+4 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+5 בא בא בא verb masculine singular unspecified any beinoni  	O	null
+6 נלך הלך נלך verb masculine-and-feminine plural unspecified 1 future  	O	null
+7 לרקוד רקד לרקוד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה הצבעים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הצבעים צבע הצבעים noun masculine plural absolute unspecified unspecified  	O	null
+3 דהו דהה דהו verb masculine-and-feminine plural unspecified 3 past  	O	null
+4 בן בן בן noun masculine singular construct unspecified unspecified  	O	null
+5 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+6 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אפור אפור אפור adjective masculine singular absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה הורוד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הורוד ורוד הורוד adjective masculine singular absolute unspecified unspecified  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+2 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מתו מת מתו verb masculine-and-feminine plural unspecified 3 past  	O	null
+5 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה הצללים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הצללים צל הצללים noun masculine plural absolute unspecified unspecified  	O	null
+7 חיים חי חיים verb masculine plural unspecified any beinoni  	O	null
+8 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נהפך נהפך נהפך verb masculine singular unspecified 3 past  	O	null
+11 ל ל לקצב preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 קצב קצב לקצב noun masculine singular absolute unspecified unspecified  	O	null
+12 נטו נטו נטו adjective masculine singular absolute unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 נהפך נהפך נהפך verb masculine singular unspecified 3 past  	O	null
+15 ל ל לקצב preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 קצב קצב לקצב noun masculine singular absolute unspecified unspecified  	O	null
+16 נטו נטו נטו adjective masculine singular absolute unspecified unspecified  	O	null
+17 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+18 בא בא בא verb masculine singular unspecified 3 past  	O	null
+19 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+20 בא בא בא verb masculine singular unspecified 3 past  	O	null
+21 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+22 בא בא בא verb masculine singular unspecified any beinoni  	O	null
+23 נלך הלך נלך verb masculine-and-feminine plural unspecified 1 future  	O	null
+24 לרקוד רקד לרקוד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+25 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+1 בא בא בא verb masculine singular unspecified 3 past  	O	null
+2 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+3 בא בא בא verb masculine singular unspecified 3 past  	O	null
+4 ערב ערב ערב noun masculine singular absolute unspecified unspecified  	O	null
+5 בא בא בא verb masculine singular unspecified any beinoni  	O	null
+6 נלך הלך נלך verb masculine-and-feminine plural unspecified 1 future  	O	null
+7 לרקוד... לרקוד... לרקוד... noun masculine-and-feminine singular absolute unspecified unspecified  	O	null
+

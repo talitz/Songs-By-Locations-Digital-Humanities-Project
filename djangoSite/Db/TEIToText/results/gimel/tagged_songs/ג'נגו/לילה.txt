@@ -1,0 +1,111 @@
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חושבים חשב חושבים verb masculine plural unspecified any beinoni  	O	null
+3 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה בלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הלילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+4 אחרי אחרי אחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שנגמר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 נגמר נגמר שנגמר verb masculine singular unspecified 3 past  	O	null
+6 ה ה האור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 האור אור האור noun masculine singular absolute unspecified unspecified  	O	null
+7 שעות שעה שעות noun feminine plural absolute unspecified unspecified  	O	null
+8 קשות קשה קשות adjective feminine plural absolute unspecified unspecified  	O	null
+9 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 לילה לילה בלילה noun masculine singular construct unspecified unspecified  	O	null
+10 ה ה העיניים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 העיניים עין העיניים noun feminine plural absolute unspecified unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 נסגרות נסגר נסגרות verb feminine plural unspecified any beinoni  	O	null
+13 עליי עלה עלייך noun masculine plural absolute unspecified unspecified  
+13 ך ך עלייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+14 חושבים חשב חושבים verb masculine plural unspecified any beinoni  	O	null
+15 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 ה ה בלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הלילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+16 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+17 ו ו והשמיכה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 ה ה והשמיכה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 השמיכה שמיכה והשמיכה noun feminine singular absolute unspecified unspecified  	O	null
+18 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+19 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 מגיע הגיע מגיע verb masculine singular unspecified any beinoni  	O	null
+21 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+21 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+22 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 ה ה בלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 הלילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+23 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 מבין הבין מבין verb masculine singular unspecified any beinoni  	O	null
+25 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+26 ה ה הסיבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+26 הסיבה סיבה הסיבה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+3 להרגע נרגע להרגע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 ו ו ותלכי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תלכי הלך ותלכי verb feminine singular unspecified 2 future  	O	null
+5 ב ב בבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 בוקר בוקר בבוקר noun masculine singular absolute unspecified unspecified  	O	null
+6 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+9 ו ו וזה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 זה זה וזה pronoun masculine singular unspecified 3 unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 קל קל קל adjective masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+12 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+13 לאהוב אהב לאהוב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+14 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+14 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+15 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+16 מחכה חיכה מחכה verb masculine singular unspecified any beinoni  	O	null
+17 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+19 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 צמא צמא צמא adjective masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 לילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+3 צמא צמא צמא adjective masculine singular absolute unspecified unspecified  	O	null
+4 ל ל להתרגשויות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 התרגשויות התרגשות להתרגשויות noun feminine plural absolute unspecified unspecified  	O	null
+5 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+6 אשם אשם אשם verb masculine singular unspecified any beinoni  	O	null
+7 בטוח בטוח בטוח adjective masculine singular absolute unspecified unspecified  	O	null
+8 מלא מלא מלא adjective masculine singular absolute unspecified unspecified  	O	null
+9 ב ב בטעויות preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 טעויות טעות בטעויות noun feminine plural absolute unspecified unspecified  	O	null
+
+0 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+3 להרגע נרגע להרגע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 ו ו ותלכי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תלכי הלך ותלכי verb feminine singular unspecified 2 future  	O	null
+5 ב ב בבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 בוקר בוקר בבוקר noun masculine singular absolute unspecified unspecified  	O	null
+6 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+9 ו ו וזה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 זה זה וזה pronoun masculine singular unspecified 3 unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 קל קל קל adjective masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+12 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+13 לאהוב אהב לאהוב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+14 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+14 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+15 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+16 מחכה חיכה מחכה verb masculine singular unspecified any beinoni  	O	null
+17 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+19 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+

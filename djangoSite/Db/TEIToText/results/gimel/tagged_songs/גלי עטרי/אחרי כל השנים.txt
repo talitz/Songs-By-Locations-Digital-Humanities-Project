@@ -1,0 +1,205 @@
+0 בוקר בוקר בוקר noun masculine singular absolute unspecified unspecified  	O	null
+1 שבת שבת שבת properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 התעוררנו התעורר התעוררנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+3 לאט לאט לאט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 סיפרת סיפר סיפרת verb feminine singular unspecified 2 past  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+7 מ מ מהזמן preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה מהזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הזמן זמן מהזמן noun masculine singular absolute unspecified unspecified  	O	null
+8 זמן זמן זמן noun masculine singular absolute unspecified unspecified  	O	null
+9 שבו ישב שבו verb masculine-and-feminine plural unspecified 2 imperative  	O	null
+10 היית הוא היית copula feminine singular unspecified 2 past  	O	null
+11 ילד ילד ילד noun masculine singular construct unspecified unspecified  	O	null
+12 שם שם שם noun masculine singular construct unspecified unspecified  	O	null
+
+0 בלוק בלוק בלוק noun masculine singular absolute unspecified unspecified  	O	null
+1 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 דירות דירה דירות noun feminine plural absolute unspecified unspecified  	O	null
+3 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שתים שתים שתים noun masculine singular construct unspecified unspecified  	O	null
+5 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+6 קומות קומה קומות noun feminine plural absolute unspecified unspecified  	O	null
+7 דלת דלת דלת noun feminine singular construct unspecified unspecified  	O	null
+8 זכוכית זכוכית זכוכית noun feminine singular absolute unspecified unspecified  	O	null
+9 מ מ מעלית preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 עלית עלית מעלית noun feminine singular absolute unspecified unspecified  	O	null
+10 זהובה זהוב זהובה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 ארגזים ארגז ארגזים noun masculine plural absolute unspecified unspecified  	O	null
+1 מזוודות מזוודה מזוודות noun feminine plural absolute unspecified unspecified  	O	null
+2 נכנסה נכנס נכנסה verb feminine singular unspecified 3 past  	O	null
+3 משפחה משפחה משפחה noun feminine singular absolute unspecified unspecified  	O	null
+4 ל ל לארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ארץ ארץ לארץ noun feminine singular absolute unspecified unspecified  	O	null
+5 אחרת אחר אחרת adjective feminine singular absolute unspecified unspecified  	O	null
+6 שפה שפה שפה noun feminine singular absolute unspecified unspecified  	O	null
+7 חדשה חדש חדשה adjective feminine singular absolute unspecified unspecified  	O	null
+8 זמן זמן זמן noun masculine singular absolute unspecified unspecified  	O	null
+9 שבו ישב שבו verb masculine-and-feminine plural unspecified 2 imperative  	O	null
+10 היית הוא היית copula feminine singular unspecified 2 past  	O	null
+11 ילד ילד ילד noun masculine singular construct unspecified unspecified  	O	null
+12 שם שם שם noun masculine singular construct unspecified unspecified  	O	null
+
+0 סיפרתי סיפר סיפרתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ילדות ילדות ילדות noun feminine singular absolute unspecified unspecified  	O	null
+4 ב ב בקריות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 קריות קריה בקריות noun feminine plural absolute unspecified unspecified  	O	null
+5 חתולים חתול חתולים noun masculine plural absolute unspecified unspecified  	O	null
+6 ו ו וגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 גם גם וגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לול לול לול noun masculine singular construct unspecified unspecified  	O	null
+8 תרנגולות תרנגולת תרנגולות noun feminine plural absolute unspecified unspecified  	O	null
+
+0 זמן זמן זמן noun masculine singular absolute unspecified unspecified  	O	null
+1 שבו ישב שבו verb masculine-and-feminine plural unspecified 2 imperative  	O	null
+2 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+3 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ילדה ילד ילדה verb feminine singular unspecified 3 past  	O	null
+5 בית בית בית noun masculine singular absolute unspecified unspecified  	O	null
+6 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+7 ו ו ובחצר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 ב ב ובחצר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה ובחצר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 החצר חצר ובחצר noun feminine singular absolute unspecified unspecified  	O	null
+8 גינה גינה גינה verb masculine singular unspecified 3 past  	O	null
+9 עץ עץ עץ noun masculine singular construct unspecified unspecified  	O	null
+10 לימונים לימון לימונים noun masculine plural absolute unspecified unspecified  	O	null
+11 ו ו ועליו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 על על ועליו preposition unspecified unspecified unspecified unspecified unspecified  
+11 ו ו ועליו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+12 נדנדה נדנדה נדנדה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 עוד עוד עוד noun masculine singular construct unspecified unspecified  	O	null
+5 חברה חבר חברה noun feminine singular absolute unspecified unspecified  	O	null
+6 קוראים קרא קוראים verb masculine plural unspecified any beinoni  	O	null
+7 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+7 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	I_LOC	null
+8 ענת ענת ענת properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+9 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+10 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה השכנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השכנה שכן השכנה noun feminine singular absolute unspecified unspecified  	O	null
+12 זמן זמן זמן noun masculine singular absolute unspecified unspecified  	O	null
+13 שבו ישב שבו verb masculine-and-feminine plural unspecified 2 imperative  	O	null
+14 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+15 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ילדה ילד ילדה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה הפנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הפנים פנים הפנים noun masculine singular absolute unspecified unspecified  	O	null
+2 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+2 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+3 הצלחתי הצליח הצלחתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+4 להבחין הבחין להבחין verb unspecified unspecified unspecified unspecified infinitive  	O	null
+5 איך איך איך interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 היית הוא היית copula feminine singular unspecified 2 past  	O	null
+7 ל ל לפני preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 פני פני לפני noun masculine singular absolute unspecified unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 ה ה השנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 השנים שנה השנים noun feminine plural absolute unspecified unspecified  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה השכבות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השכבות שכבה השכבות noun feminine plural absolute unspecified unspecified  	O	null
+12 כול כול כולן quantifier unspecified unspecified unspecified unspecified unspecified  
+12 הן הן כולן pronomial feminine plural unspecified 3 unspecified 0 	O	null
+13 הצלחנו הצליח הצלחנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+14 להסיר הסיר להסיר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 ו ו ואנחנו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 אנחנו הוא ואנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+16 הרבה הרבה הרבה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 קרובים קרוב קרובים adjective masculine plural absolute unspecified unspecified  	O	null
+19 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 בוקר בוקר בוקר noun masculine singular absolute unspecified unspecified  	O	null
+1 שבת שבת שבת properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 התעוררנו התעורר התעוררנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+3 לאט לאט לאט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 סיפרת סיפר סיפרת verb feminine singular unspecified 2 past  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+7 מ מ מהזמן preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה מהזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הזמן זמן מהזמן noun masculine singular absolute unspecified unspecified  	O	null
+8 זמן זמן זמן noun masculine singular absolute unspecified unspecified  	O	null
+9 ש ש שבו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 ב ב שבו preposition unspecified unspecified unspecified unspecified unspecified  
+9 ו ו שבו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+10 היית הוא היית copula feminine singular unspecified 2 past  	O	null
+11 ילד ילד ילד noun masculine singular absolute unspecified unspecified  	O	null
+12 כאן כאן כאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 בית בית בית noun masculine singular construct unspecified unspecified  	O	null
+1 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+2 ו ו ובחצר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 ב ב ובחצר preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה ובחצר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 החצר חצר ובחצר noun feminine singular absolute unspecified unspecified  	O	null
+3 גינה גינה גינה verb masculine singular unspecified 3 past  	O	null
+4 עץ עץ עץ noun masculine singular construct unspecified unspecified  	O	null
+5 לימונים לימון לימונים noun masculine plural absolute unspecified unspecified  	O	null
+6 ו ו ועליו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 על על ועליו preposition unspecified unspecified unspecified unspecified unspecified  
+6 ו ו ועליו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+7 נדנדה נדנדה נדנדה noun feminine singular absolute unspecified unspecified  	O	null
+8 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 עומדים עמד עומדים verb masculine plural unspecified any beinoni  	O	null
+10 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+12 ו ו ואתה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 את את ואתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+12 ה ה ואתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+
+0 משחקים משחק משחקים noun masculine plural absolute unspecified unspecified  	O	null
+1 בלהיות בלהיות בלהיות adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+4 ו ו ואשה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 אשה איש ואשה noun feminine singular absolute unspecified unspecified  	O	null
+5 מרגישים הרגיש מרגישים verb masculine plural unspecified any beinoni  	O	null
+6 ב ב בניצנים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ניצנים ניצן בניצנים noun masculine plural absolute unspecified unspecified  	O	null
+7 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה הפנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הפנים פנים הפנים noun masculine singular absolute unspecified unspecified  	O	null
+2 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+2 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+3 הצלחתי הצליח הצלחתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+4 להבחין הבחין להבחין verb unspecified unspecified unspecified unspecified infinitive  	O	null
+5 איך איך איך interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 היית הוא היית copula feminine singular unspecified 2 past  	O	null
+7 ל ל לפני preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 פני פני לפני noun masculine singular absolute unspecified unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 ה ה השנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 השנים שנה השנים noun feminine plural absolute unspecified unspecified  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה השכבות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 השכבות שכבה השכבות noun feminine plural absolute unspecified unspecified  	O	null
+12 כול כול כולן quantifier unspecified unspecified unspecified unspecified unspecified  
+12 הן הן כולן pronomial feminine plural unspecified 3 unspecified 0 	O	null
+13 הצלחנו הצליח הצלחנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+14 להסיר הסיר להסיר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 ו ו ואנחנו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 אנחנו הוא ואנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+16 הרבה הרבה הרבה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 קרובים קרוב קרובים adjective masculine plural absolute unspecified unspecified  	O	null
+19 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+

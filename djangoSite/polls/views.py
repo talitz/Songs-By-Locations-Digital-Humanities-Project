@@ -22,5 +22,3 @@ def index(request):
         context={'all_songs':all_songs},
     )
 
-
-# Leave the rest of the views (detail, results, vote) unchanged

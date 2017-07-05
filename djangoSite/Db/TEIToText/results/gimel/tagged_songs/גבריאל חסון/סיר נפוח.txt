@@ -1,0 +1,130 @@
+0 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שיבולת שיבולת שיבולת properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+2 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בשדה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השדה שדה בשדה noun masculine singular absolute unspecified unspecified  	O	null
+3 ו ו והמוץ conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה והמוץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המוץ מוץ והמוץ noun masculine singular absolute unspecified unspecified  	O	null
+4 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נראה נראה נראה verb masculine singular unspecified 3 past  	O	null
+6 מתאבק התאבק מתאבק verb masculine singular unspecified any beinoni  	O	null
+7 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 קור קור קור noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה הרוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הרוח רוח הרוח noun feminine singular absolute unspecified unspecified  	O	null
+10 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אנחנו הוא אנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+12 מנסים ניסה מנסים verb masculine plural unspecified any beinoni  	O	null
+13 ב ב בעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה בעולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 העולם עולם בעולם noun masculine singular absolute unspecified unspecified  	O	null
+14 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 חיפושים חיפוש חיפושים noun masculine plural absolute unspecified unspecified  	O	null
+16 לבקש ביקש לבקש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+17 ש ש שיהיה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 יהיה הוא שיהיה copula masculine singular unspecified 3 future  	O	null
+18 רק רק רק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+20 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+21 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+22 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ילדי ילד ילדי noun masculine plural construct unspecified unspecified  	O	null
+24 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+26 הפר הפר הפר verb masculine singular unspecified 3 past  	O	null
+27 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+28 שלוות שלווה שלוותך noun feminine singular absolute unspecified unspecified  
+28 ך ך שלוותך possessive feminine singular unspecified 2 unspecified 0 	O	null
+29 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+29 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+30 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+31 סיר סיר סיר noun masculine singular absolute unspecified unspecified  	O	null
+32 נפוח נפח נפוח participle masculine singular absolute any unspecified  	O	null
+33 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה הטעם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הטעם טעם הטעם noun masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בנסתר preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 נסתר נסתר בנסתר adjective masculine singular absolute unspecified unspecified  	O	null
+3 כש כש כשהכל temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה כשהכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכל כול כשהכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מוסתר הוסתר מוסתר verb masculine singular unspecified any beinoni  	O	null
+7 ו ו והגשם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה והגשם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הגשם גשם והגשם noun masculine singular absolute unspecified unspecified  	O	null
+8 מכסה כיסה מכסה verb masculine singular unspecified any beinoni  	O	null
+9 על על עלינו preposition unspecified unspecified unspecified unspecified unspecified  
+9 נו נו עלינו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+10 ו ו ועכשיו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 עכשיו עכשיו ועכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ב ב במחשכים preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה במחשכים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 המחשכים מחשך במחשכים noun masculine plural absolute unspecified unspecified  	O	null
+12 מחפשים חיפש מחפשים verb masculine plural unspecified any beinoni  	O	null
+13 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הפתחים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הפתחים פתח הפתחים noun masculine plural absolute unspecified unspecified  	O	null
+15 דבר דבר דבר noun masculine singular absolute unspecified unspecified  	O	null
+16 אמת אמת אמת noun feminine singular absolute unspecified unspecified  	O	null
+17 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+18 ה ה המפתח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 המפתח מפתח המפתח noun masculine singular absolute unspecified unspecified  	O	null
+19 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+20 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+21 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 ילדי ילד ילדי noun masculine plural construct unspecified unspecified  	O	null
+23 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+25 הפר הפר הפר verb masculine singular unspecified 3 past  	O	null
+26 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+27 שלוות שלווה שלוותך noun feminine singular absolute unspecified unspecified  
+27 ך ך שלוותך possessive feminine singular unspecified 2 unspecified 0 	O	null
+28 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+28 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+29 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+30 סיר סיר סיר noun masculine singular absolute unspecified unspecified  	O	null
+31 נפוח נפח נפוח participle masculine singular absolute any unspecified  	O	null
+32 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 תסתכל הסתכל תסתכל verb feminine singular unspecified 3 future  	O	null
+1 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה השמים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השמים שמי השמים noun masculine plural absolute unspecified unspecified  	O	null
+3 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+5 משתנים השתנה משתנים verb masculine plural unspecified any beinoni  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+8 בטח בטח בטח adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+10 הבט הביט הבט verb masculine singular unspecified 2 imperative  	O	null
+11 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ה ה המים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 המים מים המים noun masculine plural absolute unspecified unspecified  	O	null
+13 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הפנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הפנים פנים הפנים noun masculine singular absolute unspecified unspecified  	O	null
+15 ו ו ותראה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 תראה ראה ותראה verb feminine singular unspecified 3 future  	O	null
+16 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ה ה החיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 החיים חיים החיים noun masculine plural absolute unspecified unspecified  	O	null
+18 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 מתחדשים התחדש מתחדשים verb masculine plural unspecified any beinoni  	O	null
+20 ו ו ומתרגשים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 מתרגשים התרגש ומתרגשים verb masculine plural unspecified any beinoni  	O	null
+21 מ מ מרגע preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 רגע רגע מרגע noun masculine singular absolute unspecified unspecified  	O	null
+22 ל ל לרגע preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 רגע רגע לרגע noun masculine singular absolute unspecified unspecified  	O	null
+23 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 ו ו ותהיה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 תהיה תהייה ותהיה noun feminine singular absolute unspecified unspecified  	O	null
+25 שמח שמח שמח adjective masculine singular absolute unspecified unspecified  	O	null
+26 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

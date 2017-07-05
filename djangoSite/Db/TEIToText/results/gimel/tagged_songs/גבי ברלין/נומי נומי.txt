@@ -1,0 +1,171 @@
+0 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יַלְדָּתִי יַלְדָּתִי יַלְדָּתִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נִי נִי נִים noun masculine singular absolute unspecified unspecified  
+10 ה ה נִים possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 קְטַנָּתִי קְטַנָּתִי קְטַנָּתִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נִי נִי נִים noun masculine singular absolute unspecified unspecified  
+10 ה ה נִים possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אַבָּא אַבָּא אַבָּא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לָעֲבוֹדָה לָעֲבוֹדָה לָעֲבוֹדָה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 – – – punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+6 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אַבָּא אַבָּא אַבָּא verb feminine singular unspecified 2 imperative  	O	null
+10 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יָשׁוּב יָשׁוּב יָשׁוּב properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 עִם עִם עִם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 צֵאת צֵאת צֵאת verb feminine singular unspecified 2 past  	O	null
+3 הַלְּבָנָה הַלְּבָנָה הַלְּבָנָה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 – – – punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יָבִיא יָבִיא יָבִיא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 לָך לָך לָך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מַתָּנָה מַתָּנָה מַתָּנָה participle feminine singular construct any unspecified  	O	null
+9 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יַלְדָּתִי... יַלְדָּתִי... יַלְדָּתִי... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 אַבָּא אַבָּא אַבָּא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אֶל אֶל אֶל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 הַכֶּרֶם הַכֶּרֶם הַכֶּרֶם verb feminine singular unspecified 2 imperative  	O	null
+5 – – – punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+7 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+9 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אַבָּא אַבָּא אַבָּא verb feminine singular unspecified 2 imperative  	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יָשׁוּב יָשׁוּב יָשׁוּב properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 עִם עִם עִם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 צֵאת צֵאת צֵאת properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 הַכּוֹכָבִים הַכּוֹכָבִים הַכּוֹכָבִים verb feminine singular unspecified 2 imperative  	O	null
+4 – – – punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יָבִיא יָבִיא יָבִיא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 לָך לָך לָך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 עֲנָבִים עֲנָבִים עֲנָבִים verb masculine plural unspecified any beinoni  	O	null
+9 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יַלְדָּתִי... יַלְדָּתִי... יַלְדָּתִי... adjective masculine singular construct unspecified unspecified  	O	null
+
+0 אַבָּא אַבָּא אַבָּא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אֶל אֶל אֶל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 הַפַּרְדֵּס הַפַּרְדֵּס הַפַּרְדֵּס properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 – – – punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+7 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+9 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אַבָּא אַבָּא אַבָּא verb feminine singular unspecified 2 imperative  	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יָשׁוּב יָשׁוּב יָשׁוּב verb masculine singular unspecified 2 imperative  	O	null
+1 בָּעֶרֶב בָּעֶרֶב בָּעֶרֶב adjective masculine singular construct unspecified unspecified  	O	null
+2 עִם עִם עִם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 הָרוּח הָרוּח הָרוּח participle masculine singular construct any unspecified  	O	null
+4 ַ ַ ַ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 – – – punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 יָבִיא יָבִיא יָבִיא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 יָבִיא יָבִיא יָבִיא verb masculine singular unspecified 2 past  	O	null
+9 תַּפּוּח תַּפּוּח תַּפּוּח properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 ַ ַ ַ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יַלְדָּתִי יַלְדָּתִי יַלְדָּתִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נִי נִי נִים noun masculine singular absolute unspecified unspecified  
+10 ה ה נִים possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 קְטַנָּתִי קְטַנָּתִי קְטַנָּתִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נִי נִי נִים noun masculine singular absolute unspecified unspecified  
+10 ה ה נִים possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אַבָּא אַבָּא אַבָּא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אֶל אֶל אֶל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 הַשָּׂדֶה הַשָּׂדֶה הַשָּׂדֶה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 – – – punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+7 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 הָלַך הָלַך הָלַך verb masculine-and-feminine singular unspecified 1 future  	O	null
+9 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אַבָּא אַבָּא אַבָּא verb feminine singular unspecified 2 imperative  	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יָשׁוּב יָשׁוּב יָשׁוּב verb masculine singular unspecified 2 imperative  	O	null
+1 בָּעֶרֶב בָּעֶרֶב בָּעֶרֶב properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 עִם עִם עִם properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 צְלָלִים צְלָלִים צְלָלִים verb feminine singular unspecified 2 imperative  	O	null
+4 – – – punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יָבִיא יָבִיא יָבִיא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 לָך לָך לָך properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 ְ ְ ְ punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 שִׁבֳּלִים שִׁבֳּלִים שִׁבֳּלִים verb masculine singular unspecified 2 imperative  	O	null
+9 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נוּמִי נוּמִי נוּמִי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יַלְדָּתִי... יַלְדָּתִי... יַלְדָּתִי... adjective masculine singular construct unspecified unspecified  	O	null
+

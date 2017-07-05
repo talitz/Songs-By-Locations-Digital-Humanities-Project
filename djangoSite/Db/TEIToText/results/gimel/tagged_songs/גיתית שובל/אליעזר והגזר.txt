@@ -1,0 +1,283 @@
+0 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+4 לשמוע שמע לשמוע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+5 מעשה מעשה מעשה noun masculine singular absolute unspecified unspecified  	O	null
+6 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 גזר גזר בגזר noun masculine singular construct unspecified unspecified  	O	null
+7 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 זרע זרע זרע noun masculine singular absolute unspecified unspecified  	O	null
+1 את את אותו at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 ו ו אותו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+2 ב ב בגן preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 גן גן בגן noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה הירק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הירק ירק הירק noun masculine singular absolute unspecified unspecified  	O	null
+4 סבא סבא סבא noun masculine singular absolute unspecified unspecified  	O	null
+5 אליעזר אליעזר אליעזר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 גזר גזר גזר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 גזר גזר גזר verb masculine singular unspecified 3 past  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 גזר גזר גזר verb masculine singular unspecified 3 past  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 גזר גזר גזר noun masculine singular construct unspecified unspecified  	O	null
+7 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+9 כמו כמו כמוהו preposition unspecified unspecified unspecified unspecified unspecified  
+9 ו ו כמוהו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+10 גזר גזר גזר verb masculine singular unspecified 3 past  	O	null
+11 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 זרע זרע זרע noun masculine singular absolute unspecified unspecified  	O	null
+1 את את אותו at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 ו ו אותו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+2 ב ב בגן preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 גן גן בגן noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה הירק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הירק ירק הירק noun masculine singular absolute unspecified unspecified  	O	null
+4 סבא סבא סבא noun masculine singular absolute unspecified unspecified  	O	null
+5 אליעזר אליעזר אליעזר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פעם פעם פעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 בא בא בא verb masculine singular unspecified 3 past  	O	null
+2 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+4 ה ה הירק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הירק ירק הירק noun masculine singular absolute unspecified unspecified  	O	null
+5 סבא סבא סבא noun masculine singular absolute unspecified unspecified  	O	null
+6 אליעזר אליעזר אליעזר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+1 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 פשט פשט פשט noun masculine singular construct unspecified unspecified  	O	null
+5 ידיים יד ידיים noun feminine plural absolute unspecified unspecified  	O	null
+6 ו ו ומשך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 משך משך ומשך verb masculine singular unspecified 3 past  	I_LOC	null
+7 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	I_LOC	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+2 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 גזר גזר בגזר noun masculine singular construct unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כמו כמו כמוהו preposition unspecified unspecified unspecified unspecified unspecified  
+4 ו ו כמוהו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+5 גזר גזר גזר verb masculine singular unspecified 3 past  	O	null
+6 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ימינה ימינה ימינה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 שמאלה שמאלה שמאלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אינו הוא אינו copula masculine singular unspecified 3 beinoni  	O	null
+4 זז זז זז verb masculine singular unspecified any beinoni  	O	null
+5 ה ה הגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הגזר גזר הגזר noun masculine singular absolute unspecified unspecified  	O	null
+6 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אצה אץ אצה verb feminine singular unspecified 3 past  	O	null
+1 סבת סבה סבתה noun feminine singular absolute unspecified unspecified  
+1 ה ה סבתה possessive feminine singular unspecified 3 unspecified 0 	O	null
+2 אלישבע אלישבע אלישבע properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 סבא סבא סבא noun masculine singular absolute unspecified unspecified  	O	null
+5 ל ל לעזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 עזר עזר לעזר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+4 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 פשטה פשט פשטה verb feminine singular unspecified 3 past  	O	null
+6 ידיים יד ידיים noun feminine plural absolute unspecified unspecified  	O	null
+7 ו ו ומשכו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 משכו משך ומשכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 משוך משך משוך participle masculine singular absolute any unspecified  	O	null
+4 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 גזר גזר בגזר noun masculine singular construct unspecified unspecified  	O	null
+5 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+7 כמו כמו כמוהו preposition unspecified unspecified unspecified unspecified unspecified  
+7 ו ו כמוהו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+8 גזר!... גזר!... גזר!... noun masculine-and-feminine singular absolute unspecified unspecified  	O	null
+
+0 אצה אצה אצה noun feminine singular absolute unspecified unspecified  	O	null
+1 רצה רצה רצה verb masculine singular unspecified 3 past  	O	null
+2 אביגיל אביגיל אביגיל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 סבתא סבא סבתא noun feminine singular absolute unspecified unspecified  	O	null
+5 ל ל לעזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 עזר עזר לעזר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+1 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 פשטה פשט פשטה verb feminine singular unspecified 3 past  	O	null
+5 ידיים יד ידיים noun feminine plural absolute unspecified unspecified  	O	null
+6 ו ו ומשכו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 משכו משך ומשכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+7 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 משוך משך משוך participle masculine singular construct any unspecified  	O	null
+4 בגזר... בגזר... בגזר... participle masculine singular construct any unspecified  	O	null
+
+0 אץ אץ אץ verb masculine singular unspecified 3 past  	O	null
+1 ו ו ורץ conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 רץ רץ ורץ properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 הבהב הבהב הבהב verb masculine singular unspecified 3 past  	O	null
+3 ה ה הכלב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכלב כלב הכלב noun masculine singular absolute unspecified unspecified  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הבת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הבת בת הבת noun feminine singular absolute unspecified unspecified  	O	null
+6 ל ל לעזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 עזר עזר לעזר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+1 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 פשט פשט פשט noun masculine singular construct unspecified unspecified  	O	null
+5 רגליים רגל רגליים noun feminine plural absolute unspecified unspecified  	O	null
+6 ו ו ומשכו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 משכו משך ומשכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+7 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 משוך משך משוך participle masculine singular construct any unspecified  	O	null
+4 בגזר... בגזר... בגזר... participle masculine singular construct any unspecified  	O	null
+
+0 אץ אץ אץ verb masculine singular unspecified 3 past  	O	null
+1 ו ו ורץ conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 רץ רץ ורץ verb masculine singular unspecified 3 past  	O	null
+2 חתול חתול חתול noun masculine singular absolute unspecified unspecified  	O	null
+3 מיאו מיאו מיאו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 הבהב הבהב הבהב verb masculine singular unspecified 3 past  	O	null
+6 ל ל לעזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 עזר עזר לעזר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+1 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 פשט פשט פשט noun masculine singular construct unspecified unspecified  	O	null
+5 רגליים רגל רגליים noun feminine plural absolute unspecified unspecified  	O	null
+6 ו ו ומשכו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 משכו משך ומשכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+7 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 משוך משך משוך participle masculine singular construct any unspecified  	O	null
+4 בגזר... בגזר... בגזר... participle masculine singular construct any unspecified  	O	null
+
+0 אץ אץ אץ verb masculine singular unspecified 3 past  	O	null
+1 עכבר עכבר עכבר noun masculine singular absolute unspecified unspecified  	O	null
+2 אפור אפור אפור adjective masculine singular absolute unspecified unspecified  	O	null
+3 השכם השכם השכם adverb unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל לקיק preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 קיק קיק לקיק noun masculine singular absolute unspecified unspecified  	O	null
+6 ל ל לעזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 עזר עזר לעזר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 פשט פשט פשט noun masculine singular construct unspecified unspecified  	O	null
+5 רגליים רגל רגליים noun feminine plural absolute unspecified unspecified  	O	null
+6 ו ו ומשכו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 משכו משך ומשכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+7 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הגזר גזר בגזר noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 משוך משך משוך participle masculine singular absolute any unspecified  	O	null
+4 ב ב בגזר preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 גזר גזר בגזר noun masculine singular construct unspecified unspecified  	O	null
+5 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+7 כמו כמו כמוהו preposition unspecified unspecified unspecified unspecified unspecified  
+7 ו ו כמוהו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+8 גזר גזר גזר verb masculine singular unspecified 3 past  	O	null
+9 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+1 ימינה ימינה ימינה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 משוך משך משוך verb masculine singular unspecified 2 imperative  	O	null
+4 שמאלה שמאלה שמאלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ו ו ויצא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 יצא יצא ויצא verb masculine singular unspecified 3 past  	O	null
+7 ה ה הגזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הגזר גזר הגזר noun masculine singular absolute unspecified unspecified  	O	null
+8 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

@@ -1,0 +1,187 @@
+0 ו ו ובעת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 בעת בעת ובעת noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה השקיעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 השקיעה שקיעה השקיעה noun feminine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ממריאה המריא ממריאה verb feminine singular unspecified any beinoni  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+8 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+9 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+10 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 לני לן ללניה participle masculine plural unspecified any unspecified  
+12 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+0 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+1 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 יה יה יה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 לני לן ללניה participle masculine plural unspecified any unspecified  
+4 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 בודדה בודד בודדה adjective feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 חידה חידה חידה noun feminine singular absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נודדת נדד נודדת verb feminine singular unspecified any beinoni  	O	null
+1 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עצובה עצוב עצובה adjective feminine singular absolute unspecified unspecified  	O	null
+1 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+1 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+2 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+3 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 לני לן ללניה participle masculine plural unspecified any unspecified  
+5 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אין יש ואין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לך preposition unspecified unspecified unspecified unspecified unspecified  
+1 ך ך לך pronomial feminine singular unspecified 2 unspecified 0 	O	null
+2 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+3 יה יה יה noun masculine singular absolute unspecified unspecified  	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 לני לן ללניה participle masculine plural unspecified any unspecified  
+0 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	I_ORG	null
+1 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 תלתל תלתל תלתלך noun masculine singular absolute unspecified unspecified  
+0 ך ך תלתלך possessive feminine singular unspecified 2 unspecified 0 	O	null
+1 ביד ביד בידך preposition unspecified unspecified unspecified unspecified unspecified  
+1 ך ך בידך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+2 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כה כה כה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 נוגה נוגה נוגה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 מבט מבט מבטך noun masculine singular absolute unspecified unspecified  
+2 ך ך מבטך possessive feminine singular unspecified 2 unspecified 0 	O	null
+3 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+1 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+2 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+3 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 לני לן ללניה participle masculine plural unspecified any unspecified  
+5 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+1 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+2 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+3 יה יה יה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 לני לן ללניה participle masculine plural unspecified any unspecified  
+0 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	I_ORG	null
+1 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ובעת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 בעת בעת ובעת noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה הזריחה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הזריחה זריחה הזריחה noun feminine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מכאן מכאן מכאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ממשיכה המשיך ממשיכה verb feminine singular unspecified any beinoni  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+10 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 חלום חלום חלום noun masculine singular absolute unspecified unspecified  	O	null
+12 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 לני לן ללניה participle masculine plural unspecified any unspecified  
+13 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אין יש ואין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לך preposition unspecified unspecified unspecified unspecified unspecified  
+1 ך ך לך pronomial feminine singular unspecified 2 unspecified 0 	O	null
+2 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+3 יה יה יה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 לני לן ללניה participle masculine plural unspecified any unspecified  
+5 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 בודדה בודד בודדה adjective feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 חידה חידה חידה noun feminine singular absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 חידה חידה חידה noun feminine singular absolute unspecified unspecified  	O	null
+2 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נודדת נדד נודדת verb feminine singular unspecified any beinoni  	O	null
+1 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עצובה עצוב עצובה adjective feminine singular absolute unspecified unspecified  	O	null
+1 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לילה לילה לילה noun masculine singular absolute unspecified unspecified  	O	null
+1 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+2 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+3 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 לני לן ללניה participle masculine plural unspecified any unspecified  
+5 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+0 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+1 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 יה יה יה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 לני לן ללניה participle masculine plural unspecified any unspecified  
+4 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ל ל ללניה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 לני לן ללניה participle masculine plural unspecified any unspecified  
+2 ה ה ללניה possessive feminine singular unspecified 3 unspecified 0 	O	null
+3 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ללניה... ללניה... ללניה... verb feminine singular unspecified 2 imperative  	O	null
+

@@ -1,0 +1,100 @@
+0 ו ו ובימים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 ב ב ובימים preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ימים יום ובימים noun masculine plural absolute unspecified unspecified  	O	null
+1 ש ש שאחרי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 אחרי אחרי שאחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+3 יצמח צמח יצמח verb masculine singular unspecified 3 future  	O	null
+4 בין בין בינינו preposition unspecified unspecified unspecified unspecified unspecified  
+4 נו נו בינינו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+5 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מ מ מדבר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 דבר דבר מדבר noun masculine singular absolute unspecified unspecified  	O	null
+7 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ש ש שתמיד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 תמיד תמיד שתמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מתחיל התחיל מתחיל verb masculine singular unspecified any beinoni  	O	null
+10 לצמוח צמח לצמוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+11 אחרי אחרי אחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 פתיחת פתיחה פתיחת noun feminine singular construct unspecified unspecified  	O	null
+13 ה ה האהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 האהבה אהבה האהבה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ש ש שתמיד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 תמיד תמיד שתמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מתחיל התחיל מתחיל verb masculine singular unspecified any beinoni  	O	null
+3 לצמוח צמח לצמוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 גדל גדל גדל verb masculine singular unspecified 3 past  	O	null
+5 נדחק נדחק נדחק verb masculine singular unspecified 3 past  	O	null
+6 עושה עשה עושה verb masculine singular unspecified any beinoni  	O	null
+7 מחנק מחנק מחנק noun masculine singular absolute unspecified unspecified  	O	null
+8 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 אין אין ואין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ל ל לאן preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 אן אן לאן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 לברוח ברח לברוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 מסביב מסביב מסביב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+
+0 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אין אין ואין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ל ל לאן preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 אן אן לאן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 לברוח ברח לברוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 ו ו ונשארים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 נשארים נשאר ונשארים verb masculine plural unspecified any beinoni  	O	null
+5 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שנסגר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 נסגר נסגר שנסגר verb masculine singular unspecified 3 past  	O	null
+7 ה ה הזיכרון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הזיכרון זיכרון הזיכרון noun masculine singular absolute unspecified unspecified  	O	null
+8 ה ה האחרון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 האחרון אחרון האחרון adjective masculine singular absolute unspecified unspecified  	O	null
+9 לפני לפני לפני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מדבר מדבר מדבר noun masculine singular absolute unspecified unspecified  	O	null
+
+0 ה ה הזיכרון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הזיכרון זיכרון הזיכרון noun masculine singular absolute unspecified unspecified  	O	null
+1 ה ה האחרון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 האחרון אחרון האחרון adjective masculine singular absolute unspecified unspecified  	O	null
+2 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+3 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+6 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 שמרנו שמר שמרנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+9 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה הכוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הכוח כוח הכוח noun masculine singular absolute unspecified unspecified  	O	null
+11 נגד נגד נגד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 מדבר מדבר מדבר noun masculine singular absolute unspecified unspecified  	O	null
+
+0 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמרנו שמר שמרנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה הכוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכוח כוח הכוח noun masculine singular absolute unspecified unspecified  	O	null
+4 ו ו וזה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 זה זה וזה pronoun masculine singular unspecified 3 unspecified  	O	null
+5 עזר עזר עזר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 ו ו וזה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 זה זה וזה pronoun masculine singular unspecified 3 unspecified  	O	null
+7 עזר עזר עזר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ש ש שהפכנו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 הפכנו הפך שהפכנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+10 ב ב בעצמנו preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 עצמו עצמו בעצמנו pronoun unspecified unspecified unspecified unspecified unspecified  
+10 נו נו בעצמנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+11 ל ל לחתיכת preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 חתיכת חתיכה לחתיכת noun feminine singular construct unspecified unspecified  	O	null
+12 מדבר מדבר מדבר noun masculine singular construct unspecified unspecified  	O	null
+13 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

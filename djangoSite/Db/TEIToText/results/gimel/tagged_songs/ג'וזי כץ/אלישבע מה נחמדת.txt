@@ -1,0 +1,87 @@
+0 אלישבע אלישבע אלישבע properName unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נחמדת נחמד נחמדת adjective feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יפה יפה יפה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אהובתי אהובתי אהובתי adjective masculine singular absolute unspecified unspecified  	O	null
+7 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+0 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+1 שימלת שמלה שימלת noun feminine singular construct unspecified unspecified  	O	null
+2 פרחים פרח פרחים noun masculine plural absolute unspecified unspecified  	O	null
+3 תפרתי תפר תפרתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+4 היא הוא היא copula feminine singular unspecified 3 beinoni  	O	null
+5 ממש ממש ממש adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 כ כ כשימלתי preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 שימלת שמלה כשימלתי noun feminine singular absolute unspecified unspecified  
+6 י י כשימלתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+3 ל ל למה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 מה מה למה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+4 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+5 אומרים אמר אומרים verb masculine plural unspecified any beinoni  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 פיסחת פיסח פיסחת adjective feminine singular absolute unspecified unspecified  	O	null
+8 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הן הן הן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מ מ משתיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 שתיים CARD2 משתיים numeral feminine singular absolute unspecified unspecified  	O	null
+2 ה ה הרגליים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הרגליים רגל הרגליים noun feminine plural absolute unspecified unspecified  	O	null
+3 חסרה חסר חסרה verb feminine singular unspecified 3 past  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+7 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ואומרים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אומרים אמר ואומרים verb masculine plural unspecified any beinoni  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 קרחת קרחת קרחת noun feminine singular absolute unspecified unspecified  	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ואומרים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אומרים אמר ואומרים verb masculine plural unspecified any beinoni  	O	null
+1 ש ש שבור relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 בור בור שבור noun masculine singular absolute unspecified unspecified  	O	null
+2 אפך... אפך... אפך... verb feminine singular unspecified 2 imperative  	O	null
+3 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+6 ל ל למה preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 מה מה למה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+8 אינם הוא אינם copula masculine plural unspecified 3 beinoni  	O	null
+9 רואים ראה רואים verb masculine plural unspecified any beinoni  	O	null
+10 יפייך יפייך יפייך verb masculine-and-feminine plural unspecified 3 future  	O	null
+11 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תשימי שם תשימי verb feminine singular unspecified 2 future  	O	null
+2 לב לב לב noun masculine singular absolute unspecified unspecified  	O	null
+3 ל ל לאלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 אלה אל לאלה noun feminine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 האמיני האמין האמיני verb feminine singular unspecified 2 imperative  	O	null
+6 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+6 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 ביתי ביתי ביתי adjective masculine singular absolute unspecified unspecified  	O	null
+8 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אלישבע אלישבע אלישבע properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 נחמדת נחמד נחמדת adjective feminine singular absolute unspecified unspecified  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 יפה יפה יפה adjective masculine singular absolute unspecified unspecified  	O	null
+14 אהובתי... אהובתי... אהובתי... noun masculine-and-feminine singular absolute unspecified unspecified  	O	null
+

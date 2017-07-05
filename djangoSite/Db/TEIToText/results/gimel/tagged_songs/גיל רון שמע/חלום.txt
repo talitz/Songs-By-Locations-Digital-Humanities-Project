@@ -1,0 +1,77 @@
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ש ש שחלמתי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 חלמתי חלם שחלמתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 ש ש שיקרה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 יקר יקר שיקרה noun masculine singular absolute unspecified unspecified  
+3 ה ה שיקרה possessive feminine singular unspecified 3 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נעלם נעלם נעלם verb masculine singular unspecified 3 past  	O	null
+6 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה החול definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 החול חול החול noun masculine singular absolute unspecified unspecified  	O	null
+8 ש ש שלרגלייך relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ל ל שלרגלייך preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 רגליי רגל שלרגלייך noun masculine plural absolute unspecified unspecified  
+8 ך ך שלרגלייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+9 ה ה המדבר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 המדבר מדבר המדבר noun masculine singular absolute unspecified unspecified  	O	null
+10 ו ו והים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה והים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הים ים והים noun masculine singular absolute unspecified unspecified  	O	null
+11 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ייפגשו נפגש ייפגשו verb masculine-and-feminine plural unspecified 3 future  	O	null
+13 ו ו ודרכינו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 דרך דרך ודרכינו noun feminine plural absolute unspecified unspecified  
+13 נו נו ודרכינו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+14 ל ל לעולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 ה ה לעולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 העולם עולם לעולם noun masculine singular absolute unspecified unspecified  	O	null
+15 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ייפרדו נפרד ייפרדו verb masculine-and-feminine plural unspecified 3 future  	O	null
+
+0 נווד נווד נווד noun masculine singular absolute unspecified unspecified  	O	null
+1 קורא קרא קורא verb masculine singular unspecified any beinoni  	O	null
+2 סוד סוד סוד noun masculine singular absolute unspecified unspecified  	O	null
+3 ב ב בכוכבים preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 כוכבים כוכב בכוכבים noun masculine plural absolute unspecified unspecified  	O	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 סוס סוס סוס noun masculine singular absolute unspecified unspecified  	O	null
+6 חוצה חצה חוצה verb masculine singular unspecified any beinoni  	O	null
+7 מ מ מדבר preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 דבר דבר מדבר noun masculine singular absolute unspecified unspecified  	O	null
+8 הלילה הלילה הלילה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+10 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה החולות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 החולות חול החולות noun masculine plural absolute unspecified unspecified  	O	null
+12 ו ו והשבטים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה והשבטים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 השבטים שבט והשבטים noun masculine plural absolute unspecified unspecified  	O	null
+13 כוכב כוכב כוכב noun masculine singular absolute unspecified unspecified  	O	null
+14 נוצץ נוצץ נוצץ adjective masculine singular absolute unspecified unspecified  	O	null
+15 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 אלפים ORD-CARD1000 אלפים numeral masculine plural absolute unspecified unspecified  	O	null
+
+0 ו ו ואם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אם אם ואם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תבקשי ביקש תבקשי verb feminine singular unspecified 2 future  	O	null
+2 ש ש שהלילה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 הלילה הלילה שהלילה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מן מן ממך preposition unspecified unspecified unspecified unspecified unspecified  
+3 ך ך ממך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+4 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אשובה אשובה אשובה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 לנדוד נדד לנדוד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 אביט הביט אביט verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 ב ב בכוכב preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה בכוכב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הכוכב כוכב בכוכב noun masculine singular absolute unspecified unspecified  	O	null
+9 ש ש שלמעלה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 למעלה למעלה שלמעלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+10 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 אעלם נעלם אעלם verb masculine-and-feminine singular unspecified 1 future  	O	null
+12 ל ל לחלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 חלום חלום לחלום noun masculine singular absolute unspecified unspecified  	O	null
+

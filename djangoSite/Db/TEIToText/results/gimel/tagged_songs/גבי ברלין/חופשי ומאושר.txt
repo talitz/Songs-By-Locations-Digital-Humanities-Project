@@ -1,0 +1,113 @@
+0 תן נתן תן verb masculine singular unspecified 2 imperative  	O	null
+1 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+3 ו ו והשמש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה והשמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 השמש שמש והשמש noun feminine singular absolute unspecified unspecified  	O	null
+4 ה ה החמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 החמה חם החמה adjective feminine singular absolute unspecified unspecified  	O	null
+5 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+6 לראות ראה לראות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 את את אותם at-preposition unspecified unspecified unspecified unspecified unspecified  
+7 הם הם אותם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+8 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה הנשמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הנשמה נשמה הנשמה noun feminine singular absolute unspecified unspecified  	O	null
+10 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+11 ל ל לנפש preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 נפש נפש לנפש noun feminine singular absolute unspecified unspecified  	O	null
+12 ש ש שתבער relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 תבער בער שתבער verb feminine singular unspecified 3 future  	O	null
+13 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+14 להיות הוא להיות copula unspecified unspecified unspecified unspecified infinitive  	O	null
+15 חופשי חופשי חופשי adjective masculine singular absolute unspecified unspecified  	O	null
+16 ו ו ומאושר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 מאושר מאושר ומאושר adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+2 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ו ו ושלח conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 שלח שלח ושלח verb masculine singular unspecified 3 past  	O	null
+4 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+5 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+6 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+7 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+8 בהיר בהיר בהיר adjective masculine singular absolute unspecified unspecified  	O	null
+9 ו ו וערב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 ערב ערב וערב noun masculine singular absolute unspecified unspecified  	O	null
+10 טהור טהור טהור adjective masculine singular absolute unspecified unspecified  	O	null
+11 צחק צחק צחק verb masculine singular unspecified 3 past  	O	null
+12 ב ב בנפשי preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה בנפשי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הנפשי נפשי בנפשי adjective masculine singular absolute unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 לבן לבן לבן adjective masculine singular absolute unspecified unspecified  	O	null
+15 ו ו ומואר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 מואר מואר ומואר adjective masculine singular absolute unspecified unspecified  	O	null
+16 בוא בוא בואה noun masculine singular absolute unspecified unspecified  
+16 ה ה בואה possessive feminine singular unspecified 3 unspecified 0 	O	null
+17 חופשי חופשי חופשי adjective masculine singular absolute unspecified unspecified  	O	null
+18 ו ו ולך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 לך הלך ולך verb masculine singular unspecified 2 imperative  	O	null
+19 מאושר מאושר מאושר adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ימים יום ימים noun masculine plural absolute unspecified unspecified  	O	null
+2 יפים יפה יפים adjective masculine plural absolute unspecified unspecified  	O	null
+3 ש ש שהדרכים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה שהדרכים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הדרכים דרך שהדרכים noun feminine plural absolute unspecified unspecified  	O	null
+4 ב ב בהם preposition unspecified unspecified unspecified unspecified unspecified  
+4 הם הם בהם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+5 גדולות גדול גדולות adjective feminine plural absolute unspecified unspecified  	O	null
+6 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+7 דברים דבר דברים noun masculine plural absolute unspecified unspecified  	O	null
+8 יפים יפה יפים adjective masculine plural absolute unspecified unspecified  	O	null
+9 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ב ב בלילות preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 לילות לילה בלילות noun masculine plural absolute unspecified unspecified  	O	null
+11 ו ו וכל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 כל כול וכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ש ש שעוד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 עוד עוד שעוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 נותר נותר נותר verb masculine singular unspecified 3 past  	O	null
+15 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 להיות הוא להיות copula unspecified unspecified unspecified unspecified infinitive  	O	null
+17 חופשי חופשי חופשי adjective masculine singular absolute unspecified unspecified  	O	null
+18 ו ו ומאושר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 מאושר מאושר ומאושר adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+2 שיר... שיר... שיר... noun feminine plural absolute unspecified unspecified  	O	null
+
+0 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תפילה תפילה תפילה noun feminine singular absolute unspecified unspecified  	O	null
+2 אחת CARD1 אחת numeral feminine singular absolute unspecified unspecified  	O	null
+3 אנחנו הוא אנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+4 נבקש ביקש נבקש verb masculine-and-feminine plural unspecified 1 future  	O	null
+5 מן מן ממך preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך ממך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תפילה תפילה תפילה noun feminine singular absolute unspecified unspecified  	O	null
+8 נריע הריע נריע verb masculine-and-feminine plural unspecified 1 future  	O	null
+9 ל ל לשמך preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 שמך שמך לשמך noun masculine singular absolute unspecified unspecified  	O	null
+10 זכור זכור זכור adjective masculine singular absolute unspecified unspecified  	O	null
+11 את את אותנו at-preposition unspecified unspecified unspecified unspecified unspecified  
+11 נו נו אותנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+12 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+15 להיות הוא להיות copula unspecified unspecified unspecified unspecified infinitive  	O	null
+16 חופשי חופשי חופשי adjective masculine singular absolute unspecified unspecified  	O	null
+17 ו ו ומאושר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 מאושר מאושר ומאושר adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+2 שיר... שיר... שיר... noun feminine plural absolute unspecified unspecified  	O	null
+

@@ -1,0 +1,76 @@
+0 פתק פתק פתק noun masculine singular absolute unspecified unspecified  	O	null
+1 מלוכלך מלוכלך מלוכלך adjective masculine singular absolute unspecified unspecified  	O	null
+2 הדבקתי הדביק הדבקתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הקיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הקיר קיר הקיר noun masculine singular absolute unspecified unspecified  	O	null
+5 כדי כדי כדי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שאני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 אני הוא שאני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אשכח שכח אשכח verb masculine-and-feminine singular unspecified 1 future  	O	null
+9 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+11 ה ה הרדיו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הרדיו רדיו הרדיו noun masculine singular absolute unspecified unspecified  	O	null
+12 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ניגמר נגמר ניגמר verb masculine singular unspecified 3 past  	O	null
+14 מצעד מצעד מצעד noun masculine singular construct unspecified unspecified  	O	null
+15 ה ה הפזמונים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הפזמונים פזמון הפזמונים noun masculine plural absolute unspecified unspecified  	O	null
+16 עשיתי עשה עשיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+17 ל ל לעצמי preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 עצמי עצם לעצמי noun masculine plural construct unspecified unspecified  	O	null
+18 שתי CARD2 שתי numeral feminine dual construct unspecified unspecified  	O	null
+19 כוסות כוס כוסות noun feminine plural absolute unspecified unspecified  	O	null
+20 קפה קפה קפה noun masculine singular absolute unspecified unspecified  	O	null
+
+0 ב ב בטלפון preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה בטלפון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הטלפון טלפון בטלפון noun masculine singular absolute unspecified unspecified  	O	null
+1 חיכתה חיכה חיכתה verb feminine singular unspecified 3 past  	O	null
+2 הודעה הודעה הודעה noun feminine singular absolute unspecified unspecified  	O	null
+3 מ מ מבעלת preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 בעלת בעל מבעלת noun feminine singular construct unspecified unspecified  	O	null
+4 ה ה הדירה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הדירה דירה הדירה noun feminine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+7 גרים גר גרים verb masculine plural unspecified any beinoni  	O	null
+8 ב ב בהרצליה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 הרצליה הרצליה בהרצליה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+9 ו ו ויש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 יש יש ויש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ל ל להם preposition unspecified unspecified unspecified unspecified unspecified  
+10 הם הם להם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+11 בריכה בריכה בריכה noun feminine singular absolute unspecified unspecified  	O	null
+12 הגיע הגיע הגיע verb masculine singular unspecified 3 past  	O	null
+13 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+14 לשלם שילם לשלם verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+16 צחקה צחק צחקה verb feminine singular unspecified 3 past  	O	null
+17 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 יצאתי יצא יצאתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+19 ל ל לעיר preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 ה ה לעיר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 העיר עיר לעיר noun feminine singular absolute unspecified unspecified  	O	null
+20 לחפש חיפש לחפש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+21 עבודה עבודה עבודה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 מאה ORD-CARD100 מאה numeral feminine plural absolute unspecified unspecified  	I_MONEY	null
+1 שקל שקל שקל noun masculine singular absolute unspecified unspecified  	I_MONEY	null
+2 אחרונים אחרון אחרונים adjective masculine plural absolute unspecified unspecified  	O	null
+3 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 הפכתי הפך הפכתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+5 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה הכיסים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הכיסים כיס הכיסים noun masculine plural absolute unspecified unspecified  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ש ש שהיה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 היה הוא שהיה copula masculine singular unspecified 3 past  	O	null
+10 נגמר נגמר נגמר verb masculine singular unspecified any beinoni  	O	null
+11 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+

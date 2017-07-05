@@ -1,0 +1,120 @@
+0 היי הי היי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מתוק מתוק מתוק adjective masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ילדה ילד ילדה noun feminine singular absolute unspecified unspecified  	O	null
+5 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תמכור מכר תמכור verb feminine singular unspecified 3 future  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 סיפורים סיפור סיפורים noun masculine plural absolute unspecified unspecified  	O	null
+9 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+11 ו ו ומה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 מה מה ומה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+12 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+12 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+13 מ מ מהרחוב preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה מהרחוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הרחוב רחוב מהרחוב noun masculine singular absolute unspecified unspecified  	O	null
+14 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מ מ מהסביונים preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה מהסביונים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הסביונים סביון מהסביונים noun masculine plural absolute unspecified unspecified  	O	null
+1 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הבטחות הבטחה הבטחות noun feminine plural absolute unspecified unspecified  	O	null
+1 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 הבטחות הבטחה הבטחות noun feminine plural construct unspecified unspecified  	O	null
+3 תקנה תקנה תקנה noun feminine singular absolute unspecified unspecified  	O	null
+4 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 זר זר זר noun masculine singular absolute unspecified unspecified  	O	null
+6 ו ו וורדים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 ורדים ורד וורדים noun masculine plural absolute unspecified unspecified  	O	null
+7 מילים מילה מילים noun feminine plural absolute unspecified unspecified  	O	null
+8 לקחה לקח לקחה verb feminine singular unspecified 3 past  	O	null
+9 את את אותן at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 הן הן אותן pronomial feminine plural unspecified 3 unspecified 0 	O	null
+10 ה ה הרוח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הרוח רוח הרוח noun feminine singular absolute unspecified unspecified  	O	null
+11 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+12 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 מעשים מעשה מעשים noun masculine plural absolute unspecified unspecified  	O	null
+14 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 צא יצא צא verb masculine singular unspecified 2 imperative  	O	null
+1 מ מ מזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 זה זה מזה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אף אף אף quantifier unspecified unspecified construct unspecified unspecified  	O	null
+4 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+5 כ כ כזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 זה זה כזה pronoun masculine singular unspecified 3 unspecified  	O	null
+6 חכם חכם חכם adjective masculine singular absolute unspecified unspecified  	O	null
+7 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 יפה יפה יפה adjective masculine singular absolute unspecified unspecified  	O	null
+9 ש ש שיוצא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 יוצא יצא שיוצא verb masculine singular unspecified any beinoni  	O	null
+10 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 מ מ מזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 זה זה מזה pronoun masculine singular unspecified 3 unspecified  	O	null
+12 צא יצא צא verb masculine singular unspecified 2 imperative  	O	null
+13 מ מ מזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 זה זה מזה pronoun masculine singular unspecified 3 unspecified  	O	null
+14 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 אף אף אף quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+17 כ כ כזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 זה זה כזה pronoun masculine singular unspecified 3 unspecified  	O	null
+18 בניין בניין בניינו noun masculine singular absolute unspecified unspecified  
+18 ו ו בניינו possessive masculine singular unspecified 3 unspecified 0 	O	null
+19 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+20 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+22 מתוק מתוק מתוק adjective masculine singular absolute unspecified unspecified  	O	null
+23 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+24 הוזה הזה הוזה verb masculine singular unspecified any beinoni  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תבוא בא תבוא verb feminine singular unspecified 3 future  	O	null
+2 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 מאחור מאחור מאחור adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ו ו וכמו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 כמו כמו וכמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ציפור ציפור ציפור noun masculine singular absolute unspecified unspecified  	O	null
+6 תלחש לחש תלחש verb feminine singular unspecified 3 future  	O	null
+7 אוהב אהב אוהב verb masculine singular unspecified any beinoni  	O	null
+8 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+8 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+9 יפה יפה יפה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ש ש שלי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ל ל שלי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 מתוקה מתוק מתוקה adjective feminine singular absolute unspecified unspecified  	O	null
+13 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 דבש דבש דבש properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+15 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 פרצוף פרצוף פרצוף noun masculine singular construct unspecified unspecified  	O	null
+18 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+18 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+19 חמוץ חמוץ חמוץ adjective masculine singular absolute unspecified unspecified  	O	null
+20 ו ו וגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 גם גם וגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+21 מתוק מתוק מתוק adjective masculine singular absolute unspecified unspecified  	O	null
+22 מצטערת הצטער מצטערת verb feminine singular unspecified any beinoni  	O	null
+23 תתגבר תגבר תתגבר verb feminine singular unspecified 3 future  	O	null
+24 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 אלך הלך אלך verb masculine-and-feminine singular unspecified 1 future  	O	null
+26 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+26 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+27 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 צא יצא צא verb masculine singular unspecified 2 imperative  	O	null
+1 מזה... מזה... מזה... adjective masculine singular construct unspecified unspecified  	O	null
+

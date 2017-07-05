@@ -1,0 +1,75 @@
+0 יבוא ייבוא יבוא noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה היום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 היום יום היום noun masculine singular absolute unspecified unspecified  	O	null
+2 ש ש שנתחבק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 נתחבק התחבק שנתחבק verb masculine-and-feminine plural unspecified 1 future  	O	null
+3 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 בגלל בגלל בגלל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שאנחנו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 אנחנו הוא שאנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+7 רוצים רצה רוצים verb masculine plural unspecified any beinoni  	O	null
+8 יבוא ייבוא יבוא noun masculine singular absolute unspecified unspecified  	O	null
+9 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ש ש שנתחבק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 נתחבק התחבק שנתחבק verb masculine-and-feminine plural unspecified 1 future  	O	null
+11 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אנחנו הוא אנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+13 צריכים צריך צריכים modal masculine plural unspecified any unspecified  	O	null
+
+0 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+0 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+1 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+2 שום שום שום quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 הרגשה הרגשה הרגשה noun feminine singular absolute unspecified unspecified  	O	null
+4 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 פחד פחד פחד noun masculine singular absolute unspecified unspecified  	O	null
+6 ב ב באוויר preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה באוויר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 האוויר אוויר באוויר noun masculine singular absolute unspecified unspecified  	O	null
+7 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+8 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+9 להיות הוא להיות copula unspecified unspecified unspecified unspecified infinitive  	O	null
+10 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 ה ה האנשים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 האנשים איש האנשים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 דמעה דמעה דמעה noun feminine singular absolute unspecified unspecified  	O	null
+2 מ מ מהעיניים preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה מהעיניים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 העיניים עין מהעיניים noun feminine plural absolute unspecified unspecified  	O	null
+3 של של שלה shel-preposition unspecified unspecified unspecified unspecified unspecified  
+3 ה ה שלה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+4 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 דרך דרך דרך noun feminine singular construct unspecified unspecified  	O	null
+7 חזרה חזרה חזרה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 טלוויזיה טלוויזיה טלוויזיה noun feminine singular absolute unspecified unspecified  	O	null
+1 בלי בלי בלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+3 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+4 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מנסים ניסה מנסים verb masculine plural unspecified any beinoni  	O	null
+6 לשרוד שרד לשרוד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 אנחנו הוא אנחנו pronoun masculine-and-feminine plural unspecified 1 unspecified  	O	null
+8 מתחבקים התחבק מתחבקים verb masculine plural unspecified any beinoni  	O	null
+9 רוצים רצה רוצים verb masculine plural unspecified any beinoni  	O	null
+10 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 דמעה דמעה דמעה noun feminine singular absolute unspecified unspecified  	O	null
+2 מ מ מהעיניים preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה מהעיניים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 העיניים עין מהעיניים noun feminine plural absolute unspecified unspecified  	O	null
+3 של של שלה shel-preposition unspecified unspecified unspecified unspecified unspecified  
+3 ה ה שלה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+4 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 דרך דרך דרך noun feminine singular construct unspecified unspecified  	O	null
+7 חזרה חזרה חזרה noun feminine singular absolute unspecified unspecified  	O	null
+

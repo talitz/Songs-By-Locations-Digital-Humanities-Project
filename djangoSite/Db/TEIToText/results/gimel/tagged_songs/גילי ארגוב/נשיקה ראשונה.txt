@@ -1,0 +1,186 @@
+0 הקשיבי הקשיב הקשיבי verb feminine singular unspecified 2 imperative  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 כעת כעת כעת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 נערה נער נערה noun feminine singular absolute unspecified unspecified  	O	null
+5 ו ו ואל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 אל אל ואל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תנסי ניסה תנסי verb feminine singular unspecified 2 future  	O	null
+7 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לומר אמר לומר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 חלפה חלף חלפה verb feminine singular unspecified 3 past  	O	null
+11 תמימות תמימות תמימותי noun feminine singular absolute unspecified unspecified  
+11 י י תמימותי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 ב ב בסערה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 סערה סערה בסערה noun feminine singular absolute unspecified unspecified  	O	null
+13 עת עת עת noun feminine singular absolute unspecified unspecified  	O	null
+14 נשקתי נשק נשקתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+15 פעם פעם פעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ראשונה ראשונה ראשונה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 התרגשתי התרגש התרגשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 פחדתי פחד פחדתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אהבתי אהב אהבתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+5 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+6 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+9 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+10 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+11 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+12 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+13 רגשתי רגש רגשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 נשרפתי נשרף נשרפתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+16 מלהט ליהט מלהט verb masculine singular unspecified any beinoni  	O	null
+17 נשיקה נשיקה נשיקה noun feminine singular absolute unspecified unspecified  	O	null
+18 מ מ מזאת preposition unspecified unspecified unspecified unspecified unspecified 0 
+18 זאת זאת מזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+19 ה ה הנשיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 הנשיקה נשיקה הנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+20 ה ה הראשונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הראשונה ORD1 הראשונה numeral feminine singular absolute unspecified unspecified  	O	null
+21 התרגשתי התרגש התרגשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+22 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 פחדתי פחד פחדתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+24 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 אהבתי אהב אהבתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+26 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+27 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+27 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+28 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+29 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+30 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+31 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+32 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+33 התרגשתי התרגש התרגשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+34 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+35 פחדתי פחד פחדתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+36 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+37 כלות כלה כלות noun feminine plural construct unspecified unspecified  	O	null
+38 ה ה הנשימה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+38 הנשימה נשימה הנשימה noun feminine singular absolute unspecified unspecified  	O	null
+39 מ מ מזאת preposition unspecified unspecified unspecified unspecified unspecified 0 
+39 זאת זאת מזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+40 ה ה הנשיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+40 הנשיקה נשיקה הנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+41 ה ה הראשונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+41 הראשונה ORD1 הראשונה numeral feminine singular absolute unspecified unspecified  	O	null
+
+0 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נעורי נעורים נעוריי noun masculine plural absolute unspecified unspecified  
+2 י י נעוריי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 ה ה האבודים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 האבודים אבוד האבודים adjective masculine plural absolute unspecified unspecified  	O	null
+4 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 עשתה עשה עשתה verb feminine singular unspecified 3 past  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+9 עוללה עולל עוללה verb feminine singular unspecified 3 past  	O	null
+10 הפכו הפך הפכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+11 נעורי נעורים נעוריי noun masculine plural absolute unspecified unspecified  
+11 י י נעוריי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 ל ל לאבודים preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 אבודים אבוד לאבודים adjective masculine plural absolute unspecified unspecified  	O	null
+13 מאז מאז מאז adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+14 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+15 ה ה הנשיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הנשיקה נשיקה הנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+16 ה ה הראשונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הראשונה ORD1 הראשונה numeral feminine singular absolute unspecified unspecified  	O	null
+
+0 דיברנו דיבר דיברנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+1 שעות שעה שעות noun feminine plural absolute unspecified unspecified  	O	null
+2 ללא ללא ללא preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מילים מילה מילים noun feminine plural absolute unspecified unspecified  	O	null
+4 הפכו הפך הפכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+5 מילות מילה מילותיי noun feminine plural absolute unspecified unspecified  
+5 י י מילותיי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 ל ל לשתיקה preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה לשתיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 השתיקה שתיקה לשתיקה noun feminine singular absolute unspecified unspecified  	O	null
+7 אבדו אבד אבדו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 נעורי נעורים נעוריי noun masculine plural absolute unspecified unspecified  
+8 י י נעוריי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה השבילים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 השבילים שביל השבילים noun masculine plural absolute unspecified unspecified  	O	null
+11 אבדו אבד אבדו verb masculine-and-feminine plural unspecified 3 past  	O	null
+12 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 שבילי שביל שבילי noun masculine plural construct unspecified unspecified  	O	null
+14 ה ה האהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 האהבה אהבה האהבה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 התרגשתי התרגש התרגשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 פחדתי פחד פחדתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+2 אהבתי אהב אהבתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+7 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+8 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+9 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+10 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+11 רגשתי רגש רגשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+12 נשרפתי נשרף נשרפתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+13 מלהט ליהט מלהט verb masculine singular unspecified any beinoni  	O	null
+14 נשיקה נשיקה נשיקה noun feminine singular absolute unspecified unspecified  	O	null
+15 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+17 ה ה הנשיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 הנשיקה נשיקה הנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+18 ה ה הראשונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 הראשונה ORD1 הראשונה numeral feminine singular absolute unspecified unspecified  	O	null
+
+0 התרגשתי התרגש התרגשתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 פחדתי... פחדתי... פחדתי... noun masculine-and-feminine singular absolute unspecified unspecified  	O	null
+
+0 הו הו הו interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נעורי נעורים נעוריי noun masculine plural absolute unspecified unspecified  
+2 י י נעוריי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 ה ה האבודים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 האבודים אבוד האבודים adjective masculine plural absolute unspecified unspecified  	O	null
+4 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+6 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+6 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 עוללה עולל עוללה verb feminine singular unspecified 3 past  	O	null
+9 הפכו הפך הפכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+10 נעורי נעורים נעורי noun masculine plural construct unspecified unspecified  	O	null
+11 ל ל לאבודים preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 אבודים אבוד לאבודים adjective masculine plural absolute unspecified unspecified  	O	null
+12 מ מ מזו preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 זו זו מזו pronoun feminine singular unspecified 3 unspecified  	O	null
+13 ה ה הנשיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הנשיקה נשיקה הנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+14 ה ה הראשונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הראשונה ORD1 הראשונה numeral feminine singular absolute unspecified unspecified  	O	null
+
+0 מ מ מזאת preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 זאת זאת מזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+1 ה ה הנשיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הנשיקה נשיקה הנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+2 ה ה הראשונה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הראשונה ORD1 הראשונה numeral feminine singular absolute unspecified unspecified  	O	null
+3 ו ו וזאת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 זאת זאת וזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+4 בגלל בגלל בגלל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הנשיקה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הנשיקה נשיקה הנשיקה noun feminine singular absolute unspecified unspecified  	O	null
+6 של של שלה shel-preposition unspecified unspecified unspecified unspecified unspecified  
+6 ה ה שלה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+

@@ -1,0 +1,186 @@
+0 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שמחכה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 מחכה חיכה שמחכה verb masculine singular unspecified any beinoni  	O	null
+3 ב ב בחושך preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 חושך חושך בחושך noun masculine singular absolute unspecified unspecified  	O	null
+4 קרב קרב קרב noun masculine singular absolute unspecified unspecified  	O	null
+5 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+7 ש ש שמחכה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 מחכה חיכה שמחכה verb masculine singular unspecified any beinoni  	O	null
+8 ב ב בחושך preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 חושך חושך בחושך noun masculine singular absolute unspecified unspecified  	O	null
+9 אורב ארב אורב participle masculine singular construct any unspecified  	O	null
+
+0 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+1 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נרגעת נרגע נרגעת verb feminine singular unspecified any beinoni  	O	null
+4 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 ב ב בכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 כל כול בכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+6 נימי נים נימי noun masculine plural construct unspecified unspecified  	O	null
+7 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+8 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 סוף סוף סופה noun masculine singular absolute unspecified unspecified  
+10 ה ה סופה possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 איני איני איני adjective masculine singular absolute unspecified unspecified  	O	null
+12 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+13 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+14 עולה עלה עולה verb feminine singular unspecified any beinoni  	O	null
+15 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 מוחי מוחי מוחי adjective masculine singular absolute unspecified unspecified  	O	null
+17 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+18 עולה עלה עולה verb feminine singular unspecified any beinoni  	O	null
+19 בעל בעל בעל noun masculine singular construct unspecified unspecified  	O	null
+20 כורח כורח כורחי noun masculine singular absolute unspecified unspecified  
+20 י י כורחי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 קובעת קבע קובעת verb feminine singular unspecified any beinoni  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 דרך דרך דרכי noun feminine singular absolute unspecified unspecified  
+3 י י דרכי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מחשבת מחשבה מחשבתי noun feminine singular absolute unspecified unspecified  
+6 י י מחשבתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+8 תובעת תבע תובעת verb feminine singular unspecified any beinoni  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ליבי ליבי ליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 נשמת נשמה נשמתי noun feminine singular absolute unspecified unspecified  
+13 י י נשמתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+14 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 מ מ מנגינת preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 נגינת נגינה מנגינת noun feminine singular construct unspecified unspecified  	O	null
+17 מות מוות מותי noun masculine singular absolute unspecified unspecified  
+17 י י מותי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+18 ו ו ותמיד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 תמיד תמיד ותמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+20 מלווה הלווה מלווה verb feminine singular unspecified any beinoni  	O	null
+21 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+21 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 ב ב בדמי preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 דמי דם בדמי noun masculine plural construct unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב בראשי preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בראשי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הראשי ראשי בראשי adjective masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 בנפשי... בנפשי... בנפשי... verb feminine singular unspecified 2 imperative  	O	null
+
+0 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+2 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+4 ב ב בחדר preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה בחדר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 החדר חדר בחדר noun masculine singular absolute unspecified unspecified  	O	null
+5 ה ה הקר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הקר קר הקר adjective masculine singular absolute unspecified unspecified  	O	null
+6 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+8 ש ש שממתינה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ממתינה המתין שממתינה verb feminine singular unspecified any beinoni  	O	null
+9 ב ב בשקט preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה בשקט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 השקט שקט בשקט noun masculine singular absolute unspecified unspecified  	O	null
+10 ה ה המר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 המר מר המר adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 זאת זאת זאת pronoun feminine singular unspecified 3 unspecified  	O	null
+1 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נרגעת נרגע נרגעת verb feminine singular unspecified any beinoni  	O	null
+4 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 ב ב בכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 כל כול בכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+6 נימי נים נימי noun masculine plural construct unspecified unspecified  	O	null
+7 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+8 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 סוף סוף סופה noun masculine singular absolute unspecified unspecified  
+10 ה ה סופה possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 איני איני איני adjective masculine singular absolute unspecified unspecified  	O	null
+12 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+13 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+14 עולה עלה עולה verb feminine singular unspecified any beinoni  	O	null
+15 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 מוחי מוחי מוחי adjective masculine singular absolute unspecified unspecified  	O	null
+17 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+18 עולה עלה עולה verb feminine singular unspecified any beinoni  	O	null
+19 בעל בעל בעל noun masculine singular construct unspecified unspecified  	O	null
+20 כורח כורח כורחי noun masculine singular absolute unspecified unspecified  
+20 י י כורחי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 קובעת קבע קובעת verb feminine singular unspecified any beinoni  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 דרך דרך דרכי noun feminine singular absolute unspecified unspecified  
+3 י י דרכי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מחשבת מחשבה מחשבתי noun feminine singular absolute unspecified unspecified  
+6 י י מחשבתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+8 תובעת תבע תובעת verb feminine singular unspecified any beinoni  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ליבי ליבי ליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 נשמת נשמה נשמתי noun feminine singular absolute unspecified unspecified  
+13 י י נשמתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+14 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 מ מ מנגינת preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 נגינת נגינה מנגינת noun feminine singular construct unspecified unspecified  	O	null
+17 מות מוות מותי noun masculine singular absolute unspecified unspecified  
+17 י י מותי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+18 ו ו ותמיד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 תמיד תמיד ותמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+20 מלווה הלווה מלווה verb feminine singular unspecified any beinoni  	O	null
+21 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+21 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 אוו... אוו... אוו... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 אוו... אוו... אוו... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 אווו... אווו... אווו... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+
+0 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מ מ מנגינת preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 נגינת נגינה מנגינת noun feminine singular construct unspecified unspecified  	O	null
+3 מות מוות מותי noun masculine singular absolute unspecified unspecified  
+3 י י מותי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 ו ו ותמיד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 תמיד תמיד ותמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+6 מלווה הלווה מלווה verb feminine singular unspecified any beinoni  	O	null
+7 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 אוו... אוו... אוו... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+1 אוו... אוו... אוו... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 אווו... אווו... אווו... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+
+0 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מנגינה מנגינה מנגינה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שמחכה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 מחכה חיכה שמחכה verb masculine singular unspecified any beinoni  	O	null
+3 ב ב בחושך preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 חושך חושך בחושך noun masculine singular absolute unspecified unspecified  	O	null
+4 קרב קרב קרב noun masculine singular absolute unspecified unspecified  	O	null
+

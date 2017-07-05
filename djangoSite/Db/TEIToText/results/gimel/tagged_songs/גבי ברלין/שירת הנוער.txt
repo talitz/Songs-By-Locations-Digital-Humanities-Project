@@ -1,0 +1,72 @@
+0 שירת שירה שירת noun feminine singular construct unspecified unspecified  	O	null
+1 ה ה הנוער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הנוער נוער הנוער noun masculine singular absolute unspecified unspecified  	O	null
+2 שיר שיר שיר noun masculine singular construct unspecified unspecified  	O	null
+3 עתיד עתיד עתידנו noun masculine singular absolute unspecified unspecified  
+3 נו נו עתידנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+4 שיר שיר שיר noun masculine singular construct unspecified unspecified  	O	null
+5 התחדשות התחדשות התחדשות noun feminine singular construct unspecified unspecified  	O	null
+6 בניין בניין בניין noun masculine singular absolute unspecified unspecified  	O	null
+7 ו ו ועלייה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 עלייה עלייה ועלייה noun feminine singular absolute unspecified unspecified  	O	null
+8 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה הגולה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הגולה גולה הגולה noun masculine singular absolute unspecified unspecified  	O	null
+10 ינהרו נהר ינהרו verb masculine-and-feminine plural unspecified 3 future  	O	null
+11 אחי אח אחינו noun masculine plural absolute unspecified unspecified  
+11 נו נו אחינו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+12 ארץ ארץ ארץ noun feminine singular construct unspecified unspecified  	O	null
+13 מולדת מולדת מולדת properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+14 שבה שב שבה verb feminine singular unspecified 3 past  	O	null
+15 ל ל לתחייה preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 תחייה תחייה לתחייה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+
+0 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 חולל חולל חולל verb masculine singular unspecified 3 past  	O	null
+3 ה ה הפלא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הפלא פלא הפלא noun masculine singular absolute unspecified unspecified  	O	null
+4 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ארץ ארץ ארץ noun feminine singular construct unspecified unspecified  	O	null
+6 מולדת מולדת מולדת noun feminine singular absolute unspecified unspecified  	O	null
+7 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+8 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+9 הקים הקים הקים verb masculine singular unspecified 3 past  	O	null
+10 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+11 אלה אל אלה noun feminine singular absolute unspecified unspecified  	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ארץ ארץ ארץ noun feminine singular construct unspecified unspecified  	O	null
+14 מולדת מולדת מולדת noun feminine singular absolute unspecified unspecified  	O	null
+15 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+16 יד יד ידך noun feminine singular absolute unspecified unspecified  
+16 ך ך ידך possessive feminine singular unspecified 2 unspecified 0 	O	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 יד יד ידך noun feminine singular absolute unspecified unspecified  
+18 ך ך ידך possessive feminine singular unspecified 2 unspecified 0 	O	null
+19 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+20 ה ה הזורעת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הזורעת זרע הזורעת participle feminine singular absolute any unspecified  	O	null
+21 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+22 יד יד ידך noun feminine singular absolute unspecified unspecified  
+22 ך ך ידך possessive feminine singular unspecified 2 unspecified 0 	O	null
+23 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 יד יד ידך noun feminine singular absolute unspecified unspecified  
+24 ך ך ידך possessive feminine singular unspecified 2 unspecified 0 	O	null
+25 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+26 ה ה הנוטעת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+26 הנוטעת נטע הנוטעת participle feminine singular absolute any unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה הנוער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הנוער נוער הנוער noun masculine singular absolute unspecified unspecified  	O	null
+3 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+4 ב ב במולדת preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 מולדת מולדת במולדת properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 קום קם קום verb masculine singular unspecified 2 imperative  	O	null
+6 יקום קם יקום verb masculine singular unspecified 3 future  	I_LOC	null
+7 חזון חזון חזון properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+9 ישראל ישראל ישראל properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

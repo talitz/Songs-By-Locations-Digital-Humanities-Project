@@ -1,0 +1,130 @@
+0 אחרי אחרי אחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+2 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+3 ה ה השנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 השנים שנה השנים noun feminine plural absolute unspecified unspecified  	O	null
+4 ה ה הרעות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הרעות רע הרעות adjective feminine plural absolute unspecified unspecified  	O	null
+5 באות בא באות verb feminine plural unspecified any beinoni  	O	null
+6 עשר CARD10 עשר numeral feminine singular absolute unspecified unspecified  	O	null
+7 ה ה השנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 השנים שנה השנים noun feminine plural absolute unspecified unspecified  	O	null
+8 ה ה הטובות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הטובות טוב הטובות adjective feminine plural absolute unspecified unspecified  	O	null
+9 אחרי אחרי אחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+11 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+12 ה ה השנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 השנים שנה השנים noun feminine plural absolute unspecified unspecified  	O	null
+13 ה ה הגרועות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הגרועות גרוע הגרועות adjective feminine plural absolute unspecified unspecified  	O	null
+14 יבואו בא יבואו verb masculine-and-feminine plural unspecified 3 future  	O	null
+15 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 ה ה השנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 השנים שנה השנים noun feminine plural absolute unspecified unspecified  	O	null
+17 ה ה היפות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 היפות יפה היפות adjective feminine plural absolute unspecified unspecified  	O	null
+
+0 כש כש כשהילד temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה כשהילד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הילד ילד כשהילד noun masculine singular absolute unspecified unspecified  	O	null
+1 מאבד איבד מאבד verb masculine singular unspecified any beinoni  	O	null
+2 עניין עניין עניין noun masculine singular absolute unspecified unspecified  	O	null
+3 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+4 מתחיל התחיל מתחיל verb masculine singular unspecified any beinoni  	O	null
+5 להשבר נשבר להשבר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 כש כש כשהילד temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה כשהילד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הילד ילד כשהילד noun masculine singular absolute unspecified unspecified  	O	null
+7 מבזבז בזבז מבזבז verb masculine singular unspecified any beinoni  	O	null
+8 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+10 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+11 מתחיל התחיל מתחיל verb masculine singular unspecified any beinoni  	O	null
+12 להתפורר התפורר להתפורר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 לכו הלך לכו verb masculine-and-feminine plural unspecified 2 imperative  	O	null
+1 תעודדו עודד תעודדו verb masculine-and-feminine plural unspecified 2 future  	O	null
+2 את את אותו at-preposition unspecified unspecified unspecified unspecified unspecified  
+2 ו ו אותו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+3 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אחרי אחרי אחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שקבר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 קבר קבר שקבר verb masculine singular unspecified 3 past  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אמא אמא אמא noun feminine singular absolute unspecified unspecified  	O	null
+8 של של שלו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+8 ו ו שלו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+9 ב ב בחול preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 חול חול בחול noun masculine singular absolute unspecified unspecified  	O	null
+10 מתחת מתחת מתחת preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ל ל לסלעים preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 סלעים סלע לסלעים noun masculine plural absolute unspecified unspecified  	O	null
+12 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ב ב בסתיו preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 סתיו סתיו בסתיו noun masculine singular absolute unspecified unspecified  	I_DATE	null
+
+0 אחרי אחרי אחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+2 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+3 ה ה החודשים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 החודשים חודש החודשים noun masculine plural absolute unspecified unspecified  	O	null
+4 ה ה הרעים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הרעים רע הרעים adjective masculine plural absolute unspecified unspecified  	O	null
+5 באים בא באים verb masculine plural unspecified any beinoni  	O	null
+6 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+7 חודשים חודש חודשים noun masculine plural absolute unspecified unspecified  	O	null
+8 נפלאים נפלא נפלאים adjective masculine plural absolute unspecified unspecified  	O	null
+
+0 כש כש כשהנער temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה כשהנער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הנער נער כשהנער noun masculine singular absolute unspecified unspecified  	O	null
+1 עוצם עצם עוצם verb masculine singular unspecified any beinoni  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה העיניים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 העיניים עין העיניים noun feminine plural absolute unspecified unspecified  	O	null
+4 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+5 רואה ראה רואה verb masculine singular unspecified any beinoni  	O	null
+6 מחלה מחלה מחלה noun feminine singular absolute unspecified unspecified  	O	null
+7 ב ב באופק preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה באופק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 האופק אופק באופק noun masculine singular absolute unspecified unspecified  	O	null
+8 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+9 שותק שתק שותק verb masculine singular unspecified any beinoni  	O	null
+10 כש כש כשהתקרה temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה כשהתקרה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 התקרה תקרה כשהתקרה noun feminine singular absolute unspecified unspecified  	O	null
+11 קורסת קרס קורסת verb feminine singular unspecified any beinoni  	O	null
+12 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+13 בולע בלע בולע verb masculine singular unspecified any beinoni  	O	null
+14 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ה ה הלשון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 הלשון לשון הלשון noun feminine singular absolute unspecified unspecified  	O	null
+16 כש כש כשהלב temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+16 ה ה כשהלב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הלב לב כשהלב noun masculine singular absolute unspecified unspecified  	O	null
+17 של של שלו shel-preposition unspecified unspecified unspecified unspecified unspecified  
+17 ו ו שלו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+18 מפסיק הפסיק מפסיק verb masculine singular unspecified any beinoni  	O	null
+19 לפעום פעם לפעום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 לכו הלך לכו verb masculine-and-feminine plural unspecified 2 imperative  	O	null
+1 תצחיקו הצחיק תצחיקו verb masculine-and-feminine plural unspecified 2 future  	O	null
+2 את את אותו at-preposition unspecified unspecified unspecified unspecified unspecified  
+2 ו ו אותו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+3 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אחרי אחרי אחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שקבר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 קבר קבר שקבר verb masculine singular unspecified 3 past  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אהובתו אהובתו אהובתו properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 מתחת מתחת מתחת preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ל ל לחול preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 חול חול לחול noun masculine singular absolute unspecified unspecified  	O	null
+10 לפני לפני לפני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 שנה שנה שנה noun feminine singular absolute unspecified unspecified  	O	null
+12 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ב ב בסתיו preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 סתיו סתיו בסתיו noun masculine singular absolute unspecified unspecified  	I_DATE	null
+

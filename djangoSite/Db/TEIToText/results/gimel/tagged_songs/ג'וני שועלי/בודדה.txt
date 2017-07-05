@@ -1,0 +1,72 @@
+0 בודדה בודד בודדה adjective feminine singular absolute unspecified unspecified  	O	null
+1 כש כש כשאת temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+1 את את כשאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שוכבת שכב שוכבת verb feminine singular unspecified any beinoni  	O	null
+3 ב ב במיטה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 מיטה מיטה במיטה noun feminine singular absolute unspecified unspecified  	O	null
+4 ו ו וחושבת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 חושבת חשב וחושבת verb feminine singular unspecified any beinoni  	O	null
+5 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+7 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 ו ו ומה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 מה מה ומה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+9 יקרה קרה יקרה verb masculine singular unspecified 3 future  	O	null
+10 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תירדמי נרדם תירדמי verb feminine singular unspecified 2 future  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ידעת ידע ידעת verb feminine singular unspecified 2 past  	O	null
+3 ש ש שככה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ככה ככה שככה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יקרה קרה יקרה verb masculine singular unspecified 3 future  	O	null
+5 ש ש שככה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ככה ככה שככה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 מוכה הוכה מוכה verb masculine singular unspecified any beinoni  	O	null
+2 ב ב בפינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 פינה פינה בפינה noun feminine singular absolute unspecified unspecified  	O	null
+3 מטושטש מטושטש מטושטש adjective masculine singular absolute unspecified unspecified  	O	null
+4 מנסה ניסה מנסה verb masculine singular unspecified any beinoni  	O	null
+5 לחזור חזר לחזור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 ל ל לזירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה לזירה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הזירה זירה לזירה noun feminine singular absolute unspecified unspecified  	O	null
+7 ו ו ואוסף conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 אוסף אסף ואוסף verb masculine singular unspecified any beinoni  	O	null
+8 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+10 ה ה הכוחות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הכוחות כוח הכוחות noun masculine plural absolute unspecified unspecified  	O	null
+11 אימי אימים אימי noun masculine plural construct unspecified unspecified  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+14 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ש ש שרק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 רק רק שרק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 יכולתי יכול יכולתי modal masculine-and-feminine singular unspecified 1 past  	O	null
+17 לקחת לקח לקחת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+18 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+18 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ידעת ידע ידעת verb feminine singular unspecified 2 past  	O	null
+3 ש ש שככה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ככה ככה שככה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 יקרה קרה יקרה verb masculine singular unspecified 3 future  	O	null
+5 ש ש שככה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ככה ככה שככה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+

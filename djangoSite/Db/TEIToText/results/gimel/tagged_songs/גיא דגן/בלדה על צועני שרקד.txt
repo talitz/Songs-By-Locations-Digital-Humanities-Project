@@ -1,0 +1,196 @@
+0 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בערב preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ערב ערב בערב noun masculine singular construct unspecified unspecified  	O	null
+2 סתיו סתיו סתיו properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+3 קסום קסום קסום adjective masculine singular absolute unspecified unspecified  	O	null
+4 מכשפה מכשף מכשפה noun feminine singular absolute unspecified unspecified  	O	null
+5 יפה יפה יפה adjective feminine singular absolute unspecified unspecified  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה הצועני definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הצועני צועני הצועני noun masculine singular absolute unspecified unspecified  	O	null
+8 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+10 ל ל ליער preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה ליער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 היער יער ליער noun masculine singular absolute unspecified unspecified  	O	null
+11 סחפה סחף סחפה verb feminine singular unspecified 3 past  	O	null
+12 רקד רקד רקד verb masculine singular unspecified 3 past  	O	null
+13 עם עם עימה preposition unspecified unspecified unspecified unspecified unspecified  
+13 ה ה עימה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+14 ב ב בלילותיו preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 לילותי לילה בלילותיו noun masculine plural absolute unspecified unspecified  
+14 ו ו בלילותיו possessive masculine singular unspecified 3 unspecified 0 	O	null
+15 ב ב בזרועותיה preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 זרועות זרוע בזרועותיה noun feminine plural absolute unspecified unspecified  
+15 ה ה בזרועותיה possessive feminine singular unspecified 3 unspecified 0 	O	null
+16 נח נח נח verb masculine singular unspecified 3 past  	O	null
+17 שכח שכח שכח verb masculine singular unspecified 3 past  	O	null
+18 בית בית ביתו noun masculine singular absolute unspecified unspecified  
+18 ו ו ביתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+19 ו ו וילדיו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 ילדי ילד וילדיו noun masculine plural absolute unspecified unspecified  
+19 ו ו וילדיו possessive masculine singular unspecified 3 unspecified 0 	O	null
+20 ו ו ואותי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 את את ואותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+20 י י ואותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+21 ש ש שכח relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+21 כח כוח שכח noun masculine plural construct unspecified unspecified  	O	null
+
+0 ו ו ובעודו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 בעוד בעוד ובעודו preposition unspecified unspecified unspecified unspecified unspecified  
+0 ו ו ובעודו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+1 רוקד רקד רוקד verb masculine singular unspecified any beinoni  	O	null
+2 עם עם עימה preposition unspecified unspecified unspecified unspecified unspecified  
+2 ה ה עימה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+3 ראש ראש ראשו noun masculine singular absolute unspecified unspecified  
+3 ו ו ראשו possessive masculine singular unspecified 3 unspecified 0 	O	null
+4 ב ב בעננים preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה בעננים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 העננים ענן בעננים noun masculine plural absolute unspecified unspecified  	O	null
+5 גנבה גנב גנבה verb feminine singular unspecified 3 past  	O	null
+6 סוס סוס סוסו noun masculine singular absolute unspecified unspecified  
+6 ו ו סוסו possessive masculine singular unspecified 3 unspecified 0 	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 צרור צרור צרורו noun masculine singular absolute unspecified unspecified  
+8 ו ו צרורו possessive masculine singular unspecified 3 unspecified 0 	O	null
+9 גנבה גנב גנבה verb feminine singular unspecified 3 past  	O	null
+10 ימי יום ימיו noun masculine plural absolute unspecified unspecified  
+10 ו ו ימיו possessive masculine singular unspecified 3 unspecified 0 	O	null
+11 ה ה הצעירים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הצעירים צעיר הצעירים adjective masculine plural absolute unspecified unspecified  	O	null
+12 רקד רקד רקד verb masculine singular unspecified 3 past  	O	null
+13 עם עם עימה preposition unspecified unspecified unspecified unspecified unspecified  
+13 ה ה עימה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+14 ב ב בלילותיו preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 לילותי לילה בלילותיו noun masculine plural absolute unspecified unspecified  
+14 ו ו בלילותיו possessive masculine singular unspecified 3 unspecified 0 	O	null
+15 ב ב בזרועותיה preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 זרועות זרוע בזרועותיה noun feminine plural absolute unspecified unspecified  
+15 ה ה בזרועותיה possessive feminine singular unspecified 3 unspecified 0 	O	null
+16 נח נח נח verb masculine singular unspecified 3 past  	O	null
+17 שכח שכח שכח verb masculine singular unspecified 3 past  	O	null
+18 בית בית ביתו noun masculine singular absolute unspecified unspecified  
+18 ו ו ביתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+19 ו ו וילדיו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 ילדי ילד וילדיו noun masculine plural absolute unspecified unspecified  
+19 ו ו וילדיו possessive masculine singular unspecified 3 unspecified 0 	O	null
+20 ו ו ואותי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 את את ואותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+20 י י ואותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+21 ש ש שכח relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+21 כח כוח שכח noun masculine plural construct unspecified unspecified  	O	null
+
+0 הוי הוי הוי verb masculine singular unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 צועני צועני צועני noun masculine singular absolute unspecified unspecified  	O	null
+3 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 ש ש שבעובי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ב ב שבעובי preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 עובי עובי שבעובי noun masculine singular construct unspecified unspecified  	O	null
+5 ה ה היער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 היער יער היער noun masculine singular absolute unspecified unspecified  	O	null
+6 ה ה הצועניה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הצועניה צועני הצועניה adjective feminine singular absolute unspecified unspecified  	O	null
+7 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+7 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+8 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מחכה חיכה מחכה verb masculine singular unspecified any beinoni  	O	null
+10 ב ב בשער preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 שער שער בשער noun masculine singular construct unspecified unspecified  	O	null
+11 הוי הוי הוי verb masculine singular unspecified 2 imperative  	O	null
+12 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 צועני צועני צועני noun masculine singular absolute unspecified unspecified  	O	null
+14 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+14 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+15 ש ש שבעובי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 ב ב שבעובי preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 עובי עובי שבעובי noun masculine singular construct unspecified unspecified  	O	null
+16 ה ה היער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 היער יער היער noun masculine singular absolute unspecified unspecified  	O	null
+17 ה ה הצועניה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 הצועניה צועני הצועניה adjective feminine singular absolute unspecified unspecified  	O	null
+18 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+18 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+19 נמקה נמק נמקה verb feminine singular unspecified 3 past  	O	null
+20 ב ב בצער preposition unspecified unspecified unspecified unspecified unspecified 0 
+20 צער צער בצער noun masculine singular construct unspecified unspecified  	O	null
+
+0 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 בוקר בוקר בבוקר noun masculine singular absolute unspecified unspecified  	O	null
+2 קר קר קר adjective masculine singular absolute unspecified unspecified  	O	null
+3 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+4 ה ה הצועני definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הצועני צועני הצועני noun masculine singular absolute unspecified unspecified  	O	null
+5 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 עמד עמד עמד verb masculine singular unspecified 3 past  	O	null
+7 עייף עייף עייף adjective masculine singular absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 בודד בודד בודד adjective masculine singular absolute unspecified unspecified  	O	null
+10 עמד עמד עמד verb masculine singular unspecified 3 past  	O	null
+11 ב ב בפתח preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 פתח פתח בפתח noun masculine singular construct unspecified unspecified  	O	null
+12 בקתת בקתה בקתתי noun feminine singular absolute unspecified unspecified  
+12 י י בקתתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+13 אבד אבד אבד verb masculine singular unspecified 3 past  	O	null
+14 סוס סוס סוסו noun masculine singular absolute unspecified unspecified  
+14 ו ו סוסו possessive masculine singular unspecified 3 unspecified 0 	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 צרור צרור צרורו noun masculine singular absolute unspecified unspecified  
+16 ו ו צרורו possessive masculine singular unspecified 3 unspecified 0 	O	null
+17 אבד אבד אבד verb masculine singular unspecified 3 past  	O	null
+18 אבדה אבדה אבדה noun feminine singular absolute unspecified unspecified  	O	null
+19 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+20 נשמת נשמה נשמתו noun feminine singular absolute unspecified unspecified  
+20 ו ו נשמתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+21 עמד עמד עמד verb masculine singular unspecified 3 past  	O	null
+22 ב ב בפתח preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 ה ה בפתח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 הפתח פתח בפתח noun masculine singular absolute unspecified unspecified  	O	null
+23 ו ו ושתק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 שתק שתק ושתק verb masculine singular unspecified 3 past  	O	null
+24 ו ו ואנוכי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 אנוכי אנוכי ואנוכי adjective masculine singular absolute unspecified unspecified  	O	null
+25 את את איתו at-preposition unspecified unspecified unspecified unspecified unspecified  
+25 ו ו איתו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+
+0 הוי הוי הוי verb masculine singular unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 צועני צועני צועני noun masculine singular absolute unspecified unspecified  	O	null
+3 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 רקדת רקד רקדת verb feminine singular unspecified 2 past  	O	null
+5 די די די adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ב ב ביער preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 יער יער ביער noun masculine singular absolute unspecified unspecified  	O	null
+7 צועניה צועני צועניה adjective feminine singular absolute unspecified unspecified  	O	null
+8 תשתה שתה תשתה verb feminine singular unspecified 3 future  	O	null
+9 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 כוסית כוסית כוסית noun feminine singular construct unspecified unspecified  	O	null
+12 ה ה הצער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הצער צער הצער noun masculine singular absolute unspecified unspecified  	O	null
+13 הוי הוי הוי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 צועני צועני צועני noun masculine singular absolute unspecified unspecified  	O	null
+16 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+16 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+17 רקדת רקד רקדת verb feminine singular unspecified 2 past  	O	null
+18 די די די adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ב ב ביער preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 ה ה ביער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 היער יער ביער noun masculine singular absolute unspecified unspecified  	O	null
+20 ה ה הצועניה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 הצועניה צועני הצועניה adjective feminine singular absolute unspecified unspecified  	O	null
+21 תשתה שתה תשתה verb feminine singular unspecified 3 future  	O	null
+22 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+22 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+23 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+24 כוסית כוסית כוסית noun feminine singular construct unspecified unspecified  	O	null
+25 ה ה הצער definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+25 הצער צער הצער noun masculine singular absolute unspecified unspecified  	O	null
+

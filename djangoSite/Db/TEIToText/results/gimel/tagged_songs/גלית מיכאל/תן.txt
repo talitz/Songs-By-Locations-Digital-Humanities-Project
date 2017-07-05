@@ -1,0 +1,96 @@
+0 לפתוח פתח לפתוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+1 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה הנשמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הנשמה נשמה הנשמה noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו ולהרחיב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 להרחיב הרחיב ולהרחיב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+5 לשנות שנה לשנות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה המצב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 המצב מצב המצב noun masculine singular absolute unspecified unspecified  	O	null
+8 אפשר אפשר אפשר adverb unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ב ב בשקט preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 שקט שקט בשקט noun masculine singular absolute unspecified unspecified  	O	null
+
+0 לפתוח פתח לפתוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+1 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה הנשמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הנשמה נשמה הנשמה noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו ולהרחיב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 להרחיב הרחיב ולהרחיב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+5 ה ה הבורא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הבורא בורא הבורא noun masculine singular absolute unspecified unspecified  	O	null
+6 נמצא נמצא נמצא verb masculine singular unspecified 3 past  	O	null
+7 ב ב במנוחה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 מנוחה מנוחה במנוחה noun feminine singular absolute unspecified unspecified  	O	null
+8 מוחלטת מוחלט מוחלטת adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 כלי כלי כלי noun masculine singular construct unspecified unspecified  	O	null
+1 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+2 להביט הביט להביט verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 ל ל למרחב preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה למרחב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המרחב מרחב למרחב noun masculine singular absolute unspecified unspecified  	O	null
+4 לאהוב אהב לאהוב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אחדות אחדות אחדות noun feminine singular construct unspecified unspecified  	O	null
+8 לחשוב חשב לחשוב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 לכוון כיוון לכוון verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 ל ל לרגע preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 רגע רגע לרגע noun masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לפחד פיחד לפחד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+14 לשנות שנה לשנות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 ו ו ובטוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 ב ב ובטוב preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 טוב טוב ובטוב adjective masculine singular absolute unspecified unspecified  	O	null
+16 ל ל לחיות preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 חיות חיות לחיות noun feminine singular absolute unspecified unspecified  	O	null
+
+0 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 כוח כוח כוח noun masculine singular construct unspecified unspecified  	O	null
+3 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+4 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לשכוח שכח לשכוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 כוח כוח כוח noun masculine singular absolute unspecified unspecified  	O	null
+9 מ מ מהרע preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה מהרע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הרע רע מהרע noun masculine singular absolute unspecified unspecified  	O	null
+10 לברוח ברח לברוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+1 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מחייך חייך מחייך verb masculine singular unspecified any beinoni  	O	null
+3 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+5 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+6 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+7 כדאי כדאי כדאי modal unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לאחד איחד לאחד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+11 החלקים...ושכנתי החלקים...ושכנתי החלקים...ושכנתי adjective masculine plural construct unspecified unspecified  	O	null
+12 בתוך בתוך בתוכם preposition unspecified unspecified unspecified unspecified unspecified  
+12 הם הם בתוכם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+
+0 כלי כלי כלי noun masculine singular construct unspecified unspecified  	O	null
+1 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+2 ל ל להביט preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה להביט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 ההביט ביט להביט noun masculine singular absolute unspecified unspecified  	O	null
+3 למרחב... למרחב... למרחב... noun masculine-and-feminine singular absolute unspecified unspecified  	O	null
+

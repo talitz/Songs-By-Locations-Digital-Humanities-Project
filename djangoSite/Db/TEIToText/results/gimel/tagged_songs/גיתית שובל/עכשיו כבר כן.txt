@@ -1,0 +1,54 @@
+0 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+1 מוכן הוכן מוכן verb masculine singular unspecified any beinoni  	O	null
+2 להשתנות השתנה להשתנות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 סיבות סיבה סיבות noun feminine plural absolute unspecified unspecified  	O	null
+3 לסרב סירב לסרב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 טענות טענה טענות noun feminine plural absolute unspecified unspecified  	O	null
+4 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+5 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אינני הוא אינני copula masculine-and-feminine singular unspecified 1 beinoni  	O	null
+1 חש חש חש verb masculine singular unspecified any beinoni  	O	null
+2 כאב כאב כאב noun masculine singular absolute unspecified unspecified  	I_DATE	null
+3 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+4 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+1 מוכן הוכן מוכן verb masculine singular unspecified any beinoni  	O	null
+2 לנסות ניסה לנסות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 משהו משהו משהו noun masculine singular absolute unspecified unspecified  	O	null
+5 בלתי בלתי בלתי wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מוכר מוכר מוכר adjective masculine singular absolute unspecified unspecified  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+1 מוכן הוכן מוכן verb masculine singular unspecified any beinoni  	O	null
+2 לעשות עשה לעשות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+7 קר קר קר adjective masculine singular absolute unspecified unspecified  	O	null
+8 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

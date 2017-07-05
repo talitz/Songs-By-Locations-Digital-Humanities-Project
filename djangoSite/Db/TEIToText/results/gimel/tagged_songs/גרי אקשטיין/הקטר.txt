@@ -1,0 +1,292 @@
+0 ב ב בתחנה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה בתחנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 התחנה תחנה בתחנה noun feminine singular absolute unspecified unspecified  	O	null
+1 ב ב בבאר preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 באר באר בבאר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+2 שבע CARD7 שבע properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 עמד עמד עמד verb masculine singular unspecified 3 past  	O	null
+4 קטר קטר קטר noun masculine singular absolute unspecified unspecified  	O	null
+5 ו ו ומספרו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 מספרו מספר ומספרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+6 שבעים שבע שבעים adjective masculine plural absolute unspecified unspecified  	O	null
+7 ארבע CARD4 ארבע numeral feminine singular absolute unspecified unspecified  	O	null
+8 מאות ORD-CARD100 מאות numeral feminine plural construct unspecified unspecified  	O	null
+9 ארבעה CARD4 ארבעה numeral masculine plural absolute unspecified unspecified  	O	null
+10 עשר עישר עשר verb masculine singular unspecified 3 past  	O	null
+11 קטר קטר קטר noun masculine singular absolute unspecified unspecified  	O	null
+12 קיטור קיטור קיטור noun masculine singular absolute unspecified unspecified  	O	null
+13 תשוש תשוש תשוש adjective masculine singular absolute unspecified unspecified  	O	null
+14 קטר קטר קטר noun masculine singular absolute unspecified unspecified  	O	null
+15 קיטור קיטור קיטור noun masculine singular absolute unspecified unspecified  	O	null
+16 ישן ישן ישן adjective masculine singular absolute unspecified unspecified  	O	null
+17 עמד עמד עמד verb masculine singular unspecified 3 past  	O	null
+18 ב ב בתחנה preposition unspecified unspecified unspecified unspecified unspecified 0 
+18 ה ה בתחנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 התחנה תחנה בתחנה noun feminine singular absolute unspecified unspecified  	O	null
+19 ו ו והעלה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 העלה העלה והעלה verb masculine singular unspecified 3 past  	O	null
+20 עשן עשן עשן noun masculine singular absolute unspecified unspecified  	O	null
+
+0 הגיעה הגיע הגיעה verb feminine singular unspecified 3 past  	O	null
+1 עת עת עת noun feminine singular absolute unspecified unspecified  	O	null
+2 לזוז זז לזוז verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 ה ה המבקר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המבקר מבקר המבקר noun masculine singular absolute unspecified unspecified  	O	null
+4 ש ש שרק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 רק רק שרק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ו ו וגם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 גם גם וגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נתן נתן נתן verb masculine singular unspecified 3 past  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הסימן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הסימן סימן הסימן noun masculine singular absolute unspecified unspecified  	O	null
+9 ב ב בדגל preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 דגל דגל בדגל noun masculine singular absolute unspecified unspecified  	O	null
+10 ירקרק ירקרק ירקרק adjective masculine singular absolute unspecified unspecified  	O	null
+11 ליב לב ליבו noun masculine singular absolute unspecified unspecified  
+11 ו ו ליבו possessive masculine singular unspecified 3 unspecified 0 	O	null
+12 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הקטר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הקטר קטר הקטר noun masculine singular absolute unspecified unspecified  	O	null
+14 התחיל התחיל התחיל verb masculine singular unspecified 3 past  	O	null
+15 אזי אזי אזי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 לפעום פעם לפעום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+17 ו ו והוא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 הוא הוא והוא pronoun masculine singular unspecified 3 unspecified  	O	null
+18 מוכן הוכן מוכן verb masculine singular unspecified any beinoni  	O	null
+19 לצאת יצא לצאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+20 לעבר לעבר לעבר preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה הצפון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הצפון צפון הצפון noun masculine singular absolute unspecified unspecified  	O	null
+
+0 ו ו וצ'יף conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 צ'יף צ'יפ וצ'יף noun masculine singular absolute unspecified unspecified  	O	null
+1 צ'יף צ'יפ צ'יף noun masculine singular absolute unspecified unspecified  	O	null
+2 צ'ף צ'ף צ'ף verb masculine singular unspecified 3 past  	O	null
+3 ה ה הקטר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הקטר קטר הקטר noun masculine singular absolute unspecified unspecified  	O	null
+4 נשף נשף נשף noun masculine singular absolute unspecified unspecified  	O	null
+5 ותיק ותיק ותיק adjective masculine singular absolute unspecified unspecified  	O	null
+6 תיק תיק תיק noun masculine singular construct unspecified unspecified  	O	null
+7 תק תק תק noun masculine singular construct unspecified unspecified  	O	null
+8 ה ה הגלגל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הגלגל גלגל הגלגל properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+9 דפק דפק דפק verb masculine singular unspecified 3 past  	O	null
+10 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הפסים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הפסים פס הפסים noun masculine plural absolute unspecified unspecified  	O	null
+12 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+13 ל ל לזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 זה זה לזה pronoun masculine singular unspecified 3 unspecified  	O	null
+14 אמרו אמר אמרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+15 שבעים שבע שבעים adjective masculine plural absolute unspecified unspecified  	O	null
+16 ארבע CARD4 ארבע numeral feminine singular absolute unspecified unspecified  	O	null
+17 מאות ORD-CARD100 מאות numeral feminine plural construct unspecified unspecified  	O	null
+18 ארבעה CARD4 ארבעה numeral masculine plural absolute unspecified unspecified  	O	null
+19 עשר עישר עשר verb masculine singular unspecified 3 past  	O	null
+20 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+21 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+
+0 ב ב בדרך preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 דרך דרך בדרך noun feminine singular absolute unspecified unspecified  	O	null
+1 ל ל לצפון preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה לצפון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הצפון צפון לצפון noun masculine singular absolute unspecified unspecified  	O	null
+2 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+3 התקדמו התקדם התקדמו verb masculine-and-feminine plural unspecified 3 past  	O	null
+4 לבד לבד לבד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 עבר עבר עבר verb masculine singular unspecified 3 past  	O	null
+6 ב ב בתחנות preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 תחנות תחנה בתחנות noun feminine plural absolute unspecified unspecified  	O	null
+7 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הקטר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הקטר קטר הקטר noun masculine singular absolute unspecified unspecified  	O	null
+9 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 עמד עמד עמד verb masculine singular unspecified 3 past  	O	null
+12 עברו עבר עברו verb masculine-and-feminine plural unspecified 3 past  	O	null
+13 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 שדות שדה שדות noun masculine plural absolute unspecified unspecified  	O	null
+15 עברו עבר עברו verb masculine-and-feminine plural unspecified 3 past  	O	null
+16 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 פני פני פני noun masculine singular absolute unspecified unspecified  	O	null
+18 גשרים גשר גשרים noun masculine plural absolute unspecified unspecified  	O	null
+19 ו ו וכשנוסעים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 כש כש וכשנוסעים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+19 נוסעים נסע וכשנוסעים verb masculine plural unspecified any beinoni  	O	null
+20 מהר מהר מהר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה המרחקים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 המרחקים מרחק המרחקים noun masculine plural absolute unspecified unspecified  	O	null
+22 קצרים קצר קצרים adjective masculine plural absolute unspecified unspecified  	O	null
+
+0 קטר קטר קטר noun masculine singular absolute unspecified unspecified  	O	null
+1 כ כ כזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 זה זה כזה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 ישן ישן ישן adjective masculine singular absolute unspecified unspecified  	O	null
+3 שחור שחור שחור adjective masculine singular absolute unspecified unspecified  	O	null
+4 ו ו ומלוכלך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 מלוכלך מלוכלך ומלוכלך adjective masculine singular absolute unspecified unspecified  	O	null
+5 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ארבעה CARD4 ארבעה numeral masculine plural absolute unspecified unspecified  	O	null
+7 קרונות קרון קרונות noun masculine plural absolute unspecified unspecified  	O	null
+8 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה הנוסעים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הנוסעים נוסע הנוסעים noun masculine plural absolute unspecified unspecified  	O	null
+10 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+11 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 משך משך משך noun masculine singular construct unspecified unspecified  	O	null
+13 עבד עבד עבד properName masculine singular unspecified unspecified unspecified  	O	null
+14 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+15 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 סוס סוס סוס noun masculine singular construct unspecified unspecified  	O	null
+17 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+18 בורג בורג בורג properName unspecified unspecified unspecified unspecified unspecified  	O	null
+19 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+20 אימץ אימץ אימץ verb masculine singular unspecified 3 past  	O	null
+21 ו ו ולבבו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+21 לבב לבב ולבבו noun masculine singular absolute unspecified unspecified  
+21 ו ו ולבבו possessive masculine singular unspecified 3 unspecified 0 	O	null
+22 כמעט כמעט כמעט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ו ו וכבר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 כבר כבר וכבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+24 חשב חשב חשב verb masculine singular unspecified 3 past  	O	null
+25 להתפוצץ התפוצץ להתפוצץ verb unspecified unspecified unspecified unspecified infinitive  	O	null
+
+0 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 צ'יף צ'יפ צ'יף noun masculine singular absolute unspecified unspecified  	O	null
+2 צ'יף צ'יפ צ'יף noun masculine singular absolute unspecified unspecified  	O	null
+3 צ'ף צ'ף צ'ף verb masculine singular unspecified 3 past  	O	null
+4 ה ה הקטר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הקטר קטר הקטר noun masculine singular absolute unspecified unspecified  	O	null
+5 נשף נשף נשף noun masculine singular absolute unspecified unspecified  	O	null
+6 ותיק ותיק ותיק adjective masculine singular absolute unspecified unspecified  	O	null
+7 תיק תיק תיק noun masculine singular construct unspecified unspecified  	O	null
+8 תק תק תק noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה הגלגל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הגלגל גלגל הגלגל properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+10 דפק דפק דפק verb masculine singular unspecified 3 past  	O	null
+11 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ה ה הפסים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הפסים פס הפסים noun masculine plural absolute unspecified unspecified  	O	null
+13 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+14 ל ל לזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 זה זה לזה pronoun masculine singular unspecified 3 unspecified  	O	null
+15 אמרו אמר אמרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+16 שבעים שבע שבעים adjective masculine plural absolute unspecified unspecified  	O	null
+17 ארבע CARD4 ארבע numeral feminine singular absolute unspecified unspecified  	O	null
+18 מאות ORD-CARD100 מאות numeral feminine plural construct unspecified unspecified  	O	null
+19 ארבעה CARD4 ארבעה numeral masculine plural absolute unspecified unspecified  	O	null
+20 עשר עישר עשר verb masculine singular unspecified 3 past  	O	null
+21 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+22 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+
+0 ה ה הקטר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הקטר קטר הקטר noun masculine singular absolute unspecified unspecified  	O	null
+1 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 חלם חלם חלם verb masculine singular unspecified 3 past  	O	null
+4 ש ש שזה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 זה זה שזה pronoun masculine singular unspecified 3 unspecified  	O	null
+5 עתיד עתיד עתיד noun masculine singular absolute unspecified unspecified  	O	null
+6 לקרות קרה לקרות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 ש ש שאת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 את את שאת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 עצמו עצמו עצמו pronoun unspecified unspecified unspecified unspecified unspecified  
+8 ו ו עצמו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+9 יביא הביא יביא verb masculine singular unspecified 3 future  	O	null
+10 אי אי אי noun masculine singular construct unspecified unspecified  	O	null
+11 פעם פעם פעם noun feminine singular absolute unspecified unspecified  	O	null
+12 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 בית בית בית noun masculine singular construct unspecified unspecified  	O	null
+14 ה ה הקברות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הקברות קבר הקברות noun masculine plural absolute unspecified unspecified  	O	null
+15 רעי רע רעיו noun masculine plural absolute unspecified unspecified  
+15 ו ו רעיו possessive masculine singular unspecified 3 unspecified 0 	O	null
+16 ה ה החלודים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 החלודים חלוד החלודים adjective masculine plural absolute unspecified unspecified  	O	null
+17 עמדו עמד עמדו verb masculine-and-feminine plural unspecified 3 past  	O	null
+18 כאן כאן כאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ראש ראש ראש noun masculine singular absolute unspecified unspecified  	O	null
+20 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ראש ראש ראש noun masculine singular construct unspecified unspecified  	O	null
+22 חמש CARD5 חמש numeral feminine singular absolute unspecified unspecified  	O	null
+23 מאות ORD-CARD100 מאות numeral feminine plural construct unspecified unspecified  	O	null
+24 ו ו וחמישים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 חמישים ORD-CARD50 וחמישים numeral masculine plural absolute unspecified unspecified  	O	null
+25 ו ו ותשע conjunction unspecified unspecified unspecified unspecified unspecified 0 
+25 תשע CARD9 ותשע numeral feminine singular absolute unspecified unspecified  	O	null
+26 מ מ מאות preposition unspecified unspecified unspecified unspecified unspecified 0 
+26 אות אות מאות noun feminine singular absolute unspecified unspecified  	O	null
+27 שלוש CARD3 שלוש numeral feminine singular absolute unspecified unspecified  	O	null
+
+0 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ברמן ברמן ברמן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 צינור צינור צינור noun masculine singular construct unspecified unspecified  	O	null
+4 ה ה הדלק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הדלק דלק הדלק noun masculine singular absolute unspecified unspecified  	O	null
+5 אט אט אט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 סגר סגר סגר verb masculine singular unspecified 3 past  	O	null
+7 ה ה האש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 האש אש האש noun feminine singular absolute unspecified unspecified  	O	null
+8 כבתה כבה כבתה verb feminine singular unspecified 3 past  	O	null
+9 לאט לאט לאט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ו ו והקיטור conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה והקיטור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הקיטור קיטור והקיטור noun masculine singular absolute unspecified unspecified  	O	null
+11 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+14 ו ו וברמן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 ברמן ברמן וברמן properName unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ל ל למנהל preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 ה ה למנהל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 המנהל מנהל למנהל noun masculine singular absolute unspecified unspecified  	O	null
+16 ב ב בקול preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 קול קול בקול noun masculine singular construct unspecified unspecified  	O	null
+17 חנוק חנק חנוק participle masculine singular absolute any unspecified  	O	null
+18 אמר אמר אמר verb masculine singular unspecified 3 past  	O	null
+19 הנה הנה הנה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+20 שבעים שבע שבעים adjective masculine plural absolute unspecified unspecified  	O	null
+21 ארבע CARD4 ארבע numeral feminine singular absolute unspecified unspecified  	O	null
+22 מאות ORD-CARD100 מאות numeral feminine plural construct unspecified unspecified  	O	null
+23 ארבעה CARD4 ארבעה numeral masculine plural absolute unspecified unspecified  	O	null
+24 עשר עישר עשר verb masculine singular unspecified 3 past  	O	null
+
+0 ו ו וצ'יף conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 צ'יף צ'יפ וצ'יף noun masculine singular absolute unspecified unspecified  	O	null
+1 צ'יף צ'יפ צ'יף noun masculine singular absolute unspecified unspecified  	O	null
+2 צ'ף צ'ף צ'ף verb masculine singular unspecified 3 past  	O	null
+3 ה ה הקטר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הקטר קטר הקטר noun masculine singular absolute unspecified unspecified  	O	null
+4 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נשף נשף נשף verb masculine singular unspecified 3 past  	O	null
+7 ו ו ותיק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 תיק תיק ותיק noun masculine singular construct unspecified unspecified  	O	null
+8 תיק תיק תיק noun masculine singular construct unspecified unspecified  	O	null
+9 תק תק תק noun masculine singular construct unspecified unspecified  	O	null
+10 ה ה הגלגל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הגלגל גלגל הגלגל noun masculine singular absolute unspecified unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 דפק דפק דפק verb masculine singular unspecified 3 past  	O	null
+13 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 פס פס פס noun masculine singular absolute unspecified unspecified  	O	null
+15 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+16 ל ל לשני preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 שני שני לשני noun masculine singular construct unspecified unspecified  	O	null
+17 לחש לחש לחש noun masculine singular construct unspecified unspecified  	O	null
+18 ה ה המלך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 המלך מלך המלך noun masculine singular absolute unspecified unspecified  	O	null
+19 מת מת מת verb masculine singular unspecified 3 past  	O	null
+20 יחי יחי יחי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+21 ה ה המלך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 המלך מלך המלך noun masculine singular absolute unspecified unspecified  	O	null
+22 ה ה החדש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 החדש חדש החדש adjective masculine singular absolute unspecified unspecified  	O	null
+23 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+24 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+

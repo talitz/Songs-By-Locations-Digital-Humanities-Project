@@ -1,0 +1,154 @@
+0 אולם אולם אולם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לאחר לאחר לאחר conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ש ש שהתהלכתי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 התהלכתי התהלך שהתהלכתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 כ כ כמסתובב preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה כמסתובב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המסתובב הסתובב כמסתובב participle masculine singular absolute any unspecified  	O	null
+4 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה השושנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 השושנים שושן השושנים noun masculine plural absolute unspecified unspecified  	O	null
+6 שתים שתים שתים preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+8 ב ב בלירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה בלירה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הלירה לירה בלירה noun feminine singular absolute unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שלוש CARD3 שלוש numeral feminine singular absolute unspecified unspecified  	O	null
+11 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+12 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה בלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הלילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+13 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 כלום כלום כלום pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+15 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 קרה קרה קרה verb masculine singular unspecified 3 past  	O	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 הבהלת הבהלה הבהלתי noun feminine singular absolute unspecified unspecified  
+18 י י הבהלתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+19 מים מים מים noun masculine plural absolute unspecified unspecified  	O	null
+20 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה הפרחים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הפרחים פרח הפרחים noun masculine plural absolute unspecified unspecified  	O	null
+22 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ו ו ואיש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 איש איש ואיש noun masculine singular absolute unspecified unspecified  	O	null
+24 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 קנה קנה קנה verb masculine singular unspecified 3 past  	O	null
+26 הפכתי הפך הפכתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+27 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+28 ה ה הדלי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+28 הדלי דלי הדלי noun masculine singular absolute unspecified unspecified  	O	null
+29 ו ו והלכתי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+29 הלכתי הלכתי והלכתי adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 שתים שתים שתים preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+2 ב ב בלירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בלירה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הלירה לירה בלירה noun feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שלוש CARD3 שלוש numeral feminine singular absolute unspecified unspecified  	O	null
+5 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+6 בלילה... בלילה... בלילה... verb feminine singular unspecified 2 imperative  	O	null
+
+0 נתפקעו נתפקעו נתפקעו participle feminine plural construct any unspecified  	O	null
+1 געגועי געגוע געגועי noun masculine plural construct unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אוות אווה אוותי noun feminine singular absolute unspecified unspecified  
+3 י י אוותי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ייסוריי ייסור ייסורייך noun masculine plural absolute unspecified unspecified  
+6 ך ך ייסורייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+7 זכרתי זכר זכרתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+8 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 תבגוד בגד תבגוד verb feminine singular unspecified 3 future  	O	null
+11 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 זכרתי זכר זכרתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+15 כאבים כאב כאבים noun masculine plural absolute unspecified unspecified  	O	null
+16 ניזונים ניזונים ניזונים adjective masculine plural absolute unspecified unspecified  	O	null
+17 ו ו וסובלים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 סובלים סבל וסובלים verb masculine plural unspecified any beinoni  	O	null
+18 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ה ה הזיכרון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 הזיכרון זיכרון הזיכרון noun masculine singular absolute unspecified unspecified  	O	null
+20 של של שלהם shel-preposition unspecified unspecified unspecified unspecified unspecified  
+20 הם הם שלהם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+21 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+22 חוזרים חזר חוזרים verb masculine plural unspecified any beinoni  	O	null
+23 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 מאתמול מאתמול מאתמול properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+25 מתהלך התהלך מתהלך verb masculine singular unspecified any beinoni  	O	null
+26 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+27 ה ה הכאבים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+27 הכאבים כאב הכאבים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 שתים שתים שתים preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+2 ב ב בלירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בלירה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הלירה לירה בלירה noun feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שלוש CARD3 שלוש numeral feminine singular absolute unspecified unspecified  	O	null
+5 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+6 בלילה... בלילה... בלילה... verb feminine singular unspecified 2 imperative  	O	null
+
+0 אולם אולם אולם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לאחר לאחר לאחר conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ש ש שהתהלכתי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 התהלכתי התהלך שהתהלכתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 כ כ כמסתובב preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה כמסתובב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המסתובב הסתובב כמסתובב participle masculine singular absolute any unspecified  	O	null
+4 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה השושנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 השושנים שושן השושנים noun masculine plural absolute unspecified unspecified  	O	null
+6 שתים שתים שתים preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+8 ב ב בלירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה בלירה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הלירה לירה בלירה noun feminine singular absolute unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שלוש CARD3 שלוש numeral feminine singular absolute unspecified unspecified  	O	null
+11 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+12 ב ב בלילה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה בלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הלילה לילה בלילה noun masculine singular absolute unspecified unspecified  	O	null
+13 אז אז אז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 כלום כלום כלום pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+15 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 קרה קרה קרה verb masculine singular unspecified 3 past  	O	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 הבהלת הבהלה הבהלתי noun feminine singular absolute unspecified unspecified  
+18 י י הבהלתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+19 מים מים מים noun masculine plural absolute unspecified unspecified  	O	null
+20 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה הפרחים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הפרחים פרח הפרחים noun masculine plural absolute unspecified unspecified  	O	null
+22 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ו ו ואיש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+23 איש איש ואיש noun masculine singular absolute unspecified unspecified  	O	null
+24 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+25 קנה קנה קנה verb masculine singular unspecified 3 past  	O	null
+26 הפכתי הפך הפכתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+27 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+28 ה ה הדלי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+28 הדלי דלי הדלי noun masculine singular absolute unspecified unspecified  	O	null
+29 ו ו והלכתי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+29 הלכתי הלכתי והלכתי adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 שתים שתים שתים preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+2 ב ב בלירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בלירה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הלירה לירה בלירה noun feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שלוש CARD3 שלוש numeral feminine singular absolute unspecified unspecified  	O	null
+5 עשרה CARD10 עשרה numeral masculine plural absolute unspecified unspecified  	O	null
+6 בלילה... בלילה... בלילה... verb feminine singular unspecified 2 imperative  	O	null
+

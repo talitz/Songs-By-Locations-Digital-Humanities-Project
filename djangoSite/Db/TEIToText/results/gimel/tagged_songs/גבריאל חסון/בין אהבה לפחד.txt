@@ -1,0 +1,154 @@
+0 קשוב קשוב קשוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לקול preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 קול קול לקול noun masculine singular construct unspecified unspecified  	O	null
+2 שיריי שיר שירייך noun masculine plural absolute unspecified unspecified  
+2 ך ך שירייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+3 מ מ מנער preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 נער נער מנער noun masculine singular construct unspecified unspecified  	O	null
+4 אבק אבק אבק noun masculine singular absolute unspecified unspecified  	O	null
+5 ו ו וחול conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 חול חול וחול noun masculine singular absolute unspecified unspecified  	O	null
+6 לומד למד לומד verb masculine singular unspecified any beinoni  	O	null
+7 ב ב בחום preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 חום חום בחום noun masculine singular absolute unspecified unspecified  	O	null
+8 ש ש שפתייך relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 פתיי פתי שפתייך noun masculine plural absolute unspecified unspecified  
+8 ך ך שפתייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+9 ו ו וזאת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 זאת זאת וזאת pronoun feminine singular unspecified 3 unspecified  	O	null
+10 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+11 ל ל לשלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 שלום שלום לשלום noun masculine singular absolute unspecified unspecified  	O	null
+
+0 פותחים פתח פותחים verb masculine plural unspecified any beinoni  	O	null
+1 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שק צ'ק שק noun masculine singular absolute unspecified unspecified  	O	null
+3 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כעס כעס כעס noun masculine singular absolute unspecified unspecified  	O	null
+5 מפזרים פיזר מפזרים verb masculine plural unspecified any beinoni  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה העננים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 העננים ענן העננים noun masculine plural absolute unspecified unspecified  	O	null
+8 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+10 ל ל לפחד preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה לפחד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הפחד פחד לפחד noun masculine singular absolute unspecified unspecified  	O	null
+11 מגלים הגלה מגלים verb masculine plural unspecified any beinoni  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה השנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 השנים שנה השנים noun feminine plural absolute unspecified unspecified  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תצא יצא תצא verb feminine singular unspecified 3 future  	O	null
+2 ל ל למלחמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה למלחמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 המלחמה מלחמה למלחמה noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו וראית conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ראית ראיה וראית noun feminine singular construct unspecified unspecified  	O	null
+4 אשת איש אשת noun feminine singular construct unspecified unspecified  	O	null
+5 סודותי סוד סודותיך noun masculine plural absolute unspecified unspecified  
+5 ך ך סודותיך possessive feminine singular unspecified 2 unspecified 0 	O	null
+6 ב ב בחום preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 חום חום בחום noun masculine singular construct unspecified unspecified  	O	null
+7 ה ה היום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 היום יום היום noun masculine singular absolute unspecified unspecified  	O	null
+8 ו ו ובמחנק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ב ב ובמחנק preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה ובמחנק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 המחנק מחנק ובמחנק noun masculine singular absolute unspecified unspecified  	O	null
+9 קשט קישט קשט verb masculine singular unspecified 2 imperative  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 צוואר צוואר צווארה noun masculine singular absolute unspecified unspecified  
+11 ה ה צווארה possessive feminine singular unspecified 3 unspecified 0 	O	null
+12 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 תקשיב הקשיב תקשיב verb feminine singular unspecified 3 future  	O	null
+14 ל ל לקול preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 קול קול לקול noun masculine singular construct unspecified unspecified  	O	null
+15 שירה שירה שירה noun feminine singular absolute unspecified unspecified  	O	null
+16 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+18 ו ו וחום conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 חום חום וחום noun masculine singular absolute unspecified unspecified  	O	null
+19 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+
+0 הספכל הספכל הספכל verb masculine singular unspecified 2 past  	O	null
+1 בפני בפני בפניה preposition unspecified unspecified unspecified unspecified unspecified  
+1 ה ה בפניה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+2 עוף עוף עוף noun masculine singular absolute unspecified unspecified  	O	null
+3 ל ל לכיוון preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה לכיוון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכיוון כיוון לכיוון noun masculine singular absolute unspecified unspecified  	O	null
+4 ש ש ששוב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 שוב שוב ששוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 תשוב שב תשוב verb feminine singular unspecified 3 future  	O	null
+6 פוקח פוקח פוקח verb masculine singular unspecified 3 past  	O	null
+7 עיניים עין עיניים noun feminine plural absolute unspecified unspecified  	O	null
+8 קופץ קפץ קופץ verb masculine singular unspecified any beinoni  	O	null
+9 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה המים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 המים מים המים noun masculine plural absolute unspecified unspecified  	O	null
+11 נעלם נעלם נעלם verb masculine singular unspecified 3 past  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תצא יצא תצא verb feminine singular unspecified 3 future  	O	null
+2 ל ל למלחמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה למלחמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 המלחמה מלחמה למלחמה noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו וראית conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ראית ראיה וראית noun feminine singular construct unspecified unspecified  	O	null
+4 אשת איש אשת noun feminine singular construct unspecified unspecified  	O	null
+5 סודותי סוד סודותיך noun masculine plural absolute unspecified unspecified  
+5 ך ך סודותיך possessive feminine singular unspecified 2 unspecified 0 	O	null
+6 ב ב בחום preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 חום חום בחום noun masculine singular construct unspecified unspecified  	O	null
+7 ה ה היום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 היום יום היום noun masculine singular absolute unspecified unspecified  	O	null
+8 ו ו ובמחנק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ב ב ובמחנק preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה ובמחנק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 המחנק מחנק ובמחנק noun masculine singular absolute unspecified unspecified  	O	null
+9 קשט קישט קשט verb masculine singular unspecified 2 imperative  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 צוואר צוואר צווארה noun masculine singular absolute unspecified unspecified  
+11 ה ה צווארה possessive feminine singular unspecified 3 unspecified 0 	O	null
+12 ו ו ואז conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 אז אז ואז conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 תקשיב הקשיב תקשיב verb feminine singular unspecified 3 future  	O	null
+14 ל ל לקול preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 קול קול לקול noun masculine singular construct unspecified unspecified  	O	null
+15 שירה שירה שירה noun feminine singular absolute unspecified unspecified  	O	null
+16 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+18 ו ו וחום conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 חום חום וחום noun masculine singular absolute unspecified unspecified  	O	null
+19 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+
+0 יהא יהא יהא preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמי שמיים שמיה noun masculine plural absolute unspecified unspecified  
+1 ה ה שמיה possessive feminine singular unspecified 3 unspecified 0 	O	null
+2 רב רב רבא noun masculine singular absolute unspecified unspecified  
+2 ה ה רבא possessive feminine singular unspecified 3 unspecified 0 	O	null
+3 מברך בירך מברך verb masculine singular unspecified any beinoni  	O	null
+4 ל ל לעלם preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 עלם עלם לעלם noun masculine singular absolute unspecified unspecified  	O	null
+5 ו ו ולעלמי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ל ל ולעלמי preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 עלמי עלם ולעלמי noun masculine plural construct unspecified unspecified  	O	null
+6 עלמי עלמי עלמיא noun masculine plural absolute unspecified unspecified  
+6 י י עלמיא possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 יתברך התברך יתברך verb masculine singular unspecified 3 future  	O	null
+8 ישתבח השתבח ישתבח verb masculine singular unspecified 3 future  	O	null
+9 יתפאר התפאר יתפאר verb masculine singular unspecified 3 future  	O	null
+10 יתרומם התרומם יתרומם verb masculine singular unspecified 3 future  	O	null
+11 יתנשא התנשא יתנשא verb masculine singular unspecified 3 future  	O	null
+12 יתהדר התהדר יתהדר verb masculine singular unspecified 3 future  	O	null
+13 יתעלה התעלה יתעלה verb masculine singular unspecified 3 future  	O	null
+14 יתהלל התהלל יתהלל verb masculine singular unspecified 3 future  	O	null
+

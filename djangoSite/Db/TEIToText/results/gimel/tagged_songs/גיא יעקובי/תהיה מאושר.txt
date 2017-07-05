@@ -1,0 +1,120 @@
+0 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ל ל לתלמד preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 תלם תלם לתלמד noun masculine singular absolute unspecified unspecified  
+2 ה ה לתלמד possessive feminine singular unspecified 3 unspecified 0 	O	null
+3 לחייך חייך לחייך verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 תלמד למד תלמד verb feminine singular unspecified 3 future  	O	null
+5 לאהוב אהב לאהוב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 תן נתן תן verb masculine singular unspecified 2 imperative  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 ה ה הלב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הלב לב הלב noun masculine singular absolute unspecified unspecified  	O	null
+10 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+12 הכי הכי הכי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+15 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ה ה הנשמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הנשמה נשמה הנשמה noun feminine singular absolute unspecified unspecified  	O	null
+17 ו ו וים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 ים ים וים noun masculine singular construct unspecified unspecified  	O	null
+18 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+19 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+20 ב ב בך preposition unspecified unspecified unspecified unspecified unspecified  
+20 ך ך בך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+21 עוצמה עוצמה עוצמה noun feminine singular absolute unspecified unspecified  	O	null
+22 נה נה נה noun masculine singular absolute unspecified unspecified  	O	null
+23 נה נה נה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+24 נה נה נה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+25 .... .... .... punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פזמון פזמון פזמון noun masculine singular absolute unspecified unspecified  	O	null
+1 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 למעלה למעלה למעלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 למעלה למעלה למעלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 תמשיך המשיך תמשיך verb feminine singular unspecified 3 future  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תיפול נפל תיפול verb feminine singular unspecified 3 future  	O	null
+8 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+9 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+10 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+11 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+13 יכול יכול יכול modal masculine singular unspecified any beinoni  	O	null
+14 להצליח הצליח להצליח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 להוכיח הוכיח להוכיח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+16 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+17 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+19 ו ו ובסוף conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 ב ב ובסוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 סוף סוף ובסוף noun masculine singular construct unspecified unspecified  	O	null
+20 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+21 מאושר מאושר מאושר adjective masculine singular absolute unspecified unspecified  	O	null
+22 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+1 חדש חדש חדש adjective masculine singular absolute unspecified unspecified  	O	null
+2 ש ש שנולד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 נולד נולד שנולד verb masculine singular unspecified 3 past  	O	null
+3 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+4 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 בישבילך בישבילך בישבילך noun masculine singular absolute unspecified unspecified  	O	null
+6 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+7 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+8 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+9 מיוחד מיוחד מיוחד adjective masculine singular absolute unspecified unspecified  	O	null
+10 למען למען למענך preposition unspecified unspecified unspecified unspecified unspecified  
+10 ך ך למענך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הנשמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הנשמה נשמה הנשמה noun feminine singular absolute unspecified unspecified  	O	null
+14 ו ו וים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 ים ים וים noun masculine singular construct unspecified unspecified  	O	null
+15 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+16 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ב ב בך preposition unspecified unspecified unspecified unspecified unspecified  
+17 ך ך בך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+18 עוצמה עוצמה עוצמה noun feminine singular absolute unspecified unspecified  	O	null
+19 נה נה נה noun masculine singular absolute unspecified unspecified  	O	null
+20 נה נה נה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+21 נה נה נה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+22 ... ... ... punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פזמון פזמון פזמון noun masculine singular absolute unspecified unspecified  	O	null
+1 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 למעלה למעלה למעלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 למעלה למעלה למעלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 תמשיך המשיך תמשיך verb feminine singular unspecified 3 future  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תיפול נפל תיפול verb feminine singular unspecified 3 future  	O	null
+8 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+9 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+10 ה ה הדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הדרך דרך הדרך noun feminine singular absolute unspecified unspecified  	O	null
+11 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+13 יכול יכול יכול modal masculine singular unspecified any beinoni  	O	null
+14 להצליח הצליח להצליח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 להוכיח הוכיח להוכיח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+16 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+17 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+19 ו ו ובסוף conjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 ב ב ובסוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 סוף סוף ובסוף noun masculine singular construct unspecified unspecified  	O	null
+20 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+21 מאושר מאושר מאושר adjective masculine singular absolute unspecified unspecified  	O	null
+22 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

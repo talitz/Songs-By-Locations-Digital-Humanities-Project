@@ -1,0 +1,183 @@
+0 כש כש כשמשקפיים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 משקפיים משקפיים כשמשקפיים noun masculine dual-and-plural absolute unspecified unspecified  	O	null
+1 שחורים שחור שחורים adjective masculine plural absolute unspecified unspecified  	O	null
+2 מונחים מונח מונחים noun masculine plural absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הפנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הפנים פנים הפנים noun masculine-and-feminine plural absolute unspecified unspecified  	O	null
+5 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+6 קודר קודר קודר adjective masculine singular absolute unspecified unspecified  	O	null
+7 עצוב עצוב עצוב adjective masculine singular absolute unspecified unspecified  	O	null
+8 ו ו ולא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 לא לא ולא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נעים נעים נעים properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+10 ב ב ברוגז preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 רוגז רוגז ברוגז noun masculine singular construct unspecified unspecified  	O	null
+11 ב ב ברוגז preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 רוגז רוגז ברוגז noun masculine singular construct unspecified unspecified  	O	null
+12 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 מש מש משלימים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+13 ל ל משלימים preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה משלימים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הימים יום משלימים noun masculine plural absolute unspecified unspecified  	O	null
+14 אוי אוי אוי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ו ו ואבוי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 אבוי אבוי ואבוי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+16 איך איך איך interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+17 אתם הוא אתם pronoun masculine plural unspecified 2 unspecified  	O	null
+18 נראים נראה נראים verb masculine plural unspecified any beinoni  	O	null
+19 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 יו יו יו properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+
+0 כש כש כשמשקפיים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 משקפיים משקף כשמשקפיים noun masculine dual absolute unspecified unspecified  	O	null
+1 ו ו ורודים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 רודים רדה ורודים verb masculine plural unspecified any beinoni  	O	null
+2 מונחים מונח מונחים noun masculine plural absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הפנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הפנים פנים הפנים noun masculine singular absolute unspecified unspecified  	O	null
+5 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+6 מתוק מתוק מתוק adjective masculine singular absolute unspecified unspecified  	O	null
+7 חם חם חם adjective masculine singular absolute unspecified unspecified  	O	null
+8 ו ו ותמים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 תמים תמים ותמים adjective masculine singular absolute unspecified unspecified  	O	null
+9 שולם שולם שולם verb masculine singular unspecified 3 past  	O	null
+10 שולם שולם שולם verb masculine singular unspecified 3 past  	O	null
+11 סולחים סלח סולחים verb masculine plural unspecified any beinoni  	O	null
+12 ו ו ומתפייסים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 מתפייסים התפייס ומתפייסים verb masculine plural unspecified any beinoni  	O	null
+13 ו ו והחיים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 ה ה והחיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 החיים חיים והחיים noun masculine plural absolute unspecified unspecified  	O	null
+14 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 הרבה הרבה הרבה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 יפים יפה יפים adjective masculine plural absolute unspecified unspecified  	O	null
+18 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה האף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 האף אף האף noun masculine singular absolute unspecified unspecified  	O	null
+2 יושבים ישב יושבים verb masculine plural unspecified any beinoni  	O	null
+3 בנתיים בנתיים בנתיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+6 מביטים הביט מביטים verb masculine plural unspecified any beinoni  	O	null
+7 ב ב בשניים preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בשניים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 השניים ORD2 בשניים numeral masculine plural absolute unspecified unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לקשט קישט לקשט verb unspecified unspecified unspecified unspecified infinitive  	O	null
+11 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ה ה העיניים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 העיניים עין העיניים noun feminine plural absolute unspecified unspecified  	O	null
+13 משקפיים משקף משקפיים noun masculine dual absolute unspecified unspecified  	O	null
+14 משקפיים משקף משקפיים noun masculine dual absolute unspecified unspecified  	O	null
+
+0 כש כש כשמשקפיים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 משקפיים משקפיים כשמשקפיים noun masculine dual-and-plural absolute unspecified unspecified  	O	null
+1 שחורים שחור שחורים adjective masculine plural absolute unspecified unspecified  	O	null
+2 מונחים מונח מונחים noun masculine plural absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הפנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הפנים פנים הפנים noun masculine-and-feminine plural absolute unspecified unspecified  	O	null
+5 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+6 מתכסים התכסה מתכסים verb masculine plural unspecified any beinoni  	O	null
+7 ב ב בעננים preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בעננים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 העננים ענן בעננים noun masculine plural absolute unspecified unspecified  	O	null
+8 אפורים אפור אפורים adjective masculine plural absolute unspecified unspecified  	O	null
+9 גשום גשום גשום adjective masculine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 קר קר קר adjective masculine singular absolute unspecified unspecified  	O	null
+12 סגריר סגריר סגריר noun masculine singular construct unspecified unspecified  	O	null
+13 כ כ כאן preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 אן אן כאן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+14 ב ב בחוץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 חוץ חוץ בחוץ noun masculine singular construct unspecified unspecified  	O	null
+15 מר מר מר title masculine singular unspecified unspecified unspecified  	O	null
+16 ב ב בלב preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 לב לב בלב properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+17 ו ו והפרצוף conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 ה ה והפרצוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 הפרצוף פרצוף והפרצוף noun masculine singular absolute unspecified unspecified  	O	null
+18 חמוץ חמוץ חמוץ adjective masculine singular absolute unspecified unspecified  	O	null
+19 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 יו יו יו properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+
+0 כש כש כשמשקפיים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 משקפיים משקף כשמשקפיים noun masculine dual absolute unspecified unspecified  	O	null
+1 ו ו ורודים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 רודים רדה ורודים verb masculine plural unspecified any beinoni  	O	null
+2 מונחים מונח מונחים noun masculine plural absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הפנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הפנים פנים הפנים noun masculine singular absolute unspecified unspecified  	O	null
+5 פרחים פרח פרחים noun masculine plural absolute unspecified unspecified  	O	null
+6 מרהיבים הרהיב מרהיבים verb masculine plural unspecified any beinoni  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה השדות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 השדות שדה השדות noun masculine plural absolute unspecified unspecified  	O	null
+9 מקשטים קישט מקשטים verb masculine plural unspecified any beinoni  	O	null
+10 קרן קרן קרן noun feminine singular construct unspecified unspecified  	I_ORG	null
+11 שמש שמש שמש properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+12 צהובה צהוב צהובה adjective feminine singular absolute unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+15 כחולים כחול כחולים adjective masculine plural absolute unspecified unspecified  	O	null
+16 ה ה הציפורים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הציפורים ציפור הציפורים noun masculine plural absolute unspecified unspecified  	O	null
+17 שרות שרות שרות noun feminine singular absolute unspecified unspecified  	O	null
+18 ו ו וכולם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 כולם כולם וכולם pronoun masculine plural unspecified 3 unspecified  	O	null
+19 מחייכים חייך מחייכים verb masculine plural unspecified any beinoni  	O	null
+
+0 משקפים משקף משקפים noun masculine plural absolute unspecified unspecified  	O	null
+1 עגולים עגול עגולים adjective masculine plural absolute unspecified unspecified  	O	null
+2 מרובעים מרובע מרובעים adjective masculine plural absolute unspecified unspecified  	O	null
+3 מעוצבים מעוצב מעוצבים adjective masculine plural absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מ מ מלוכסנים preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 לוכסנים לוכסן מלוכסנים noun masculine plural absolute unspecified unspecified  	O	null
+6 מ מ מאורכים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 אורכים אורך מאורכים noun masculine plural absolute unspecified unspecified  	O	null
+7 כ כ כאלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 אלה אלה כאלה pronoun masculine-and-feminine plural unspecified 3 unspecified  	O	null
+8 מדליקים הדליק מדליקים verb masculine plural unspecified any beinoni  	O	null
+9 משקפים משקף משקפים noun masculine plural absolute unspecified unspecified  	O	null
+10 משקפים שיקף משקפים verb masculine plural unspecified any beinoni  	O	null
+11 מפני מפני מפני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+13 מגינים מגן מגינים noun masculine plural absolute unspecified unspecified  	O	null
+14 משקפי משקף משקפי noun masculine plural construct unspecified unspecified  	O	null
+15 ראיה ראיה ראיה noun feminine singular absolute unspecified unspecified  	O	null
+16 כ כ כאלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 אלה אל כאלה noun feminine singular absolute unspecified unspecified  	O	null
+17 נחמדים נחמד נחמדים adjective masculine plural absolute unspecified unspecified  	O	null
+18 ה ה הצבע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 הצבע צבע הצבע noun masculine singular absolute unspecified unspecified  	O	null
+19 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+20 קובע קבע קובע verb masculine singular unspecified any beinoni  	O	null
+21 ה ה הצבע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הצבע צבע הצבע noun masculine singular absolute unspecified unspecified  	O	null
+22 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+23 קובע קבע קובע verb masculine singular unspecified any beinoni  	O	null
+24 שחור שחור שחור adjective masculine singular absolute unspecified unspecified  	O	null
+25 ורוד ורוד ורוד adjective masculine singular absolute unspecified unspecified  	O	null
+26 ורוד ורוד ורוד adjective masculine singular absolute unspecified unspecified  	O	null
+27 שחור שחור שחור adjective masculine singular absolute unspecified unspecified  	O	null
+28 ב ב במה preposition unspecified unspecified unspecified unspecified unspecified 0 
+28 מה מה במה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+29 כדאי כדאי כדאי modal unspecified unspecified unspecified unspecified unspecified  	O	null
+30 ל ל לכם preposition unspecified unspecified unspecified unspecified unspecified  
+30 כם כם לכם pronomial masculine plural unspecified 2 unspecified 0 	O	null
+31 ל ל לבחור preposition unspecified unspecified unspecified unspecified unspecified 0 
+31 בחור בחור לבחור noun masculine singular absolute unspecified unspecified  	O	null
+

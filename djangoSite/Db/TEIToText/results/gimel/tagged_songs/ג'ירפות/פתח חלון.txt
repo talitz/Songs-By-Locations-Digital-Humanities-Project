@@ -1,0 +1,110 @@
+0 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה הרוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הרוב רוב הרוב noun masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 עוברת עבר עוברת verb feminine singular unspecified any beinoni  	O	null
+4 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מצוקה מצוקה מצוקה noun feminine singular absolute unspecified unspecified  	O	null
+6 ל ל לשובע preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 שובע שובע לשובע noun masculine singular absolute unspecified unspecified  	O	null
+
+0 פתח פתח פתח noun masculine singular construct unspecified unspecified  	O	null
+1 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 סגור סגור סגור adjective masculine singular absolute unspecified unspecified  	O	null
+4 חלון חילון חלון noun masculine singular construct unspecified unspecified  	O	null
+5 פתח פתח פתח noun masculine singular absolute unspecified unspecified  	I_ORG	null
+6 חלון.. חלון.. חלון.. properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+7 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+9 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+10 יסיק הסיק יסיק verb masculine singular unspecified 3 future  	O	null
+11 חוסר חוסר חוסר noun masculine singular construct unspecified unspecified  	O	null
+12 יציבות יציבות יציבות noun feminine singular absolute unspecified unspecified  	O	null
+13 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 נישמי נישמי נישמי participle masculine plural construct any unspecified  	O	null
+16 נכון נכון נכון adjective masculine singular absolute unspecified unspecified  	O	null
+17 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פתח פתח פתח noun masculine singular construct unspecified unspecified  	O	null
+1 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 סגור סגור סגור adjective masculine singular absolute unspecified unspecified  	O	null
+4 חלון חילון חלון noun masculine singular construct unspecified unspecified  	O	null
+5 פתח פתח פתח noun masculine singular construct unspecified unspecified  	O	null
+6 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פתח פתח פתח verb masculine singular unspecified 3 past  	O	null
+9 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 סגור סגור סגור adjective masculine singular absolute unspecified unspecified  	O	null
+12 חלון חילון חלון noun masculine singular construct unspecified unspecified  	O	null
+13 פתח פתח פתח noun masculine singular construct unspecified unspecified  	O	null
+14 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 עצור עצור עצור noun masculine singular absolute unspecified unspecified  	O	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 פתח פתח פתח noun masculine singular construct unspecified unspecified  	I_ORG	null
+19 דלת דלת דלת properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+20 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 צא יצא צא verb masculine singular unspecified 2 imperative  	O	null
+22 החוצה החוצה החוצה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+23 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+24 מ מ מקיאה... preposition unspecified unspecified unspecified unspecified unspecified 0 
+24 קיאה... קיאה... מקיאה... adjective masculine singular construct unspecified unspecified  	O	null
+25 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+26 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+27 ב ב באוטו preposition unspecified unspecified unspecified unspecified unspecified 0 
+27 ה ה באוטו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+27 האוטו אוטו באוטו noun masculine singular absolute unspecified unspecified  	O	null
+28 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+29 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+30 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+31 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+32 כן כן כן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+33 ב ב באוטו preposition unspecified unspecified unspecified unspecified unspecified 0 
+33 ה ה באוטו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+33 האוטו אוטו באוטו noun masculine singular absolute unspecified unspecified  	O	null
+34 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+35 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+36 ב ב באוטו preposition unspecified unspecified unspecified unspecified unspecified 0 
+36 ה ה באוטו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+36 האוטו אוטו באוטו noun masculine singular absolute unspecified unspecified  	O	null
+37 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+38 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פתח פתח פתח noun masculine singular construct unspecified unspecified  	O	null
+1 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 סגור סגור סגור adjective masculine singular absolute unspecified unspecified  	O	null
+4 חלון חילון חלון noun masculine singular construct unspecified unspecified  	O	null
+5 פתח פתח פתח noun masculine singular construct unspecified unspecified  	O	null
+6 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+7 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ב ב באוטו preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה באוטו definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 האוטו אוטו באוטו noun masculine singular absolute unspecified unspecified  	O	null
+10 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 סגור סגור סגור adjective masculine singular absolute unspecified unspecified  	O	null
+13 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 פתח פתח פתח verb masculine singular unspecified 3 past  	O	null
+16 חלון חילון חלון noun masculine singular absolute unspecified unspecified  	O	null
+17 פתח פתח פתח verb masculine singular unspecified 3 past  	O	null
+18 את את אותו at-preposition unspecified unspecified unspecified unspecified unspecified  
+18 ו ו אותו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+19 גדול גדול גדול adjective masculine singular absolute unspecified unspecified  	O	null
+20 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 תראה ראה תראה verb feminine singular unspecified 3 future  	O	null
+22 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+22 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+23 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+24 נוף.. נוף.. נוף.. verb feminine singular unspecified 2 past  	O	null
+25 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+26 מקיאה הקיא מקיאה verb feminine singular unspecified any beinoni  	O	null
+27 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

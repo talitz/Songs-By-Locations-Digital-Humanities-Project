@@ -1,0 +1,102 @@
+0 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 ש ש שתמיד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 תמיד תמיד שתמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 בשמיים בשמיים בשמיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 עננים ענן עננים noun masculine plural absolute unspecified unspecified  	O	null
+5 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 גלגל גלגל גלגל noun masculine singular absolute unspecified unspecified  	O	null
+7 ש ש שמסתובב relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 מסתובב הסתובב שמסתובב verb masculine singular unspecified any beinoni  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+10 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+12 ב ב בחלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 חלום חלום בחלום noun masculine singular absolute unspecified unspecified  	O	null
+
+0 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 ש ש שבכלל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 בכלל בכלל שבכלל adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כש כש כשיורד temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+3 יורד יורד כשיורד noun masculine singular absolute unspecified unspecified  	O	null
+4 ב ב בבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 בוקר בוקר בבוקר noun masculine singular absolute unspecified unspecified  	O	null
+5 טל טל טל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 מחפש חיפש מחפש verb masculine singular unspecified any beinoni  	O	null
+7 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+7 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+8 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 תלכי הלך תלכי verb feminine singular unspecified 2 future  	O	null
+10 ב ב בחושך preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה בחושך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 החושך חושך בחושך noun masculine singular absolute unspecified unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 את את איתי at-preposition unspecified unspecified unspecified unspecified unspecified  
+12 י י איתי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 רועד רעד רועד verb masculine singular unspecified any beinoni  	O	null
+2 ה ה החורף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 החורף חורף החורף noun masculine singular absolute unspecified unspecified  	O	null
+3 קר קר קר adjective masculine singular absolute unspecified unspecified  	O	null
+4 מפחד פיחד מפחד verb masculine singular unspecified any beinoni  	O	null
+5 מ מ מהמחר preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה מהמחר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 המחר מחר מהמחר noun masculine singular absolute unspecified unspecified  	O	null
+6 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עומדת עמד עומדת verb feminine singular unspecified any beinoni  	O	null
+8 ב ב בפינה preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 פינה פינה בפינה noun feminine singular absolute unspecified unspecified  	O	null
+9 עושה עשה עושה verb masculine singular unspecified any beinoni  	O	null
+10 עצמו עצמו עצמך pronoun unspecified unspecified unspecified unspecified unspecified  
+10 ך ך עצמך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 יש יש ישנה existential unspecified unspecified unspecified unspecified unspecified  
+12 ה ה ישנה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+
+0 ה ה הימים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הימים יום הימים noun masculine plural absolute unspecified unspecified  	O	null
+1 עוברים עבר עוברים verb masculine plural unspecified any beinoni  	O	null
+2 מתחלפים התחלף מתחלפים verb masculine plural unspecified any beinoni  	O	null
+3 ה ה המבטים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המבטים מבט המבטים noun masculine plural absolute unspecified unspecified  	O	null
+4 מקווה קיווה מקווה verb masculine singular unspecified any beinoni  	O	null
+5 ל ל לטוב preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה לטוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הטוב טוב לטוב noun masculine singular absolute unspecified unspecified  	O	null
+6 מצפה ציפה מצפה verb masculine singular unspecified any beinoni  	O	null
+7 ל ל לרע preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה לרע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הרע רע לרע noun masculine singular absolute unspecified unspecified  	O	null
+8 תראי ראה תראי verb feminine singular unspecified 2 future  	O	null
+9 כ כ כלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה כלום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הלום לום כלום noun masculine singular absolute unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 קרה קרה קרה verb masculine singular unspecified 3 past  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 צריך צריך צריך modal masculine singular unspecified any unspecified  	O	null
+2 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+3 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 טיפה טיפה טיפה noun feminine singular absolute unspecified unspecified  	O	null
+5 קטנה קטן קטנה adjective feminine singular absolute unspecified unspecified  	O	null
+6 ב ב בים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה בים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הים ים בים noun masculine singular absolute unspecified unspecified  	O	null
+7 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נהר נהר נהר noun masculine singular absolute unspecified unspecified  	O	null
+9 זורם זרם זורם verb masculine singular unspecified any beinoni  	O	null
+10 את את איתך at-preposition unspecified unspecified unspecified unspecified unspecified  
+10 ך ך איתך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 לאט לאט לאט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ב ב בחושך preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה בחושך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 החושך חושך בחושך noun masculine singular absolute unspecified unspecified  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 לבד לבד לבד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+

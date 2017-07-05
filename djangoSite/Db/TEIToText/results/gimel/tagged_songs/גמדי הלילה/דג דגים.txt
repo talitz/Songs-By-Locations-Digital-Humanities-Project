@@ -1,0 +1,122 @@
+0 המון המון המון quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 דגים דג דגים noun masculine plural absolute unspecified unspecified  	O	null
+2 שוחים שחה שוחים verb masculine plural unspecified any beinoni  	O	null
+3 ב ב בים preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה בים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הים ים בים noun masculine singular absolute unspecified unspecified  	O	null
+4 שוחים שחה שוחים verb masculine plural unspecified any beinoni  	O	null
+5 מהר מהר מהר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 לכאן לכאן לכאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ל ל לשם preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 שם שם לשם noun masculine singular construct unspecified unspecified  	O	null
+8 קטנים קטן קטנים adjective masculine plural absolute unspecified unspecified  	O	null
+9 גדולים גדול גדולים adjective masculine plural absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 שמנים שמן שמנים noun masculine plural absolute unspecified unspecified  	O	null
+12 רזים רזה רזים adjective masculine plural absolute unspecified unspecified  	O	null
+13 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הגלים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הגלים גל הגלים noun masculine plural absolute unspecified unspecified  	O	null
+15 משתוללים השתולל משתוללים verb masculine plural unspecified any beinoni  	O	null
+
+0 דג דג דג noun masculine singular construct unspecified unspecified  	O	null
+1 דגים דג דגים noun masculine plural absolute unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 קופצים קופץ קופצים noun masculine plural absolute unspecified unspecified  	O	null
+4 רוקדים רקד רוקדים verb masculine plural unspecified any beinoni  	O	null
+5 דג דג דג noun masculine singular absolute unspecified unspecified  	O	null
+6 דגים דג דגים noun masculine plural absolute unspecified unspecified  	O	null
+7 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 שוחים שחה שוחים verb masculine plural unspecified any beinoni  	O	null
+9 מש מש משפריצים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+9 פריצים פריץ משפריצים noun masculine plural absolute unspecified unspecified  	O	null
+10 דג דג דג noun masculine singular absolute unspecified unspecified  	O	null
+11 דגים דג דגים noun masculine plural absolute unspecified unspecified  	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 נעלמים... נעלמים... נעלמים... verb feminine singular unspecified 2 past  	O	null
+14 בלו... בלו... בלו... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+
+0 אתנדנד התנדנד אתנדנד verb masculine-and-feminine singular unspecified 1 future  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 ב ב בסירה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 סירה סירה בסירה noun feminine singular absolute unspecified unspecified  	O	null
+3 אזרוק זרק אזרוק verb masculine-and-feminine singular unspecified 1 future  	O	null
+4 ל ל לים preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ים ים לים noun masculine singular construct unspecified unspecified  	O	null
+5 פרור פרבר פרור noun masculine singular absolute unspecified unspecified  	O	null
+6 עוגה עוגה עוגה noun feminine singular absolute unspecified unspecified  	O	null
+7 חבורה חבורה חבורה noun feminine singular absolute unspecified unspecified  	O	null
+8 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 גדולה גדול גדולה adjective feminine singular absolute unspecified unspecified  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה העוגה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 העוגה עוגה העוגה noun feminine singular absolute unspecified unspecified  	O	null
+12 חטפה חטף חטפה verb feminine singular unspecified 3 past  	O	null
+13 אכלה אכל אכלה verb feminine singular unspecified 3 past  	O	null
+
+0 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מופיע הופיע מופיע verb masculine singular unspecified any beinoni  	O	null
+2 דג דג דג noun masculine singular absolute unspecified unspecified  	O	null
+3 גדול גדול גדול adjective masculine singular absolute unspecified unspecified  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הקטנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הקטנים קטן הקטנים adjective masculine plural absolute unspecified unspecified  	O	null
+6 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+7 לזלול זלל לזלול verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 ה ה הדגים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הדגים דג הדגים noun masculine plural absolute unspecified unspecified  	O	null
+9 קופצים קפץ קופצים verb masculine plural unspecified any beinoni  	O	null
+10 בורחים ברח בורחים verb masculine plural unspecified any beinoni  	O	null
+11 מסתתרים הסתתר מסתתרים verb masculine plural unspecified any beinoni  	O	null
+12 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה האלמוגים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 האלמוגים אלמוג האלמוגים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 דג דג דג noun masculine singular absolute unspecified unspecified  	O	null
+1 דגים... דגים... דגים... verb masculine singular unspecified 2 imperative  	O	null
+
+0 דג דג דג noun masculine singular absolute unspecified unspecified  	O	null
+1 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+2 כה כה כה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מיוחד מיוחד מיוחד adjective masculine singular absolute unspecified unspecified  	O	null
+4 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 משקפיים משקף משקפיים noun masculine dual absolute unspecified unspecified  	O	null
+6 שט שט שט verb masculine singular unspecified 3 past  	O	null
+7 לבד לבד לבד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 בא בא בא verb masculine singular unspecified 3 past  	O	null
+9 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+9 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+10 אמר אמר אמר verb masculine singular unspecified 3 past  	O	null
+11 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 סוד סוד סוד noun masculine singular absolute unspecified unspecified  	O	null
+13 סיפור סיפור סיפור noun masculine singular absolute unspecified unspecified  	O	null
+14 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+15 מצחיק מצחיק מצחיק adjective masculine singular absolute unspecified unspecified  	O	null
+16 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ואם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אם אם ואם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 את את אתם at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 הם הם אתם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+2 רוצים רצה רוצים verb masculine plural unspecified any beinoni  	O	null
+3 לשמוע שמע לשמוע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הים ים הים noun masculine singular absolute unspecified unspecified  	O	null
+6 צריך צריך צריך modal masculine singular unspecified any unspecified  	O	null
+7 לנסוע נסע לנסוע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ב ב בים preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה בים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הים ים בים noun masculine singular absolute unspecified unspecified  	O	null
+10 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+11 מחכה חיכה מחכה verb masculine singular unspecified any beinoni  	O	null
+12 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ל ל לכם preposition unspecified unspecified unspecified unspecified unspecified  
+13 כם כם לכם pronomial masculine plural unspecified 2 unspecified 0 	O	null
+14 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+15 יגלה גלה יגלה verb masculine singular unspecified 3 future  	O	null
+16 בלו... בלו... בלו... properName unspecified unspecified unspecified unspecified unspecified  	O	null
+

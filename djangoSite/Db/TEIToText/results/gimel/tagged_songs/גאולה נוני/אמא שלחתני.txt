@@ -1,0 +1,145 @@
+0 אמא אמא אמא noun feminine singular absolute unspecified unspecified  	O	null
+1 ש ש שלחתני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 ל ל שלחתני preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 חתני חתן שלחתני noun masculine plural construct unspecified unspecified  	O	null
+2 ל ל לחנות preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 חנות חנות לחנות noun feminine singular construct unspecified unspecified  	O	null
+3 לבדי לבד לבדי noun masculine plural construct unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ו ו ונתאהב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 נתאהב התאהב ונתאהב verb masculine-and-feminine plural unspecified 1 future  	O	null
+6 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+6 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 בחור בחור בחור noun masculine singular absolute unspecified unspecified  	O	null
+8 ספרדי ספרדי ספרדי adjective masculine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הוי הוי הוי verb masculine singular unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+4 בחור בחור בחור noun masculine singular absolute unspecified unspecified  	O	null
+5 יפה יפה יפה adjective masculine singular absolute unspecified unspecified  	O	null
+6 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פקיד פקיד פקיד noun masculine singular absolute unspecified unspecified  	O	null
+9 מגוהץ גוהץ מגוהץ verb masculine singular unspecified any beinoni  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ו ו ומקלו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 מקל מקל ומקלו noun masculine singular absolute unspecified unspecified  
+11 ו ו ומקלו possessive masculine singular unspecified 3 unspecified 0 	O	null
+12 ב ב ביד preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 יד יד ביד noun feminine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אמא אמא אמא noun feminine singular absolute unspecified unspecified  	O	null
+1 ש ש שלחתני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 ל ל שלחתני preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 חתן חתן שלחתני noun masculine singular absolute unspecified unspecified  
+1 י י שלחתני possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 לתת נתן לתת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 צדקה צדקה צדקה noun feminine singular absolute unspecified unspecified  	O	null
+4 ל ל לעני preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 עני עני לעני noun masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ו ו ונתאהב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 נתאהב התאהב ונתאהב verb masculine-and-feminine plural unspecified 1 future  	O	null
+7 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 בחור בחור בחור noun masculine singular absolute unspecified unspecified  	O	null
+9 תימני תימני תימני adjective masculine singular absolute unspecified unspecified  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הוי הוי הוי verb masculine singular unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+4 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+5 בחור בחור בחור noun masculine singular absolute unspecified unspecified  	O	null
+6 יקר יקר יקר adjective masculine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כותב כתב כותב verb masculine singular unspecified any beinoni  	O	null
+9 מזוזות מזוזה מזוזות noun feminine plural absolute unspecified unspecified  	O	null
+10 ו ו וכולו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 כול כול וכולו quantifier unspecified unspecified unspecified unspecified unspecified  
+10 ו ו וכולו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+11 שחרחר שחרחר שחרחר adjective masculine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אמא אמא אמא noun feminine singular absolute unspecified unspecified  	O	null
+1 ש ש שלחתני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 ל ל שלחתני preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 חתן חתן שלחתני noun masculine singular absolute unspecified unspecified  
+1 י י שלחתני possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 לקנות קנה לקנות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 דג דג דג noun masculine singular absolute unspecified unspecified  	O	null
+4 טרי טרי טרי adjective masculine singular absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ו ו ונתאהב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 נתאהב התאהב ונתאהב verb masculine-and-feminine plural unspecified 1 future  	O	null
+7 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 בחור בחור בחור noun masculine singular absolute unspecified unspecified  	O	null
+9 בוכרי בוכרי בוכרי properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הוי הוי הוי verb masculine singular unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+4 בחור בחור בחור noun masculine singular absolute unspecified unspecified  	O	null
+5 עז עז עז adjective masculine singular absolute unspecified unspecified  	O	null
+6 מ מ מלא preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 לא לא מלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 גיל גיל גיל noun masculine singular absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 כ כ כארז preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ארז ארז כארז properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 ב ב בלבנון preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 לבנון לבנון בלבנון properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 ו ו ולו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 לו לו ולו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אוטומוביל אוטומוביל אוטומוביל participle masculine singular construct any unspecified  	I_ORG	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אמא אמא אמא noun feminine singular absolute unspecified unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ש ש שלחתני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 ל ל שלחתני preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 חתני חתן שלחתני noun masculine plural construct unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 הוי הוי הוי verb masculine singular unspecified 2 imperative  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רזי רז רזי noun masculine plural construct unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 רזי רז רזי noun masculine plural construct unspecified unspecified  	O	null
+9 ב ב בעצמי preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה בעצמי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 העצמי עצמי בעצמי adjective masculine singular absolute unspecified unspecified  	O	null
+10 נתאהבתי נתאהבתי נתאהבתי verb masculine plural unspecified 2 past  	O	null
+11 ב ב בבחור preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 בחור בחור בבחור noun masculine singular absolute unspecified unspecified  	O	null
+12 אשכנזי אשכנזי אשכנזי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הוי הוי הוי verb masculine singular unspecified 2 imperative  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+4 בחור בחור בחור noun masculine singular absolute unspecified unspecified  	O	null
+5 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 בחרו בחר בחרו verb masculine-and-feminine plural unspecified 3 past  	O	null
+7 אבות אב אבותי noun masculine plural absolute unspecified unspecified  
+7 י י אבותי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 נעורי נעורים נעורי noun masculine plural construct unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+17 תכשיטי תכשיט תכשיטי noun masculine plural construct unspecified unspecified  	O	null
+18 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

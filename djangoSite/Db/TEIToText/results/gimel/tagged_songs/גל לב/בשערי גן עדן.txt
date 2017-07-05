@@ -1,0 +1,129 @@
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב בשערי preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 שערי שער בשערי noun masculine plural construct unspecified unspecified  	O	null
+3 גן גן גן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 עדן עדן עדן properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מאחורי מאחורי מאחורי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+4 עדן עדן עדן noun masculine singular absolute unspecified unspecified  	O	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 מקום מקום מקום noun masculine singular absolute unspecified unspecified  	O	null
+2 ש ש שטובים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 טובים טוב שטובים adjective masculine plural absolute unspecified unspecified  	O	null
+3 הולכים הלך הולכים verb masculine plural unspecified any beinoni  	O	null
+4 ל ל לשם preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה לשם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 השם שם לשם noun masculine singular absolute unspecified unspecified  	O	null
+5 ב ב בפרוש preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 פרוש פרוש בפרוש noun masculine singular absolute unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 בשביל בשביל בשביל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 כולם כולם כולם pronoun masculine plural unspecified 3 unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אדע ידע אדע verb masculine-and-feminine singular unspecified 1 future  	O	null
+13 לעולם לעולם לעולם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 אמת אמת אמת noun feminine singular absolute unspecified unspecified  	O	null
+16 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+17 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+18 סתם סתם סתם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב בשערי preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 שערי שער בשערי noun masculine plural construct unspecified unspecified  	O	null
+3 גן גן גן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 עדן עדן עדן properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מאחורי מאחורי מאחורי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+4 עדן עדן עדן noun masculine singular absolute unspecified unspecified  	O	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אשאל שאל אשאל verb masculine-and-feminine singular unspecified 1 future  	O	null
+2 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שמאמין relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 מאמין האמין שמאמין verb masculine singular unspecified any beinoni  	O	null
+4 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+5 יאמר אמר יאמר verb masculine singular unspecified 3 future  	O	null
+6 ש ש שאף relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 אף אף שאף conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 פעם פעם פעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אבין הבין אבין verb masculine-and-feminine singular unspecified 1 future  	O	null
+10 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תגלה גלה תגלה verb feminine singular unspecified 3 future  	O	null
+12 ת'ניסתר ת'ניסתר ת'ניסתר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+15 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 מאוחר מאוחר מאוחר adjective masculine singular absolute unspecified unspecified  	O	null
+18 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב בשערי preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 שערי שער בשערי noun masculine plural construct unspecified unspecified  	O	null
+3 גן גן גן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 עדן עדן עדן properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מאחורי מאחורי מאחורי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+4 עדן עדן עדן noun masculine singular absolute unspecified unspecified  	O	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 נחמד נחמד נחמד adjective masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 להרגיש הרגיש להרגיש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 ש ש שזה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 זה זה שזה pronoun masculine singular unspecified 3 unspecified  	O	null
+5 קיים קיים קיים verb masculine singular unspecified 3 past  	O	null
+6 אשליה אשליה אשליה noun feminine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+11 ה ה העולם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 העולם עולם העולם noun masculine singular absolute unspecified unspecified  	O	null
+12 יום יום יום noun masculine singular construct unspecified unspecified  	O	null
+13 יבוא ייבוא יבוא noun masculine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ו ו ואלי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 אל אל ואלי preposition unspecified unspecified unspecified unspecified unspecified  
+15 י י ואלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+16 ייחשף נחשף ייחשף verb masculine singular unspecified 3 future  	O	null
+17 אלוהי אלוהים אלוהי noun masculine singular construct unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב בשערי preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 שערי שער בשערי noun masculine plural construct unspecified unspecified  	O	null
+3 גן גן גן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 עדן עדן עדן properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מאחורי מאחורי מאחורי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+4 עדן עדן עדן noun masculine singular absolute unspecified unspecified  	O	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

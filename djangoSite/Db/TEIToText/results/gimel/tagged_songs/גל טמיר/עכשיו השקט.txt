@@ -1,0 +1,73 @@
+0 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה השקט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 השקט שקט השקט noun masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 מביט הביט מביט verb masculine singular unspecified any beinoni  	O	null
+4 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עוצמת עוצמה עוצמת noun feminine singular construct unspecified unspecified  	O	null
+7 גוף גוף גופך noun masculine singular absolute unspecified unspecified  
+7 ך ך גופך possessive feminine singular unspecified 2 unspecified 0 	O	null
+8 הופכת הפך הופכת verb feminine singular unspecified any beinoni  	O	null
+9 ל ל ליופי preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 יופי יופי ליופי noun masculine singular absolute unspecified unspecified  	O	null
+10 עמוק עמוק עמוק adjective masculine singular absolute unspecified unspecified  	O	null
+11 ו ו וכהה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 כהה כהה וכהה adjective masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ופוסעת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 פוסעת פסע ופוסעת verb feminine singular unspecified any beinoni  	O	null
+13 ב ב ברגל preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 רגל רגל ברגל noun feminine singular absolute unspecified unspecified  	O	null
+14 בטוחה בטוח בטוחה adjective feminine singular absolute unspecified unspecified  	O	null
+15 מ מ מחוץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 חוץ חוץ מחוץ noun masculine singular absolute unspecified unspecified  	O	null
+16 ל ל לחיי preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 חיי חיים לחיי noun masculine plural construct unspecified unspecified  	O	null
+
+0 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 רק רק רק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מתעורר התעורר מתעורר verb masculine singular unspecified any beinoni  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הטעם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הטעם טעם הטעם noun masculine singular absolute unspecified unspecified  	O	null
+6 ה ה החד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 החד חד החד adjective masculine singular absolute unspecified unspecified  	O	null
+7 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 געגועי געגוע געגועי noun masculine plural construct unspecified unspecified  	O	null
+9 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+10 יהיה הוא יהיה copula masculine singular unspecified 3 future  	O	null
+11 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+11 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+12 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה השקט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 השקט שקט השקט noun masculine singular absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 מביט הביט מביט verb masculine singular unspecified any beinoni  	O	null
+4 הכל הכיל הכל verb masculine singular unspecified 2 imperative  	O	null
+5 ננעל ננעל ננעל verb masculine singular unspecified 3 past  	O	null
+6 בתוך בתוך בתוכך preposition unspecified unspecified unspecified unspecified unspecified  
+6 ך ך בתוכך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+7 הופכת הפך הופכת verb feminine singular unspecified any beinoni  	O	null
+8 ל ל ליופי preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 יופי יופי ליופי noun masculine singular absolute unspecified unspecified  	O	null
+9 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+10 ו ו וכואב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 כואב כואב וכואב adjective masculine singular absolute unspecified unspecified  	O	null
+11 ו ו ופוסעת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 פוסעת פסע ופוסעת verb feminine singular unspecified any beinoni  	O	null
+12 ב ב ברגל preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 רגל רגל ברגל noun feminine singular absolute unspecified unspecified  	O	null
+13 בטוחה בטוח בטוחה adjective feminine singular absolute unspecified unspecified  	O	null
+14 מ מ מחוץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 חוץ חוץ מחוץ noun masculine singular absolute unspecified unspecified  	O	null
+15 ל ל לחיי preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 חיי חיים לחיי noun masculine plural construct unspecified unspecified  	O	null
+
+0 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 רק רק רק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מתעור... מתעור... מתעור... participle feminine plural construct any unspecified  	O	null
+

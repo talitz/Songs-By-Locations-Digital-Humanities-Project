@@ -1,0 +1,50 @@
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 סיפור סיפור סיפור noun masculine singular absolute unspecified unspecified  	O	null
+2 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 נערה נער נערה noun feminine singular absolute unspecified unspecified  	O	null
+5 ש ש שעשתה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 עשתה עשה שעשתה verb feminine singular unspecified 3 past  	O	null
+6 מעשה מעשה מעשה noun masculine singular absolute unspecified unspecified  	O	null
+7 אכזר אכזר אכזר adjective masculine singular absolute unspecified unspecified  	O	null
+8 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 הוי הוי הוי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אמירה אמירה אמירה noun feminine singular absolute unspecified unspecified  	O	null
+11 הוי הוי הוי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אמירה אמירה אמירה noun feminine singular absolute unspecified unspecified  	O	null
+13 איפה איפה איפה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה הכבוד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 הכבוד כבוד הכבוד noun masculine singular absolute unspecified unspecified  	O	null
+15 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 שמעת שמע שמעת verb feminine singular unspecified 2 past  	O	null
+1 מ מ ממעל preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 מעל מעל ממעל noun masculine singular absolute unspecified unspecified  	O	null
+2 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ידעתי ידע ידעתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+4 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+6 תאווה תאווה תאווה noun feminine singular absolute unspecified unspecified  	O	null
+7 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 חיילת חייל חיילת noun feminine singular absolute unspecified unspecified  	O	null
+1 ש ש שסיימה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 סיימה סיים שסיימה verb feminine singular unspecified 3 past  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שירתה שירת שירתה verb feminine singular unspecified 3 past  	O	null
+4 הוי הוי הוי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אמירה אמירה אמירה noun feminine singular absolute unspecified unspecified  	O	null
+6 הוי הוי הוי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אמירה אמירה אמירה noun feminine singular absolute unspecified unspecified  	O	null
+8 איפה איפה איפה noun feminine singular absolute unspecified unspecified  	O	null
+9 ה ה האהבה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 האהבה אהבה האהבה noun feminine singular absolute unspecified unspecified  	O	null
+10 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 חזרה חזר חזרה verb feminine singular unspecified 3 past  	O	null
+2 ללא ללא ללא preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 בושה בושה בושה noun feminine singular absolute unspecified unspecified  	O	null
+4 הוי הוי הוי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אמירה... אמירה... אמירה... adjective masculine singular construct unspecified unspecified  	O	null
+

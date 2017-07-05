@@ -1,0 +1,72 @@
+0 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בארץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ארץ ארץ בארץ noun feminine singular construct unspecified unspecified  	O	null
+2 חמדת חמדה חמדת noun feminine singular construct unspecified unspecified  	O	null
+3 אבות אב אבות noun masculine plural construct unspecified unspecified  	O	null
+4 תתגשמנה התגשם תתגשמנה verb feminine plural unspecified 3 future  	O	null
+5 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+6 ה ה התקוות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 התקוות תקווה התקוות noun feminine plural absolute unspecified unspecified  	O	null
+7 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נחיה חי נחיה verb masculine-and-feminine plural unspecified 1 future  	O	null
+9 ו ו ופה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 פה פה ופה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ניצור יצר ניצור verb masculine-and-feminine plural unspecified 1 future  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 חיי חיים חיי noun masculine plural construct unspecified unspecified  	O	null
+13 זוהר זוהר זוהר properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+14 חיי חיים חיי noun masculine plural construct unspecified unspecified  	O	null
+15 דרור דרור דרור properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+16 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תהא תהא תהא preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה השכינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השכינה שכינה השכינה noun feminine singular absolute unspecified unspecified  	O	null
+3 שורה שורה שורה noun feminine singular absolute unspecified unspecified  	O	null
+4 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 תפרח פרח תפרח verb feminine singular unspecified 3 future  	O	null
+6 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 שפת שפה שפת noun feminine singular construct unspecified unspecified  	O	null
+8 ה ה התורה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 התורה תורה התורה noun feminine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ניר ניר נירו noun masculine singular absolute unspecified unspecified  
+0 ו ו נירו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 ניר ניר ניר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ניר ניר ניר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ניר ניר ניר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 ש ש שירו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ירו ירה שירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+5 שיר שיר שיר noun masculine singular construct unspecified unspecified  	O	null
+6 שיר שיר שיר noun masculine singular construct unspecified unspecified  	O	null
+7 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 גילו גילה גילו verb masculine-and-feminine plural unspecified 3 past  	O	null
+9 גיל גיל גיל noun masculine singular construct unspecified unspecified  	O	null
+10 גיל גיל גיל noun masculine singular construct unspecified unspecified  	O	null
+11 גיל גיל גיל noun masculine singular absolute unspecified unspecified  	O	null
+12 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 הנצו הנץ הנצו verb masculine-and-feminine plural unspecified 3 past  	O	null
+14 ניצנים ניצן ניצנים noun masculine plural absolute unspecified unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ניר ניר נירו noun masculine singular absolute unspecified unspecified  
+0 ו ו נירו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 ניר ניר ניר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ניר ניר ניר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ניר ניר ניר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 ש ש שירו relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ירו ירה שירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+5 שיר שיר שיר noun masculine singular construct unspecified unspecified  	O	null
+6 שיר שיר שיר noun masculine singular construct unspecified unspecified  	O	null
+7 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 גילו גילה גילו verb masculine-and-feminine plural unspecified 3 past  	O	null
+9 גיל גיל גיל noun masculine singular construct unspecified unspecified  	O	null
+10 גיל גיל גיל noun masculine singular construct unspecified unspecified  	O	null
+11 גיל גיל גיל noun masculine singular absolute unspecified unspecified  	O	null
+12 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 יבואו בא יבואו verb masculine-and-feminine plural unspecified 3 future  	O	null
+14 זרעונים זרעון זרעונים noun masculine plural absolute unspecified unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

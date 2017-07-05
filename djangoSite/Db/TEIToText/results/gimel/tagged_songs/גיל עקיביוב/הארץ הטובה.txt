@@ -1,0 +1,119 @@
+0 בסוף בסוף בסוף adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 נמצא נמצא נמצא verb masculine singular unspecified 3 past  	O	null
+2 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 ה ה החיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 החיים חיים החיים noun masculine plural absolute unspecified unspecified  	O	null
+6 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+7 ה ה הזמנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הזמנים זמן הזמנים noun masculine plural absolute unspecified unspecified  	O	null
+8 לכדי לכדי לכדי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רגע רגע רגע noun masculine singular absolute unspecified unspecified  	O	null
+10 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+11 חיים חיים חיים noun masculine plural absolute unspecified unspecified  	O	null
+12 שלמים שלם שלמים adjective masculine plural absolute unspecified unspecified  	O	null
+13 ביקשנו ביקש ביקשנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+14 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מ מ מטוב preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 טוב טוב מטוב adjective masculine singular absolute unspecified unspecified  	O	null
+16 מ מ מהתחלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 התחלה התחלה מהתחלה noun feminine singular absolute unspecified unspecified  	O	null
+17 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ה ה התכלית definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 התכלית תכלית התכלית noun feminine singular absolute unspecified unspecified  	O	null
+19 תיקח לקח תיקח verb feminine singular unspecified 3 future  	O	null
+20 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה הדרור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הדרור דרור הדרור noun masculine singular absolute unspecified unspecified  	O	null
+22 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+24 ה ה המאור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 המאור מאור המאור noun masculine singular absolute unspecified unspecified  	O	null
+
+0 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 חידת חידה חידתי noun feminine singular absolute unspecified unspecified  
+1 י י חידתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 אפתור פתר אפתור verb masculine-and-feminine singular unspecified 1 future  	O	null
+3 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה המילים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 המילים מילה המילים noun feminine plural absolute unspecified unspecified  	O	null
+5 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה הצלילים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הצלילים צליל הצלילים noun masculine plural absolute unspecified unspecified  	O	null
+7 ב ב באמצע preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 אמצע אמצע באמצע noun masculine singular construct unspecified unspecified  	O	null
+8 רחוב רחוב רחוב noun masculine singular absolute unspecified unspecified  	O	null
+9 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה האנשים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 האנשים איש האנשים noun masculine plural absolute unspecified unspecified  	O	null
+11 נועדנו נועד נועדנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+12 ל ל לגדולות preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה לגדולות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הגדולות גדולות לגדולות noun feminine singular absolute unspecified unspecified  	O	null
+13 מ מ מהתחלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 התחלה התחלה מהתחלה noun feminine singular absolute unspecified unspecified  	O	null
+14 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 יד יד יד noun feminine singular construct unspecified unspecified  	O	null
+16 ימין ימין ימין noun masculine singular absolute unspecified unspecified  	O	null
+17 ל ל לשמאל preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 ה ה לשמאל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 השמאל שמאל לשמאל noun masculine singular absolute unspecified unspecified  	O	null
+18 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 גוף גוף גוף noun masculine singular absolute unspecified unspecified  	O	null
+20 ו ו ונשמה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 נשמה נשמה ונשמה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 ב ב בים preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה בים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הים ים בים noun masculine singular absolute unspecified unspecified  	O	null
+1 גועש געש גועש verb masculine singular unspecified any beinoni  	O	null
+2 רועש רעש רועש verb masculine singular unspecified any beinoni  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הגלים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הגלים גל הגלים noun masculine plural absolute unspecified unspecified  	O	null
+6 ב ב ברגעים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 רגעים רגע ברגעים noun masculine plural absolute unspecified unspecified  	O	null
+7 הכי הכי הכי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 קשים קשה קשים adjective masculine plural absolute unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אבודים אבוד אבודים adjective masculine plural absolute unspecified unspecified  	O	null
+12 ה ה הארץ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הארץ ארץ הארץ noun feminine singular absolute unspecified unspecified  	O	null
+13 ה ה הטובה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הטובה טוב הטובה adjective feminine singular absolute unspecified unspecified  	O	null
+14 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מחכה חיכה מחכה verb masculine singular unspecified any beinoni  	O	null
+16 ל ל לראשונים preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 ה ה לראשונים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הראשונים ראשונים לראשונים noun masculine plural absolute unspecified unspecified  	O	null
+17 ל ל לאחרונים preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 ה ה לאחרונים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 האחרונים אחרון לאחרונים adjective masculine plural absolute unspecified unspecified  	O	null
+18 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+20 באים בא באים verb masculine plural unspecified any beinoni  	O	null
+21 ה ה הימים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הימים יום הימים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 ו ו ונברך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 נברך בירך ונברך verb masculine-and-feminine plural unspecified 1 future  	O	null
+1 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה המוגמר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 המוגמר מוגמר המוגמר adjective masculine singular absolute unspecified unspecified  	O	null
+3 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+4 ה ה התבל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 התבל תבל התבל noun feminine singular absolute unspecified unspecified  	O	null
+5 שר שר שר noun masculine singular construct unspecified unspecified  	O	null
+6 מאושר מאושר מאושר adjective masculine singular absolute unspecified unspecified  	O	null
+7 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 סוף סוף סוף noun masculine singular absolute unspecified unspecified  	O	null
+10 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+13 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+

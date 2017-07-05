@@ -1,0 +1,96 @@
+0 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+1 כחול כחול כחול adjective masculine singular absolute unspecified unspecified  	O	null
+2 תלוי תלוי תלוי adjective masculine singular absolute unspecified unspecified  	O	null
+3 מ מ מעלי preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 עלי עלי מעלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 ב ב בשרשרת preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 שרשרת שרשרת בשרשרת properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 מתכת מתכת מתכת noun feminine singular absolute unspecified unspecified  	O	null
+6 ו ו וצבעים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 צבעים צבע וצבעים noun masculine plural absolute unspecified unspecified  	O	null
+7 אחרים אחר אחרים adjective masculine plural absolute unspecified unspecified  	O	null
+8 קירות קיר קירות noun masculine plural absolute unspecified unspecified  	O	null
+9 מכסים כיסה מכסים verb masculine plural unspecified any beinoni  	O	null
+10 אדמה אדמה אדמה noun feminine singular absolute unspecified unspecified  	O	null
+11 רועדת רעד רועדת verb feminine singular unspecified any beinoni  	O	null
+12 טון טון טון noun masculine singular absolute unspecified unspecified  	O	null
+13 מתגבר תגבר מתגבר verb masculine singular unspecified any beinoni  	O	null
+14 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 עוצמה עוצמה עוצמה noun feminine singular absolute unspecified unspecified  	O	null
+16 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 סופית סופית סופית adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ה ה האור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 האור אור האור noun masculine singular absolute unspecified unspecified  	O	null
+19 מתעצם התעצם מתעצם verb masculine singular unspecified any beinoni  	O	null
+20 ב ב בתנועה preposition unspecified unspecified unspecified unspecified unspecified 0 
+20 תנועה תנועה בתנועה noun feminine singular absolute unspecified unspecified  	O	null
+21 סיבובית סיבובי סיבובית adjective feminine singular absolute unspecified unspecified  	O	null
+22 ה ה החברה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 החברה חבר החברה noun feminine singular absolute unspecified unspecified  	O	null
+23 מחייכת חייך מחייכת verb feminine singular unspecified any beinoni  	O	null
+24 ה ה הקצב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 הקצב קצב הקצב noun masculine singular absolute unspecified unspecified  	O	null
+25 אחיד אחיד אחיד adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+2 ב ב באור preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 אור אור באור noun masculine singular absolute unspecified unspecified  	O	null
+3 מעבירה העביר מעבירה verb feminine singular unspecified any beinoni  	O	null
+4 אצבעות אצבע אצבעות noun feminine plural absolute unspecified unspecified  	O	null
+5 ב ב במים preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 מים מים במים noun masculine plural absolute unspecified unspecified  	O	null
+6 צלולים צלול צלולים adjective masculine plural absolute unspecified unspecified  	O	null
+7 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 רגלי רגל רגליה noun masculine plural absolute unspecified unspecified  
+8 ה ה רגליה possessive feminine singular unspecified 3 unspecified 0 	O	null
+9 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שדי שד שדיה noun masculine plural absolute unspecified unspecified  
+10 ה ה שדיה possessive feminine singular unspecified 3 unspecified 0 	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 תולה תלה תולה verb masculine singular unspecified any beinoni  	O	null
+13 מ מ מעלי preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 עלי עלה מעלי noun masculine plural construct unspecified unspecified  	O	null
+
+0 אור אור אור noun masculine singular absolute unspecified unspecified  	O	null
+1 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+3 תלוי תלוי תלוי adjective masculine singular absolute unspecified unspecified  	O	null
+4 מ מ מעלי preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 עלי עלי מעלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 ב ב בשרשרת preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 שרשרת שרשרת בשרשרת properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+7 ו ו וגוונים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 גוונים גוון וגוונים noun masculine plural absolute unspecified unspecified  	O	null
+8 נוספים נוסף נוספים adjective masculine plural absolute unspecified unspecified  	O	null
+9 קירות קיר קירות noun masculine plural absolute unspecified unspecified  	O	null
+10 נמוכים נמוך נמוכים adjective masculine plural absolute unspecified unspecified  	O	null
+11 ה ה האדמה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 האדמה אדמה האדמה noun feminine singular absolute unspecified unspecified  	O	null
+12 רוקדת רקד רוקדת verb feminine singular unspecified any beinoni  	O	null
+13 טון טון טון noun masculine singular absolute unspecified unspecified  	O	null
+14 מתגבר תגבר מתגבר verb masculine singular unspecified any beinoni  	O	null
+15 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ריגוש ריגוש ריגוש noun masculine singular absolute unspecified unspecified  	O	null
+17 אין אין אין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 סופי סופי סופי adjective masculine singular absolute unspecified unspecified  	O	null
+19 ה ה האור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 האור אור האור noun masculine singular absolute unspecified unspecified  	O	null
+20 מתעצב התעצב מתעצב verb masculine singular unspecified any beinoni  	O	null
+21 ב ב בתנועה preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 תנועה תנועה בתנועה noun feminine singular absolute unspecified unspecified  	O	null
+22 סיבובית סיבובי סיבובית adjective feminine singular absolute unspecified unspecified  	O	null
+23 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+24 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+25 מחייך חייך מחייך verb masculine singular unspecified any beinoni  	O	null
+26 ה ה הקצב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+26 הקצב קצב הקצב noun masculine singular absolute unspecified unspecified  	O	null
+27 אחיד אחיד אחיד adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+2 באור... באור... באור... adjective feminine singular construct unspecified unspecified  	O	null
+

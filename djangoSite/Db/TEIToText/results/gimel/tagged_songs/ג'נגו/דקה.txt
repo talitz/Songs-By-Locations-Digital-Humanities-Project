@@ -1,0 +1,70 @@
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 מספיק מספיק מספיק adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ל ל לכולם preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 כולם כולם לכולם pronoun masculine plural unspecified 3 unspecified  	O	null
+4 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 שעון שעון שעון noun masculine singular absolute unspecified unspecified  	O	null
+7 מדויק מדויק מדויק adjective masculine singular absolute unspecified unspecified  	O	null
+8 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+9 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+10 מקום מקום מקום noun masculine singular absolute unspecified unspecified  	O	null
+11 חופשי חופשי חופשי adjective masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	I_ORG	null
+14 לפגוש פגש לפגוש verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+15 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 דקה דקה דקה noun feminine singular absolute unspecified unspecified  	O	null
+3 להתכונן התכונן להתכונן verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 דקה דקה דקה noun feminine singular absolute unspecified unspecified  	O	null
+7 להתחיל התחיל להתחיל verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 ליפול נפל ליפול verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ה ה הברכיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הברכיים ברך הברכיים noun feminine plural absolute unspecified unspecified  	O	null
+
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שום שום שום quantifier unspecified unspecified construct unspecified unspecified  	O	null
+2 תוכנית תוכנית תוכנית noun feminine singular absolute unspecified unspecified  	O	null
+3 השנה השנה השנה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 השבוע השבוע השבוע adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ב ב ברחת preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 רחת רחת ברחת noun feminine singular absolute unspecified unspecified  	O	null
+7 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מדי מדי מדי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+10 רואה ראה רואה verb masculine singular unspecified any beinoni  	O	null
+11 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+11 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+12 מול מול מולי preposition unspecified unspecified unspecified unspecified unspecified  
+12 י י מולי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+13 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 אומרת אמר אומרת verb feminine singular unspecified any beinoni  	O	null
+15 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+15 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+16 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+17 הכל הכיל הכל verb masculine singular unspecified 2 imperative  	O	null
+18 בשביל בשביל בשבילי preposition unspecified unspecified unspecified unspecified unspecified  
+18 י י בשבילי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 תני תן תני noun masculine plural construct unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 דקה דקה דקה noun feminine singular absolute unspecified unspecified  	O	null
+3 ל ל להתכונן... preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 התכונן... התכונן... להתכונן... adjective masculine singular construct unspecified unspecified  	O	null
+
