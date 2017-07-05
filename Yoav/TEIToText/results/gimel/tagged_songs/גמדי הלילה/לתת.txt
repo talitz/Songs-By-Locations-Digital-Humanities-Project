@@ -1,0 +1,152 @@
+0 לתת נתן לתת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+1 מ מ מעומק preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 עומק עומק מעומק noun masculine singular construct unspecified unspecified  	O	null
+2 ה ה הלב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הלב לב הלב noun masculine singular absolute unspecified unspecified  	O	null
+3 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+5 גדולה גדול גדולה adjective feminine singular absolute unspecified unspecified  	O	null
+6 לראות ראה לראות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה החיוך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 החיוך חיוך החיוך noun masculine singular absolute unspecified unspecified  	O	null
+9 ה ה הזוהר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הזוהר זוהר הזוהר adjective masculine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לשמוע שמע לשמוע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הצחוק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הצחוק צחוק הצחוק noun masculine singular absolute unspecified unspecified  	O	null
+14 ה ה המתגלגל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 המתגלגל התגלגל המתגלגל participle masculine singular absolute any unspecified  	O	null
+15 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+17 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+18 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+19 מתנה מתנה מתנה noun feminine singular absolute unspecified unspecified  	O	null
+20 סיבה סיבה סיבה noun feminine singular absolute unspecified unspecified  	O	null
+21 ל ל למסיבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 מסיבה מסיבה למסיבה noun feminine singular absolute unspecified unspecified  	O	null
+22 להקשיב הקשיב להקשיב verb unspecified unspecified unspecified unspecified infinitive  	O	null
+23 ל ל לצלילי preposition unspecified unspecified unspecified unspecified unspecified 0 
+23 צלילי צליל לצלילי noun masculine plural construct unspecified unspecified  	O	null
+24 ה ה התודה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 התודה תודה התודה noun feminine singular absolute unspecified unspecified  	O	null
+25 לתת נתן לתת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+26 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+27 פשוט פשוט פשוט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+28 נפלא נפלא נפלא adjective masculine singular absolute unspecified unspecified  	O	null
+29 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב ביום preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 יום יום ביום noun masculine singular absolute unspecified unspecified  	O	null
+3 מיוחד מיוחד מיוחד adjective masculine singular absolute unspecified unspecified  	O	null
+4 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כש כש כשתינוק temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+5 תינוק תינוק כשתינוק noun masculine singular absolute unspecified unspecified  	O	null
+6 נולד נולד נולד verb masculine singular unspecified 3 past  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+11 התחלה התחלה התחלה noun feminine singular absolute unspecified unspecified  	O	null
+12 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+13 שן שן שן noun feminine singular absolute unspecified unspecified  	O	null
+14 ש ש שנשרה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 נשרה נשר שנשרה verb feminine singular unspecified 3 past  	O	null
+15 ו ו ונפלה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 נפלה נפל ונפלה verb feminine singular unspecified 3 past  	O	null
+16 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ב ב במשחק preposition unspecified unspecified unspecified unspecified unspecified 0 
+18 משחק משחק במשחק noun masculine singular construct unspecified unspecified  	O	null
+19 גמדים גמד גמדים noun masculine plural absolute unspecified unspecified  	O	null
+20 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+21 כש כש כשיום temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+21 יום יום כשיום noun masculine singular construct unspecified unspecified  	O	null
+22 הולדת הולדת הולדת noun feminine singular absolute unspecified unspecified  	O	null
+23 חוגגים חגג חוגגים verb masculine plural unspecified any beinoni  	O	null
+24 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+25 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+26 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+27 מתנה התנה מתנה verb masculine singular unspecified any beinoni  	O	null
+28 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+29 סיבה סיבה סיבה noun feminine singular absolute unspecified unspecified  	O	null
+30 ל ל לאהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+30 אהבה אהבה לאהבה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב ביום preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 יום יום ביום noun masculine singular construct unspecified unspecified  	O	null
+3 משפחה משפחה משפחה noun feminine singular absolute unspecified unspecified  	O	null
+4 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כש כש כשחייל temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+5 חייל חייל כשחייל noun masculine singular absolute unspecified unspecified  	O	null
+6 התגייס התגייס התגייס verb masculine singular unspecified 3 past  	O	null
+7 ל ל לצבא preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה לצבא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הצבא צבא לצבא noun masculine singular absolute unspecified unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ב ב בחגים preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה בחגים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 החגים חג בחגים noun masculine plural absolute unspecified unspecified  	O	null
+11 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 כש כש כשחולים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+12 חולים חולה כשחולים adjective masculine plural absolute unspecified unspecified  	O	null
+13 ו ו ומבריאים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 מבריאים הבריא ומבריאים verb masculine plural unspecified any beinoni  	O	null
+14 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ב ב בסוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 סוף סוף בסוף noun masculine singular construct unspecified unspecified  	O	null
+17 שנה שנה שנה noun feminine singular absolute unspecified unspecified  	O	null
+18 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+19 כש כש כשעושים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+19 עושים עשה כשעושים participle masculine plural absolute any unspecified  	O	null
+20 מעשה מעשה מעשה noun masculine singular absolute unspecified unspecified  	O	null
+21 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+22 נפלא נפלא נפלא adjective masculine singular absolute unspecified unspecified  	O	null
+23 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+24 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+25 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+26 מתנה התנה מתנה verb masculine singular unspecified any beinoni  	O	null
+27 סיבה סיבה סיבה noun feminine singular absolute unspecified unspecified  	O	null
+28 ל ל לאהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+28 אהבה אהבה לאהבה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 מתנה מתנה מתנה noun feminine singular absolute unspecified unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+3 קופסא קופסה קופסא noun feminine singular absolute unspecified unspecified  	O	null
+4 קשורה קשור קשורה adjective feminine singular absolute unspecified unspecified  	O	null
+5 ב ב בסרט preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה בסרט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הסרט סרט בסרט noun masculine singular absolute unspecified unspecified  	O	null
+6 אפשר אפשר אפשר modal unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לתת נתן לתת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 מתנה מתנה מתנה noun feminine singular absolute unspecified unspecified  	O	null
+9 מקורית מקורי מקורית adjective feminine singular absolute unspecified unspecified  	O	null
+10 אחרת אחר אחרת adjective feminine singular absolute unspecified unspecified  	O	null
+11 ל ל לציר preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ציר ציר לציר noun masculine singular construct unspecified unspecified  	O	null
+12 ציור ציור ציור noun masculine singular absolute unspecified unspecified  	O	null
+13 ל ל לספר preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ספר ספר לספר noun masculine singular construct unspecified unspecified  	O	null
+14 בדיחה בדיחה בדיחה noun feminine singular absolute unspecified unspecified  	O	null
+15 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ל ל לשיר preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 שיר שיר לשיר noun masculine singular construct unspecified unspecified  	O	null
+17 שיר שיר שיר noun masculine singular absolute unspecified unspecified  	O	null
+18 ש ש שאיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 איש אייש שאיש verb masculine singular unspecified 3 past  	O	null
+19 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+20 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 שמע שמע שמע verb masculine singular unspecified 3 past  	O	null
+
+0 לתת... לתת... לתת... verb masculine singular unspecified 2 future  	O	null
+

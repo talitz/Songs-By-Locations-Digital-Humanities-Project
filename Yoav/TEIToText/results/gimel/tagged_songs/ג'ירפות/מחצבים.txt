@@ -1,0 +1,76 @@
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 ה ה המילים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המילים מילה המילים noun feminine plural absolute unspecified unspecified  	O	null
+2 ש ש שמחקתי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 מחקתי מחק שמחקתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 מחכות חיכה מחכות verb feminine plural unspecified any beinoni  	O	null
+4 ש ש שאחזור relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 אחזור חזר שאחזור verb masculine-and-feminine singular unspecified 1 future  	O	null
+5 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+2 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+4 דעה דעה דעה noun feminine singular absolute unspecified unspecified  	O	null
+5 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נושא נושא נושא noun masculine singular construct unspecified unspecified  	O	null
+8 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+9 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+10 ו ו ותת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 תת תת ותת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+11 חושש חשש חושש verb masculine singular unspecified any beinoni  	O	null
+12 מתת מתת מתת noun feminine singular construct unspecified unspecified  	O	null
+13 עונש עונש עונש noun masculine singular absolute unspecified unspecified  	O	null
+14 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+16 חטא חטא חטא noun masculine singular absolute unspecified unspecified  	O	null
+17 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+18 מוות מוות מוות noun masculine singular absolute unspecified unspecified  	O	null
+19 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+21 מוות מוות מוות noun masculine singular absolute unspecified unspecified  	O	null
+22 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+24 מוות מוות מוות noun masculine singular absolute unspecified unspecified  	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 ה ה המילים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המילים מילה המילים noun feminine plural absolute unspecified unspecified  	O	null
+2 ש ש שמחקתי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 מחקתי מחק שמחקתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 מחכות חיכה מחכות verb feminine plural unspecified any beinoni  	O	null
+4 ש ש שאחזור relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 אחזור חזר שאחזור verb masculine-and-feminine singular unspecified 1 future  	O	null
+5 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 ה ה המילים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המילים מילה המילים noun feminine plural absolute unspecified unspecified  	O	null
+2 מתכות מתכת מתכות noun feminine plural absolute unspecified unspecified  	O	null
+3 יקרות יקר יקרות adjective feminine plural absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מתכות מתכת מתכות noun feminine plural absolute unspecified unspecified  	O	null
+6 מחכות חיכה מחכות verb feminine plural unspecified any beinoni  	O	null
+7 ל ל למשפט preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה למשפט definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 המשפט משפט למשפט noun masculine singular absolute unspecified unspecified  	O	null
+8 ללא ללא ללא preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 השגחה השגחה השגחה noun feminine singular absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 מתנסח התנסח מתנסח verb masculine singular unspecified any beinoni  	O	null
+12 ב ב במרי preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 מרי מרי במרי noun masculine singular absolute unspecified unspecified  	O	null
+13 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 נקודה נקודה נקודה noun feminine singular absolute unspecified unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+2 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תת תת תת wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+4 דעה... דעה... דעה... adjective masculine singular construct unspecified unspecified  	O	null
+

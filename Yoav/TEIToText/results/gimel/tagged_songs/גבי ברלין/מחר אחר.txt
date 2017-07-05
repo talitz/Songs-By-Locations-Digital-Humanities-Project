@@ -1,0 +1,88 @@
+0 הדליקי הדליק הדליקי verb feminine singular unspecified 2 imperative  	O	null
+1 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה האור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 האור אור האור noun masculine singular absolute unspecified unspecified  	O	null
+3 הרימי הרים הרימי verb feminine singular unspecified 2 imperative  	O	null
+4 מבט מבט מבטך noun masculine singular absolute unspecified unspecified  
+4 ך ך מבטך possessive feminine singular unspecified 2 unspecified 0 	O	null
+5 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רע רע רע noun masculine singular absolute unspecified unspecified  	O	null
+7 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+8 יחלוף חלף יחלוף verb masculine singular unspecified 3 future  	O	null
+9 הגידי הגיד הגידי verb feminine singular unspecified 2 imperative  	O	null
+10 ל ל לנפשך preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 נפש נפש לנפשך noun feminine singular absolute unspecified unspecified  
+10 ך ך לנפשך possessive feminine singular unspecified 2 unspecified 0 	O	null
+11 מעבר עיבר מעבר verb masculine singular unspecified any beinoni  	O	null
+12 להרים הרים להרים verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 ב ב במרכבות preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 מרכבות מרכבה במרכבות noun feminine plural construct unspecified unspecified  	O	null
+14 זהב זהב זהב noun masculine singular absolute unspecified unspecified  	O	null
+15 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+16 ו ו ובא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+16 בא בא ובא verb masculine singular unspecified any beinoni  	O	null
+17 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 אחר אחר אחר preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 קדמי קדם קדמי noun masculine plural construct unspecified unspecified  	O	null
+20 פני פנים פניו noun masculine-and-feminine plural absolute unspecified unspecified  
+20 ו ו פניו possessive masculine singular unspecified 3 unspecified 0 	O	null
+21 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יבוא בא יבוא verb masculine singular unspecified 3 future  	O	null
+2 מחר מחר מחר noun masculine singular absolute unspecified unspecified  	O	null
+3 אחר אחר אחר adjective masculine singular absolute unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מחר מחר מחר noun masculine singular absolute unspecified unspecified  	O	null
+6 אחר אחר אחר adjective masculine singular absolute unspecified unspecified  	O	null
+7 ש ש שיבוא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 יבוא בא שיבוא verb masculine singular unspecified 3 future  	O	null
+8 ש ש שימהר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ימהר מיהר שימהר verb masculine singular unspecified 3 future  	O	null
+9 ש ש שימהר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 ימהר מיהר שימהר verb masculine singular unspecified 3 future  	O	null
+10 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 נדע ידע נדע verb masculine-and-feminine plural unspecified 1 future  	O	null
+12 זמנים זמן זמנים noun masculine plural absolute unspecified unspecified  	O	null
+13 טובים טוב טובים adjective masculine plural absolute unspecified unspecified  	O	null
+14 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 לבשי לבש לבשי verb feminine singular unspecified 2 imperative  	O	null
+1 שמלה שמלה שמלה noun feminine singular absolute unspecified unspecified  	O	null
+2 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 חג חג חג noun masculine singular construct unspecified unspecified  	O	null
+4 טפסי טופס טפסי noun masculine plural construct unspecified unspecified  	O	null
+5 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ראש ראש ראש noun masculine singular construct unspecified unspecified  	O	null
+7 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+8 הגביהי הגביה הגביהי verb feminine singular unspecified 2 imperative  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 למעלה למעלה למעלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+15 ש ש שאפשר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+15 אפשר אפשר שאפשר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+16 קראי קרא קראי verb feminine singular unspecified 2 imperative  	O	null
+17 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 ש ש שיבא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 יבא ייבא שיבא verb masculine singular unspecified 3 past  	O	null
+19 רכב רכב רכבו noun masculine singular absolute unspecified unspecified  
+19 ו ו רכבו possessive masculine singular unspecified 3 unspecified 0 	O	null
+20 עשוי עשוי עשוי modal masculine singular unspecified any unspecified  	O	null
+21 זהב זהב זהב noun masculine singular absolute unspecified unspecified  	O	null
+22 ו ו ושובי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+22 שובי שוב ושובי noun masculine plural construct unspecified unspecified  	O	null
+23 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+24 ביתן ביתן ביתנו noun masculine singular absolute unspecified unspecified  
+24 ו ו ביתנו possessive masculine singular unspecified 3 unspecified 0 	O	null
+25 במרכבותיו... במרכבותיו... במרכבותיו... noun masculine-and-feminine singular absolute unspecified unspecified  	O	null
+
+0 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יבוא בא יבוא verb masculine singular unspecified 3 future  	O	null
+2 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אחר... אחר... אחר... verb masculine singular unspecified 2 imperative  	O	null
+

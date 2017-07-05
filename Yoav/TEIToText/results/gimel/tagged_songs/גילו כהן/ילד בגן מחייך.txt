@@ -1,0 +1,86 @@
+0 ילד ילד ילד noun masculine singular absolute unspecified unspecified  	O	null
+1 ב ב בגן preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 גן גן בגן noun masculine singular absolute unspecified unspecified  	O	null
+2 מחייך חייך מחייך verb masculine singular unspecified any beinoni  	O	null
+3 | | | punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מסתכל הסתכל מסתכל verb masculine singular unspecified any beinoni  	O	null
+5 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+6 ל ל למצלמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 מצלמה מצלמה למצלמה noun feminine singular absolute unspecified unspecified  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 עין עין עיניו noun feminine plural absolute unspecified unspecified  
+8 ו ו עיניו possessive masculine singular unspecified 3 unspecified 0 	O	null
+9 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+10 רוחץ רחץ רוחץ verb masculine singular unspecified any beinoni  	O	null
+11 | | | punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 רץ רץ רץ verb masculine singular unspecified 3 past  	O	null
+13 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה המהומה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 המהומה מהומה המהומה noun feminine singular absolute unspecified unspecified  	O	null
+15 מ מ מתוך preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 תוך תוך מתוך noun masculine singular construct unspecified unspecified  	O	null
+16 ה ה המגלשות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 המגלשות מגלשה המגלשות noun feminine plural absolute unspecified unspecified  	O	null
+17 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+18 גולש גלש גולש verb masculine singular unspecified any beinoni  	O	null
+19 בוץ בוץ בוץ noun masculine singular absolute unspecified unspecified  	O	null
+20 ו ו ועוד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 עוד עוד ועוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+21 בוץ בוץ בוץ noun masculine singular absolute unspecified unspecified  	O	null
+22 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+23 מתנקה התנקה מתנקה verb masculine singular unspecified any beinoni  	O	null
+24 ו ו והזמן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 ה ה והזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 הזמן זמן והזמן noun masculine singular absolute unspecified unspecified  	O	null
+25 יחכה חיכה יחכה verb masculine singular unspecified 3 future  	O	null
+26 | | | punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+27 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+28 ירוץ רץ ירוץ verb masculine singular unspecified 3 future  	O	null
+29 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+30 יחלוף חלף יחלוף verb masculine singular unspecified 3 future  	O	null
+31 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+32 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+33 ה ה הילדים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+33 הילדים ילד הילדים noun masculine plural absolute unspecified unspecified  	O	null
+34 | | | punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+35 תישאר נשאר תישאר verb feminine singular unspecified 3 future  	O	null
+36 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+37 ה ה הסוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+37 הסוף סוף הסוף noun masculine singular absolute unspecified unspecified  	O	null
+38 ילד ילד ילד noun masculine singular absolute unspecified unspecified  	O	null
+39 ב ב בגן preposition unspecified unspecified unspecified unspecified unspecified 0 
+39 גן גן בגן noun masculine singular absolute unspecified unspecified  	O	null
+40 מחייך חייך מחייך verb masculine singular unspecified any beinoni  	O	null
+41 | | | punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+42 מסתכל הסתכל מסתכל verb masculine singular unspecified any beinoni  	O	null
+43 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+44 ל ל למלחמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+44 מלחמה מלחמה למלחמה noun feminine singular absolute unspecified unspecified  	O	null
+45 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+46 נעלי נעל נעליו noun masculine plural absolute unspecified unspecified  
+46 ו ו נעליו possessive masculine singular unspecified 3 unspecified 0 	O	null
+47 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+48 נועל נעל נועל verb masculine singular unspecified any beinoni  	O	null
+49 | | | punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+50 רץ רץ רץ verb masculine singular unspecified 3 past  	O	null
+51 מן מן מן preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+52 ה ה המהומה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+52 המהומה מהומה המהומה noun feminine singular absolute unspecified unspecified  	O	null
+53 ו ו והזמן conjunction unspecified unspecified unspecified unspecified unspecified 0 
+53 ה ה והזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+53 הזמן זמן והזמן noun masculine singular absolute unspecified unspecified  	O	null
+54 יחכה חיכה יחכה verb masculine singular unspecified 3 future  	O	null
+55 | | | punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+56 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+57 ירוץ רץ ירוץ verb masculine singular unspecified 3 future  	O	null
+58 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+59 יחלוף חלף יחלוף verb masculine singular unspecified 3 future  	O	null
+60 בתוך בתוך בתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+61 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+62 ילדים ילד ילדים noun masculine plural absolute unspecified unspecified  	O	null
+63 | | | punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+64 תישאר נשאר תישאר verb feminine singular unspecified 3 future  	O	null
+65 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+66 ה ה הסוף definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+66 הסוף סוף הסוף noun masculine singular absolute unspecified unspecified  	O	null
+

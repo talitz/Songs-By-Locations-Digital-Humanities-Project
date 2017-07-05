@@ -1,0 +1,76 @@
+0 הוה הוה הוה noun masculine singular absolute unspecified unspecified  	O	null
+1 עז עז עז adjective masculine singular absolute unspecified unspecified  	O	null
+2 כ כ כנמר preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה כנמר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הנמר נמר כנמר noun masculine singular absolute unspecified unspecified  	O	null
+3 ו ו וקל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 קל קל וקל adjective masculine singular absolute unspecified unspecified  	O	null
+4 כ כ כנשר preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 נשר נשר כנשר noun masculine singular absolute unspecified unspecified  	O	null
+5 רץ רץ רץ noun masculine singular absolute unspecified unspecified  	O	null
+6 כ כ כצבי preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 צבי צבי כצבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 ו ו וגיבור conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 גיבור גיבור וגיבור properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 כ כ כארי preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה כארי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הארי ארי כארי noun masculine singular absolute unspecified unspecified  	O	null
+9 לעשות עשה לעשות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+10 רצון רצון רצון noun masculine singular absolute unspecified unspecified  	O	null
+11 אביך הביך אביך verb masculine-and-feminine singular unspecified 1 future  	O	null
+12 ש ש שבשמיים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 בשמיים בשמיים שבשמיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+14 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+15 אומר אמר אומר verb masculine singular unspecified any beinoni  	O	null
+16 עז עז עז noun feminine singular construct unspecified unspecified  	O	null
+17 פנים פנים פנים noun masculine singular absolute unspecified unspecified  	O	null
+18 ל ל לגהנום preposition unspecified unspecified unspecified unspecified unspecified 0 
+18 ה ה לגהנום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 הגהנום הגהנום לגהנום noun masculine singular absolute unspecified unspecified  	O	null
+19 בוש בוש בוש properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+20 פנים פנים פנים noun masculine singular absolute unspecified unspecified  	O	null
+21 ל ל לגן preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 גן גן לגן noun masculine singular construct unspecified unspecified  	O	null
+22 עדן עדן עדן noun masculine singular absolute unspecified unspecified  	O	null
+23 איי אי אייה noun masculine plural absolute unspecified unspecified  
+23 ה ה אייה possessive feminine singular unspecified 3 unspecified 0 	O	null
+24 איי אי אייה noun masculine plural absolute unspecified unspecified  
+24 ה ה אייה possessive feminine singular unspecified 3 unspecified 0 	O	null
+25 איי אי אייה noun masculine plural absolute unspecified unspecified  
+25 ה ה אייה possessive feminine singular unspecified 3 unspecified 0 	O	null
+26 אהההה אהההה אהההה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יהי יהי יהי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 רצון רצון רצון noun masculine singular absolute unspecified unspecified  	O	null
+2 מלפני מלפני מלפניך adverb unspecified unspecified unspecified unspecified unspecified  
+2 ך ך מלפניך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+3 ה' ה' ה' noun masculine singular absolute unspecified unspecified  	O	null
+4 אלוקינו אלוקינו אלוקינו noun masculine singular absolute unspecified unspecified  	O	null
+5 ואלוקי ואלוקי ואלוקי properName unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אבותי אב אבותינו noun masculine plural absolute unspecified unspecified  
+6 נו נו אבותינו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+7 ש ש שתבנה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 תבנה בנה שתבנה verb feminine singular unspecified 3 future  	O	null
+8 בית בית בית noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה המקדש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 המקדש מקדש המקדש noun masculine singular absolute unspecified unspecified  	O	null
+10 במהרה במהרה במהרה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ב ב בימינו preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ימין ימין בימינו noun masculine singular absolute unspecified unspecified  
+11 ו ו בימינו possessive masculine singular unspecified 3 unspecified 0 	O	null
+12 ותזכינו ותזכינו ותזכינו verb feminine plural unspecified 2 future  	O	null
+13 ל ל לעבדך preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 עבד עבד לעבדך noun masculine singular absolute unspecified unspecified  
+13 ך ך לעבדך possessive feminine singular unspecified 2 unspecified 0 	O	null
+14 ב ב בלבב preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 לבב לבב בלבב noun masculine singular absolute unspecified unspecified  	O	null
+15 שלם שלם שלם adjective masculine singular absolute unspecified unspecified  	O	null
+16 ב ב בלבב preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 לבב לבב בלבב noun masculine singular absolute unspecified unspecified  	O	null
+17 שלם שלם שלם adjective masculine singular absolute unspecified unspecified  	O	null
+18 ב ב בלבב preposition unspecified unspecified unspecified unspecified unspecified 0 
+18 לבב לבב בלבב noun masculine singular absolute unspecified unspecified  	O	null
+19 ש ש שלם... relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+19 לם... לם... שלם... adjective masculine singular construct unspecified unspecified  	O	null
+

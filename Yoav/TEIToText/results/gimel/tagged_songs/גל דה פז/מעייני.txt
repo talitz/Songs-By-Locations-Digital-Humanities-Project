@@ -1,0 +1,205 @@
+0 סיפור סיפור סיפור noun masculine singular construct unspecified unspecified  	O	null
+1 מסע מסע מסע noun masculine singular absolute unspecified unspecified  	O	null
+2 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ארשום רשם ארשום verb masculine-and-feminine singular unspecified 1 future  	O	null
+5 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+9 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אביט הביט אביט verb masculine-and-feminine singular unspecified 1 future  	O	null
+1 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 תוך תוך תוך noun masculine singular construct unspecified unspecified  	O	null
+3 תוכי תוכי תוכי noun masculine singular absolute unspecified unspecified  	O	null
+4 ( ( ( punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+7 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 יכאב כאב יכאב verb masculine singular unspecified 3 future  	O	null
+9 ) ) ) punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+12 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+12 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+13 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+14 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+1 עולים עלה עולים verb masculine plural unspecified any beinoni  	O	null
+2 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ממלאים מילא ממלאים verb masculine plural unspecified any beinoni  	O	null
+5 חלל חלל חלל noun masculine singular absolute unspecified unspecified  	O	null
+6 חסר חסר חסר adjective masculine singular absolute unspecified unspecified  	O	null
+7 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 זיכרון זיכרון זיכרון noun masculine singular absolute unspecified unspecified  	O	null
+9 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 עיני עין עיני noun feminine plural construct unspecified unspecified  	O	null
+12 ניצב ניצב ניצב noun masculine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רגשות רגש רגשות noun masculine plural absolute unspecified unspecified  	O	null
+1 זורמים זרם זורמים verb masculine plural unspecified any beinoni  	O	null
+2 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 ו ו וליבי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ליבי ליבי וליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 דופק דופק דופק noun masculine singular absolute unspecified unspecified  	O	null
+5 מהר מהר מהר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+9 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+14 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+14 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+15 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+16 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 סיפור סיפור סיפור noun masculine singular absolute unspecified unspecified  	O	null
+1 יקר יקר יקר adjective masculine singular absolute unspecified unspecified  	O	null
+2 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ארקום רקם ארקום verb masculine-and-feminine singular unspecified 1 future  	O	null
+5 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+5 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+6 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+9 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 קימורי קימור קימורי noun masculine plural construct unspecified unspecified  	O	null
+2 גופי גוף גופי noun masculine plural construct unspecified unspecified  	O	null
+3 סיפור סיפור סיפור noun masculine singular construct unspecified unspecified  	O	null
+4 חיי חיים חיי noun masculine plural construct unspecified unspecified  	O	null
+5 הוכתב הוכתב הוכתב verb masculine singular unspecified 3 past  	O	null
+6 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+8 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+8 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+9 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+10 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 זכרונות זיכרון זכרונות noun masculine plural absolute unspecified unspecified  	O	null
+1 עולים עלה עולים verb masculine plural unspecified any beinoni  	O	null
+2 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ממלאים מילא ממלאים verb masculine plural unspecified any beinoni  	O	null
+5 חלל חלל חלל noun masculine singular absolute unspecified unspecified  	O	null
+6 חסר חסר חסר adjective masculine singular absolute unspecified unspecified  	O	null
+7 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 זיכרון זיכרון זיכרון noun masculine singular absolute unspecified unspecified  	O	null
+9 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מול מול מול noun masculine singular construct unspecified unspecified  	O	null
+11 עיני עיני עיני adjective masculine singular absolute unspecified unspecified  	O	null
+12 נכתב נכתב נכתב verb masculine singular unspecified 3 past  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רגשות רגש רגשות noun masculine plural absolute unspecified unspecified  	O	null
+1 זורמים זרם זורמים verb masculine plural unspecified any beinoni  	O	null
+2 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 ו ו וליבי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ליבי ליבי וליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 דופק דופק דופק noun masculine singular absolute unspecified unspecified  	O	null
+5 מהר מהר מהר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+2 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+2 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+3 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+4 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+6 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+6 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+7 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+1 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+2 בלי בלי בלי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 דעת דעת דעת noun feminine singular absolute unspecified unspecified  	O	null
+4 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 נוגעת נגע נוגעת verb feminine singular unspecified any beinoni  	O	null
+5 ו ו והזיכרונות conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה והזיכרונות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הזיכרונות זיכרון והזיכרונות noun masculine plural absolute unspecified unspecified  	O	null
+6 עולים עלה עולים verb masculine plural unspecified any beinoni  	O	null
+7 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ממלאים מילא ממלאים verb masculine plural unspecified any beinoni  	O	null
+10 חלל חלל חלל noun masculine singular absolute unspecified unspecified  	O	null
+11 חסר חסר חסר adjective masculine singular absolute unspecified unspecified  	O	null
+12 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 זיכרון זיכרון זיכרון noun masculine singular absolute unspecified unspecified  	O	null
+14 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מול מול מול noun masculine singular construct unspecified unspecified  	O	null
+16 עיני עיני עיני adjective masculine singular absolute unspecified unspecified  	O	null
+17 נכתב נכתב נכתב verb masculine singular unspecified 3 past  	O	null
+18 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רגשות רגש רגשות noun masculine plural absolute unspecified unspecified  	O	null
+1 זורמים זרם זורמים verb masculine plural unspecified any beinoni  	O	null
+2 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 ו ו וליבי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ליבי ליבי וליבי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 דופק דופק דופק noun masculine singular absolute unspecified unspecified  	O	null
+5 מהר מהר מהר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+9 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+9 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+10 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+11 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+13 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+13 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+14 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+15 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 סיפור סיפור סיפור noun masculine singular absolute unspecified unspecified  	O	null
+1 יקר יקר יקר adjective masculine singular absolute unspecified unspecified  	O	null
+2 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+6 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 יכאב כאב יכאב verb masculine singular unspecified 3 future  	O	null
+8 מתוך מתוך מתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 מעייני מעיינים מעייני noun masculine plural construct unspecified unspecified  	O	null
+10 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+10 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 אשאב שאב אשאב verb masculine-and-feminine singular unspecified 1 future  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

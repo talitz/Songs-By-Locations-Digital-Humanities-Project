@@ -1,0 +1,75 @@
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 לדאוג דאג לדאוג verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+4 מבקשת ביקש מבקשת verb feminine singular unspecified any beinoni  	O	null
+5 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 הרבה הרבה הרבה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 שנים שנה שנים noun feminine plural absolute unspecified unspecified  	O	null
+9 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+10 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+11 לפני לפני לפני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ש ש שאני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 אני הוא שאני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+13 הולכת הלך הולכת verb feminine singular unspecified any beinoni  	O	null
+14 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 תיכנע נכנע תיכנע verb feminine singular unspecified 3 future  	O	null
+16 עכשיו עכשיו עכשיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חושבת חשב חושבת verb feminine singular unspecified any beinoni  	O	null
+3 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 כש כש כשהיא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+4 היא הוא כשהיא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 את את איתו at-preposition unspecified unspecified unspecified unspecified unspecified  
+5 ו ו איתו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 מ מ מאוהב preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 אוהב אהב מאוהב participle masculine singular absolute any unspecified  	O	null
+2 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+3 ממהרת מיהר ממהרת verb feminine singular unspecified any beinoni  	O	null
+4 ל ל לאהבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 אהבה אהבה לאהבה noun feminine singular absolute unspecified unspecified  	O	null
+5 של של שלה shel-preposition unspecified unspecified unspecified unspecified unspecified  
+5 ה ה שלה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+6 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+7 אחכה חיכה אחכה verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+8 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+9 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+10 ה ה הלילה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הלילה לילה הלילה noun masculine singular absolute unspecified unspecified  	O	null
+11 ב ב בבוקר preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה בבוקר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הבוקר בוקר בבוקר noun masculine singular absolute unspecified unspecified  	O	null
+12 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+13 תבוא בא תבוא verb feminine singular unspecified 3 future  	O	null
+14 אל אל אלי preposition unspecified unspecified unspecified unspecified unspecified  
+14 י י אלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 אלא אלא אלא conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חושבת חשב חושבת verb feminine singular unspecified any beinoni  	O	null
+3 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 כש כש כשהיא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+4 היא הוא כשהיא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 את את איתו at-preposition unspecified unspecified unspecified unspecified unspecified  
+5 ו ו איתו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+
+0 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שעה שעה שעה noun feminine singular absolute unspecified unspecified  	O	null
+3 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+4 מאוכזבת אוכזב מאוכזבת verb feminine singular unspecified any beinoni  	O	null
+5 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תנסה ניסה תנסה verb feminine singular unspecified 3 future  	O	null
+7 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+

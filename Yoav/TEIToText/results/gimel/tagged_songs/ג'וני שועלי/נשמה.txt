@@ -1,0 +1,20 @@
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תנסה ניסה תנסה verb feminine singular unspecified 3 future  	O	null
+2 תצליח הצליח תצליח verb feminine singular unspecified 3 future  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 עצמו עצמו עצמך pronoun unspecified unspecified unspecified unspecified unspecified  
+4 ך ך עצמך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+5 תפתיע הפתיע תפתיע verb feminine singular unspecified 3 future  	O	null
+
+0 תעשה תיעש תעשה verb feminine singular unspecified 3 past  	O	null
+1 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ל ל לנשמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 נשמה נשמה לנשמה noun feminine singular absolute unspecified unspecified  	O	null
+3 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+3 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+4 תעשה תיעש תעשה verb feminine singular unspecified 3 past  	O	null
+5 טוב טוב טוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ל ל לעצמך preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 עצמו עצמו לעצמך pronoun unspecified unspecified unspecified unspecified unspecified  
+6 ך ך לעצמך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+

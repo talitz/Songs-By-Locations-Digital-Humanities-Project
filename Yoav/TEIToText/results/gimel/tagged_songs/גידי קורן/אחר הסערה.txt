@@ -1,0 +1,67 @@
+0 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 חוף חוף חוף noun masculine singular absolute unspecified unspecified  	O	null
+2 עייף עייף עייף adjective masculine singular absolute unspecified unspecified  	O	null
+3 אחר אחר אחר preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הסערה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הסערה סערה הסערה noun feminine singular absolute unspecified unspecified  	O	null
+5 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עיר עיר עיר noun feminine singular absolute unspecified unspecified  	O	null
+7 טבועה טבוע טבועה adjective feminine singular absolute unspecified unspecified  	O	null
+8 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+10 זרה זר זרה adjective feminine singular absolute unspecified unspecified  	O	null
+11 כחמוקים כחמוקים כחמוקים adjective masculine plural absolute unspecified unspecified  	O	null
+12 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ים ים ים noun masculine singular absolute unspecified unspecified  	O	null
+14 ש ש שחבוקים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 חבוקים חבק שחבוקים participle masculine plural absolute any unspecified  	O	null
+15 אצות אצה אצות noun feminine plural absolute unspecified unspecified  	O	null
+16 רכות רך רכות adjective feminine plural absolute unspecified unspecified  	O	null
+17 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+18 נהיה נהייה נהיה noun feminine singular absolute unspecified unspecified  	O	null
+19 כ כ כאשד preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 אשד אשד כאשד noun masculine singular absolute unspecified unspecified  	O	null
+20 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 עריה עריה עריה noun feminine singular absolute unspecified unspecified  	O	null
+22 גלים גל גלים noun masculine plural absolute unspecified unspecified  	O	null
+23 שחורים שחור שחורים adjective masculine plural absolute unspecified unspecified  	O	null
+24 ש ש שאחריהם relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+24 אחרי אחרי שאחריהם preposition unspecified unspecified unspecified unspecified unspecified  
+24 הם הם שאחריהם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+25 באים בא באים verb masculine plural unspecified any beinoni  	O	null
+26 ו ו ונשברים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+26 נשברים נשבר ונשברים verb masculine plural unspecified any beinoni  	O	null
+27 גלי גל גלי noun masculine plural construct unspecified unspecified  	O	null
+28 ה ה הים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+28 הים ים הים noun masculine singular absolute unspecified unspecified  	O	null
+29 ה ה הלבנים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+29 הלבנים לבן הלבנים adjective masculine plural absolute unspecified unspecified  	O	null
+30 נותנים נתן נותנים verb masculine plural unspecified any beinoni  	O	null
+31 ב ב באור preposition unspecified unspecified unspecified unspecified unspecified 0 
+31 אור אור באור noun masculine singular absolute unspecified unspecified  	O	null
+32 מלא מלא מלא adjective masculine singular absolute unspecified unspecified  	O	null
+33 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+34 ה ה הדברים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+34 הדברים דבר הדברים noun masculine plural absolute unspecified unspecified  	O	null
+35 ה ה המתוקים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+35 המתוקים מתוק המתוקים adjective masculine plural absolute unspecified unspecified  	O	null
+36 ל ל לעין preposition unspecified unspecified unspecified unspecified unspecified 0 
+36 עין עין לעין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+37 ו ו ומרים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+37 מרים מרים ומרים properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+38 ל ל ללב preposition unspecified unspecified unspecified unspecified unspecified 0 
+38 לב לב ללב noun masculine singular absolute unspecified unspecified  	O	null
+39 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 עיר עיר עיר noun feminine singular absolute unspecified unspecified  	O	null
+1 טבועה טבוע טבועה adjective feminine singular absolute unspecified unspecified  	O	null
+2 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+4 זרה זר זרה adjective feminine singular absolute unspecified unspecified  	O	null
+5 חוף חוף חוף noun masculine singular absolute unspecified unspecified  	O	null
+6 עייף עייף עייף adjective masculine singular absolute unspecified unspecified  	O	null
+7 אחר אחר אחר preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הסערה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הסערה סערה הסערה noun feminine singular absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

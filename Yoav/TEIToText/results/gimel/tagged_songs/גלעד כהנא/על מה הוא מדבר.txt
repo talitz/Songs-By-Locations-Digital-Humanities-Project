@@ -1,0 +1,153 @@
+0 בא בא בא verb masculine singular unspecified 3 past  	O	null
+1 בן בן בן noun masculine singular construct unspecified unspecified  	O	null
+2 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+3 ו ו ואומר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 אומר אמר ואומר verb masculine singular unspecified any beinoni  	O	null
+4 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+5 טועה טעה טועה verb masculine singular unspecified any beinoni  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+8 טועה טעה טועה verb masculine singular unspecified any beinoni  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+11 טועה טעה טועה verb masculine singular unspecified any beinoni  	O	null
+12 יותר.. יותר.. יותר.. participle feminine plural construct any unspecified  	O	null
+13 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 מ מ מבן preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 בן בן מבן noun masculine singular construct unspecified unspecified  	O	null
+15 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+16 סביר סביר סביר adjective masculine singular absolute unspecified unspecified  	O	null
+17 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 מ מ מבן preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 בן בן מבן noun masculine singular construct unspecified unspecified  	O	null
+20 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+21 אכיל אכיל אכיל adjective masculine singular absolute unspecified unspecified  	O	null
+22 יותר יותר יותר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+23 מ מ מבן preposition unspecified unspecified unspecified unspecified unspecified 0 
+23 בן בן מבן noun masculine singular construct unspecified unspecified  	O	null
+24 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+25 ש ש שמנסה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+25 מנסה ניסה שמנסה verb masculine singular unspecified any beinoni  	O	null
+26 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+26 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+27 טועה טעה טועה verb masculine singular unspecified any beinoni  	O	null
+28 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+29 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+30 טועה טעה טועה verb masculine singular unspecified any beinoni  	O	null
+31 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+32 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+32 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+33 טועה.. טועה.. טועה.. participle feminine singular construct any unspecified  	O	null
+
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+3 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+4 כש כש כשהוא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+4 הוא הוא כשהוא pronoun masculine singular unspecified 3 unspecified  	O	null
+5 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+6 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+6 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הראש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הראש ראש הראש noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ומנסה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 מנסה ניסה ומנסה verb masculine singular unspecified any beinoni  	O	null
+10 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לשחזר שחזר לשחזר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה העניין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 העניין עניין העניין noun masculine singular absolute unspecified unspecified  	O	null
+14 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+16 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+17 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+18 כש כש כשהוא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+18 הוא הוא כשהוא pronoun masculine singular unspecified 3 unspecified  	O	null
+19 מביא הביא מביא verb masculine singular unspecified any beinoni  	O	null
+20 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה הראש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הראש ראש הראש noun masculine singular absolute unspecified unspecified  	O	null
+22 לכאן?.. לכאן?.. לכאן?.. properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+23 כש כש כשהוא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+23 הוא הוא כשהוא pronoun masculine singular unspecified 3 unspecified  	O	null
+24 מביא הביא מביא verb masculine singular unspecified any beinoni  	O	null
+25 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+26 ה ה הראש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+26 הראש ראש הראש noun masculine singular absolute unspecified unspecified  	O	null
+27 ל ל למצב preposition unspecified unspecified unspecified unspecified unspecified 0 
+27 ה ה למצב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+27 המצב מצב למצב noun masculine singular absolute unspecified unspecified  	O	null
+28 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+29 כאן כאן כאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+30 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+31 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+3 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+4 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+2 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+3 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ה ה הבן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הבן בן הבן noun masculine singular absolute unspecified unspecified  	O	null
+1 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+2 אומר אמר אומר verb masculine singular unspecified any beinoni  	O	null
+3 ש ש שאני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 אני הוא שאני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 טועה טעה טועה verb masculine singular unspecified any beinoni  	O	null
+5 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+2 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+3 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+4 כש כש כשהוא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+4 הוא הוא כשהוא pronoun masculine singular unspecified 3 unspecified  	O	null
+5 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+6 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+6 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הראש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הראש ראש הראש noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ומנסה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 מנסה ניסה ומנסה verb masculine singular unspecified any beinoni  	O	null
+10 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לשחזר שחזר לשחזר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+12 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה העניין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 העניין עניין העניין noun masculine singular absolute unspecified unspecified  	O	null
+14 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+16 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+17 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+18 כש כש כשהוא temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+18 הוא הוא כשהוא pronoun masculine singular unspecified 3 unspecified  	O	null
+19 מביא הביא מביא verb masculine singular unspecified any beinoni  	O	null
+20 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה הראש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הראש ראש הראש noun masculine singular absolute unspecified unspecified  	O	null
+22 לכאן?.. לכאן?.. לכאן?.. properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+23 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+24 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+25 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+26 לעניין.. לעניין.. לעניין.. verb masculine plural unspecified any beinoni  	O	null
+27 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+28 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+29 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+30 מדבר דיבר מדבר verb masculine singular unspecified any beinoni  	O	null
+31 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

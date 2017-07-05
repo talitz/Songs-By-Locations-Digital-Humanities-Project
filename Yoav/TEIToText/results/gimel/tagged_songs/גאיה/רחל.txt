@@ -1,0 +1,102 @@
+0 כש כש כשהכבסים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה כשהכבסים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הכבסים כבסים כשהכבסים noun masculine plural absolute unspecified unspecified  	O	null
+1 יצאו יצא יצאו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה המרעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המרעה מרעה המרעה noun masculine singular absolute unspecified unspecified  	O	null
+4 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 ה ה הגברים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הגברים גבר הגברים noun masculine plural absolute unspecified unspecified  	O	null
+6 הלכו הלך הלכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+7 את את איתם at-preposition unspecified unspecified unspecified unspecified unspecified  
+7 הם הם איתם pronomial masculine plural unspecified 3 unspecified 0 	O	null
+8 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+9 ראתה ראה ראתה verb feminine singular unspecified 3 past  	O	null
+10 ענן ענן ענן noun masculine singular absolute unspecified unspecified  	O	null
+11 אבק אבק אבק noun masculine singular absolute unspecified unspecified  	O	null
+12 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+13 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+14 ראתה ראה ראתה verb feminine singular unspecified 3 past  	O	null
+15 ענן ענן ענן noun masculine singular absolute unspecified unspecified  	O	null
+16 לבן לבן לבן adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 כש כש כשחלילים temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 חלילים חליל כשחלילים noun masculine plural absolute unspecified unspecified  	O	null
+1 בכו בכה בכו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 ב ב בקצה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בקצה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הקצה קצה בקצה noun masculine singular absolute unspecified unspecified  	O	null
+3 מ מ מדבר preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 דבר דבר מדבר noun masculine singular absolute unspecified unspecified  	O	null
+4 ו ו ועננים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 עננים ענן ועננים noun masculine plural absolute unspecified unspecified  	O	null
+5 ירדו ירד ירדו verb masculine-and-feminine plural unspecified 3 past  	O	null
+6 נמוך נמוך נמוך adjective masculine singular absolute unspecified unspecified  	O	null
+7 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הבאר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הבאר באר הבאר noun feminine singular absolute unspecified unspecified  	O	null
+9 הגיע הגיע הגיע verb masculine singular unspecified 3 past  	O	null
+10 גבר גבר גבר noun masculine singular absolute unspecified unspecified  	O	null
+11 זר זר זר adjective masculine singular absolute unspecified unspecified  	O	null
+12 כ כ כמגדלור preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה כמגדלור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 המגדלור מגדלור כמגדלור noun masculine singular absolute unspecified unspecified  	O	null
+13 ב ב בים preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 ים ים בים noun masculine singular absolute unspecified unspecified  	O	null
+14 חשוך חשוך חשוך adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 עיניים עין עיניים noun feminine plural absolute unspecified unspecified  	O	null
+1 זוג זוג זוג noun masculine singular absolute unspecified unspecified  	O	null
+2 תמרים תמר תמרים noun masculine plural absolute unspecified unspecified  	O	null
+3 ש ש שפתיים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 פתיים פתי שפתיים noun masculine plural absolute unspecified unspecified  	O	null
+4 אש אש אש noun feminine singular absolute unspecified unspecified  	O	null
+5 למעלה למעלה למעלה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נשרים נשר נשרים noun masculine plural absolute unspecified unspecified  	O	null
+7 ו ו ודמה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 דמה דמה ודמה verb masculine singular unspecified 3 past  	O	null
+8 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+8 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+9 גועש געש גועש verb masculine singular unspecified any beinoni  	O	null
+10 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 סנה סנה סנה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+12 בוער בער בוער verb masculine singular unspecified any beinoni  	O	null
+
+0 ידי יד ידי noun feminine plural construct unspecified unspecified  	O	null
+1 ה ה הזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הזר זר הזר noun masculine singular absolute unspecified unspecified  	O	null
+2 לאט לאט לאט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מלטפות ליטף מלטפות verb feminine plural unspecified any beinoni  	O	null
+4 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+5 ש ש שכרון relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 כ כ שכרון preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 רון רון שכרון properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 מוכר מוכר מוכר adjective masculine singular absolute unspecified unspecified  	O	null
+7 מציף הציף מציף verb masculine singular unspecified any beinoni  	O	null
+8 ו ו וממלא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ממלא מילא וממלא verb masculine singular unspecified any beinoni  	O	null
+9 ידי יד ידי noun feminine plural construct unspecified unspecified  	O	null
+10 ה ה הזר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הזר זר הזר noun masculine singular absolute unspecified unspecified  	O	null
+11 לאט לאט לאט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 משגעות שיגע משגעות verb feminine plural unspecified any beinoni  	O	null
+13 את את אותה at-preposition unspecified unspecified unspecified unspecified unspecified  
+13 ה ה אותה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+14 ו ו ודמה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 דמה דמה ודמה verb masculine singular unspecified 3 past  	O	null
+15 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+15 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+16 גועש געש גועש verb masculine singular unspecified any beinoni  	O	null
+17 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 סנה סנה סנה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+19 בוער בער בוער verb masculine singular unspecified any beinoni  	O	null
+20 ו ו ודמה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 דמה דמה ודמה verb masculine singular unspecified 3 past  	O	null
+21 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+21 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+22 גועש געש גועש verb masculine singular unspecified any beinoni  	O	null
+23 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+24 סנה סנה סנה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+

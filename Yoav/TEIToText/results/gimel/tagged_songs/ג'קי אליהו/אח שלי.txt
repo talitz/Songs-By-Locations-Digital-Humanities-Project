@@ -1,0 +1,135 @@
+0 אח אח אח noun masculine singular absolute unspecified unspecified  	O	null
+1 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תתייאש התייאש תתייאש verb feminine singular unspecified 3 future  	O	null
+4 תסתפק הסתפק תסתפק verb feminine singular unspecified 3 future  	O	null
+5 ב ב במה preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 מה מה במה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+7 בטח בטח בטח adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ב ב בהשם preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 השם השם בהשם properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+9 אלוקיך אלוקיך אלוקיך properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+10 ו ו ואל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 אל אל ואל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 תיפול נפל תיפול verb feminine singular unspecified 3 future  	O	null
+12 ב ב בדעתך preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 דעת דעה בדעתך noun feminine singular absolute unspecified unspecified  
+12 ך ך בדעתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 רבנו רב רבנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+1 נחמן נחמן נחמן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ה ה הקדוש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הקדוש קדוש הקדוש adjective masculine singular absolute unspecified unspecified  	I_PERS	null
+3 אומר אמר אומר verb masculine singular unspecified any beinoni  	O	null
+4 ש ש שכל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 כל כול שכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שעל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 על על שעל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה האדם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 האדם אדם האדם noun masculine singular absolute unspecified unspecified  	O	null
+8 עובר עבר עובר verb masculine singular unspecified any beinoni  	O	null
+9 ש ש שיישאר relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 יישאר נשאר שיישאר verb masculine singular unspecified 3 future  	O	null
+10 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 נחוש נחוש נחוש adjective masculine singular absolute unspecified unspecified  	O	null
+14 ו ו ולא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 לא לא ולא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ליפול נפל ליפול verb unspecified unspecified unspecified unspecified infinitive  	O	null
+16 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ה ה הייאוש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 הייאוש ייאוש הייאוש noun masculine singular absolute unspecified unspecified  	O	null
+18 תן תן תן noun masculine singular absolute unspecified unspecified  	O	null
+19 ל ל לעצמך preposition unspecified unspecified unspecified unspecified unspecified 0 
+19 עצמו עצמו לעצמך pronoun unspecified unspecified unspecified unspecified unspecified  
+19 ך ך לעצמך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+20 דקה דקה דקה noun feminine singular absolute unspecified unspecified  	O	null
+21 או או או conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+22 שתיים CARD2 שתיים numeral feminine singular absolute unspecified unspecified  	O	null
+23 הבט הביט הבט verb masculine singular unspecified 2 imperative  	O	null
+24 גבוה גבוה גבוה adjective masculine singular absolute unspecified unspecified  	O	null
+25 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+26 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+26 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+27 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+28 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+29 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+30 ש ש שחפץ relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+30 חפץ חפץ שחפץ verb masculine singular unspecified 3 past  	O	null
+31 חפץ חפץ חפץ noun masculine singular construct unspecified unspecified  	O	null
+32 לב לב לבך noun masculine singular absolute unspecified unspecified  
+32 ך ך לבך possessive feminine singular unspecified 2 unspecified 0 	O	null
+33 תתפלל התפלל תתפלל verb feminine singular unspecified 3 future  	O	null
+34 ל ל לבוראך preposition unspecified unspecified unspecified unspecified unspecified 0 
+34 בורא בורא לבוראך noun masculine singular absolute unspecified unspecified  
+34 ך ך לבוראך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 אח אח אח noun masculine singular absolute unspecified unspecified  	O	null
+1 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תתייאש... תתייאש... תתייאש... verb masculine singular unspecified 2 future  	O	null
+
+0 רבן רבן רבנו noun masculine singular absolute unspecified unspecified  
+0 ו ו רבנו possessive masculine singular unspecified 3 unspecified 0 	O	null
+1 ה ה הקדוש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הקדוש קדוש הקדוש adjective masculine singular absolute unspecified unspecified  	O	null
+2 צדיק צדיק צדיק adjective masculine singular absolute unspecified unspecified  	O	null
+3 עולם עולם עולם noun masculine singular absolute unspecified unspecified  	O	null
+4 זורע זרע זורע verb masculine singular unspecified any beinoni  	O	null
+5 ישועות ישועה ישועות noun feminine plural absolute unspecified unspecified  	O	null
+6 ב ב בכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 כל כול בכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+7 אדם אדם אדם noun masculine singular absolute unspecified unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ש ש שטעם relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 טעם טעם שטעם verb masculine singular unspecified 3 past  	O	null
+11 ו ו והתקרב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 התקרב התקרב והתקרב verb masculine singular unspecified 3 past  	O	null
+12 רבנו רב רבנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+13 מרפא מרפא מרפא noun masculine singular absolute unspecified unspecified  	O	null
+14 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+15 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 כאב כאב כאב noun masculine singular absolute unspecified unspecified  	I_DATE	null
+17 אח אח אח noun masculine singular absolute unspecified unspecified  	O	null
+18 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+18 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+19 לנצח לנצח לנצח adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+20 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 תשכח שכח תשכח verb feminine singular unspecified 3 future  	O	null
+22 ש ש שיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+22 יש יש שיש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+23 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+24 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+25 ה ה השם definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+25 השם שם השם noun masculine singular absolute unspecified unspecified  	O	null
+26 יתברך התברך יתברך verb masculine singular unspecified 3 future  	O	null
+27 כוון כוון כוון noun masculine singular absolute unspecified unspecified  	O	null
+28 אל אל אליו preposition unspecified unspecified unspecified unspecified unspecified  
+28 ו ו אליו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+29 ו ו ושפוך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+29 שפוך שפוך ושפוך adjective masculine singular absolute unspecified unspecified  	O	null
+30 ל ל לו preposition unspecified unspecified unspecified unspecified unspecified  
+30 ו ו לו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+31 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+32 לב לב לבך noun masculine singular absolute unspecified unspecified  
+32 ך ך לבך possessive feminine singular unspecified 2 unspecified 0 	O	null
+33 ו ו ותפגוש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+33 תפגוש פגש ותפגוש verb feminine singular unspecified 3 future  	O	null
+34 ב ב באור preposition unspecified unspecified unspecified unspecified unspecified 0 
+34 אור אור באור noun masculine singular absolute unspecified unspecified  	O	null
+35 ו ו ושמחה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+35 שמחה שמחה ושמחה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 אח אח אח noun masculine singular absolute unspecified unspecified  	O	null
+1 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תתייאש... תתייאש... תתייאש... verb masculine singular unspecified 2 future  	O	null
+

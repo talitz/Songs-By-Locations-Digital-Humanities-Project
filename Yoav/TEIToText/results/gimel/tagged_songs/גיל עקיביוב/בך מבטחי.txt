@@ -1,0 +1,81 @@
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תמצאני תמצאני תמצאני verb feminine singular unspecified 2 future  	O	null
+2 צרה צרה צרה noun feminine singular absolute unspecified unspecified  	O	null
+3 פני פני פני noun masculine singular absolute unspecified unspecified  	O	null
+4 אל אל אליך preposition unspecified unspecified unspecified unspecified unspecified  
+4 ך ך אליך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+5 אשא נשא אשא verb masculine-and-feminine singular unspecified 1 future  	O	null
+6 ב ב בך preposition unspecified unspecified unspecified unspecified unspecified  
+6 ך ך בך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+7 ב ב בטחי preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 טחי טח בטחי participle masculine plural construct any unspecified  	O	null
+8 תושיעני תושיעני תושיעני verb masculine plural unspecified any beinoni  	O	null
+9 ו ו וצדקתך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 צדקת צדיק וצדקתך noun feminine singular absolute unspecified unspecified  
+9 ך ך וצדקתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+10 ל ל לעד preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 עד עד לעד noun masculine singular absolute unspecified unspecified  	O	null
+11 תנחני תנחני תנחני adjective masculine plural construct unspecified unspecified  	O	null
+
+0 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אלוקי אלוקי אלוקי adjective masculine singular absolute unspecified unspecified  	O	null
+2 את את אתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+2 ה ה אתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+3 בטרם בטרם בטרם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אימי אימים אימי noun masculine plural construct unspecified unspecified  	O	null
+5 את את אותי at-preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י אותי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 ילדה ילד ילדה noun feminine singular absolute unspecified unspecified  	O	null
+7 גופי גוף גופי noun masculine plural construct unspecified unspecified  	O	null
+8 כ כ כאבן preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 אבן אבן כאבן noun feminine singular absolute unspecified unspecified  	O	null
+9 דוממת דומם דוממת adjective feminine singular absolute unspecified unspecified  	O	null
+10 קרה קרה קרה verb masculine singular unspecified 3 past  	O	null
+11 לולא לולא לולא conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 נתת נתן נתת verb feminine singular unspecified 2 past  	O	null
+13 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+13 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+14 נשמה נשמה נשמה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ב ב בדרך preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 דרך דרך בדרך noun feminine singular construct unspecified unspecified  	O	null
+2 אטעה טעה אטעה verb masculine-and-feminine singular unspecified 1 future  	O	null
+3 אפלה אפלה אפלה noun feminine singular absolute unspecified unspecified  	O	null
+4 דרך דרך דרכי preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י דרכי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 תהיה תהייה תהיה noun feminine singular absolute unspecified unspecified  	O	null
+6 מ מ מחושך preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 חושך חושך מחושך noun masculine singular absolute unspecified unspecified  	O	null
+7 אלוקי אלוקי אלוקי properName unspecified unspecified unspecified unspecified unspecified  	O	null
+8 תוציאני תוציאני תוציאני preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 יציר יציר יציר noun masculine singular absolute unspecified unspecified  	O	null
+10 כ כ כפיך preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 פי פה כפיך noun masculine singular absolute unspecified unspecified  
+10 ך ך כפיך possessive feminine singular unspecified 2 unspecified 0 	O	null
+11 אני אני אני noun masculine singular absolute unspecified unspecified  	O	null
+
+0 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אלוקי אלוקי אלוקי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כש כש כשחרב temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+0 חרב חרב כשחרב verb masculine singular unspecified 3 past  	O	null
+1 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 צוואר צוואר צוואר noun masculine singular absolute unspecified unspecified  	O	null
+3 יודע ידע יודע verb masculine singular unspecified any beinoni  	O	null
+4 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+6 תפילת תפילה תפילתי noun feminine singular absolute unspecified unspecified  
+6 י י תפילתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+7 גזרה גזירה גזרה noun feminine singular absolute unspecified unspecified  	O	null
+8 תבטל בטל תבטל verb feminine singular unspecified 3 future  	O	null
+9 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+10 אשיר שר אשיר verb masculine-and-feminine singular unspecified 1 future  	O	null
+11 ו ו ואהלל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 אהלל הילל ואהלל verb masculine-and-feminine singular unspecified 1 future  	O	null
+

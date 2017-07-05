@@ -1,0 +1,79 @@
+0 ה ה הכנרת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הכנרת הכנרת הכנרת noun feminine singular absolute unspecified unspecified  	O	null
+1 מלאה מלא מלאה adjective feminine singular absolute unspecified unspecified  	O	null
+2 ב ב בים preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ים ים בים noun masculine singular construct unspecified unspecified  	O	null
+3 נוזלים נוזל נוזלים noun masculine plural absolute unspecified unspecified  	O	null
+4 מ מ מהצפון preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה מהצפון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הצפון צפון מהצפון noun masculine singular absolute unspecified unspecified  	O	null
+5 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+6 חבר חבר חבר noun masculine singular construct unspecified unspecified  	O	null
+7 ה ה הפתיל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הפתיל פתיל הפתיל noun masculine singular absolute unspecified unspecified  	O	null
+8 ו ו ושים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 שי שי ושים noun masculine singular absolute unspecified unspecified  
+8 ם ם ושים possessive masculine plural unspecified 3 unspecified 0 	O	null
+9 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ש ש שים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 ים ים שים noun masculine singular absolute unspecified unspecified  	O	null
+11 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ב ב בסוף preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 סוף סוף בסוף noun masculine singular construct unspecified unspecified  	O	null
+13 שעון שעון שעון noun masculine singular absolute unspecified unspecified  	O	null
+
+0 ה ה המדינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המדינה מדינה המדינה noun feminine singular absolute unspecified unspecified  	O	null
+1 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מלאה מלא מלאה adjective feminine singular absolute unspecified unspecified  	O	null
+3 ב ב בים preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ים ים בים noun masculine singular construct unspecified unspecified  	O	null
+4 קריאות קריאה קריאות noun feminine plural absolute unspecified unspecified  	O	null
+5 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תדהמה תדהמה תדהמה noun feminine singular absolute unspecified unspecified  	O	null
+7 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ראש ראש ראש noun masculine singular construct unspecified unspecified  	O	null
+9 ה ה הברוש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 הברוש ברוש הברוש noun masculine singular absolute unspecified unspecified  	O	null
+10 טיפס טיפס טיפס verb masculine singular unspecified 3 past  	O	null
+11 ו ו וחזיר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 חזיר חזיר וחזיר noun masculine singular absolute unspecified unspecified  	O	null
+12 ו ו והופ conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 ה ה והופ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 הוף הוף והופ noun feminine singular absolute unspecified unspecified  	O	null
+13 חירבן חרבן חירבן verb masculine singular unspecified 3 past  	O	null
+14 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+15 ה ה האומה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 האומה אומה האומה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 קזבלן קזבלן קזבלן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 עומד עמד עומד verb masculine singular unspecified any beinoni  	O	null
+2 ב ב בפתח preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בפתח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הפתח פתח בפתח noun masculine singular absolute unspecified unspecified  	O	null
+3 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+4 גיבור גיבור גיבור noun masculine singular construct unspecified unspecified  	O	null
+5 סמל סמל סמל noun masculine singular construct unspecified unspecified  	O	null
+6 ראשון ORD1 ראשון numeral masculine singular absolute unspecified unspecified  	O	null
+7 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+8 עמוד עמוד עמוד noun masculine singular absolute unspecified unspecified  	O	null
+9 זקוף זקף זקוף participle masculine singular absolute any unspecified  	O	null
+10 יא יא יא properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 אחמד אחמד אחמד properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+12 נלמד נלמד נלמד verb masculine singular unspecified 3 past  	O	null
+13 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+13 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+14 המנון המנון המנון noun masculine singular absolute unspecified unspecified  	O	null
+
+0 רגש רגש רגש noun masculine singular construct unspecified unspecified  	O	null
+1 פלסטיק פלסטיק פלסטיק noun masculine singular absolute unspecified unspecified  	O	null
+2 אוטומטיק אוטומטיק אוטומטיק preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לב לב לב noun masculine singular absolute unspecified unspecified  	O	null
+4 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מסטיק מסטיק מסטיק noun masculine singular absolute unspecified unspecified  	O	null
+6 Oh Oh Oh foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 it's it's it's foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+9 so so so foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+10 romantic romantic romantic foreign unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+

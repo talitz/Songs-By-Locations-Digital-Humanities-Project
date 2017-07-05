@@ -1,0 +1,186 @@
+0 אור אור אור properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 ירד ירד ירד verb masculine singular unspecified 3 past  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה הגליל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הגליל גליל הגליל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 מתמוגג התמוגג מתמוגג verb masculine singular unspecified any beinoni  	O	null
+5 לו לו לו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה הכרמל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הכרמל כרמל הכרמל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 הגלבוע גלבוע הגלבוע properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 שר שר שר verb masculine singular unspecified any beinoni  	O	null
+9 ב ב בגיל preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 גיל גיל בגיל noun masculine singular construct unspecified unspecified  	O	null
+10 שר שר שר noun masculine singular construct unspecified unspecified  	O	null
+11 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 עמק עמק עמק noun masculine singular construct unspecified unspecified  	O	null
+13 יזרעאל יזרעאל יזרעאל properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+
+0 הכינרת כינרת הכינרת properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 צהלה צהלה צהלה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 הירדן ירדן הירדן properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 שוטף שוטף שוטף adjective masculine singular absolute unspecified unspecified  	O	null
+4 בהיר בהיר בהיר adjective masculine singular absolute unspecified unspecified  	O	null
+5 מרקדת ריקד מרקדת verb feminine singular unspecified any beinoni  	I_LOC	null
+6 ה ה השפלה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 השפלה שפלה השפלה noun feminine singular absolute unspecified unspecified  	I_LOC	null
+7 ו ו וירושלים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 ירושלים ירושלים וירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+8 שיר שיר שיר properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+
+0 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 חג חג חג noun masculine singular construct unspecified unspecified  	O	null
+5 יובל יובל יובל properName unspecified unspecified unspecified unspecified unspecified  	O	null
+6 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 ארץ ארץ ארץ noun feminine singular construct unspecified unspecified  	I_LOC	null
+9 ישראל ישראל ישראל properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+10 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 ארץ ארץ ארץ noun feminine singular construct unspecified unspecified  	I_LOC	null
+13 ישראל ישראל ישראל properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+14 חג חג חג noun masculine singular construct unspecified unspecified  	I_DATE	null
+15 יובל יובל יובל properName unspecified unspecified unspecified unspecified unspecified  	I_DATE	null
+
+0 צוחקים צחק צוחקים verb masculine plural unspecified any beinoni  	O	null
+1 יחדיו יחדיו יחדיו adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ב ב ברון preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 רון רון ברון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 השרון שרון השרון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+4 ו ו והשומרון conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 השומרון שומרון והשומרון properName unspecified unspecified unspecified unspecified unspecified  	B_LOC	null
+5 ב ב ביריחו preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 יריחו יריחו ביריחו properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+6 רימון רימון רימון properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+7 פרח פרח פרח properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 ו ו ואת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 את את ואת at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ניחוח ניחוח ניחוחו noun masculine singular absolute unspecified unspecified  
+9 ו ו ניחוחו possessive masculine singular unspecified 3 unspecified 0 	O	null
+10 שלח שלח שלח verb masculine singular unspecified 3 past  	O	null
+
+0 ים ים ים noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה המלח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המלח מלח המלח noun masculine singular absolute unspecified unspecified  	O	null
+2 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מתוק מתוק מתוק adjective masculine singular absolute unspecified unspecified  	O	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הנגב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הנגב נגב הנגב properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+6 חג חג חג noun masculine singular construct unspecified unspecified  	O	null
+7 מאיר מאיר מאיר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 הר הר הר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+9 סיני סיני סיני properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+12 ו ו ואופירה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 אופירה אופירה ואופירה properName feminine singular unspecified unspecified unspecified  	I_PERS	null
+13 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+13 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+14 תשיר שר תשיר verb feminine singular unspecified 3 future  	O	null
+
+0 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 חג חג חג noun masculine singular construct unspecified unspecified  	O	null
+5 יובל... יובל... יובל... properName unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ולעיר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 ל ל ולעיר preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 עיר עיר ולעיר noun masculine singular absolute unspecified unspecified  	O	null
+1 כחול כחול כחול adjective masculine singular absolute unspecified unspecified  	O	null
+2 לבן לבן לבן adjective masculine singular construct unspecified unspecified  	O	null
+3 ו ו ולכפר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 ל ל ולכפר preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 כפר כפר ולכפר noun masculine singular construct unspecified unspecified  	O	null
+4 לבן לבן לבן noun masculine singular absolute unspecified unspecified  	O	null
+5 כחול כחול כחול adjective masculine singular absolute unspecified unspecified  	O	null
+6 ל ל לקיבוץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 קיבוץ קיבוץ לקיבוץ noun masculine singular construct unspecified unspecified  	I_LOC	null
+7 אלפי ORD-CARD1000 אלפי numeral masculine plural construct unspecified unspecified  	I_LOC	null
+8 גוון גוון גוון noun masculine singular absolute unspecified unspecified  	I_LOC	null
+9 ל ל למושב preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 מושב מושב למושב noun masculine singular construct unspecified unspecified  	I_LOC	null
+10 צבעי צבע צבעי noun masculine plural construct unspecified unspecified  	I_LOC	null
+11 מכחול מכחול מכחול noun masculine singular absolute unspecified unspecified  	I_LOC	null
+
+0 ל ל לחורשות preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 חורשות חורשה לחורשות noun feminine plural construct unspecified unspecified  	O	null
+1 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+3 בהיר בהיר בהיר adjective masculine singular absolute unspecified unspecified  	O	null
+4 ל ל לשדות preposition unspecified unspecified unspecified unspecified unspecified 0 
+4 שדות שדה לשדות noun masculine plural construct unspecified unspecified  	O	null
+5 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+7 כהה כהה כהה adjective masculine singular absolute unspecified unspecified  	O	null
+8 ו ו ולכרם conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ל ל ולכרם preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 כרם כרם ולכרם noun masculine singular absolute unspecified unspecified  	O	null
+9 ו ו ולניר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 ל ל ולניר preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ניר ניר ולניר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 צבע צבע צבע noun masculine singular absolute unspecified unspecified  	O	null
+11 ירקרק ירקרק ירקרק adjective masculine singular absolute unspecified unspecified  	O	null
+12 זהה זהה זהה adjective masculine singular absolute unspecified unspecified  	O	null
+
+0 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 חג חג חג noun masculine singular construct unspecified unspecified  	O	null
+5 יובל... יובל... יובל... properName unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 שמח שמח שמח adjective masculine singular absolute unspecified unspecified  	O	null
+2 ו ו וצוהל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 צוהל צהל וצוהל verb masculine singular unspecified any beinoni  	O	null
+3 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה הרחוב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הרחוב רחוב הרחוב noun masculine singular absolute unspecified unspecified  	O	null
+5 ו ו ואל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 אל אל ואל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה הליל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הליל ליל הליל noun masculine singular absolute unspecified unspecified  	O	null
+7 התהולל התהולל התהולל verb masculine singular unspecified 2 imperative  	O	null
+8 ו ו והשתולל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 השתולל השתולל והשתולל verb masculine singular unspecified 3 past  	O	null
+9 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+10 על על עליך preposition unspecified unspecified unspecified unspecified unspecified  
+10 ך ך עליך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 חג חג חג noun masculine singular construct unspecified unspecified  	I_DATE	null
+13 יובל יובל יובל properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+
+0 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 עיר עיר עירי noun feminine singular absolute unspecified unspecified  
+1 י י עירי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ב ב בכיכר preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה בכיכר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הכיכר כיכר בכיכר noun feminine singular absolute unspecified unspecified  	O	null
+4 ו ו וביתי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ביתי ביתי וביתי adjective masculine singular absolute unspecified unspecified  	O	null
+5 עומד עמד עומד verb masculine singular unspecified any beinoni  	O	null
+6 מואר מואר מואר adjective masculine singular absolute unspecified unspecified  	O	null
+7 לבבי לבבי לבבי adjective masculine singular absolute unspecified unspecified  	O	null
+8 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+8 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 מאושר אושר מאושר verb masculine singular unspecified any beinoni  	O	null
+10 כש כש כשאני temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+10 אני הוא כשאני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+11 רוקד רקד רוקד verb masculine singular unspecified any beinoni  	O	null
+12 ו ו ושר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 שר שר ושר noun masculine singular construct unspecified unspecified  	O	null
+
+0 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 חג חג חג noun masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 חג חג חג noun masculine singular construct unspecified unspecified  	O	null
+5 יובל... יובל... יובל... properName unspecified unspecified unspecified unspecified unspecified  	O	null
+

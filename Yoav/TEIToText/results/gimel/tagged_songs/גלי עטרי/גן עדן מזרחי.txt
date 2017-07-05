@@ -1,0 +1,67 @@
+0 ציור ציור ציור noun masculine singular absolute unspecified unspecified  	O	null
+1 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה השטיח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השטיח שטיח השטיח noun masculine singular absolute unspecified unspecified  	O	null
+3 גן גן גן noun masculine singular construct unspecified unspecified  	O	null
+4 עדן עדן עדן noun masculine singular absolute unspecified unspecified  	O	null
+5 מזרחי מזרחי מזרחי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מעיין מעיין מעיין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 קולח קלח קולח verb masculine singular unspecified any beinoni  	O	null
+9 ו ו ומטפסים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 מ מ ומטפסים preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 טפסים טופס ומטפסים noun masculine plural absolute unspecified unspecified  	O	null
+10 פורחים פורח פורחים adjective masculine plural absolute unspecified unspecified  	O	null
+11 ש ש שלווים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 לווים לווה שלווים noun masculine plural absolute unspecified unspecified  	O	null
+12 שלווים שלו שלווים adjective masculine plural absolute unspecified unspecified  	O	null
+13 ב ב בחיק preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 חיק חיק בחיק noun masculine singular construct unspecified unspecified  	O	null
+14 ה ה העשבים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 העשבים עשב העשבים noun masculine plural absolute unspecified unspecified  	O	null
+15 שוכבים שכב שוכבים verb masculine plural unspecified any beinoni  	O	null
+16 ה ה האוהבים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 האוהבים אהב האוהבים participle masculine plural absolute any unspecified  	O	null
+
+0 ציור ציור ציור noun masculine singular absolute unspecified unspecified  	O	null
+1 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה השטיח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השטיח שטיח השטיח noun masculine singular absolute unspecified unspecified  	O	null
+3 נמר נמר נמר noun masculine singular absolute unspecified unspecified  	O	null
+4 צוחק צחק צוחק verb masculine singular unspecified any beinoni  	O	null
+5 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 גדי גדי גדי noun masculine singular absolute unspecified unspecified  	O	null
+7 ה ה הכל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הכל כול הכל quantifier unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+10 מבטיח הבטיח מבטיח verb masculine singular unspecified any beinoni  	O	null
+11 ב ב בגן preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 ה ה בגן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הגן גן בגן noun masculine singular absolute unspecified unspecified  	O	null
+12 ה ה האגדי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 האגדי אגדי האגדי adjective masculine singular absolute unspecified unspecified  	O	null
+13 קרובים קרוב קרובים noun masculine plural absolute unspecified unspecified  	O	null
+14 קרובים קרוב קרובים adjective masculine plural absolute unspecified unspecified  	O	null
+15 נוגעים נגע נוגעים verb masculine plural unspecified any beinoni  	O	null
+16 ב ב בכוכבים preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 כוכבים כוכב בכוכבים noun masculine plural absolute unspecified unspecified  	O	null
+17 הוזים הוזה הוזים noun masculine plural absolute unspecified unspecified  	O	null
+18 ה ה האוהבים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 האוהבים אהב האוהבים participle masculine plural absolute any unspecified  	O	null
+
+0 נערה נער נערה noun feminine singular absolute unspecified unspecified  	O	null
+1 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מיישנת מיישנת מיישנת adjective feminine singular absolute unspecified unspecified  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 חיות חיות חיות noun feminine singular construct unspecified unspecified  	O	null
+5 הבר בר הבר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+6 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+7 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+7 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+8 מתבוננת התבונן מתבוננת verb feminine singular unspecified any beinoni  	O	null
+9 ו ו וקולי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 קולי קולי וקולי adjective masculine singular absolute unspecified unspecified  	O	null
+10 נשבר נשבר נשבר verb masculine singular unspecified 3 past  	O	null
+

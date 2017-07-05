@@ -1,0 +1,105 @@
+0 ב ב ברוכים preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה ברוכים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הרוכים רוך ברוכים noun masculine plural absolute unspecified unspecified  	O	null
+1 הבאים.. הבאים.. הבאים.. participle masculine singular construct any unspecified  	O	null
+2 קדימה קדימה קדימה noun feminine singular absolute unspecified unspecified  	O	null
+3 אחורה אחורה אחורה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 קדימה קדימה קדימה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אחורה אחורה אחורה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יד יד יד noun feminine singular absolute unspecified unspecified  	O	null
+1 נפרסת נפרס נפרסת verb feminine singular unspecified any beinoni  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה האשכים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 האשכים אשך האשכים noun masculine plural absolute unspecified unspecified  	O	null
+4 זזה זז זזה verb feminine singular unspecified 3 past  	O	null
+5 ב ב בדאווין preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה בדאווין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הדאווין הדאווין בדאווין noun masculine singular absolute unspecified unspecified  	O	null
+6 זזה זז זזה verb feminine singular unspecified 3 past  	O	null
+7 ב ב בדאווין preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה בדאווין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 הדאווין הדאווין בדאווין noun masculine singular absolute unspecified unspecified  	O	null
+8 פעמיים פעמיים פעמיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 תראו ראה תראו verb masculine-and-feminine plural unspecified 2 future  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה היד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 היד יד היד noun feminine singular absolute unspecified unspecified  	O	null
+12 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 קדימה קדימה קדימה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 אחרוה אחרוה אחרוה verb masculine singular unspecified 2 future  	O	null
+2 קדימה קדימה קדימה interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+3 אחורה אחורה אחורה adverb unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+
+0 זזה זז זזה verb feminine singular unspecified 3 past  	O	null
+1 ב ב בדאווין preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בדאווין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הדאווין הדאווין בדאווין noun masculine singular absolute unspecified unspecified  	O	null
+2 זזה זז זזה verb feminine singular unspecified 3 past  	O	null
+3 ב ב בדאווין preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה בדאווין definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הדאווין הדאווין בדאווין noun masculine singular absolute unspecified unspecified  	O	null
+4 פעמיים פעמיים פעמיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אלף ORD-CARD1000 אלף numeral masculine plural absolute unspecified unspecified  	O	null
+6 צעדים צעד צעדים noun masculine plural absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אלף ORD-CARD1000 אלף numeral masculine plural absolute unspecified unspecified  	O	null
+9 צעדים צעד צעדים noun masculine plural absolute unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אלף ORD-CARD1000 אלף numeral masculine plural absolute unspecified unspecified  	O	null
+12 צעדים צעד צעדים noun masculine plural absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+1 בעצם בעצם בעצם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 מועדון מועדון מועדון noun masculine singular absolute unspecified unspecified  	O	null
+3 ש ש שבתוך relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 בתוך בתוך שבתוך preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה המועדון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 המועדון מועדון המועדון noun masculine singular absolute unspecified unspecified  	O	null
+5 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+6 סיבוב סיבוב סיבוב noun masculine singular absolute unspecified unspecified  	O	null
+7 מלא מלא מלא adjective masculine singular absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+10 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+11 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ביישן ביישן ביישן adjective masculine singular absolute unspecified unspecified  	O	null
+13 ש ש שזה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 זה זה שזה pronoun masculine singular unspecified 3 unspecified  	O	null
+14 קשה.. קשה.. קשה.. noun masculine-and-feminine singular absolute unspecified unspecified  	O	null
+15 אני אני אני noun masculine singular absolute unspecified unspecified  	O	null
+16 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 רואה ראה רואה verb masculine singular unspecified any beinoni  	O	null
+18 סיבה סיבה סיבה noun feminine singular absolute unspecified unspecified  	O	null
+19 לשמוח שמח לשמוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+20 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+21 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+22 רואה ראה רואה verb masculine singular unspecified any beinoni  	O	null
+23 סיבה סיבה סיבה noun feminine singular absolute unspecified unspecified  	O	null
+24 ל ל לשטות preposition unspecified unspecified unspecified unspecified unspecified 0 
+24 שטות שטות לשטות noun feminine singular absolute unspecified unspecified  	O	null
+25 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+26 בא בא בא verb masculine singular unspecified 3 past  	O	null
+27 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+27 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+28 ב ב בקלות preposition unspecified unspecified unspecified unspecified unspecified 0 
+28 קלות קלות בקלות noun feminine singular absolute unspecified unspecified  	O	null
+29 ל ל להיות preposition unspecified unspecified unspecified unspecified unspecified 0 
+29 היות היות להיות noun masculine singular construct unspecified unspecified  	O	null
+30 כבד כבד כבד noun masculine singular absolute unspecified unspecified  	O	null
+31 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+32 כריש כריש כריש noun masculine singular absolute unspecified unspecified  	O	null
+33 ב ב בהסתדרות preposition unspecified unspecified unspecified unspecified unspecified 0 
+33 ה ה בהסתדרות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+33 ההסתדרות הסתדרות בהסתדרות noun feminine singular absolute unspecified unspecified  	O	null
+34 שום שום שום quantifier unspecified unspecified construct unspecified unspecified  	O	null
+35 דבר דבר דבר noun masculine singular absolute unspecified unspecified  	O	null
+36 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+37 בא בא בא verb masculine singular unspecified 3 past  	O	null
+38 ב ב בקלות preposition unspecified unspecified unspecified unspecified unspecified 0 
+38 ה ה בקלות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+38 הקלות קלות בקלות noun feminine singular absolute unspecified unspecified  	O	null
+39 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

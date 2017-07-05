@@ -1,0 +1,73 @@
+0 לנשום נשם לנשום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+1 עמוק עמוק עמוק adjective masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בחיוך preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 חיוך חיוך בחיוך noun masculine singular absolute unspecified unspecified  	O	null
+3 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+4 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הברכיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הברכיים ברך הברכיים noun feminine plural absolute unspecified unspecified  	O	null
+6 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+8 חיוור חיוור חיוור adjective masculine singular absolute unspecified unspecified  	O	null
+9 הולך הלך הולך verb masculine singular unspecified any beinoni  	O	null
+10 מהר מהר מהר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 לוותר ויתר לוותר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 עדיין עדיין עדיין adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 תשמע שמע תשמע verb feminine singular unspecified 3 future  	O	null
+1 ל ל לקול preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 קול קול לקול noun masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בחיוך preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 חיוך חיוך בחיוך noun masculine singular absolute unspecified unspecified  	O	null
+3 גדול גדול גדול adjective masculine singular absolute unspecified unspecified  	O	null
+4 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה האזניים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 האזניים האזניים האזניים noun masculine singular absolute unspecified unspecified  	O	null
+6 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+8 עיוור עיוור עיוור adjective masculine singular absolute unspecified unspecified  	O	null
+9 הולך הלך הולך verb masculine singular unspecified any beinoni  	O	null
+10 מהר מהר מהר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 לפחד פיחד לפחד verb unspecified unspecified unspecified unspecified infinitive  	O	null
+13 עדיין עדיין עדיין adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+14 לנשום נשם לנשום verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+16 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ענן ענן ענן noun masculine singular absolute unspecified unspecified  	O	null
+18 ו ו וצחוק conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 צחוק צחוק וצחוק noun masculine singular absolute unspecified unspecified  	O	null
+19 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 ה ה השמיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+20 השמיים שמיים השמיים noun masculine plural absolute unspecified unspecified  	O	null
+21 מסתכל הסתכל מסתכל verb masculine singular unspecified any beinoni  	O	null
+22 כבד כבד כבד noun masculine singular absolute unspecified unspecified  	O	null
+23 מאחר מאחר מאחר conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+24 לצאת יצא לצאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+25 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+26 מסוכן מסוכן מסוכן adjective masculine singular absolute unspecified unspecified  	O	null
+27 עדיין עדיין עדיין adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אל אל אל negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תלכי הלך תלכי verb feminine singular unspecified 2 future  	O	null
+2 חזרה חזרה חזרה noun feminine singular absolute unspecified unspecified  	O	null
+3 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+4 כאן כאן כאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ב ב בצד preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה בצד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הצד צד בצד noun masculine singular absolute unspecified unspecified  	O	null
+6 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 חיוך חיוך חיוך noun masculine singular absolute unspecified unspecified  	O	null
+8 משוגע משוגע משוגע adjective masculine singular absolute unspecified unspecified  	O	null
+9 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+11 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 אחר אחר אחר adjective masculine singular absolute unspecified unspecified  	O	null
+13 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ה ה השתיקות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 השתיקות שתיקה השתיקות noun feminine plural absolute unspecified unspecified  	O	null
+15 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+17 לוותר ויתר לוותר verb unspecified unspecified unspecified unspecified infinitive  	O	null
+

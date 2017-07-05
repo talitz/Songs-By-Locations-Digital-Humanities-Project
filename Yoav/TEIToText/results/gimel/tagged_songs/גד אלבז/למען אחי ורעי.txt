@@ -1,0 +1,57 @@
+0 למען למען למען preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 אחי אח אחי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 ו ו ורעי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 רעי רע ורעי noun masculine plural construct unspecified unspecified  	O	null
+3 אדברה אדברה אדברה noun feminine singular absolute unspecified unspecified  	O	null
+4 נא נא נא adjective masculine singular absolute unspecified unspecified  	O	null
+5 שלום שלום שלום noun masculine singular absolute unspecified unspecified  	O	null
+6 ב ב בך preposition unspecified unspecified unspecified unspecified unspecified  
+6 ך ך בך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+7 למען למען למען preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 בית בית בית noun masculine singular construct unspecified unspecified  	O	null
+9 ה' ה' ה' noun masculine singular absolute unspecified unspecified  	O	null
+10 אלוקינו אלוקינו אלוקינו noun masculine singular absolute unspecified unspecified  	O	null
+11 אבקשה אבקשה אבקשה adjective masculine singular absolute unspecified unspecified  	O	null
+12 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+13 ל ל לך preposition unspecified unspecified unspecified unspecified unspecified  
+13 ך ך לך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+14 ו ו ורעה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 רעה רעה ורעה verb masculine singular unspecified 3 past  	O	null
+15 בנים בן בנים noun masculine plural absolute unspecified unspecified  	O	null
+16 ל ל לבניך preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 בני בן לבניך noun masculine plural absolute unspecified unspecified  
+16 ך ך לבניך possessive feminine singular unspecified 2 unspecified 0 	O	null
+17 שלום שלום שלום noun masculine singular absolute unspecified unspecified  	O	null
+18 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ישראל ישראל ישראל properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+20 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+21 שלום שלום שלום noun masculine singular absolute unspecified unspecified  	O	null
+22 רב רב רב adjective masculine singular absolute unspecified unspecified  	O	null
+23 ל ל לאוהבי preposition unspecified unspecified unspecified unspecified unspecified 0 
+23 אוהבי אהב לאוהבי participle masculine plural construct any unspecified  	O	null
+24 תורת תורה תורתך noun feminine singular absolute unspecified unspecified  
+24 ך ך תורתך possessive feminine singular unspecified 2 unspecified 0 	O	null
+25 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+25 אין אין ואין negation unspecified unspecified unspecified unspecified unspecified  	O	null
+26 ל ל לעמו preposition unspecified unspecified unspecified unspecified unspecified 0 
+26 עם עם לעמו noun masculine singular absolute unspecified unspecified  
+26 ו ו לעמו possessive masculine singular unspecified 3 unspecified 0 	O	null
+27 מכשול מכשול מכשול noun masculine singular absolute unspecified unspecified  	O	null
+28 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+29 ה' ה' ה' noun masculine singular absolute unspecified unspecified  	O	null
+30 עוז עוז עוז properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+31 ל ל לעמו preposition unspecified unspecified unspecified unspecified unspecified 0 
+31 עם עם לעמו noun masculine singular absolute unspecified unspecified  
+31 ו ו לעמו possessive masculine singular unspecified 3 unspecified 0 	O	null
+32 ייתן נתן ייתן verb masculine singular unspecified 3 future  	O	null
+33 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+34 ה' ה' ה' noun masculine singular absolute unspecified unspecified  	O	null
+35 יברך בירך יברך verb masculine singular unspecified 3 future  	O	null
+36 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+37 עם עם עמו noun masculine singular absolute unspecified unspecified  
+37 ו ו עמו possessive masculine singular unspecified 3 unspecified 0 	O	null
+38 ב ב בשלום preposition unspecified unspecified unspecified unspecified unspecified 0 
+38 ה ה בשלום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+38 השלום שלום בשלום noun masculine singular absolute unspecified unspecified  	O	null
+39 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

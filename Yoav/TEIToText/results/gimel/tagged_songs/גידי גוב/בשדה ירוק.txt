@@ -1,0 +1,200 @@
+0 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גבעה גבעה גבעה noun feminine singular absolute unspecified unspecified  	O	null
+4 תלולה תלול תלולה adjective feminine singular absolute unspecified unspecified  	O	null
+5 ב ב במקום preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 מקום מקום במקום noun masculine singular absolute unspecified unspecified  	O	null
+6 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+9 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 סלולה סלול סלולה adjective feminine singular absolute unspecified unspecified  	O	null
+12 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+13 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 גבעה גבעה גבעה noun feminine singular absolute unspecified unspecified  	O	null
+17 תלולה תלול תלולה adjective feminine singular absolute unspecified unspecified  	O	null
+18 אהבת אהבה אהבת noun feminine singular construct unspecified unspecified  	O	null
+19 חיי חיים חיי noun masculine plural construct unspecified unspecified  	O	null
+20 ליפול נפל ליפול verb unspecified unspecified unspecified unspecified infinitive  	O	null
+21 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 עלולה עלול עלולה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 מרבד מרבד מרבד noun masculine singular absolute unspecified unspecified  	O	null
+2 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 עשב עשב עשב noun masculine singular absolute unspecified unspecified  	O	null
+4 רוח רוח רוח noun feminine singular absolute unspecified unspecified  	O	null
+5 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ישבנו ישב ישבנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+7 לראות ראה לראות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 שקיעה שקיעה שקיעה noun feminine singular absolute unspecified unspecified  	O	null
+9 ו ו והייתה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 הייתה הוא והייתה copula feminine singular unspecified 3 past  	O	null
+10 תחושה תחושה תחושה noun feminine singular absolute unspecified unspecified  	O	null
+11 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 תפוח תפוח תפוח noun masculine singular absolute unspecified unspecified  	O	null
+13 ו ו והיינו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 היינו היינו והיינו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+14 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+15 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+16 קרובים קרוב קרובים adjective masculine plural absolute unspecified unspecified  	O	null
+17 ל ל לנגיעה preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 נגיעה נגיעה לנגיעה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 גבעה גבעה גבעה noun feminine singular absolute unspecified unspecified  	O	null
+5 תלולה תלול תלולה adjective feminine singular absolute unspecified unspecified  	O	null
+6 בושם בושם בושם noun masculine singular absolute unspecified unspecified  	O	null
+7 אהבה אהבה אהבה noun feminine singular absolute unspecified unspecified  	O	null
+8 נודפת נדף נודפת verb feminine singular unspecified any beinoni  	O	null
+9 ו ו וטלולה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+9 טלולה טלול וטלולה adjective feminine singular absolute unspecified unspecified  	O	null
+10 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 שדה שדה בשדה noun masculine singular absolute unspecified unspecified  	O	null
+11 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+12 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 גבעה גבעה גבעה noun feminine singular absolute unspecified unspecified  	O	null
+14 תלולה תלול תלולה adjective feminine singular absolute unspecified unspecified  	O	null
+15 אהבת אהבה אהבת noun feminine singular construct unspecified unspecified  	O	null
+16 חיי חיים חיי noun masculine plural construct unspecified unspecified  	O	null
+17 ליפול נפל ליפול verb unspecified unspecified unspecified unspecified infinitive  	O	null
+18 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 עלולה עלול עלולה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 עדרים עדר עדרים noun masculine plural absolute unspecified unspecified  	O	null
+1 גלשו גלש גלשו verb masculine-and-feminine plural unspecified 3 past  	O	null
+2 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה השוקת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 השוקת שוקת השוקת noun feminine singular absolute unspecified unspecified  	O	null
+4 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 שפת שפה שפתי noun feminine singular absolute unspecified unspecified  
+5 י י שפתי possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 מפלי מפל מפלי noun masculine plural construct unspecified unspecified  	O	null
+7 שיער שיער שיער noun masculine singular absolute unspecified unspecified  	O	null
+8 חלילים חליל חלילים noun masculine plural absolute unspecified unspecified  	O	null
+9 התחילו התחיל התחילו verb masculine-and-feminine plural unspecified 3 past  	O	null
+10 למשוך משך למשוך verb unspecified unspecified unspecified unspecified infinitive  	O	null
+11 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 קו קו קו noun masculine singular construct unspecified unspecified  	O	null
+13 ה ה הרכס definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הרכס רכס הרכס noun masculine singular absolute unspecified unspecified  	O	null
+14 הרץ הרץ הרץ noun masculine singular absolute unspecified unspecified  	O	null
+15 ב ב במעלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+15 מעלה מעלה במעלה noun masculine singular construct unspecified unspecified  	O	null
+16 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+
+0 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גבעה גבעה גבעה noun feminine singular absolute unspecified unspecified  	O	null
+4 תלולה תלול תלולה adjective feminine singular absolute unspecified unspecified  	O	null
+5 מגמה מגמה מגמה noun feminine singular absolute unspecified unspecified  	O	null
+6 ש ש שקופה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 קופה קוף שקופה noun feminine singular absolute unspecified unspecified  	O	null
+7 ב ב בהכרה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 הכרה הכרה בהכרה noun feminine singular absolute unspecified unspecified  	O	null
+8 צלולה צלול צלולה adjective feminine singular absolute unspecified unspecified  	O	null
+9 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+10 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+11 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 גבעה גבעה גבעה noun feminine singular absolute unspecified unspecified  	O	null
+14 תלולה תלול תלולה adjective feminine singular absolute unspecified unspecified  	O	null
+15 פי פה פי noun masculine singular construct unspecified unspecified  	O	null
+16 תהום תהום תהום noun feminine singular absolute unspecified unspecified  	O	null
+17 שחורה שחור שחורה adjective feminine singular absolute unspecified unspecified  	O	null
+18 רובצת רבץ רובצת verb feminine singular unspecified any beinoni  	O	null
+19 חלולה חלול חלולה adjective feminine singular absolute unspecified unspecified  	O	null
+
+0 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הרים הר הרים noun masculine plural absolute unspecified unspecified  	O	null
+2 ה ה השמש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 השמש שמש השמש noun feminine singular absolute unspecified unspecified  	O	null
+3 שקעה שקע שקעה verb feminine singular unspecified 3 past  	O	null
+4 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+4 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+5 ו ו וירח conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ירח ירח וירח noun masculine singular absolute unspecified unspecified  	O	null
+6 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 עלה עלה עלה verb masculine singular unspecified 3 past  	O	null
+9 יפתי יפתי יפתי noun masculine singular absolute unspecified unspecified  	O	null
+10 פתאום פתאום פתאום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 פחדה פחד פחדה verb feminine singular unspecified 3 past  	O	null
+12 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+12 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+13 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 תהום תהום תהום noun feminine singular absolute unspecified unspecified  	O	null
+15 פעורה פעור פעורה adjective feminine singular absolute unspecified unspecified  	O	null
+16 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 כאילו כאילו כאילו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 צללה צלל צללה verb feminine singular unspecified 3 past  	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 נתנה נתן נתנה verb feminine singular unspecified 3 past  	O	null
+2 לדעת ידע לדעת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 ל ל לדעת preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה לדעת definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הדעת דעת לדעת noun feminine singular absolute unspecified unspecified  	O	null
+4 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 הפליאה הפליא הפליאה verb feminine singular unspecified 3 past  	O	null
+6 ל ל להיוודע preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 היוודע היוודע להיוודע noun masculine singular construct unspecified unspecified  	O	null
+7 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+8 צמא צמא צמא adjective masculine singular absolute unspecified unspecified  	O	null
+9 דעת דעת דעת noun feminine singular absolute unspecified unspecified  	O	null
+10 ל ל לגעת preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 געת געת לגעת noun feminine singular construct unspecified unspecified  	O	null
+11 עד עד עד noun masculine singular absolute unspecified unspecified  	O	null
+12 ל ל לקצה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 קצה קצה לקצה noun masculine singular construct unspecified unspecified  	O	null
+13 ה ה הידיעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הידיעה ידיעה הידיעה noun feminine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 תוך תוך תוך noun masculine singular construct unspecified unspecified  	O	null
+17 הלא הלא הלא conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+18 נודע נודע נודע verb masculine singular unspecified 3 past  	O	null
+
+0 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 גבעה גבעה גבעה noun feminine singular absolute unspecified unspecified  	O	null
+4 תלולה תלול תלולה adjective feminine singular absolute unspecified unspecified  	O	null
+5 ב ב במקום preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 מקום מקום במקום noun masculine singular absolute unspecified unspecified  	O	null
+6 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 סוף סוף סוף noun masculine singular construct unspecified unspecified  	O	null
+9 דרך דרך דרך noun feminine singular absolute unspecified unspecified  	O	null
+10 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 סלולה סלול סלולה adjective feminine singular absolute unspecified unspecified  	O	null
+12 ב ב בשדה preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 שדה שדה בשדה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+13 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+14 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 גבעה גבעה גבעה noun feminine singular absolute unspecified unspecified  	O	null
+17 תלולה תלול תלולה adjective feminine singular absolute unspecified unspecified  	O	null
+18 אהבת אהבה אהבת noun feminine singular construct unspecified unspecified  	O	null
+19 חיי חיים חיי noun masculine plural construct unspecified unspecified  	O	null
+20 ליפול נפל ליפול verb unspecified unspecified unspecified unspecified infinitive  	O	null
+21 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+22 עלולה עלול עלולה adjective feminine singular absolute unspecified unspecified  	O	null
+

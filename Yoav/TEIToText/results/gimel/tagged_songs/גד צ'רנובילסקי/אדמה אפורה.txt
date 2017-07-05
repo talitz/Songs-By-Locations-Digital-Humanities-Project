@@ -1,0 +1,110 @@
+0 אדמה אדמה אדמה noun feminine singular absolute unspecified unspecified  	O	null
+1 אפורה אפור אפורה adjective feminine singular absolute unspecified unspecified  	O	null
+2 ארוכה ארוך ארוכה adjective feminine singular absolute unspecified unspecified  	O	null
+3 ארוכה ארוך ארוכה adjective feminine singular absolute unspecified unspecified  	O	null
+4 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+5 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ש ש שהלכתי relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 הלכתי הלך שהלכתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+7 ל ל לרוחבה preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 רוחב רוחב לרוחבה noun masculine singular absolute unspecified unspecified  
+7 ה ה לרוחבה possessive feminine singular unspecified 3 unspecified 0 	O	null
+
+0 ו ו ובאה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 באה בא ובאה verb feminine singular unspecified 3 past  	O	null
+1 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 ו ו ובאתי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 באתי בא ובאתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+3 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+4 ו ו וניחמתני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ניחמתני ניחמתני וניחמתני adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כש כש כשראיתי temporalSubConj unspecified unspecified unspecified unspecified unspecified 0 
+5 ראיתי ראה כשראיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+6 ש ש שגם relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 גם גם שגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+7 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 הכל הכיל הכל verb masculine singular unspecified 2 imperative  	O	null
+10 שלם שלם שלם adjective masculine singular absolute unspecified unspecified  	O	null
+11 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+12 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 מול מול מול preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 תקווה תקווה תקווה noun feminine singular absolute unspecified unspecified  	O	null
+2 לבנה לבן לבנה adjective feminine singular absolute unspecified unspecified  	O	null
+3 אבודה אבוד אבודה adjective feminine singular absolute unspecified unspecified  	O	null
+4 רחקוה רחקוה רחקוה verb masculine singular unspecified 2 future  	O	null
+5 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+6 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ו ו וכלואה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 כלואה כלוא וכלואה adjective feminine singular absolute unspecified unspecified  	O	null
+8 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 ב ב בך preposition unspecified unspecified unspecified unspecified unspecified  
+10 ך ך בך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+11 נעטף נעטף נעטף verb masculine singular unspecified any beinoni  	O	null
+12 ב ב במלוא preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 מלוא מלוא במלוא noun masculine singular construct unspecified unspecified  	O	null
+13 ה ה התוגה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 התוגה תוגה התוגה noun feminine singular absolute unspecified unspecified  	O	null
+
+0 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 באה בא באה verb feminine singular unspecified 3 past  	O	null
+2 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+2 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+3 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 באתי בא באתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+5 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+5 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ניחמתני ניחמתני ניחמתני adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 ראיתי ראה ראיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+10 ש ש שגם relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+10 גם גם שגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+11 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+12 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 הכל הכיל הכל verb masculine singular unspecified 2 imperative  	O	null
+14 שלם שלם שלם adjective masculine singular absolute unspecified unspecified  	O	null
+15 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+16 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+
+0 ב ב בתוגה preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 תוגה תוגה בתוגה noun feminine singular absolute unspecified unspecified  	O	null
+1 כחולה כחול כחולה adjective feminine singular absolute unspecified unspecified  	O	null
+2 עמוקה עמוק עמוקה adjective feminine singular absolute unspecified unspecified  	O	null
+3 אדמה אדמה אדמה noun feminine singular absolute unspecified unspecified  	O	null
+4 אפורה אפור אפורה adjective feminine singular absolute unspecified unspecified  	O	null
+5 ארוכה ארוך ארוכה adjective feminine singular absolute unspecified unspecified  	O	null
+6 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+7 תקווה תקווה תקווה noun feminine singular absolute unspecified unspecified  	O	null
+8 לבנה לבן לבנה adjective feminine singular absolute unspecified unspecified  	O	null
+9 אדומה אדום אדומה adjective feminine singular absolute unspecified unspecified  	O	null
+10 מתבוססת התבוסס מתבוססת verb feminine singular unspecified any beinoni  	O	null
+11 ב ב בדמה preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 דם דם בדמה noun masculine singular absolute unspecified unspecified  
+11 ה ה בדמה possessive feminine singular unspecified 3 unspecified 0 	O	null
+
+0 באה בא באה verb feminine singular unspecified 3 past  	O	null
+1 ב ב בי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י בי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 באתי בא באתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+3 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+4 ניחמתני ניחמתני ניחמתני noun masculine singular absolute unspecified unspecified  	O	null
+5 ו ו וראיתי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ראיתי ראה וראיתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+6 ש ש שגם relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 גם גם שגם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+7 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+8 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 הכל הכיל הכל verb masculine singular unspecified 2 imperative  	O	null
+10 שלם שלם שלם adjective masculine singular absolute unspecified unspecified  	O	null
+

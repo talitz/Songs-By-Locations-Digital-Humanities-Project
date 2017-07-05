@@ -1,0 +1,154 @@
+0 שדה שדה שדה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 שדה שדה שדה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 פותח פותח פותח verb masculine singular unspecified 3 past  	O	null
+4 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אצמא צמא אצמא verb masculine-and-feminine singular unspecified 1 future  	O	null
+9 ל ל למים preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה למים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 המים מים למים noun masculine plural absolute unspecified unspecified  	O	null
+10 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+7 המטירו המטיר המטירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 מים מים מים noun masculine plural absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 גרעין גרעין גרעין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 גרעין גרעין גרעין properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 ב ב בניר preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ניר ניר בניר properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+4 ימתין המתין ימתין verb masculine singular unspecified 3 future  	O	null
+5 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אצמא צמא אצמא verb masculine-and-feminine singular unspecified 1 future  	O	null
+9 ל ל למים preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה למים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 המים מים למים noun masculine plural absolute unspecified unspecified  	O	null
+10 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+7 המטירו המטיר המטירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 מים מים מים noun masculine plural absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אילן אילן אילן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אילן אילן אילן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+3 יתור תר יתור verb masculine singular unspecified 3 future  	O	null
+4 ענן ענן ענן noun masculine singular absolute unspecified unspecified  	O	null
+5 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אצמא צמא אצמא verb masculine-and-feminine singular unspecified 1 future  	O	null
+9 ל ל למים preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה למים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 המים מים למים noun masculine plural absolute unspecified unspecified  	O	null
+10 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+7 המטירו המטיר המטירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 מים מים מים noun masculine plural absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 טלי טלי טלי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+1 ו ו וגדי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 גדי גדי וגדי properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+2 ב ב בפעי preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בפעי definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הפעי הפעי בפעי noun feminine singular absolute unspecified unspecified  	O	null
+3 ו ו וגעי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 געי געה וגעי verb feminine singular unspecified 2 imperative  	O	null
+4 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אצמא צמא אצמא verb masculine-and-feminine singular unspecified 1 future  	O	null
+8 ל ל למים preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה למים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 המים מים למים noun masculine plural absolute unspecified unspecified  	O	null
+9 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+7 המטירו המטיר המטירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 מים מים מים noun masculine plural absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ציפור ציפור ציפור noun masculine singular absolute unspecified unspecified  	O	null
+1 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ציפור ציפור ציפור noun masculine singular absolute unspecified unspecified  	O	null
+3 מ מ מקן preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 קן קן מקן noun masculine singular construct unspecified unspecified  	O	null
+4 תיצפור תיצפור תיצפור noun feminine plural absolute unspecified unspecified  	O	null
+5 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 אצמא צמא אצמא verb masculine-and-feminine singular unspecified 1 future  	O	null
+9 ל ל למים preposition unspecified unspecified unspecified unspecified unspecified 0 
+9 ה ה למים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+9 המים מים למים noun masculine plural absolute unspecified unspecified  	O	null
+10 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+7 המטירו המטיר המטירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 מים מים מים noun masculine plural absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ירושלים ירושלים ירושלים properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 תיש תיש תישא noun masculine singular absolute unspecified unspecified  
+1 י י תישא possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 כפיים כף כפיים noun feminine plural absolute unspecified unspecified  	O	null
+3 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מאוד מאוד מאוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אצמא צמא אצמא verb masculine-and-feminine singular unspecified 1 future  	O	null
+7 ל ל למים preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ה ה למים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 המים מים למים noun masculine plural absolute unspecified unspecified  	O	null
+8 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+1 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמיים שמיים שמיים noun masculine plural absolute unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 נא נא נא interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+7 המטירו המטיר המטירו verb masculine-and-feminine plural unspecified 3 past  	O	null
+8 מים מים מים noun masculine plural absolute unspecified unspecified  	O	null
+9 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

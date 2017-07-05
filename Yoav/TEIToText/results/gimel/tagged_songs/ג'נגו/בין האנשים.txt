@@ -1,0 +1,70 @@
+0 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 שומע שמע שומע verb masculine singular unspecified any beinoni  	O	null
+3 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ש ש שאני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 אני הוא שאני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 יודע ידע יודע verb masculine singular unspecified any beinoni  	O	null
+8 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נשברתי נשבר נשברתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 על על עליה preposition unspecified unspecified unspecified unspecified unspecified  
+1 ה ה עליה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+2 נרדמתי נרדם נרדמתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+3 ל ל לרגע preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 רגע רגע לרגע noun masculine singular absolute unspecified unspecified  	O	null
+
+0 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ה ה האנשים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 האנשים איש האנשים noun masculine plural absolute unspecified unspecified  	O	null
+2 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+3 אמצא מצא אמצא verb masculine-and-feminine singular unspecified 1 future  	O	null
+4 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+4 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+5 פנים פנים פנים noun masculine singular absolute unspecified unspecified  	O	null
+6 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ה ה האנשים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 האנשים איש האנשים noun masculine plural absolute unspecified unspecified  	O	null
+8 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+9 אמצא מצא אמצא verb masculine-and-feminine singular unspecified 1 future  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 פנים פנים פנים noun masculine singular absolute unspecified unspecified  	O	null
+12 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה האנשים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 האנשים איש האנשים noun masculine plural absolute unspecified unspecified  	O	null
+14 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+15 אמצא מצא אמצא verb masculine-and-feminine singular unspecified 1 future  	O	null
+16 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+16 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+17 פנים פנים פנים noun masculine singular absolute unspecified unspecified  	O	null
+18 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+19 ה ה האנשים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+19 האנשים איש האנשים noun masculine plural absolute unspecified unspecified  	O	null
+20 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+21 אמצא מצא אמצא verb masculine-and-feminine singular unspecified 1 future  	O	null
+22 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+22 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+23 פנים פנים פנים noun masculine singular absolute unspecified unspecified  	O	null
+
+0 נכנס נכנס נכנס verb masculine singular unspecified 3 past  	O	null
+1 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אל אל אליה preposition unspecified unspecified unspecified unspecified unspecified  
+2 ה ה אליה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+3 צורח צרח צורח verb masculine singular unspecified any beinoni  	O	null
+4 פוגע פגע פוגע verb masculine singular unspecified any beinoni  	O	null
+
+0 גיליתי גילה גיליתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+1 ש ש שאני relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+1 אני הוא שאני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+2 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 מבין הבין מבין verb masculine singular unspecified any beinoni  	O	null
+4 כלום כלום כלום pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נוסע נוסע נוסע noun masculine singular absolute unspecified unspecified  	O	null
+6 שוכח שכח שוכח verb masculine singular unspecified any beinoni  	O	null
+
+0 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+1 האנשים... האנשים... האנשים... verb masculine singular unspecified 2 imperative  	O	null
+

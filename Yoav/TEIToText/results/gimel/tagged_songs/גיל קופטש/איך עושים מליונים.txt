@@ -1,0 +1,288 @@
+0 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+1 כייף כייף כייף verb masculine singular unspecified 3 past  	O	null
+2 ב ב באלפיון preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה באלפיון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 האלפיון אלפיון באלפיון noun masculine singular absolute unspecified unspecified  	O	null
+3 ה ה העליון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 העליון עליון העליון adjective masculine singular absolute unspecified unspecified  	O	null
+4 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+6 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ב ב בג'קוזי preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 ג'קוזי ג'קוזי בג'קוזי noun masculine singular absolute unspecified unspecified  	O	null
+8 ב ב בסלון preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה בסלון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הסלון סלון בסלון noun masculine singular absolute unspecified unspecified  	O	null
+9 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שותה שתה שותה verb masculine singular unspecified any beinoni  	O	null
+11 ש ש שמפניה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+11 מפני מפני שמפניה preposition unspecified unspecified unspecified unspecified unspecified  
+11 ה ה שמפניה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+12 ו ו ואוכל conjunction unspecified unspecified unspecified unspecified unspecified 0 
+12 אוכל אכל ואוכל verb masculine singular unspecified any beinoni  	O	null
+13 ש ש שמפיניון relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+13 מ מ שמפיניון preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 פיניון פיניון שמפיניון noun masculine singular absolute unspecified unspecified  	O	null
+14 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מערבב עירבב מערבב verb masculine singular unspecified any beinoni  	O	null
+16 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ה ה ההון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 ההון הון ההון noun masculine singular absolute unspecified unspecified  	O	null
+18 ו ו והשלטון conjunction unspecified unspecified unspecified unspecified unspecified 0 
+18 ה ה והשלטון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 השלטון שלטון והשלטון noun masculine singular absolute unspecified unspecified  	O	null
+19 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+20 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+21 ב ב בבינוני preposition unspecified unspecified unspecified unspecified unspecified 0 
+21 ה ה בבינוני definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הבינוני בינוני בבינוני noun masculine singular absolute unspecified unspecified  	O	null
+22 ה ה התחתון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 התחתון תחתון התחתון adjective masculine singular absolute unspecified unspecified  	O	null
+23 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 ה ה המשכנתא definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 המשכנתא משכנתא המשכנתא noun feminine singular absolute unspecified unspecified  	O	null
+25 של של שלי shel-preposition unspecified unspecified unspecified unspecified unspecified  
+25 י י שלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+26 שוקלת שקל שוקלת verb feminine singular unspecified any beinoni  	O	null
+27 טון טון טון noun masculine singular absolute unspecified unspecified  	O	null
+28 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+29 ה ה האישה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+29 האישה איש האישה noun feminine singular absolute unspecified unspecified  	O	null
+30 תמיד תמיד תמיד noun masculine singular absolute unspecified unspecified  	O	null
+31 ב ב בהריון preposition unspecified unspecified unspecified unspecified unspecified 0 
+31 הריון הריון בהריון noun masculine singular absolute unspecified unspecified  	O	null
+32 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+33 ו ו ואין conjunction unspecified unspecified unspecified unspecified unspecified 0 
+33 אין יש ואין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+34 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+34 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+35 כסף כסף כסף noun masculine singular absolute unspecified unspecified  	O	null
+36 ל ל לגנון preposition unspecified unspecified unspecified unspecified unspecified 0 
+36 גנון גינון לגנון noun masculine singular absolute unspecified unspecified  	O	null
+37 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+38 איזה איזה איזה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+39 דיכאון דיכאון דיכאון noun masculine singular absolute unspecified unspecified  	O	null
+40 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+41 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+42 עושים עשה עושים verb masculine plural unspecified any beinoni  	O	null
+43 מיליונים ORD-CARD1000000 מיליונים numeral masculine plural absolute unspecified unspecified  	O	null
+44 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פר פר פרה noun masculine singular absolute unspecified unspecified  
+0 ה ה פרה possessive feminine singular unspecified 3 unspecified 0 	O	null
+1 פר פר פרה noun masculine singular absolute unspecified unspecified  
+1 ה ה פרה possessive feminine singular unspecified 3 unspecified 0 	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 X2 X2 X2 foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+4 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 תשלח שלח תשלח verb feminine singular unspecified 3 future  	O	null
+7 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+7 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+8 רעיון רעיון רעיון noun masculine singular absolute unspecified unspecified  	O	null
+9 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אולי אולי אולי adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 מומחה מומחה מומחה noun masculine singular absolute unspecified unspecified  	O	null
+12 מ מ מטכניון preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 טכניון טכניון מטכניון noun masculine singular absolute unspecified unspecified  	O	null
+13 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ש ש שיביא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 יביא הביא שיביא verb masculine singular unspecified 3 future  	O	null
+15 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+16 ה ה הפיתרון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הפיתרון הפיתרון הפיתרון noun masculine singular absolute unspecified unspecified  	O	null
+17 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+18 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+19 לעשות עשה לעשות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+20 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+21 ה ה המיליון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 המיליון ORD-CARD1000000 המיליון numeral masculine plural absolute unspecified unspecified  	I_ORG	null
+22 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+23 ה ה המיליון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+23 המיליון ORD-CARD1000000 המיליון numeral masculine plural absolute unspecified unspecified  	O	null
+24 ה ה הראשון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+24 הראשון ORD1 הראשון numeral masculine singular absolute unspecified unspecified  	O	null
+25 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+26 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+27 אשים שם אשים verb masculine-and-feminine singular unspecified 1 future  	O	null
+28 ב ב בחיסכון preposition unspecified unspecified unspecified unspecified unspecified 0 
+28 חיסכון חיסכון בחיסכון noun masculine singular absolute unspecified unspecified  	O	null
+29 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+30 ש ש שלא relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+30 לא לא שלא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+31 יילך יילך יילך verb masculine singular unspecified 3 past  	O	null
+32 ב ב בדד preposition unspecified unspecified unspecified unspecified unspecified 0 
+32 ה ה בדד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+32 הדד דד בדד noun masculine singular absolute unspecified unspecified  	O	null
+33 לישון ישן לישון verb unspecified unspecified unspecified unspecified infinitive  	O	null
+34 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+35 נשקיעו נשקיעו נשקיעו verb masculine-and-feminine plural unspecified 2 future  	O	null
+36 ב ב בשוק preposition unspecified unspecified unspecified unspecified unspecified 0 
+36 שוק שוק בשוק noun masculine singular construct unspecified unspecified  	O	null
+37 ה ה ההון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+37 ההון הון ההון noun masculine singular absolute unspecified unspecified  	O	null
+38 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+39 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+40 עושים עשה עושים verb masculine plural unspecified any beinoni  	O	null
+41 מיליונים ORD-CARD1000000 מיליונים numeral masculine plural absolute unspecified unspecified  	O	null
+42 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פרה פרה פרה noun feminine singular absolute unspecified unspecified  	O	null
+1 פרה פרה פרה wPrefix unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 X2 X2 X2 foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+4 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מ מ מהון preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 הון הון מהון noun masculine singular absolute unspecified unspecified  	O	null
+6 ל ל להון preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 הון הון להון noun masculine singular absolute unspecified unspecified  	O	null
+7 ל ל להון preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 הון הון להון noun masculine singular absolute unspecified unspecified  	O	null
+8 ל ל להון preposition unspecified unspecified unspecified unspecified unspecified 0 
+8 הון הון להון noun masculine singular absolute unspecified unspecified  	O	null
+9 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 הנה הנה הנה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+12 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+13 פפיון פפיון פפיון properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+14 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 מנהל מנהל מנהל noun masculine singular construct unspecified unspecified  	O	null
+16 ה ה הבנק definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הבנק בנק הבנק noun masculine singular absolute unspecified unspecified  	O	null
+17 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+18 הבלקון הבלקון הבלקון noun feminine plural construct unspecified unspecified  	O	null
+19 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 מחכה חיכה מחכה verb masculine singular unspecified any beinoni  	O	null
+21 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+22 מצדיע הצדיע מצדיע verb masculine singular unspecified any beinoni  	O	null
+23 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+24 פרח פרח פרח properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+25 ו ו ובלון conjunction unspecified unspecified unspecified unspecified unspecified 0 
+25 בלון בלון ובלון noun masculine singular absolute unspecified unspecified  	O	null
+26 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+27 הנה הנה הנה conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+28 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+29 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+29 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	I_LOC	null
+30 פפיון פפיון פפיון properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+31 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יהלום יהלום יהלום properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה השעון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 השעון שעון השעון noun masculine singular absolute unspecified unspecified  	O	null
+4 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 מרצדס מרצדס מרצדס properName masculine singular unspecified unspecified unspecified  	I_PERS	null
+6 ב ב בחניון preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 חניון חניון בחניון noun masculine singular absolute unspecified unspecified  	O	null
+7 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+9 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+11 כבד כבד כבד adjective masculine singular absolute unspecified unspecified  	O	null
+12 אווז אווז אווז noun masculine singular absolute unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ו ו וקברנה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 קברן קברן וקברנה punctuation masculine singular absolute unspecified unspecified  	O	null
+15 סוביניון סוביניון סוביניון properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+16 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 הנה הנה הנה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+18 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+19 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+20 חבר חבר חבר noun masculine singular construct unspecified unspecified  	O	null
+21 דירקטוריון דירקטוריון דירקטוריון noun masculine singular absolute unspecified unspecified  	O	null
+22 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 עושים עשה עושים verb masculine plural unspecified any beinoni  	O	null
+3 מיליונים ORD-CARD1000000 מיליונים numeral masculine plural absolute unspecified unspecified  	O	null
+4 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פרה פרה פרה noun feminine singular absolute unspecified unspecified  	O	null
+1 פרה פרה פרה wPrefix unspecified unspecified unspecified unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 עושים עשה עושים verb masculine plural unspecified any beinoni  	O	null
+5 טריליונים ORD-CARD1000000000000000 טריליונים numeral masculine plural absolute unspecified unspecified  	O	null
+6 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פרה פרה פרה noun feminine singular absolute unspecified unspecified  	O	null
+1 פרה פרה פרה noun feminine singular absolute unspecified unspecified  	O	null
+2 ש ש שים relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 ים ים שים noun masculine singular absolute unspecified unspecified  	O	null
+3 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+3 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+4 אפקט אפקט אפקט noun masculine singular absolute unspecified unspecified  	O	null
+5 ב ב במיקרופון preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ה ה במיקרופון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 המיקרופון מיקרופון במיקרופון noun masculine singular absolute unspecified unspecified  	O	null
+6 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 ( ( ( punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 קבל קבל קבל! noun masculine singular absolute unspecified unspecified  
+8 י י קבל! possessive masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+9 ) ) ) punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+11 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ב ב בטלפון preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 טלפון טלפון בטלפון noun masculine singular absolute unspecified unspecified  	O	null
+13 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 תמכור מכר תמכור verb feminine singular unspecified 3 future  	O	null
+15 תקן תקן תקנה noun masculine singular absolute unspecified unspecified  
+15 ה ה תקנה possessive feminine singular unspecified 3 unspecified 0 	O	null
+16 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 תקנה תיקן תקנה verb feminine singular unspecified 3 past  	O	null
+18 תמכון תמכון תמכון verb masculine singular unspecified 2 future  	O	null
+19 עוד עוד עוד quantifier unspecified unspecified construct unspecified unspecified  	O	null
+20 שנייה שנייה שנייה noun feminine singular absolute unspecified unspecified  	O	null
+21 קופץ קפץ קופץ verb masculine singular unspecified any beinoni  	O	null
+22 מ מ מהחלון preposition unspecified unspecified unspecified unspecified unspecified 0 
+22 ה ה מהחלון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 החלון חילון מהחלון noun masculine singular absolute unspecified unspecified  	O	null
+23 / / / punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+24 הולך הלך הולך verb masculine singular unspecified any beinoni  	O	null
+25 ל ל לים preposition unspecified unspecified unspecified unspecified unspecified 0 
+25 ה ה לים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+25 הים ים לים noun masculine singular absolute unspecified unspecified  	O	null
+26 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+27 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+27 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+28 עפיפון עפיפון עפיפון noun masculine singular construct unspecified unspecified  	O	null
+29 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+30 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+31 עושים עשה עושים verb masculine plural unspecified any beinoni  	O	null
+32 מיליונים ORD-CARD1000000 מיליונים numeral masculine plural absolute unspecified unspecified  	O	null
+33 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פרה פרה פרה noun feminine singular absolute unspecified unspecified  	O	null
+1 פרה פרה פרה wPrefix unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+3 X2 X2 X2 foreign unspecified unspecified unspecified unspecified unspecified  	O	null
+4 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 עושים עשה עושים verb masculine plural unspecified any beinoni  	O	null
+7 מיליונים ORD-CARD1000000 מיליונים numeral masculine plural absolute unspecified unspecified  	O	null
+8 ( ( ( punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 פרה פרה פרה noun feminine singular absolute unspecified unspecified  	O	null
+10 פרה פרה פרה noun feminine singular absolute unspecified unspecified  	O	null
+11 ) ) ) punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 נכון נכון נכון adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 לשכוח שכח לשכוח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+15 להזרים הזרים להזרים verb unspecified unspecified unspecified unspecified infinitive  	O	null
+16 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+17 ה ה ההון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 ההון הון ההון noun masculine singular absolute unspecified unspecified  	O	null
+18 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ל ל למעמד preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה למעמד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 המעמד מעמד למעמד noun masculine singular absolute unspecified unspecified  	O	null
+1 ה ה התחתון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 התחתון תחתון התחתון adjective masculine singular absolute unspecified unspecified  	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ל ל לפרולטריון preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה לפרולטריון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הפרולטריון הפרולטריון לפרולטריון noun masculine singular absolute unspecified unspecified  	O	null
+

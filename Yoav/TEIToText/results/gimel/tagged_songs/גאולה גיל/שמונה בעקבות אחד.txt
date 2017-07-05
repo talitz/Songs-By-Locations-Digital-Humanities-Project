@@ -1,0 +1,248 @@
+0 ו ו ו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ה ה הופ definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הוף הוף הופ noun feminine singular absolute unspecified unspecified  	O	null
+3 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 יצאנו יצא יצאנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+1 ל ל לדרך preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 דרך דרך לדרך noun feminine singular construct unspecified unspecified  	O	null
+2 קדימה קדימה קדימה noun feminine singular absolute unspecified unspecified  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה המערות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 המערות מערה המערות noun feminine plural absolute unspecified unspecified  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה היערות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 היערות יער היערות noun masculine plural absolute unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 כול כול כולנו quantifier unspecified unspecified unspecified unspecified unspecified  
+10 נו נו כולנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+11 יחד יחד יחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 הי הי הי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+14 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+2 פחד פחד פחד noun masculine singular absolute unspecified unspecified  	O	null
+3 קדימה קדימה קדימה properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ו ו ובאומץ conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 ב ב ובאומץ preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 אומץ אומץ ובאומץ noun masculine singular construct unspecified unspecified  	O	null
+6 לב לב לב noun masculine singular absolute unspecified unspecified  	O	null
+7 בומס בומס בומס properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+8 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נשכיב השכיב נשכיב verb masculine-and-feminine plural unspecified 1 future  	O	null
+10 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה האויב definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 האויב אויב האויב noun masculine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פלשנו פלש פלשנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+1 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה המטע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המטע מטע המטע noun masculine singular absolute unspecified unspecified  	O	null
+4 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 טע נטע טע verb masculine singular unspecified 2 imperative  	I_ORG	null
+6 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+7 טע... טע... טע... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+8 זחלנו זחל זחלנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+9 חרש חרש חרש noun masculine singular absolute unspecified unspecified  	O	null
+10 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ארבע CARD4 ארבע numeral feminine singular absolute unspecified unspecified  	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 בע בע בע properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+14 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 בע... בע... בע... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+16 נטוס טס נטוס verb masculine-and-feminine plural unspecified 1 future  	O	null
+17 ב ב בעגלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 ה ה בעגלה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+17 העגלה עגלה בעגלה noun feminine singular absolute unspecified unspecified  	O	null
+18 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+20 - - - properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+21 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+22 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 לחירבה לחירבה לחירבה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+24 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 סיסמת סיסמה סיסמתנו noun feminine singular absolute unspecified unspecified  
+0 נו נו סיסמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמונה CARD8 שמונה numeral masculine plural absolute unspecified unspecified  	O	null
+5 בעקבות בעקבות בעקבות preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+7 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ושוב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 שוב שוב ושוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 יצאנו יצא יצאנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+2 ל ל לדרך preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה לדרך definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הדרך דרך לדרך noun feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 קדימה קדימה קדימה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 קפוץ קפץ קפוץ verb masculine singular unspecified 2 imperative  	O	null
+7 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הנהר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הנהר נהר הנהר noun masculine singular absolute unspecified unspecified  	O	null
+9 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 רוץ רץ רוץ verb masculine singular unspecified 2 imperative  	O	null
+1 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ראש ראש ראש noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה ההר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 ההר הר ההר noun masculine singular absolute unspecified unspecified  	O	null
+4 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כול כול כולנו quantifier unspecified unspecified unspecified unspecified unspecified  
+0 נו נו כולנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 יחד יחד יחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 הי הי הי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+2 פחד פחד פחד noun masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 קדימה קדימה קדימה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ו ו ומראש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 מ מ ומראש preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ראש ראש ומראש noun masculine singular construct unspecified unspecified  	O	null
+7 ה ה התל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+7 התל תל התל noun masculine singular absolute unspecified unspecified  	O	null
+8 בומס בומס בומס properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+9 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 נפיל הפיל נפיל verb masculine-and-feminine plural unspecified 1 future  	O	null
+11 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 ה ה המרגל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+12 המרגל מרגל המרגל noun masculine singular absolute unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 פלשנו פלש פלשנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+1 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה הגינה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הגינה גינה הגינה noun feminine singular absolute unspecified unspecified  	O	null
+4 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 נה נה נה properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+6 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נה... נה... נה... properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+8 פרצנו פרץ פרצנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+9 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+11 ה ה הביקתה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 הביקתה הביקתה הביקתה noun masculine singular absolute unspecified unspecified  	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 תה תה תה noun masculine singular absolute unspecified unspecified  	O	null
+14 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 תה... תה... תה... verb masculine singular unspecified 2 imperative  	O	null
+16 ירינו ירה ירינו verb masculine-and-feminine plural unspecified 1 past  	O	null
+17 ב ב במקלע preposition unspecified unspecified unspecified unspecified unspecified 0 
+17 מקלע מקלע במקלע noun masculine singular construct unspecified unspecified  	O	null
+18 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+19 לע לע לע properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+20 - - - properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+21 לע לע לע properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+22 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+23 לחירבה לחירבה לחירבה properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+24 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 סיסמת סיסמה סיסמתנו noun feminine singular absolute unspecified unspecified  
+0 נו נו סיסמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמונה CARD8 שמונה numeral masculine plural absolute unspecified unspecified  	O	null
+5 בעקבות בעקבות בעקבות preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+7 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 קדימה קדימה קדימה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 ו ו ובקרב conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 ב ב ובקרב preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 קרב קרב ובקרב noun masculine singular absolute unspecified unspecified  	O	null
+3 קצר קצר קצר adjective masculine singular absolute unspecified unspecified  	O	null
+4 תפוס תפס תפוס verb masculine singular unspecified 2 imperative  	O	null
+5 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ה ה המיבצר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 המיבצר המיבצר המיבצר noun masculine singular absolute unspecified unspecified  	O	null
+7 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 כול כול כולנו quantifier unspecified unspecified unspecified unspecified unspecified  
+0 נו נו כולנו pronomial masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 יחד יחד יחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 הי הי הי interjection unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אין יש אין existential unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לנו לן לנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+2 פחד פחד פחד noun masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 קדימה קדימה קדימה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+5 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+6 ו ו ובביטחון conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 ב ב ובביטחון preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה ובביטחון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הביטחון ביטחון ובביטחון noun masculine singular absolute unspecified unspecified  	O	null
+7 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 בומס בומס בומס properName unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+1 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+2 נביא נביא נביא noun masculine singular construct unspecified unspecified  	O	null
+3 ה ה הניצחון definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הניצחון ניצחון הניצחון noun masculine singular absolute unspecified unspecified  	O	null
+4 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 תפסנו תפס תפסנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+1 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה המפה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 המפה מפה המפה noun feminine singular absolute unspecified unspecified  	O	null
+4 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 פה... פה... פה... verb masculine singular unspecified 2 imperative  	O	null
+7 טיפסנו טיפס טיפסנו verb masculine-and-feminine plural unspecified 1 past  	O	null
+8 כבר כבר כבר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 עץ עץ עץ noun masculine singular construct unspecified unspecified  	O	null
+11 ה ה התות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+11 התות תות התות noun masculine singular absolute unspecified unspecified  	O	null
+12 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 טו טו טו properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+14 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+15 טו טו טו properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+16 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נפרוץ פרץ נפרוץ verb masculine-and-feminine plural unspecified 1 future  	I_LOC	null
+1 ב ב בצהלה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 צהלה צהלה בצהלה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+2 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+4 - - - properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+5 לה לה לה properName unspecified unspecified unspecified unspecified unspecified  	I_ORG	null
+6 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 לחירבה לחירבה לחירבה properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+8 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 סיסמת סיסמה סיסמתנו noun feminine singular absolute unspecified unspecified  
+0 נו נו סיסמתנו possessive masculine-and-feminine plural unspecified 1 unspecified 0 	O	null
+1 פה פה פה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+2 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+3 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שמונה CARD8 שמונה numeral masculine plural absolute unspecified unspecified  	O	null
+5 בעקבות בעקבות בעקבות preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+7 ! ! ! punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

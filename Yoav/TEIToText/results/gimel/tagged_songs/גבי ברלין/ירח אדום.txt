@@ -1,0 +1,102 @@
+0 עולה עלה עולה verb masculine singular unspecified any beinoni  	O	null
+1 ירח ירח ירח noun masculine singular absolute unspecified unspecified  	O	null
+2 מלא מלא מלא adjective masculine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 אדום אדום אדום adjective masculine singular absolute unspecified unspecified  	O	null
+5 יורד ירד יורד verb masculine singular unspecified any beinoni  	O	null
+6 ה ה הליל definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 הליל ליל הליל noun masculine singular absolute unspecified unspecified  	O	null
+7 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 לבי ליבה לבי verb feminine singular unspecified 2 imperative  	O	null
+9 יתום יתום יתום properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+10 ל ל לאן preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 אן אן לאן properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+11 אפנה אפנה אפנה noun feminine singular absolute unspecified unspecified  	O	null
+12 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+14 רדת רדת רדת properName unspecified unspecified unspecified unspecified unspecified  	O	null
+15 יום יום יום noun masculine singular absolute unspecified unspecified  	O	null
+16 ב ב בדד preposition unspecified unspecified unspecified unspecified unspecified 0 
+16 ה ה בדד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 הדד דד בדד noun masculine singular absolute unspecified unspecified  	O	null
+17 ו ו ובלעדייך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 בלעדי בלעדי ובלעדייך preposition unspecified unspecified unspecified unspecified unspecified  
+17 ך ך ובלעדייך pronomial feminine singular unspecified 2 unspecified 0 	O	null
+18 עולה עולה עולה noun masculine singular absolute unspecified unspecified  	O	null
+19 ירח ירח ירח noun masculine singular absolute unspecified unspecified  	O	null
+20 מלא מלא מלא adjective masculine singular absolute unspecified unspecified  	O	null
+21 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+22 אדום אדום אדום adjective masculine singular absolute unspecified unspecified  	O	null
+23 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+24 גם גם גם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+25 מחר מחר מחר adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+26 יחזור חזר יחזור verb masculine singular unspecified 3 future  	O	null
+27 ה ה הלום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+27 הלום לום הלום noun masculine singular absolute unspecified unspecified  	O	null
+28 אבל אבל אבל conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+29 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+30 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+31 ש ש שבכל relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+31 ב ב שבכל preposition unspecified unspecified unspecified unspecified unspecified 0 
+31 כל כול שבכל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+32 חלום חלום חלום noun masculine singular absolute unspecified unspecified  	O	null
+33 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+33 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+34 חסרות חסר חסרות adjective feminine plural absolute unspecified unspecified  	O	null
+35 ש ש שפתייך relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+35 פתיי פתי שפתייך noun masculine plural absolute unspecified unspecified  
+35 ך ך שפתייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לונה לן לונה verb feminine plural unspecified 2 imperative  	O	null
+2 רוסה רוסה רוסה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+3 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 שוט שוט שוט noun masculine singular absolute unspecified unspecified  	O	null
+6 ו ו והאר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 האר האיר והאר verb masculine singular unspecified 2 imperative  	O	null
+7 ירח ירח ירח noun masculine singular absolute unspecified unspecified  	O	null
+8 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לונה לן לונה verb feminine plural unspecified 2 imperative  	O	null
+10 רוסה רוסה רוסה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+11 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+12 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 ה ה הלבנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+13 הלבנה לבן הלבנה adjective feminine singular absolute unspecified unspecified  	O	null
+14 ל ל לאוהבים preposition unspecified unspecified unspecified unspecified unspecified 0 
+14 ה ה לאוהבים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+14 האוהבים אהב לאוהבים participle masculine plural absolute any unspecified  	O	null
+15 נראית נראה נראית verb feminine singular unspecified any beinoni  	O	null
+16 אדום אדום אדום adjective masculine singular absolute unspecified unspecified  	I_LOC	null
+
+0 אך אך אך conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 תמיד תמיד תמיד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+4 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 נראית נראה נראית verb feminine singular unspecified any beinoni  	O	null
+6 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+7 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+8 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 הינך הינך הינך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 שם שם שם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+12 כך כך כך pronoun unspecified unspecified unspecified unspecified unspecified  	O	null
+13 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+14 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+15 תהפוך הפך תהפוך verb feminine singular unspecified 3 future  	O	null
+16 שוב שוב שוב adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+17 אדום אדום אדום adjective masculine singular absolute unspecified unspecified  	O	null
+18 עמוק עמוק עמוק adjective masculine singular absolute unspecified unspecified  	O	null
+19 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+20 להט להט להט noun masculine singular construct unspecified unspecified  	O	null
+21 חיבוקיי חיבוק חיבוקייך noun masculine plural absolute unspecified unspecified  
+21 ך ך חיבוקייך possessive feminine singular unspecified 2 unspecified 0 	O	null
+
+0 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 לונה לן לונה verb feminine plural unspecified 2 imperative  	O	null
+2 רוסה רוסה רוסה properName unspecified unspecified unspecified unspecified unspecified  	O	null
+3 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ... ... ... punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

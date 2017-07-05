@@ -1,0 +1,68 @@
+0 מגדים מגד מגדים noun masculine plural absolute unspecified unspecified  	O	null
+1 ל ל לרעי preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 רעי רעי לרעי noun masculine singular absolute unspecified unspecified  	O	null
+2 ב ב בצנעה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בצנעה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הצנעה צנעה בצנעה noun feminine singular absolute unspecified unspecified  	O	null
+3 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+4 צפן צפן צפן verb masculine singular unspecified 3 past  	O	null
+5 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ש ש שחוק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 חוק חוק שחוק noun masculine singular construct unspecified unspecified  	O	null
+1 עלים עלה עלים noun masculine plural absolute unspecified unspecified  	O	null
+2 גשומים גשום גשומים adjective masculine plural absolute unspecified unspecified  	O	null
+3 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ירוק ירוק ירוק adjective masculine singular absolute unspecified unspecified  	O	null
+5 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+6 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו וטרופה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 טרופה טרוף וטרופה adjective feminine singular absolute unspecified unspecified  	O	null
+1 שמחתי שמח שמחתי verb masculine-and-feminine singular unspecified 1 past  	O	null
+2 מיינה מיין מיינה verb feminine singular unspecified 3 past  	O	null
+3 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 שכר שכר שכר noun masculine singular absolute unspecified unspecified  	O	null
+5 ו ו ורוגעה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 רוגע רוגע ורוגעה noun masculine singular absolute unspecified unspecified  
+5 ה ה ורוגעה possessive feminine singular unspecified 3 unspecified 0 	O	null
+6 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עינות עינות עינות noun feminine singular absolute unspecified unspecified  	O	null
+8 ב ב בה preposition unspecified unspecified unspecified unspecified unspecified  
+8 ה ה בה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+9 ישוקו... ישוקו... ישוקו... preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אחזו אחז אחזו verb masculine-and-feminine plural unspecified 3 past  	O	null
+1 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+1 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+2 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לילות לילה לילות noun masculine plural absolute unspecified unspecified  	O	null
+4 ו ו וימים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ימים יום וימים noun masculine plural absolute unspecified unspecified  	O	null
+5 ברוכים ברוך ברוכים adjective masculine plural absolute unspecified unspecified  	O	null
+6 משעולי משעול משעולי noun masculine plural construct unspecified unspecified  	O	null
+7 בשמים בושם בשמים noun masculine plural absolute unspecified unspecified  	O	null
+8 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 אחזו אחז אחזו verb masculine-and-feminine plural unspecified 3 past  	O	null
+10 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+10 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+11 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+12 רעי רעי רעי noun masculine singular absolute unspecified unspecified  	O	null
+13 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+14 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+15 דודי דודי דודי properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+16 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+17 גשומים גשום גשומים adjective masculine plural absolute unspecified unspecified  	O	null
+18 ה ה העלים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+18 העלים עלה העלים noun masculine plural absolute unspecified unspecified  	O	null
+19 הן הן הן conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+20 לך הלך לך verb masculine singular unspecified 2 imperative  	O	null
+21 משל משל משלך preposition unspecified unspecified unspecified unspecified unspecified  
+21 ך ך משלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+22 ו ו ואתה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+22 את את ואתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+22 ה ה ואתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+23 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+23 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+24 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

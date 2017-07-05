@@ -1,0 +1,108 @@
+0 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לקטוף קטף לקטוף verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הפרח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הפרח פרח הפרח noun masculine singular absolute unspecified unspecified  	O	null
+6 ש ש שאיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 איש אייש שאיש verb masculine singular unspecified 3 past  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 נתן נתן נתן verb masculine singular unspecified 3 past  	O	null
+9 על על עליו preposition unspecified unspecified unspecified unspecified unspecified  
+9 ו ו עליו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+10 דעת דעה דעתו noun feminine singular absolute unspecified unspecified  
+10 ו ו דעתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+
+0 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לצאת יצא לצאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הקרח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הקרח קרח הקרח noun masculine singular absolute unspecified unspecified  	O	null
+6 רחוץ רחץ רחוץ participle masculine singular absolute any unspecified  	O	null
+7 ו ו ונקי conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 נקי נקי ונקי adjective masculine singular absolute unspecified unspecified  	O	null
+8 ש ש שהקרח relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 ה ה שהקרח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הקרח קרח שהקרח noun masculine singular absolute unspecified unspecified  	O	null
+9 ישמור שמר ישמור verb masculine singular unspecified 3 future  	O	null
+
+0 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ו ו ואיש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 איש איש ואיש noun masculine singular absolute unspecified unspecified  	O	null
+4 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 יודע ידע יודע verb masculine singular unspecified any beinoni  	O	null
+6 ו ו ואיש conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 איש איש ואיש noun masculine singular absolute unspecified unspecified  	O	null
+7 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 יֵדע יֵדע יֵדע verb masculine singular unspecified 3 past  	O	null
+9 עד עד עד preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+10 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+11 שעת שעה שעתו noun feminine singular absolute unspecified unspecified  
+11 ו ו שעתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+
+0 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ה ה התור definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 התור תור התור noun masculine singular absolute unspecified unspecified  	O	null
+4 ו ו והרגע conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ה ה והרגע definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הרגע רגע והרגע noun masculine singular absolute unspecified unspecified  	O	null
+5 קרב קרב קרב noun masculine singular absolute unspecified unspecified  	O	null
+6 ו ו והולך conjunction unspecified unspecified unspecified unspecified unspecified 0 
+6 הולך הלך והולך verb masculine singular unspecified any beinoni  	O	null
+7 כי כי כי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 זו זו זו pronoun feminine singular unspecified 3 unspecified  	O	null
+9 שעת שעה שעתו noun feminine singular absolute unspecified unspecified  
+9 ו ו שעתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+
+0 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 שבו שב שבו verb masculine-and-feminine plural unspecified 3 past  	O	null
+4 איש איש איש noun masculine singular absolute unspecified unspecified  	O	null
+5 קוטע קטע קוטע verb masculine singular unspecified any beinoni  	O	null
+6 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עצם עצם עצם noun masculine singular construct unspecified unspecified  	O	null
+8 רוח רוח רוחו noun feminine singular absolute unspecified unspecified  
+8 ו ו רוחו possessive masculine singular unspecified 3 unspecified 0 	O	null
+9 בּעצם בּעצם בּעצם verb masculine singular unspecified 2 future  	O	null
+10 יד יד ידו noun feminine singular absolute unspecified unspecified  
+10 ו ו ידו possessive masculine singular unspecified 3 unspecified 0 	O	null
+
+0 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ו ו וזהו conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 זהו זהו וזהו pronoun masculine singular unspecified 3 unspecified  	O	null
+4 ה ה הפרח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 הפרח פרח הפרח noun masculine singular absolute unspecified unspecified  	O	null
+5 ש ש שאיש relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+5 איש אייש שאיש verb masculine singular unspecified 3 past  	O	null
+6 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 נתן נתן נתן verb masculine singular unspecified 3 past  	O	null
+8 על על עליו preposition unspecified unspecified unspecified unspecified unspecified  
+8 ו ו עליו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+9 דעת דעה דעתו noun feminine singular absolute unspecified unspecified  
+9 ו ו דעתו possessive masculine singular unspecified 3 unspecified 0 	O	null
+
+0 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+1 זה זה זה pronoun masculine singular unspecified 3 unspecified  	O	null
+2 היום היום היום adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 לצאת יצא לצאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 אל אל אל preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הקרח definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הקרח קרח הקרח noun masculine singular absolute unspecified unspecified  	O	null
+6 לצאת יצא לצאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 ו ו ולצאת conjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 לצאת יצא ולצאת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+8 ו ו ופשוט conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 פשוט פשוט ופשוט adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 לחזור חזר לחזור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+

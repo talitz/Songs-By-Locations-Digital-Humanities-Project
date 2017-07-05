@@ -1,0 +1,83 @@
+0 בוא בא בוא verb masculine singular unspecified 2 imperative  	O	null
+1 נצא יצא נצא verb masculine-and-feminine plural unspecified 1 future  	O	null
+2 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ל ל לטיול preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 ה ה לטיול definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+3 הטיול טיול לטיול noun masculine singular absolute unspecified unspecified  	O	null
+4 תעולל עולל תעולל verb feminine singular unspecified 3 future  	O	null
+5 ל ל לי preposition unspecified unspecified unspecified unspecified unspecified  
+5 י י לי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+6 תעלול תעלול תעלול noun masculine singular absolute unspecified unspecified  	O	null
+7 כמו כמו כמו preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פעם פעם פעם noun feminine singular absolute unspecified unspecified  	O	null
+9 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+10 פעם פעם פעם noun feminine singular absolute unspecified unspecified  	O	null
+
+0 תיקח תיקח תיקחני noun masculine plural absolute unspecified unspecified  
+0 הם הם תיקחני possessive masculine plural unspecified 3 unspecified 0 	O	null
+1 ל ל לחורשה preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 חורשה חורשה לחורשה noun feminine singular absolute unspecified unspecified  	O	null
+2 ו ו ותאמר conjunction unspecified unspecified unspecified unspecified unspecified 0 
+2 תאמר אמר ותאמר verb feminine singular unspecified 3 future  	O	null
+3 ב ב בלחישה preposition unspecified unspecified unspecified unspecified unspecified 0 
+3 לחישה לחישה בלחישה noun feminine singular absolute unspecified unspecified  	O	null
+4 : : : punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+5 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 פעם פעם פעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פעם פעם פעם noun feminine singular absolute unspecified unspecified  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 נערה נער נערה noun feminine singular absolute unspecified unspecified  	O	null
+2 יפה יפה יפה adjective feminine singular absolute unspecified unspecified  	O	null
+3 ו ו ותמימה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 תמימה תמים ותמימה adjective feminine singular absolute unspecified unspecified  	O	null
+4 אתה הוא אתה pronoun masculine singular unspecified 2 unspecified  	O	null
+5 מחייך חייך מחייך verb masculine singular unspecified any beinoni  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 בוא בוא בוא noun masculine singular construct unspecified unspecified  	O	null
+8 למדני למדן למדני noun masculine plural construct unspecified unspecified  	O	null
+9 - - - punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 כיצד כיצד כיצד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+11 פרפרים פרפר פרפרים noun masculine plural absolute unspecified unspecified  	O	null
+12 עפים עף עפים verb masculine plural unspecified any beinoni  	O	null
+13 אוהבים אהב אוהבים verb masculine plural unspecified any beinoni  	O	null
+14 על על עלי preposition unspecified unspecified unspecified unspecified unspecified  
+14 י י עלי pronomial masculine-and-feminine singular unspecified 1 unspecified 0 	O	null
+15 ה ה התאנה definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+15 התאנה תאנה התאנה noun feminine singular absolute unspecified unspecified  	O	null
+16 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+17 מכסים כיסה מכסים verb masculine plural unspecified any beinoni  	O	null
+18 ? ? ? punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 נשחק נשחק נשחק verb masculine singular unspecified 3 past  	O	null
+1 ב ב במחבואים preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה במחבואים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 המחבואים מחבוא במחבואים noun masculine plural absolute unspecified unspecified  	O	null
+2 נסתתר התתתר נסתתר verb masculine singular unspecified 3 past  	O	null
+3 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ה ה השיחים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+4 השיחים שיח השיחים noun masculine plural absolute unspecified unspecified  	O	null
+5 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+6 פעם פעם פעם adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+7 עוד עוד עוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+8 פעם פעם פעם noun feminine singular absolute unspecified unspecified  	O	null
+
+0 ו ו ואני conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 אני הוא ואני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 את את אותך at-preposition unspecified unspecified unspecified unspecified unspecified  
+1 ך ך אותך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+2 אתפוס תפס אתפוס verb masculine-and-feminine singular unspecified 1 future  	O	null
+3 בין בין בין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 הדס הדס הדס properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+5 לבין לבין לבין preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 קיסוס קיסוס קיסוס properName unspecified unspecified unspecified unspecified unspecified  	I_PERS	null
+7 נרדם נרדם נרדם verb masculine singular unspecified 3 past  	O	null
+8 כמו כמו כמו conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+9 פעם פעם פעם noun feminine singular absolute unspecified unspecified  	O	null
+
+0 אני הוא אני pronoun masculine-and-feminine singular unspecified 1 unspecified  	O	null
+1 נערה נער נערה noun feminine singular absolute unspecified unspecified  	O	null
+2 יפה יפה יפה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 ותמימה... ותמימה... ותמימה... verb feminine singular unspecified 2 imperative  	O	null
+

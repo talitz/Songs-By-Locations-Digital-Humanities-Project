@@ -1,0 +1,58 @@
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 כוססת כסס כוססת verb feminine singular unspecified any beinoni  	O	null
+2 ציפורניים ציפורן ציפורניים noun feminine plural absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מתביישת התבייש מתביישת verb feminine singular unspecified any beinoni  	O	null
+5 ב ב בידיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ידיים יד בידיים noun feminine plural absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+1 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	I_ORG	null
+2 בסדר בסדר בסדר adverb unspecified unspecified unspecified unspecified unspecified  	I_LOC	null
+3 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 לוחשת לחש לוחשת verb feminine singular unspecified any beinoni  	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 בינתיים בינתיים בינתיים adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 אם אם אם conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+11 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+12 מ מ מת.. preposition unspecified unspecified unspecified unspecified unspecified 0 
+12 ת. ת. מת.. noun masculine singular absolute unspecified unspecified  
+12 ו ו מת.. possessive masculine singular unspecified 3 unspecified 0 	O	null
+13 הייתי הוא הייתי copula masculine-and-feminine singular unspecified 1 past  	O	null
+14 מתאבדת התאבד מתאבדת verb feminine singular unspecified any beinoni  	O	null
+15 " " " punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+16 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 כוססת כסס כוססת verb feminine singular unspecified any beinoni  	O	null
+2 ציפורניים ציפורן ציפורניים noun feminine plural absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 מתביישת התבייש מתביישת verb feminine singular unspecified any beinoni  	O	null
+5 ב ב בידיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+5 ידיים יד בידיים noun feminine plural absolute unspecified unspecified  	O	null
+6 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 יודעת ידע יודעת verb feminine singular unspecified any beinoni  	O	null
+2 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+4 בא בא בא verb masculine singular unspecified 3 past  	O	null
+5 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+5 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+6 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מ מ משמיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+7 שמיים שמיים משמיים noun masculine plural absolute unspecified unspecified  	O	null
+8 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+9 הם הוא הם pronoun masculine plural unspecified 3 unspecified  	O	null
+10 היה הוא היה copula masculine singular unspecified 3 past  	O	null
+11 מת מת מת verb masculine singular unspecified 3 past  	O	null
+12 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+13 היתה הוא היתה copula feminine singular unspecified 3 past  	O	null
+14 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+15 מתאבדת התאבד מתאבדת verb feminine singular unspecified any beinoni  	O	null
+16 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+

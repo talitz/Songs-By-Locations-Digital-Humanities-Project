@@ -1,0 +1,147 @@
+0 דוהר דהר דוהר verb masculine singular unspecified any beinoni  	O	null
+1 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 דוהר דהר דוהר verb masculine singular unspecified any beinoni  	O	null
+4 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 ל ל לחיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה לחיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 החיים חיים לחיים noun masculine plural absolute unspecified unspecified  	O	null
+7 ש ש שרק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 רק רק שרק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מחכים חיכה מחכים verb masculine plural unspecified any beinoni  	O	null
+
+0 דוהר דהר דוהר verb masculine singular unspecified any beinoni  	O	null
+1 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 נוסע נוסע נוסע noun masculine singular absolute unspecified unspecified  	O	null
+4 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לחזור חזר לחזור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 להריח הריח להריח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הפרחים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הפרחים פרח הפרחים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 טס טס טס verb masculine singular unspecified 3 past  	O	null
+1 ב ב בסיבובים preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בסיבובים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הסיבובים סיבוב בסיבובים noun masculine plural absolute unspecified unspecified  	O	null
+2 מנסה ניסה מנסה verb masculine singular unspecified any beinoni  	O	null
+3 לנצח ניצח לנצח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+6 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+7 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 להגיע הגיע להגיע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 חושב חשב חושב verb masculine singular unspecified any beinoni  	O	null
+11 ל ל לאן preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 אן אן לאן properName unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ובצד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 ב ב ובצד preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 צד צד ובצד noun masculine singular construct unspecified unspecified  	O	null
+1 ה ה הכביש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הכביש כביש הכביש noun masculine singular absolute unspecified unspecified  	O	null
+2 אחרי אחרי אחרי preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 כמה כמה כמה quantifier unspecified unspecified construct unspecified unspecified  	O	null
+4 שנים שנה שנים noun feminine plural absolute unspecified unspecified  	O	null
+5 יש יש יש existential unspecified unspecified unspecified unspecified unspecified  	O	null
+6 גלגל גלגל גלגל noun masculine singular absolute unspecified unspecified  	O	null
+7 אחד CARD1 אחד numeral masculine singular absolute unspecified unspecified  	O	null
+8 ש ש שעוד relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 עוד עוד שעוד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נשאר נשאר נשאר verb masculine singular unspecified 3 past  	O	null
+10 ל ל לספר preposition unspecified unspecified unspecified unspecified unspecified 0 
+10 ה ה לספר definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+10 הספר ספר לספר noun masculine singular absolute unspecified unspecified  	O	null
+11 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+12 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 נשבעת נשבע נשבעת verb feminine singular unspecified any beinoni  	O	null
+14 ש ש שתדאג relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 תדאג דאג שתדאג verb feminine singular unspecified 3 future  	O	null
+15 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+16 ה ה החיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+16 החיים חיים החיים noun masculine plural absolute unspecified unspecified  	O	null
+17 ש ש שיהיה relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+17 יהיה הוא שיהיה copula masculine singular unspecified 3 future  	O	null
+18 טוב טוב טוב adjective masculine singular absolute unspecified unspecified  	O	null
+19 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+19 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+20 ו ו ובצד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+20 ב ב ובצד preposition unspecified unspecified unspecified unspecified unspecified 0 
+20 צד צד ובצד noun masculine singular construct unspecified unspecified  	O	null
+21 ה ה הכביש definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+21 הכביש כביש הכביש noun masculine singular absolute unspecified unspecified  	I_LOC	null
+22 ה ה הפרחים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+22 הפרחים פרח הפרחים noun masculine plural absolute unspecified unspecified  	I_LOC	null
+23 מספרים סיפר מספרים verb masculine plural unspecified any beinoni  	O	null
+24 איך איך איך adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+25 מיהרת מיהר מיהרת verb feminine singular unspecified 2 past  	O	null
+26 ב ב ביום preposition unspecified unspecified unspecified unspecified unspecified 0 
+26 ה ה ביום definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+26 היום יום ביום noun masculine singular absolute unspecified unspecified  	O	null
+27 אחד איחד אחד verb masculine singular unspecified 3 past  	O	null
+28 לזרוק זרק לזרוק verb unspecified unspecified unspecified unspecified infinitive  	O	null
+29 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+30 ה ה החיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+30 החיים חיים החיים noun masculine plural absolute unspecified unspecified  	O	null
+31 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+32 של של שלך shel-preposition unspecified unspecified unspecified unspecified unspecified  
+32 ך ך שלך pronomial masculine singular unspecified 2 unspecified 0 	O	null
+33 אלא אלא אלא conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+34 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+35 כל כול כל quantifier unspecified unspecified construct unspecified unspecified  	O	null
+36 מי מי מי interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+37 ש ש שאהבת relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+37 אהבת אהבה שאהבת noun feminine singular construct unspecified unspecified  	O	null
+
+0 דוהר דהר דוהר verb masculine singular unspecified any beinoni  	O	null
+1 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 דוהר דהר דוהר verb masculine singular unspecified any beinoni  	O	null
+4 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 ל ל לחיים preposition unspecified unspecified unspecified unspecified unspecified 0 
+6 ה ה לחיים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+6 החיים חיים לחיים noun masculine plural absolute unspecified unspecified  	O	null
+7 ש ש שרק relativizer/subordinatingConjunction unspecified unspecified unspecified unspecified unspecified 0 
+7 רק רק שרק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 מחכים חיכה מחכים verb masculine plural unspecified any beinoni  	O	null
+
+0 דוהר דהר דוהר verb masculine singular unspecified any beinoni  	O	null
+1 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+2 לעצור עצר לעצור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 נוסע נוסע נוסע noun masculine singular absolute unspecified unspecified  	O	null
+4 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לחזור חזר לחזור verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 להריח הריח להריח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ה ה הפרחים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+8 הפרחים פרח הפרחים noun masculine plural absolute unspecified unspecified  	O	null
+
+0 טס טס טס verb masculine singular unspecified 3 past  	O	null
+1 ב ב בסיבובים preposition unspecified unspecified unspecified unspecified unspecified 0 
+1 ה ה בסיבובים definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הסיבובים סיבוב בסיבובים noun masculine plural absolute unspecified unspecified  	O	null
+2 מנסה ניסה מנסה verb masculine singular unspecified any beinoni  	O	null
+3 לנצח ניצח לנצח verb unspecified unspecified unspecified unspecified infinitive  	O	null
+4 את את את at-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 ה ה הזמן definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+5 הזמן זמן הזמן noun masculine singular absolute unspecified unspecified  	O	null
+6 רוצה רצה רוצה verb masculine singular unspecified any beinoni  	O	null
+7 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+8 להגיע הגיע להגיע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+9 לא לא לא negation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 חושב חשב חושב verb masculine singular unspecified any beinoni  	O	null
+11 ל ל לאן preposition unspecified unspecified unspecified unspecified unspecified 0 
+11 אן אן לאן properName unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 ו ו ובצד conjunction unspecified unspecified unspecified unspecified unspecified 0 
+0 ב ב ובצד preposition unspecified unspecified unspecified unspecified unspecified 0 
+0 ה ה ובצד definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+0 הצד צד ובצד noun masculine singular absolute unspecified unspecified  	O	null
+1 ה ה הכביש... definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+1 הכביש... הכביש... הכביש... participle masculine singular absolute any unspecified  	O	null
+

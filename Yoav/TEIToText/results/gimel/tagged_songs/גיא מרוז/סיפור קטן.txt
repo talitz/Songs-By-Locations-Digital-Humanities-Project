@@ -1,0 +1,107 @@
+0 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+1 טובים טוב טובים adjective masculine plural absolute unspecified unspecified  	O	null
+2 ב ב בסרנדות preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 ה ה בסרנדות definiteArticle unspecified unspecified unspecified unspecified unspecified 0 
+2 הסרנדות הסרנדות בסרנדות noun feminine singular absolute unspecified unspecified  	O	null
+3 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ו ו וילדים conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 ילדים ילד וילדים noun masculine plural absolute unspecified unspecified  	O	null
+5 רוצים רצה רוצים verb masculine plural unspecified any beinoni  	O	null
+6 בובות בובה בובות noun feminine plural absolute unspecified unspecified  	O	null
+7 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+1 חלמה חלם חלמה verb feminine singular unspecified 3 past  	O	null
+2 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+3 יופי יופי יופי noun masculine singular absolute unspecified unspecified  	O	null
+4 עם עם עם preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+5 קצת קצת קצת adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+6 רגש רגש רגש noun masculine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ו ו והוא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 הוא הוא והוא pronoun masculine singular unspecified 3 unspecified  	O	null
+9 הבטיח הבטיח הבטיח verb masculine singular unspecified 3 past  	O	null
+10 ארמונות ארמון ארמונות noun masculine plural absolute unspecified unspecified  	O	null
+11 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+1 רצה רצה רצה verb masculine singular unspecified 3 past  	O	null
+2 לחיות חי לחיות verb unspecified unspecified unspecified unspecified infinitive  	O	null
+3 את את איתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+3 ה ה איתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+4 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+4 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+5 חשבה חשב חשבה verb feminine singular unspecified 3 past  	O	null
+6 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+7 מה מה מה interrogative unspecified unspecified unspecified unspecified unspecified  	O	null
+8 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+9 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+10 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+11 רצה רצה רצה verb masculine singular unspecified 3 past  	O	null
+12 את את איתה at-preposition unspecified unspecified unspecified unspecified unspecified  
+12 ה ה איתה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+13 ל ל להיות preposition unspecified unspecified unspecified unspecified unspecified 0 
+13 היות היות להיות noun masculine singular construct unspecified unspecified  	O	null
+14 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+14 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+15 לבד לבד לבדה noun masculine singular absolute unspecified unspecified  
+15 ה ה לבדה possessive feminine singular unspecified 3 unspecified 0 	O	null
+16 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 הוא הוא הוא pronoun masculine singular unspecified 3 unspecified  	O	null
+1 הבטיח הבטיח הבטיח verb masculine singular unspecified 3 past  	O	null
+2 ל ל לה preposition unspecified unspecified unspecified unspecified unspecified  
+2 ה ה לה pronomial feminine singular unspecified 3 unspecified 0 	O	null
+3 ו ו והיא conjunction unspecified unspecified unspecified unspecified unspecified 0 
+3 היא הוא והיא pronoun feminine singular unspecified 3 unspecified  	O	null
+4 את את אותו at-preposition unspecified unspecified unspecified unspecified unspecified  
+4 ו ו אותו pronomial masculine singular unspecified 3 unspecified 0 	O	null
+5 סרבה סירב סרבה verb feminine singular unspecified 3 past  	O	null
+6 לשמוע שמע לשמוע verb unspecified unspecified unspecified unspecified infinitive  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ו ו ופה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 פה פה ופה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+10 סיפור סיפור סיפור noun masculine singular absolute unspecified unspecified  	O	null
+11 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+1 טובים טוב טובים adjective masculine plural absolute unspecified unspecified  	O	null
+2 בסרנדות... בסרנדות... בסרנדות... verb masculine singular unspecified 2 imperative  	O	null
+
+0 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+1 שטים שט שטים verb masculine plural unspecified any beinoni  	O	null
+2 ביחד ביחד ביחד adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+3 על על על preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+4 ספינה ספינה ספינה noun feminine singular absolute unspecified unspecified  	O	null
+5 של של של shel-preposition unspecified unspecified unspecified unspecified unspecified  	O	null
+6 פחד פחד פחד noun masculine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 היא הוא היא pronoun feminine singular unspecified 3 unspecified  	O	null
+9 רצתה רצה רצתה verb feminine singular unspecified 3 past  	O	null
+10 להיות הוא להיות copula unspecified unspecified unspecified unspecified infinitive  	O	null
+11 רחוק רחוק רחוק adjective masculine singular absolute unspecified unspecified  	O	null
+12 מכאן מכאן מכאן adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+13 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+1 שטים שט שטים verb masculine plural unspecified any beinoni  	O	null
+2 ב ב בזה preposition unspecified unspecified unspecified unspecified unspecified 0 
+2 זה זה בזה pronoun masculine singular unspecified 3 unspecified  	O	null
+3 רק רק רק conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+4 בלי בלי בלי conjunction unspecified unspecified unspecified unspecified unspecified  	O	null
+5 לדעת ידע לדעת verb unspecified unspecified unspecified unspecified infinitive  	O	null
+6 למה לאמה למה noun feminine singular absolute unspecified unspecified  	O	null
+7 , , , punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+8 ו ו ופה conjunction unspecified unspecified unspecified unspecified unspecified 0 
+8 פה פה ופה adverb unspecified unspecified unspecified unspecified unspecified  	O	null
+9 נגמר נגמר נגמר verb masculine singular unspecified 3 past  	O	null
+10 סיפור סיפור סיפור noun masculine singular absolute unspecified unspecified  	O	null
+11 קטן קטן קטן adjective masculine singular absolute unspecified unspecified  	O	null
+12 . . . punctuation unspecified unspecified unspecified unspecified unspecified  	O	null
+
+0 אנשים איש אנשים noun masculine plural absolute unspecified unspecified  	O	null
+1 טובים טוב טובים adjective masculine plural absolute unspecified unspecified  	O	null
+2 בסרנדות... בסרנדות... בסרנדות... verb masculine singular unspecified 2 imperative  	O	null
+
