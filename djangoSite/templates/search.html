@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Songs By Locations</title>
+    <title>Songs By Locations - Digital Humanities Project</title>
     {% load staticfiles %}
     <!-- Bootstrap Core CSS -->
     <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
@@ -90,67 +90,39 @@
                 <div class="post-preview">
                         <h2 class="post-title">
                         </h2>
-                        <form type="get" action="" style="margin: 0">
+                        <form dir="rtl" type="get" action="" style="margin: 0">
                             <input  id="search_box" type="text" name="search_box_artist"  placeholder="הקלד שם אומן" >
                             <input type="reset" name="reset1" value="נקה">
                             <button id="search_submit" type="submit" >חפש</button>
                         </form>
-                        <form type="get" action="" style="margin: 0">
+                        <form dir="rtl" type="get" action="" style="margin: 0">
                             <input  id="search_box" type="text" name="search_box_song"  placeholder="הקלד שם שיר" >
                             <input type="reset" name="reset1" value="נקה">
                             <button id="search_submit" type="submit" >חפש</button>
                         </form>
-                        <form type="get" action="" style="margin: 0">
+                        <form dir="rtl" type="get" action="" style="margin: 0">
                             <input  id="search_box" type="text" name="search_box_city"  placeholder="הקלד שם עיר" >
                             <input type="reset" name="reset1" value="נקה">
                             <button id="search_submit" type="submit" >חפש</button>
                         </form>
+                        
                         <ul>
                           {% for song in songs_list%}
-                            <li><a href="/findbyid/{{song.id}}">{{ song.song_name }}</a> </li>
+                                            <hr>
+							                <div dir="rtl" class="post-preview">
+							                    <a href="/findbyid/{{song.id}}">
+							                        <h2 class="post-title">
+							                            {{ song.song_name }}
+							                        </h2>
+							                    </a>
+							                        <h3 class="post-subtitle">
+                            							אופציה להוסיף מיקום כאן
+                        							</h3>
+							                    <p dir="rtl" class="post-meta">{{ song.song_artist }}</p>
+							                </div>
                           {% endfor %}
-                        </ul>
+                        </ul> 
                 </div>
-                <hr>
-                <div class="post-preview">
-                    <a href="post.html">
-                        <h2 class="post-title">
-                            I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
-                        </h2>
-                    </a>
-                    <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 18, 2014</p>
-                </div>
-                <hr>
-                <div class="post-preview">
-                    <a href="post.html">
-                        <h2 class="post-title">
-                            Science has not yet mastered prophecy
-                        </h2>
-                        <h3 class="post-subtitle">
-                            We predict too much for the next year and yet far too little for the next ten.
-                        </h3>
-                    </a>
-                    <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on August 24, 2014</p>
-                </div>
-                <hr>
-                <div class="post-preview">
-                    <a href="post.html">
-                        <h2 class="post-title">
-                            Failure is not an option
-                        </h2>
-                        <h3 class="post-subtitle">
-                            Many say exploration is part of our destiny, but it’s actually our duty to future generations.
-                        </h3>
-                    </a>
-                    <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on July 8, 2014</p>
-                </div>
-                <hr>
-                <!-- Pager -->
-                <ul class="pager">
-                    <li class="next">
-                        <a href="#">Older Posts &rarr;</a>
-                    </li>
-                </ul>
             </div>
         </div>
     </div>
@@ -180,7 +152,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                             <a href="https://github.com/talitz/Songs-By-Locations-Digital-Humanities-Project">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -188,7 +160,7 @@
                             </a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted">Copyright &copy; Your Website 2016</p>
+                    <p class="copyright text-muted">Copyright &copy; Songs By Locations 2017</p>
                 </div>
             </div>
         </div>

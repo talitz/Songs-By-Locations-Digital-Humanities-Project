@@ -26,6 +26,13 @@ def index(request):
         context={'songs_name': Song.objects.all(),'songs_id': songs_ids},
     )
 
+def contact(request):
+    # Render the HTML template index.html with the data in the context variable
+    return render(
+        request,
+        'contact.html',
+        context={},
+    )
 
 def search(request):
     print("DEBUG: VIEWS.py: search")

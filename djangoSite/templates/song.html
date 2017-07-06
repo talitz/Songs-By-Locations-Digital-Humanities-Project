@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Clean Blog - About</title>
+   <title>Songs By Locations - Digital Humanities Project</title>
 
     {% load staticfiles %}
     <!-- Bootstrap Core CSS -->
@@ -44,23 +44,22 @@
                     <span class="sr-only">Toggle navigation</span>
                     Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="contact.html">צור קשר</a>
                     </li>
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="map.html">מפה</a>
                     </li>
                     <li>
-                        <a href="post.html">Sample Post</a>
+                        <a href="search.html">חיפוש</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="index.html">ראשי</a>
                     </li>
                 </ul>
             </div>
@@ -72,7 +71,7 @@
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" style="background-image: url({% static 'img/about-bg.jpg' %})">
-        <div class="container">
+        <div dir="rtl" class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
@@ -86,7 +85,7 @@
     </header>
 
     <!-- Main Content -->
-    <div class="container">
+    <div dir="rtl" style="width:800px; margin:0 auto;" class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     {{song.song_text|linebreaks}}
@@ -119,7 +118,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                             <a href="https://github.com/talitz/Songs-By-Locations-Digital-Humanities-Project">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -127,7 +126,7 @@
                             </a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted">Copyright &copy; Your Website 2016</p>
+                    <p class="copyright text-muted">Copyright &copy; Songs By Locations 2017</p>
                 </div>
             </div>
         </div>
