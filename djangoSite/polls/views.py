@@ -21,7 +21,7 @@ def index(request):
     return render(
         request,
         'index.html',
-        context = {'songs_name':Song.objects.all() ,'songs_id':songs_ids },
+        context={'songs_name': Song.objects.all(),'songs_id': songs_ids},
     )
 
 def find_song(request, song_id):

@@ -14,7 +14,11 @@ class Song(models.Model):
     def get_cities_in_song(song_cities):
         return Song.objects.get(song_cities=song_cities)
 
+    @staticmethod
+    def get_song_by_id(id_song):
+        return Song.objects.get(id=id_song)
 
+    
 class CitiesInSong(models.Model):
     song_id = models.ForeignKey(Song, db_column='songId')
     city = models.CharField(primary_key=True, max_length=200, db_column='city')
