@@ -24,15 +24,17 @@ class Song(models.Model):
 
     
 class CitiesInSong(models.Model):
+    id = models.AutoField(primary_key=True, db_column='cityId')
     song = models.ForeignKey(Song, db_column='songId')
-    city = models.CharField(primary_key=True, max_length=200, db_column='city')
+    city = models.CharField(max_length=200, db_column='city')
 
     @staticmethod
     def get_song_by_city(city_in_song):
         ob = CitiesInSong.objects.filter(city=city_in_song)
         songs = []
         for o in ob:
-            songs.append(o.song)
+            if o.song not in songs:
+                songs.append(o.song)
         return songs
 
     def __str__(self):
