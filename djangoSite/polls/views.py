@@ -1,5 +1,6 @@
 from django.http import HttpResponse
 from .models import Song
+from .models import CitiesInSong
 from django.shortcuts import render
 
 
@@ -28,19 +29,21 @@ def index(request):
 
 def search(request):
     print("DEBUG: VIEWS.py: search")
-    songs_to_show = Song.objects.all()
+    songs_to_show = ""
     artist = request.GET.get('search_box_artist')
     song_name = request.GET.get('search_box_song')
     city = request.GET.get('search_box_city')
     if artist is not None:
-        songs_to_show = songs_to_show.filter(song_artist=artist)
+        songs_to_show = Song.get_song_by_artist(artist)
 
     if song_name is not None:
-        songs_to_show = songs_to_show.filter(song_name=song_name)
+        songs_to_show = Song.get_song_by_name(song_name)
 
     if city is not None:
-        songs_to_show = songs_to_show
+        songs_to_show = CitiesInSong.get_song_by_city(city)
+
     songs_ids = [q.id for q in songs_to_show]
+
     # Render the HTML template index.html with the data in the context variable
     return render(
         request,

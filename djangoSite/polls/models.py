@@ -16,20 +16,24 @@ class Song(models.Model):
 
     @staticmethod
     def get_song_by_name(name):
-        return Song.objects.get(song_name=name)
+        return Song.objects.filter(song_name=name)
 
     @staticmethod
     def get_song_by_artist(artist):
-        return Song.objects.get(song_artist=artist)
+        return Song.objects.filter(song_artist=artist)
 
     
 class CitiesInSong(models.Model):
-    song_id = models.ForeignKey(Song, db_column='songId')
+    song = models.ForeignKey(Song, db_column='songId')
     city = models.CharField(primary_key=True, max_length=200, db_column='city')
 
-    #@staticmethod
-    #def get_song_by_city(artist):
-       # return CitiesInSong.objects.get(song_artist=artist)
+    @staticmethod
+    def get_song_by_city(city_in_song):
+        ob = CitiesInSong.objects.filter(city=city_in_song)
+        songs = []
+        for o in ob:
+            songs.append(o.song)
+        return songs
 
     def __str__(self):
         return self.city
