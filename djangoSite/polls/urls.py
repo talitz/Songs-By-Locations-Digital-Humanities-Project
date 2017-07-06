@@ -7,7 +7,7 @@ urlpatterns = [
     # ex: /polls/
     url('index', views.index, name='index'),
     # ex: /polls/5/
-    url(r'^(?P<file_name_to_open>[a-z]+)/updateDb/$', helper.insert_to_db_from_file, name='insert to db from file'),
+    url(r'^addSongsToDbFromDbFolder/', helper.insert_songs_to_db_from_db_folder, name='insert to db all songs from file'),
     # ex: /polls/5/results/
     url(r'^findbyid/([0-9]+)/$', views.find_song, name = 'find by id'),
     url(r'^admin/', admin.site.urls),
