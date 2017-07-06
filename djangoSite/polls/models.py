@@ -11,12 +11,16 @@ class Song(models.Model):
         return self.song_text
 
     @staticmethod
-    def get_cities_in_song(song_cities):
-        return Song.objects.get(song_cities=song_cities)
-
-    @staticmethod
     def get_song_by_id(id_song):
         return Song.objects.get(id=id_song)
+
+    @staticmethod
+    def get_song_by_name(name):
+        return Song.objects.get(song_name=name)
+
+    @staticmethod
+    def get_song_by_artist(artist):
+        return Song.objects.get(song_artist=artist)
 
     
 class CitiesInSong(models.Model):
