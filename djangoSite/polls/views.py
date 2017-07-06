@@ -27,21 +27,15 @@ def index(request):
 
 
 def search(request):
-    print("DEBUG: SEARCH VIEWER")
+    print("DEBUG: VIEWS.py: search")
     songs_to_show = Song.objects.all()
     artist = request.GET.get('search_box_artist')
     song_name = request.GET.get('search_box_song')
     if artist is not None:
-        print("ASA")
-        songs_to_show = Song.objects.get(song_artist=artist)
-        print("kkk")
-        print(songs_to_show)
+        songs_to_show = songs_to_show.filter(song_artist=artist)
 
     if song_name is not None:
-        print("ASA")
-        songs_to_show = Song.objects.get(song_artist=artist)
-        print("kkk")
-        print(songs_to_show)
+        songs_to_show = songs_to_show.filter(song_name=song_name)
 
     songs_ids = [q.id for q in songs_to_show]
     # Render the HTML template index.html with the data in the context variable
@@ -57,7 +51,7 @@ def find_song_by_id(request, song_id):
     _song = Song.get_song_by_id(song_id)
     return render(
         request,
-        'search.html',
+        'song.html',
         context={'song': _song},
     )
 
