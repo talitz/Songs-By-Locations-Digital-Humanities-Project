@@ -100,7 +100,11 @@
                             <input type="reset" name="reset1" value="נקה">
                             <button id="search_submit" type="submit" >חפש</button>
                         </form>
-
+                        <form type="get" action="" style="margin: 0">
+                            <input  id="search_box" type="text" name="search_box_city"  placeholder="הקלד שם עיר" >
+                            <input type="reset" name="reset1" value="נקה">
+                            <button id="search_submit" type="submit" >חפש</button>
+                        </form>
                         <ul>
                           {% for song in songs_list%}
                             <li><a href="/findbyid/{{song.id}}">{{ song.song_name }}</a> </li>

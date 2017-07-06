@@ -27,6 +27,10 @@ class CitiesInSong(models.Model):
     song_id = models.ForeignKey(Song, db_column='songId')
     city = models.CharField(primary_key=True, max_length=200, db_column='city')
 
+    #@staticmethod
+    #def get_song_by_city(artist):
+       # return CitiesInSong.objects.get(song_artist=artist)
+
     def __str__(self):
         return self.city
 

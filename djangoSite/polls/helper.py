@@ -29,4 +29,3 @@ def add_song_to_db(artistName, songName, song_text):
     song.song_artist = artistName
     song.song_text = song_text
     song.save()
-

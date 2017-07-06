@@ -31,12 +31,15 @@ def search(request):
     songs_to_show = Song.objects.all()
     artist = request.GET.get('search_box_artist')
     song_name = request.GET.get('search_box_song')
+    city = request.GET.get('search_box_city')
     if artist is not None:
         songs_to_show = songs_to_show.filter(song_artist=artist)
 
     if song_name is not None:
         songs_to_show = songs_to_show.filter(song_name=song_name)
 
+    if city is not None:
+        songs_to_show = songs_to_show
     songs_ids = [q.id for q in songs_to_show]
     # Render the HTML template index.html with the data in the context variable
     return render(
