@@ -2,7 +2,7 @@ from django.http import HttpResponse
 from .models import Song
 from .models import CitiesInSong
 from django.shortcuts import render
-
+import json
 
 def cityName(request, song_cities):
     return HttpResponse("You're looking at song")
@@ -42,7 +42,13 @@ def search(request):
     city = request.GET.get('search_box_city')
     if artist is not None:
         songs_to_show = Song.get_song_by_artist(artist)
-
+        '''
+        loc = []
+        for x in songs_to_show:
+            for i in CitiesInSong.get_locations_in_song(x.id):
+                loc.append(i)
+        loc = list(set(loc))
+        '''
     if song_name is not None:
         songs_to_show = Song.get_song_by_name(song_name)
 
@@ -62,10 +68,11 @@ def search(request):
 def find_song_by_id(request, song_id):
     # Render the HTML template index.html with the data in the context variable
     _song = Song.get_song_by_id(song_id)
+    _locations = CitiesInSong.get_locations_in_song(song_id)
     return render(
         request,
         'song.html',
-        context={'song': _song},
+        context={'song': _song, 'locations' : json.dumps(_locations) },
     )
 
 
@@ -82,6 +89,7 @@ def find_song_by_name(request, song_name):
 def find_song_by_artist(request, song_artist):
     # Render the HTML template index.html with the data in the context variable
     _song = Song.get_song_by_artist(song_artist)
+
     return render(
         request,
         'search.html',

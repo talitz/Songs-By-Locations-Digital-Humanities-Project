@@ -1,5 +1,5 @@
 from django.db import models
-
+import json
 
 class Song(models.Model):
     id = models.AutoField(primary_key=True, db_column='songId')
@@ -24,18 +24,26 @@ class Song(models.Model):
 
     
 class CitiesInSong(models.Model):
-    id = models.AutoField(primary_key=True, db_column='cityId')
-    song = models.ForeignKey(Song, db_column='songId')
-    city = models.CharField(max_length=200, db_column='city')
+    id = models.AutoField(primary_key = True, db_column = 'cityId')
+    song = models.ForeignKey(Song, db_column = 'songId')
+    city = models.CharField(max_length = 200, db_column = 'city')
 
     @staticmethod
     def get_song_by_city(city_in_song):
-        ob = CitiesInSong.objects.filter(city=city_in_song)
+        ob = CitiesInSong.objects.filter(city = city_in_song)
         songs = []
         for o in ob:
             if o.song not in songs:
                 songs.append(o.song)
         return songs
+
+    @staticmethod
+    def get_locations_in_song(id):
+        ob = CitiesInSong.objects.filter(song_id = id)
+        ret = []
+        for i in ob:
+            ret.append(i.city)
+        return ret
 
     def __str__(self):
         return self.city
