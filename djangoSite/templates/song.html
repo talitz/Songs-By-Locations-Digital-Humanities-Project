@@ -50,16 +50,16 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="contact.html">צור קשר</a>
+                        <a href="/contact.html">צור קשר</a>
                     </li>
                     <li>
-                        <a href="map.html">מפה</a>
+                        <a href="/map.html">מפה</a>
                     </li>
                     <li>
-                        <a href="search.html">חיפוש</a>
+                        <a href="/search.html">חיפוש</a>
                     </li>
                     <li>
-                        <a href="index.html">ראשי</a>
+                        <a href="/index.html">ראשי</a>
                     </li>
                 </ul>
             </div>
@@ -71,7 +71,7 @@
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" style="background-image: url({% static 'img/about-bg.jpg' %})">
-        <div dir="rtl" class="container">
+        <div dir="rtl"  class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
@@ -85,7 +85,7 @@
     </header>
 
     <!-- Main Content -->
-    <div dir="rtl" style="width:800px; margin:0 auto;" class="container">
+    <div dir="rtl" align="center" style="width:800px; margin:0 auto;" class="container">
         <div class="row">
             <div class="dropdown">
               <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">הערים המופיעות בשיר
@@ -178,7 +178,7 @@
     // Populate list with options:
     for(var i = 0; i < locationsHtml.length; i++) {
         var opt = locationsHtml[i];
-        dropdown.innerHTML += "<li><a href=delete/"+ opt + "/" +  ">"+ opt +"</a></li>";
+        dropdown.innerHTML += "<li><a href=delete/"+ opt.replace(' ','%20') + "/" +  ">"+ opt +"</a></li>";
     }
 
 
