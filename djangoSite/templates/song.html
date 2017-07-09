@@ -87,6 +87,15 @@
     <!-- Main Content -->
     <div dir="rtl" style="width:800px; margin:0 auto;" class="container">
         <div class="row">
+            <div class="dropdown">
+              <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">הערים המופיעות בשיר
+              <span class="caret"></span></button>
+              <ul id="dropdownsuper" class="dropdown-menu dropdown-menu-right">
+              </ul>
+            </div>
+            <h6 class="post-subtitle">
+                            							אם ראית עיר שלא מופיעה בהקשר הנכון, לחץ על העיר להסרה
+            </h6>
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     {{song.song_text|linebreaks}}
             </div>
@@ -157,6 +166,23 @@
         });
     }
 
+
+    var locationsHtml = [];
+    for (i = 0; i < locations.length ; i++) {
+        if (locationsHtml.indexOf(locations[i]) < 0){
+            locationsHtml.push(locations[i])
+        }
+    }
+    var dropdown = document.getElementById("dropdownsuper");
+    dropdown.innerHTML = "";
+    // Populate list with options:
+    for(var i = 0; i < locationsHtml.length; i++) {
+        var opt = locationsHtml[i];
+        dropdown.innerHTML += "<li><a href=delete/"+ opt + "/" +  ">"+ opt +"</a></li>";
+    }
+
+
+    document.getElementById("myLoc").innerHTML = locationsHtml;
     </script>
 
 </html>

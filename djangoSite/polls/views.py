@@ -69,10 +69,32 @@ def find_song_by_id(request, song_id):
     # Render the HTML template index.html with the data in the context variable
     _song = Song.get_song_by_id(song_id)
     _locations = CitiesInSong.get_locations_in_song(song_id)
+    _loc = []
+    for loc in _locations:
+        if loc not in _loc:
+            _loc.append(loc)
+
     return render(
         request,
         'song.html',
-        context={'song': _song, 'locations' : json.dumps(_locations) },
+        context={'song': _song, 'locations' : json.dumps(_locations)},
+    )
+
+
+def remove_city_by_song_id(request, song_id, city_name):
+    # Render the HTML template index.html with the data in the context variable
+    CitiesInSong.remove_city_by_song_id_and_city(song_id, city_name)
+    _song = Song.get_song_by_id(song_id)
+    _locations = CitiesInSong.get_locations_in_song(song_id)
+    _loc = []
+    for loc in _locations:
+        if loc not in _loc:
+            _loc.append(loc)
+
+    return render(
+        request,
+        'song.html',
+        context={'song': _song, 'locations' : json.dumps(_locations)},
     )
 
 
