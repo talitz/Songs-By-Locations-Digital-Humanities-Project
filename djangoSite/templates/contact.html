@@ -69,7 +69,7 @@
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url({% static 'img/contact-bg.jpg' %})">
+    <header class="intro-header" style="background-image: url({% static 'img/home-bg.jpg' %})">
         <div class="container">
             <div class="row">
                 <div dir="rtl" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -91,18 +91,18 @@
                 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
                 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
                 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-                <form name="sentMessage" id="contactForm" novalidate>
+                <form name="sentMessage" id="contactForm">
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>שם</label>
-                            <input type="text" class="form-control" placeholder="שם" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" placeholder="שם" id="name" name="name" required data-validation-required-message="Please enter your name.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>אימייל</label>
-                            <input type="email" class="form-control" placeholder="כתובת מייל" id="email" required data-validation-required-message="Please enter your email address.">
+                            <input type="email" class="form-control" placeholder="כתובת מייל" id="email" name="email" required data-validation-required-message="Please enter your email address.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
@@ -131,6 +131,13 @@
             </div>
         </div>
     </div>
+
+
+	<script language="JavaScript">
+	var frmvalidator  = new Validator("contactform");
+	frmvalidator.addValidation("email","email","Please enter a valid email address");
+	</script>
+
 
     <hr>
 
