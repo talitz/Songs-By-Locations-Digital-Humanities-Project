@@ -3,6 +3,8 @@ from .models import Song
 from .models import CitiesInSong
 import os
 import csv
+import time
+
 
 def insert_songs_to_db_from_db_folder(request):
     base_path = os.getcwd()
@@ -49,3 +51,10 @@ def add_city_to_db(name, artist, city):
             city_to_add.save()
 
 
+def get_tei_template(autor, song_name, song_text):
+    tei = "<TEI> <teiHeader> <fileDesc> <titleStmt> <title>" + song_name +\
+          "title> <author>" + autor + "</author> </titleStmt> <publicationStmt>"+ \
+          "<p>for use by whoever wants it</p> </publicationStmt> <sourceDesc>" +\
+          "<p>created on" + time.strftime("%c") + "</p> </sourceDesc> </fileDesc>"+\
+          "</teiHeader> <text>" + "<body> <p>" + song_text + "</p> </body> </text> </TEI>"
+    return tei

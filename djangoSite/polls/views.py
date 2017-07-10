@@ -4,6 +4,7 @@ from .models import Song
 from .models import CitiesInSong
 from django.shortcuts import render
 import json
+from . import helper
 
 def cityName(request, song_cities):
     return HttpResponse("You're looking at song")
@@ -86,6 +87,7 @@ def remove_city_by_song_id(request, song_id, city_name):
     CitiesInSong.remove_city_by_song_id_and_city(song_id, city_name)
     return HttpResponseRedirect('/findbyid/'+ str(song_id) +'/')
 
+
 def find_song_by_name(request, song_name):
     # Render the HTML template index.html with the data in the context variable
     _song = Song.get_song_by_name(song_name)
@@ -105,3 +107,8 @@ def find_song_by_artist(request, song_artist):
         'search.html',
         context={'song': _song},
     )
+
+
+def download_ti_by_song_id(request, song_id):
+    _song = Song.get_song_by_id(song_id)
+    return helper.get_tei_template(_song.song_artist, _song.song_name, _song.song_text)

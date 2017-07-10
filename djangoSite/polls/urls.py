@@ -13,5 +13,6 @@ urlpatterns = [
     url(r'^findbyid/([0-9]+)/$', views.find_song_by_id, name = 'find by id'),
     url(r'^findbyid/([0-9]+)/delete/(.*)/$', views.remove_city_by_song_id, name='delete city by id'),
     url(r'^removebyid/([0-9]+)/$', views.remove_city_by_song_id, name='find by id'),
+    url(r'^downloadti/([0-9]+)/$', views.download_ti_by_song_id, name='find by id'),
     url(r'^admin/', admin.site.urls),
 ]

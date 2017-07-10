@@ -90,7 +90,7 @@
             <div class="dropdown">
               <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">הערים המופיעות בשיר
               <span class="caret"></span></button>
-              <ul id="dropdownsuper" class="dropdown-menu dropdown-menu-right">
+              <ul id="dropdownsuper" class="dropdown-menu dropdown-menu-rigt">
               </ul>
             </div>
             <h6 class="post-subtitle">
@@ -99,6 +99,10 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     {{song.song_text|linebreaks}}
             </div>
+
+            <a href="/downloadti/{{song.id}}"  target="_blank" id="code" type="submit" class="btn btn-success" style="width:200px;" download>
+                <span class="glyphicon glyphicon-download"></span> לחץ להורדת קובץ TEI</a>
+
         </div>
     </div>
 

@@ -90,21 +90,31 @@
                 <div class="post-preview">
                         <h2 class="post-title">
                         </h2>
-                        <form dir="rtl" type="get" action="" style="margin: 0">
-                            <input  id="search_box" type="text" name="search_box_artist"  placeholder="הקלד שם אומן" >
-                            <input type="reset" name="reset1" value="נקה">
-                            <button id="search_submit" type="submit" >חפש</button>
+                        <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
+                            <div class="form-group">
+                            <input  class="form-control" id="search_box" type="text" name="search_box_artist"  placeholder="הקלד שם אומן" >
+                            <button id="search_submit" type="submit" >
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                                </div>
                         </form>
-                        <form dir="rtl" type="get" action="" style="margin: 0">
-                            <input  id="search_box" type="text" name="search_box_song"  placeholder="הקלד שם שיר" >
-                            <input type="reset" name="reset1" value="נקה">
-                            <button id="search_submit" type="submit" >חפש</button>
+                        <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
+                            <div class="form-group">
+                            <input  class="form-control" id="search_box" type="text" name="search_box_song"  placeholder="הקלד שם שיר" >
+                            <button id="search_submit" type="submit" >
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                                </div>
                         </form>
-                        <form dir="rtl" type="get" action="" style="margin: 0">
-                            <input  id="search_box" type="text" name="search_box_city"  placeholder="הקלד שם עיר" >
-                            <input type="reset" name="reset1" value="נקה">
-                            <button id="search_submit" type="submit" >חפש</button>
+                        <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
+                            <div class="form-group">
+                            <input  class="form-control" id="search_box" type="text" name="search_box_city"  placeholder="הקלד שם עיר" >
+                            <button id="search_submit" type="submit" >
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                                </div>
                         </form>
+                        <span style="padding-left:20px">
                         <ul>
                           {% for song in songs_list%}
                                             <hr>
