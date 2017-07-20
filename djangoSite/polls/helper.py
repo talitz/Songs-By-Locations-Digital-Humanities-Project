@@ -4,7 +4,10 @@ from .models import CitiesInSong
 import os
 import csv
 import time
-
+filepath = '/some/path/to/local/file.txt'
+from django.views.static import serve
+from django.utils.encoding import smart_str 
+import StringIO
 
 def insert_songs_to_db_from_db_folder(request):
     base_path = os.getcwd()
@@ -57,4 +60,8 @@ def get_tei_template(autor, song_name, song_text):
           "<p>for use by whoever wants it</p> </publicationStmt> <sourceDesc>" +\
           "<p>created on" + time.strftime("%c") + "</p> </sourceDesc> </fileDesc>"+\
           "</teiHeader> <text>" + "<body> <p>" + song_text + "</p> </body> </text> </TEI>"
-    return tei
+    output = StringIO.StringIO()
+    output.write(tei)
+    response = HttpResponse(output.getvalue(),content_type='application/force-download') # mimetype is replaced by content_type for django 1.7
+    response['Content-Disposition'] = 'attachment; filename="{}"'.format(song_name.encode('utf-8'))
+    return response

@@ -111,4 +111,5 @@ def find_song_by_artist(request, song_artist):
 
 def download_ti_by_song_id(request, song_id):
     _song = Song.get_song_by_id(song_id)
+    print 'im here'
     return helper.get_tei_template(_song.song_artist, _song.song_name, _song.song_text)
