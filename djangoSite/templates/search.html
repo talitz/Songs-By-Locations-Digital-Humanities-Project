@@ -115,22 +115,43 @@
                                 </div>
                         </form>
                         <span style="padding-left:20px">
-                        <ul>
-                          {% for song in songs_list%}
-                                            <hr>
-							                <div dir="rtl" class="post-preview">
-							                    <a href="/findbyid/{{song.id}}">
-							                        <h2 class="post-title">
-							                            {{ song.song_name }}
-							                        </h2>
-							                    </a>
-							                        <h3 class="post-subtitle">
-                            							אופציה להוסיף מיקום כאן
-                        							</h3>
-							                    <p dir="rtl" class="post-meta">{{ song.song_artist }}</p>
-							                </div>
-                          {% endfor %}
-                        </ul> 
+                            <div align="center" dir="rtl" class="stats">
+                            <ul>
+                            <h3> סטטסיקטות </h3>
+                            <br> 
+                            <table>
+                            {% for key,value in stats.items%}
+                            <tr>
+                                <td>
+                                    {{key}}
+                                </td>
+                                <td>
+                                    {{value}}
+                                </td>
+                             </tr>
+
+                            {% endfor %}
+                            </table>
+                            </ul>
+
+                         </div>
+                            <ul>
+                              {% for song in songs_list%}
+                                                <hr>
+    							                <div dir="rtl" class="post-preview">
+    							                    <a href="/findbyid/{{song.id}}">
+    							                        <h2 class="post-title">
+    							                            {{ song.song_name }}
+    							                        </h2>
+    							                    </a>
+    							                        <h3 class="post-subtitle">
+                                							אופציה להוסיף מיקום כאן
+                            							</h3>
+    							                    <p dir="rtl" class="post-meta">{{ song.song_artist }}</p>
+    							                </div>
+                                                
+                              {% endfor %}
+                            </ul> 
                 </div>
             </div>
         </div>

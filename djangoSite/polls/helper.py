@@ -63,5 +63,5 @@ def get_tei_template(autor, song_name, song_text):
     output = StringIO.StringIO()
     output.write(tei)
     response = HttpResponse(output.getvalue(),content_type='application/force-download') # mimetype is replaced by content_type for django 1.7
-    response['Content-Disposition'] = 'attachment; filename="{}"'.format(song_name.encode('utf-8'))
+    response['Content-Disposition'] = 'attachment; filename="{}"'.format(song_name.encode('utf-8')+'.txt')
     return response
