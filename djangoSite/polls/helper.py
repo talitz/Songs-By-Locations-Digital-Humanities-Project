@@ -6,7 +6,7 @@ import csv
 import time
 filepath = '/some/path/to/local/file.txt'
 from django.views.static import serve
-from django.utils.encoding import smart_str 
+from django.utils.encoding import smart_str
 import StringIO
 
 def insert_songs_to_db_from_db_folder(request):
@@ -54,14 +54,28 @@ def add_city_to_db(name, artist, city):
             city_to_add.save()
 
 
-def get_tei_template(autor, song_name, song_text):
-    tei = "<TEI> <teiHeader> <fileDesc> <titleStmt> <title>" + song_name +\
-          "title> <author>" + autor + "</author> </titleStmt> <publicationStmt>"+ \
-          "<p>for use by whoever wants it</p> </publicationStmt> <sourceDesc>" +\
-          "<p>created on" + time.strftime("%c") + "</p> </sourceDesc> </fileDesc>"+\
-          "</teiHeader> <text>" + "<body> <p>" + song_text + "</p> </body> </text> </TEI>"
+def get_tei_template(autor, song_name, song_text, song_id):
+    _locations = CitiesInSong.get_locations_in_song(song_id)
+    print(_locations)
+    for loc in _locations:
+        song_text = song_text.replace(loc, "<placeName>" + loc + "</placeName>")
+
+    tei = "<TEI>\n <teiHeader>\n <fileDesc>\n <titleStmt>\n <title>" + song_name +\
+          "</title> \n<author>" + autor + "</author>\n </titleStmt>\n <publicationStmt>" +\
+           "<publisher>Tal Yitzhak, Aviv Gorlik and Yoav Cohen, Ben Gurion University</publiser></publicationStmt>\n <sourceDesc><p>The website SongLyrics: http://songlyrics.co.il</p></sourceDesc>" +\
+          "<p>created on" + time.strftime("%c") + "</p> </sourceDesc>\n </fileDesc>\n"+\
+          "<profileDesc>\n<langUsage><language ident=""he"">Hebrew</language></langUsage>\n</profileDesc>\n</teiHeader>\n <text>\n" + "<body>\n <p>"
+     
+    counter = 1
+     
+    for stanza in song_text.split("\n\n")[:-1]:
+    	tei = tei + "\n<lg number=""" + str(counter)  + " type=""stanza"">" + stanza + "</lg>"
+    	counter = counter + 1
+
+    tei = tei + "\n</p>\n </body>\n </text>\n </TEI>\n"
+
     output = StringIO.StringIO()
     output.write(tei)
     response = HttpResponse(output.getvalue(),content_type='application/force-download') # mimetype is replaced by content_type for django 1.7
-    response['Content-Disposition'] = 'attachment; filename="{}"'.format(song_name.encode('utf-8')+'.txt')
+    response['Content-Disposition'] = 'attachment; filename="{}"'.format(song_name.encode('utf-8')+'.tei')
     return response
