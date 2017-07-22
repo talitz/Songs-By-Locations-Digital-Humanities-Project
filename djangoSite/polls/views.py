@@ -48,6 +48,7 @@ def search(request):
     stats = []
     songs_ids = []
     artists_cities = []
+    page_to_rend = "search.html";
 
     if artist is not None:
         songs_to_show = Song.get_song_by_artist(artist)
@@ -89,6 +90,7 @@ def search(request):
     if city is not None:
         songs_to_show = CitiesInSong.get_song_by_city(city)
         songs_ids = [q.id for q in songs_to_show]
+        page_to_rend = "searchCity.html";
 
         # Get the artists which sing about 'city'
         for song in songs_ids:
@@ -99,7 +101,7 @@ def search(request):
     # Render the HTML template index.html with the data in the context variable
     return render(
         request,
-        'search.html',
+        page_to_rend,
         context={'songs_list': songs_to_show,'songs_id': songs_ids, 'stats':dict(collections.Counter(stats)),
                  'cities_in_song': json.dumps(dict(collections.Counter(artists_cities))), 'artists_same_cities': stats,
                  'cities': set(artists_cities),},

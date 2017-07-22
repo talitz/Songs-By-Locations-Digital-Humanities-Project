@@ -129,8 +129,6 @@
 
 
                               {% endfor %}
-                            <h4> ערים רלוונטיות </h4>
-                            <canvas id="songChart" width="600" height="400"></canvas>
                             </ul>
 
                          </div>
@@ -212,34 +210,6 @@
     <!-- Theme JavaScript -->
     <script src="{% static 'js/clean-blog.min.js' %} "></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js" ></script>
-    <script type="text/JavaScript">
-        var dictionary = JSON.parse('{{ cities_in_song | safe | escapejs }}');
-            var colors = [];
-            for(var key in dictionary){
-              colors.push('#'+(0x1000000+(Math.random())*0xffffff).toString(16).substr(1,6));
-            }
 
-            var songChart = document.getElementById('songChart');
-            console.log(songChart);
-            options = {
-                scale: {
-                    // Hides the scale
-                    display: true
-                }
-            };
-            data = {
-                datasets: [{
-                    data: Object.values(dictionary),
-                    backgroundColor: colors
-                }],
-                labels: Object.keys(dictionary)
-            };
-            new Chart(songChart, {
-                data: data,
-                type: 'polarArea',
-                options: options
-            });
-
-    </script>
 
 </html>
