@@ -119,6 +119,18 @@ def find_song_by_id(request, song_id):
     # Render the HTML template index.html with the data in the context variable
     _song = Song.get_song_by_id(song_id)
     _locations = CitiesInSong.get_locations_in_song(song_id)
+
+    city_add = request.GET.get('add_box_city')
+    song_id = request.GET.get('songId')
+
+    if city_add and song_id is not None:
+        if city_add in Song.get_song_by_id(song_id).song_text:
+            city_to_add = CitiesInSong()
+            city_to_add.song = Song.get_song_by_id(song_id)
+            city_to_add.city = city_add
+            city_to_add.save()
+        return HttpResponseRedirect('/findbyid/'+ str(song_id) +'/')
+
     _loc = []
     for loc in _locations:
         if loc not in _loc:

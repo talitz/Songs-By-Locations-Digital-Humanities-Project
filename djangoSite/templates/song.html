@@ -96,6 +96,19 @@
             <h6 class="post-subtitle">
                             							אם ראית עיר שלא מופיעה בהקשר הנכון, לחץ על העיר להסרה
             </h6>
+
+            <form class="navbar-form " role="search" dir="rtl" type="get" action="" style="margin: 0">
+                <div class="form-group">
+                   <input  class="form-control"  id="search_box" type="text" name="add_box_city"  placeholder="הקלד את שם העיר" >
+                    <input  class="form-control" value={{ song.id }} id="search_box" type="hidden" name="songId"  placeholder="הקלד את שם העיר" >
+                    <button id="search_submit" type="submit" >
+                     <span class="glyphicon glyphicon-upload"></span>
+                    </button>
+                </div>
+            </form>
+            <h6 class="post-subtitle">
+                            							אם ראית עיר בשיר שלא מתוייגת כלל, הקלד את שמה ולחץ להוספה
+            </h6>
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     {{song.song_text|linebreaks}}
             </div>
