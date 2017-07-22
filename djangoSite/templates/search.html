@@ -3,7 +3,6 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -117,21 +116,11 @@
                         <span style="padding-left:20px">
                             <div align="center" dir="rtl" class="stats">
                             <ul>
-                            <h3> סטטסיקטות </h3>
-                            <br> 
-                            <table>
-                            {% for key,value in stats.items%}
-                            <tr>
-                                <td>
-                                    {{key}}
-                                </td>
-                                <td>
-                                    {{value}}
-                                </td>
-                             </tr>
-
-                            {% endfor %}
-                            </table>
+                            <h3> סטטיסטיקות </h3>
+                            <h5> אמנים רלוונטים </h5>
+                            <h6> {{ artists_same_cities }} </h6>
+                            <h5> ערים רלוונטיות </h5>
+                            <canvas id="songChart" width="600" height="400"></canvas>
                             </ul>
 
                          </div>
@@ -212,5 +201,36 @@
 
     <!-- Theme JavaScript -->
     <script src="{% static 'js/clean-blog.min.js' %} "></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js" ></script>
+    <script type="text/JavaScript">
+        var dictionary = JSON.parse('{{ cities_in_song | safe | escapejs }}');
+        //var dictionary = {{ cities_in_song.items }} ;
+        var colors = [];
+        console.log(dictionary);
+        for(var key in dictionary){
+          colors.push('#'+(0x1000000+(Math.random())*0xffffff).toString(16).substr(1,6));
+        }
+
+        var songChart = document.getElementById('songChart');
+        console.log(songChart);
+        options = {
+            scale: {
+                // Hides the scale
+                display: true
+            }
+        };
+        data = {
+            datasets: [{
+                data: Object.values(dictionary),
+                backgroundColor: colors
+            }],
+            labels: Object.keys(dictionary)
+        };
+        new Chart(songChart, {
+            data: data,
+            type: 'polarArea',
+            options: options
+        });
+    </script>
 
 </html>

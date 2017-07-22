@@ -6,6 +6,7 @@ from django.shortcuts import render
 import json
 from . import helper
 import collections
+from collections import Counter
 
 def cityName(request, song_cities):
     return HttpResponse("You're looking at song")
@@ -37,35 +38,71 @@ def contact(request):
         context={},
     )
 
+
 def search(request):
     print("DEBUG: VIEWS.py: search")
     songs_to_show = ""
     artist = request.GET.get('search_box_artist')
     song_name = request.GET.get('search_box_song')
     city = request.GET.get('search_box_city')
+    stats = []
+    songs_ids = []
+    artists_cities = []
+
     if artist is not None:
         songs_to_show = Song.get_song_by_artist(artist)
+        songs_ids = [q.id for q in songs_to_show]
+
+        # Get the cities in songs
+        for song in songs_ids:
+            cities_in_song = CitiesInSong.get_locations_in_song(song)
+            for city_artist in cities_in_song:
+                    artists_cities.append(city_artist)
+
+        # Get the artists which sing about the cities above
+        for city_to_add in artists_cities:
+            songs_by_city = CitiesInSong.get_song_by_city(city_to_add)
+            for song in songs_by_city:
+                artist_to_add = song.song_artist
+                if artist_to_add not in stats:
+                    stats.append(artist_to_add)
+        stats.remove(artist)
 
     if song_name is not None:
         songs_to_show = Song.get_song_by_name(song_name)
+        songs_ids = [q.id for q in songs_to_show]
+
+        # Get the cities in songs
+        for song in songs_ids:
+            cities_in_song = CitiesInSong.get_locations_in_song(song)
+            for city_artist in cities_in_song:
+                    artists_cities.append(city_artist)
+
+        # Get the artists which sing about the cities above
+        for city_to_add in artists_cities:
+            songs_by_city = CitiesInSong.get_song_by_city(city_to_add)
+            for song in songs_by_city:
+                artist_to_add = song.song_artist
+                if artist_to_add not in stats:
+                    stats.append(artist_to_add)
 
     if city is not None:
         songs_to_show = CitiesInSong.get_song_by_city(city)
+        songs_ids = [q.id for q in songs_to_show]
 
-    songs_ids = [q.id for q in songs_to_show]
-    stats = []
-    for song in songs_ids:
-        temp = CitiesInSong.get_locations_in_song(song)
-        for loc in temp:
-            stats.append(loc)
+        # Get the artists which sing about 'city'
+        for song in songs_ids:
+                temp = Song.get_song_by_id(song).song_artist
+                stats.append(temp)
 
-    #stats = list(set(stats))
+
     # Render the HTML template index.html with the data in the context variable
-    print dict(collections.Counter(stats))
     return render(
         request,
         'search.html',
-        context={'songs_list': songs_to_show,'songs_id': songs_ids, 'stats':dict(collections.Counter(stats)), },
+        context={'songs_list': songs_to_show,'songs_id': songs_ids, 'stats':dict(collections.Counter(stats)),
+                 'cities_in_song': json.dumps(dict(collections.Counter(artists_cities))), 'artists_same_cities': stats,
+                 'cities': set(artists_cities),},
     )
 
 
@@ -113,5 +150,5 @@ def find_song_by_artist(request, song_artist):
 
 def download_ti_by_song_id(request, song_id):
     _song = Song.get_song_by_id(song_id)
-    print 'im here'
+    #print 'im here'
     return helper.get_tei_template(_song.song_artist, _song.song_name, _song.song_text)
