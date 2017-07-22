@@ -7,6 +7,11 @@ import time
 filepath = '/some/path/to/local/file.txt'
 from django.views.static import serve
 from django.utils.encoding import smart_str
+try:
+    import StringIO
+except ImportError:
+    from io import StringIO
+
 
 def insert_songs_to_db_from_db_folder(request):
     base_path = os.getcwd()
@@ -68,8 +73,8 @@ def get_tei_template(autor, song_name, song_text, song_id):
     counter = 1
      
     for stanza in song_text.split("\n\n")[:-1]:
-    	tei = tei + "\n<lg number=""" + str(counter)  + " type=""stanza"">" + stanza + "</lg>"
-    	counter = counter + 1
+        tei = tei + "\n<lg number=""" + str(counter) + " type=""stanza"">" + stanza + "</lg>"
+        counter = counter + 1
 
     tei = tei + "\n</p>\n </body>\n </text>\n </TEI>\n"
 
