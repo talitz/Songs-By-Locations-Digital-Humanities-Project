@@ -116,10 +116,20 @@
                         <span style="padding-left:20px">
                             <div align="center" dir="rtl" class="stats">
                             <ul>
-                            <h3> סטטיסטיקות </h3>
-                            <h5> אמנים רלוונטים </h5>
-                            <h6> {{ artists_same_cities }} </h6>
-                            <h5> ערים רלוונטיות </h5>
+                            <h2 style="color:red"> סטטיסטיקות </h2>
+                            <h4> אמנים רלוונטים </h4>
+                                {% for artist in artists_same_cities%}
+                                    <li style="display: inline-block">
+                                        <a href="search.html?search_box_artist={{artist}}">
+    							                        <h6 class="post-title">
+    							                            {{artist}}
+    							                        </h6>
+    							                    </a> </li>
+
+
+
+                              {% endfor %}
+                            <h4> ערים רלוונטיות </h4>
                             <canvas id="songChart" width="600" height="400"></canvas>
                             </ul>
 
