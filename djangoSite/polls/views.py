@@ -40,7 +40,6 @@ def contact(request):
 
 
 def search(request):
-    print("DEBUG: VIEWS.py: search")
     songs_to_show = ""
     artist = request.GET.get('search_box_artist')
     song_name = request.GET.get('search_box_song')
@@ -49,6 +48,7 @@ def search(request):
     songs_ids = []
     artists_cities = []
     page_to_rend = "search.html";
+    artists_city_count = {}
 
     if artist is not None:
         songs_to_show = Song.get_song_by_artist(artist)
@@ -93,6 +93,12 @@ def search(request):
         songs_ids = [q.id for q in songs_to_show]
         page_to_rend = "searchCity.html";
 
+        art = CitiesInSong.get_song_by_city(city)
+        for song in art:
+            artist = song.song_artist
+            count = Song.get_number_of_cities_by_artist(artist, city)
+            artists_city_count.update({artist: count})
+
         # Get the artists which sing about 'city'
         for song in songs_ids:
                 temp = Song.get_song_by_id(song).song_artist
@@ -103,9 +109,9 @@ def search(request):
     return render(
         request,
         page_to_rend,
-        context={'songs_list': songs_to_show,'songs_id': songs_ids, 'stats':dict(collections.Counter(stats)),
+        context={'songs_list': songs_to_show,'songs_id': songs_ids,
                  'cities_in_song': json.dumps(dict(collections.Counter(artists_cities))), 'artists_same_cities': stats,
-                 'cities': set(artists_cities),},
+                 'artists_city_count': json.dumps(artists_city_count), },
     )
 
 

@@ -22,7 +22,16 @@ class Song(models.Model):
     def get_song_by_artist(artist):
         return Song.objects.filter(song_artist=artist)
 
-    
+    @staticmethod
+    def get_number_of_cities_by_artist(artist, city):
+        songs = CitiesInSong.get_song_by_city(city)
+        count = 0;
+        for song in songs:
+            if song.song_artist == artist:
+                count += 1
+        return count
+
+
 class CitiesInSong(models.Model):
     id = models.AutoField(primary_key = True, db_column = 'cityId')
     song = models.ForeignKey(Song, db_column = 'songId')
@@ -52,6 +61,8 @@ class CitiesInSong(models.Model):
         city_to_delete = CitiesInSong.objects.filter(song_id=song_id_to_delete, city=city_name_to_delete)
         print(city_to_delete)
         city_to_delete.delete()
+
+
 
     def __str__(self):
         return self.city

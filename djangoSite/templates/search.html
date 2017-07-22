@@ -214,6 +214,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js" ></script>
     <script type="text/JavaScript">
         var dictionary = JSON.parse('{{ cities_in_song | safe | escapejs }}');
+        if (Object.keys(dictionary).length > 0){
+
             var colors = [];
             for(var key in dictionary){
               colors.push('#'+(0x1000000+(Math.random())*0xffffff).toString(16).substr(1,6));
@@ -239,6 +241,7 @@
                 type: 'polarArea',
                 options: options
             });
+        }
 
     </script>
 
