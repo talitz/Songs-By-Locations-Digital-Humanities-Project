@@ -67,7 +67,8 @@ def search(request):
                 artist_to_add = song.song_artist
                 if artist_to_add not in stats:
                     stats.append(artist_to_add)
-        stats.remove(artist)
+        if artist in stats:
+            stats.remove(artist)
 
     if song_name is not None:
         songs_to_show = Song.get_song_by_name(song_name)
