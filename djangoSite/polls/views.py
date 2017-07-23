@@ -40,7 +40,6 @@ def contact(request):
 
 
 def search(request):
-    print("DEBUG: VIEWS.py: search")
     songs_to_show = ""
     artist = request.GET.get('search_box_artist')
     song_name = request.GET.get('search_box_song')
@@ -49,6 +48,7 @@ def search(request):
     songs_ids = []
     artists_cities = []
     page_to_rend = "search.html";
+    artists_city_count = {}
 
     if artist is not None:
         songs_to_show = Song.get_song_by_artist(artist)
@@ -67,7 +67,8 @@ def search(request):
                 artist_to_add = song.song_artist
                 if artist_to_add not in stats:
                     stats.append(artist_to_add)
-        stats.remove(artist)
+        if artist in stats:
+            stats.remove(artist)
 
     if song_name is not None:
         songs_to_show = Song.get_song_by_name(song_name)
@@ -92,6 +93,12 @@ def search(request):
         songs_ids = [q.id for q in songs_to_show]
         page_to_rend = "searchCity.html";
 
+        art = CitiesInSong.get_song_by_city(city)
+        for song in art:
+            artist = song.song_artist
+            count = Song.get_number_of_cities_by_artist(artist, city)
+            artists_city_count.update({artist: count})
+
         # Get the artists which sing about 'city'
         for song in songs_ids:
                 temp = Song.get_song_by_id(song).song_artist
@@ -102,9 +109,9 @@ def search(request):
     return render(
         request,
         page_to_rend,
-        context={'songs_list': songs_to_show,'songs_id': songs_ids, 'stats':dict(collections.Counter(stats)),
+        context={'songs_list': songs_to_show,'songs_id': songs_ids,
                  'cities_in_song': json.dumps(dict(collections.Counter(artists_cities))), 'artists_same_cities': stats,
-                 'cities': set(artists_cities),},
+                 'artists_city_count': json.dumps(artists_city_count), },
     )
 
 
@@ -112,6 +119,18 @@ def find_song_by_id(request, song_id):
     # Render the HTML template index.html with the data in the context variable
     _song = Song.get_song_by_id(song_id)
     _locations = CitiesInSong.get_locations_in_song(song_id)
+
+    city_add = request.GET.get('add_box_city')
+    song_id = request.GET.get('songId')
+
+    if city_add and song_id is not None:
+        if city_add in Song.get_song_by_id(song_id).song_text:
+            city_to_add = CitiesInSong()
+            city_to_add.song = Song.get_song_by_id(song_id)
+            city_to_add.city = city_add
+            city_to_add.save()
+        return HttpResponseRedirect('/findbyid/'+ str(song_id) +'/')
+
     _loc = []
     for loc in _locations:
         if loc not in _loc:
