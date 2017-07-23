@@ -64,19 +64,22 @@ def get_tei_template(autor, song_name, song_text, song_id):
     for loc in _locations:
         song_text = song_text.replace(loc, "<placeName>" + loc + "</placeName>")
 
-    tei = "<TEI>\n <teiHeader>\n <fileDesc>\n <titleStmt>\n <title>" + song_name +\
-          "</title> \n<author>" + autor + "</author>\n </titleStmt>\n <publicationStmt>" +\
-           "<publisher>Tal Yitzhak, Aviv Gorlik and Yoav Cohen, Ben Gurion University</publiser></publicationStmt>\n <sourceDesc><p>The website SongLyrics: http://songlyrics.co.il</p></sourceDesc>" +\
-          "<p>created on" + time.strftime("%c") + "</p> </sourceDesc>\n </fileDesc>\n"+\
-          "<profileDesc>\n<langUsage><language ident=""he"">Hebrew</language></langUsage>\n</profileDesc>\n</teiHeader>\n <text>\n" + "<body>\n <p>"
+    tei = "<TEI>\n\t<teiHeader>\n\t<fileDesc>\n\t\t<titleStmt>\n\t\t<title>" + song_name +\
+          "\t\t</title>\n\t\t<author>" + autor + "</author>\n\t\t</titleStmt>\n\t\t\n<publicationStmt>\t" +\
+           "\t\n\t\t<publisher>Tal Yitzhak, Aviv Gorlik and Yoav Cohen, Ben Gurion University\t</publisher>\t\t</publicationStmt>\n\t\t<sourceDesc>\t<p>The website SongLyrics: http://songlyrics.co.il</p>\t</sourceDesc>\t" +\
+          "\n\t\t<date>" + time.strftime("%c") + "\t\t</date> \t \t\t</fileDesc>\n"+\
+          "\t<profileDesc>\n\t<langUsage>\t\n\t<language ident=" + "\"" + "he" + "\"" + ">Hebrew\t</language>\t</langUsage>\n\t</profileDesc>\n\t</teiHeader>\n\t <text>\t\n" + "<body>\t\n \t<p>"
      
     counter = 1
      
     for stanza in song_text.split("\n\n")[:-1]:
-        tei = tei + "\n<lg number=""" + str(counter) + " type=""stanza"">" + stanza + "</lg>"
-        counter = counter + 1
+		tei = tei + "\n\t<lg number=""" + "\"" + str(counter) + "\"" +" type=" + "\"" +"stanza"+ "\"" + ">"
+		for line in stanza.split("\n"):
+			tei = tei + "\n\t\t<l>" + line + "</l>"
+		tei = tei + "\n\t</lg>"
+		counter = counter + 1
 
-    tei = tei + "\n</p>\n </body>\n </text>\n </TEI>\n"
+    tei = tei + "\n\t</p>\n\t </body>\n \t</text>\n \t</TEI>\n"
 
     output = StringIO.StringIO()
     output.write(tei)

@@ -109,9 +109,12 @@ def search(request):
     return render(
         request,
         page_to_rend,
-        context={'songs_list': songs_to_show,'songs_id': songs_ids,
-                 'cities_in_song': json.dumps(dict(collections.Counter(artists_cities))), 'artists_same_cities': stats,
-                 'artists_city_count': json.dumps(artists_city_count), },
+        context={'songs_list'		     :    songs_to_show,
+				 'songs_id'  		     :    songs_ids,
+                 'cities_in_song'	     :    json.dumps(dict(collections.Counter(artists_cities))), 
+				 'artists_same_cities'   :    stats, 
+                 'artists_city_count'    :    json.dumps(artists_city_count),
+				 },
     )
 
 
