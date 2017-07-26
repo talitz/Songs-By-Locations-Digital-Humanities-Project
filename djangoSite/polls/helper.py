@@ -60,9 +60,9 @@ def add_city_to_db(name, artist, city):
 
 def get_tei_template(autor, song_name, song_text, song_id):
     _locations = CitiesInSong.get_locations_in_song(song_id)
-    print(_locations)
-    for loc in _locations:
-        song_text = song_text.replace(loc, "<placeName>" + loc + "</placeName>")
+    
+    for loc in list(set(_locations)):
+		song_text = song_text.replace(loc, "<placeName>" + loc + "</placeName>")
 
     tei = "<TEI>\n\t<teiHeader>\n\t<fileDesc>\n\t\t<titleStmt>\n\t\t<title>" + song_name +\
           "\t\t</title>\n\t\t<author>" + autor + "</author>\n\t\t</titleStmt>\n\t\t\n<publicationStmt>\t" +\
