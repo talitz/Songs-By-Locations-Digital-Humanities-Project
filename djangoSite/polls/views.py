@@ -114,7 +114,7 @@ def search(request):
             count = Song.get_number_of_cities_by_artist(artist, city, art)
             artists_city_count.update({artist: count})
         '''
-        
+
         # Get the artists which sing about 'city'
         for song in songs_ids:
                 temp = Song.get_song_by_id(song).song_artist
@@ -201,6 +201,20 @@ def get_locations_list(request):
         for loc in locs:
             if loc.googleLoc not in results:
                 results.append(loc.googleLoc)
+        data = json.dumps(results)
+    else:
+        data = 'fail'
+    mimetype = 'application/json'
+    return HttpResponse(data)
+
+def get_artists_list(request):
+    if request.is_ajax():
+        q = request.GET.get('term', '')
+        locs = Song.objects.filter(song_artist__icontains = q )[:20]
+        results = []
+        for loc in locs:
+            if loc.song_artist not in results:
+                results.append(loc.song_artist)
         data = json.dumps(results)
     else:
         data = 'fail'

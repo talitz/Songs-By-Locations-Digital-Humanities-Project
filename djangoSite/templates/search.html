@@ -91,7 +91,7 @@
                         </h2>
                         <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
                             <div class="form-group">
-                            <input  class="form-control" id="search_box" type="text" name="search_box_artist"  placeholder="הקלד שם אומן" >
+                            <input  class="form-control" id="artists" type="text" name="search_box_artist"  placeholder="הקלד שם אומן" >
                             <button id="search_submit" type="submit" >
                                 <span class="glyphicon glyphicon-search"></span>
                             </button>
@@ -226,6 +226,16 @@
             });
         });
     </script>
+
+       <script type="text/JavaScript">
+        $(function() {
+         $("#artists").autocomplete({
+            source: "/api/get_artists/",
+            minLength: 2,
+            });
+        });
+    </script>
+
     <script type="text/JavaScript">
         var dictionary = JSON.parse('{{ cities_in_song | safe | escapejs }}');
         if (Object.keys(dictionary).length > 0){
