@@ -1,4 +1,5 @@
 from django.http import HttpResponseRedirect
+from django.http import HttpResponse
 from django.http import HttpResponseRedirect
 from .models import Song
 from .models import CitiesInSong
@@ -61,13 +62,18 @@ def search(request):
             for city_artist in cities_in_song:
                     artists_cities.append(city_artist)
 
-        # Get the artists which sing about the cities above
-        for city_to_add in artists_cities:
+        top_10 = collections.Counter(artists_cities).most_common(10)
+        artists_cities2 = []
+        for index, val in top_10:
+            artists_cities2.append(index)
+        
+        for city_to_add in artists_cities2:
             songs_by_city = CitiesInSong.get_song_by_city(city_to_add)
             for song in songs_by_city:
                 artist_to_add = song.song_artist
                 if artist_to_add not in stats:
                     stats.append(artist_to_add)
+
         if artist in stats:
             stats.remove(artist)
 
@@ -93,13 +99,22 @@ def search(request):
         songs_to_show = CitiesInSong.get_song_by_city(city)
         songs_ids = [q.id for q in songs_to_show]
         page_to_rend = "searchCity.html";
+        art = CitiesInSong.get_song_by_city_with_dups(city)
+        artist_list = [song.song_artist for song in art]
+        top_20 = collections.Counter(artist_list).most_common(20)
+        artists_city_count = {}
+        for index , val in top_20:
+            artists_city_count[index] = val
 
-        art = CitiesInSong.get_song_by_city(city)
+        '''
         for song in art:
-            artist = song.song_artist
-            count = Song.get_number_of_cities_by_artist(artist, city)
-            artists_city_count.update({artist: count})
+            print song.song_artist
 
+            artist = song.song_artist
+            count = Song.get_number_of_cities_by_artist(artist, city, art)
+            artists_city_count.update({artist: count})
+        '''
+        
         # Get the artists which sing about 'city'
         for song in songs_ids:
                 temp = Song.get_song_by_id(song).song_artist
@@ -115,7 +130,6 @@ def search(request):
                  'cities_in_song'	     :    json.dumps(dict(collections.Counter(artists_cities))), 
 				 'artists_same_cities'   :    stats, 
                  'artists_city_count'    :    json.dumps(artists_city_count),
-               #  'locs_list'             :   locs_list,
 				 },
     )
 
@@ -177,3 +191,18 @@ def find_song_by_artist(request, song_artist):
 def download_ti_by_song_id(request, song_id):
     _song = Song.get_song_by_id(song_id)
     return helper.get_tei_template(_song.song_artist, _song.song_name, _song.song_text, song_id)
+
+def get_locations_list(request):
+    if request.is_ajax():
+        q = request.GET.get('term', '')
+        locs = CitiesInSong.objects.filter(googleLoc__icontains = q )[:20]
+        #locs = ['tel aviv' , 'haifa' ,'brazil' , 'israel']
+        results = []
+        for loc in locs:
+            if loc.googleLoc not in results:
+                results.append(loc.googleLoc)
+        data = json.dumps(results)
+    else:
+        data = 'fail'
+    mimetype = 'application/json'
+    return HttpResponse(data)

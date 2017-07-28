@@ -97,6 +97,7 @@
                             </button>
                                 </div>
                         </form>
+
                         <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
                             <div class="form-group">
                             <input  class="form-control" id="search_box" type="text" name="search_box_song"  placeholder="הקלד שם שיר" >
@@ -105,9 +106,10 @@
                             </button>
                                 </div>
                         </form>
+
                         <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
                             <div class="form-group">
-                            <input  class="form-control" id="search_box" type="text" name="search_box_city"  placeholder="הקלד שם עיר" >
+                            <input  class="form-control" id="drugs" type="text" name="search_box_city"  placeholder="הקלד שם עיר" >
                             <button id="search_submit" type="submit" >
                                 <span class="glyphicon glyphicon-search"></span>
                             </button>
@@ -209,6 +211,21 @@
     <!-- Theme JavaScript -->
     <script src="{% static 'js/clean-blog.min.js' %} "></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js" ></script>
+
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.8.18/themes/base/jquery-ui.css" type="text/css" media="all" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript">
+    </script> 
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+
+    <script type="text/JavaScript">
+        $(function() {
+         $("#drugs").autocomplete({
+            source: "/api/get_drugs/",
+            minLength: 2,
+            });
+        });
+    </script>
     <script type="text/JavaScript">
         var dictionary = JSON.parse('{{ cities_in_song | safe | escapejs }}');
         if (Object.keys(dictionary).length > 0){

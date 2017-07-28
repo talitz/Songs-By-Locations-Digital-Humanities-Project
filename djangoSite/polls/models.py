@@ -23,12 +23,12 @@ class Song(models.Model):
         return Song.objects.filter(song_artist=artist)
 
     @staticmethod
-    def get_number_of_cities_by_artist(artist, city):
+    def get_number_of_cities_by_artist(artist, city, art):
         songs = CitiesInSong.get_song_by_city(city)
         count = 0;
-        for song in songs:
-            if song.song_artist == artist:
-                count += 1
+        #for song in songs:
+         #   if song.song_artist == artist:
+          #      count += 1
         return count
 
 
@@ -40,11 +40,19 @@ class CitiesInSong(models.Model):
 
     @staticmethod
     def get_song_by_city(city_in_song):
-        ob = CitiesInSong.objects.filter(city = city_in_song)
+        ob = CitiesInSong.objects.filter(googleLoc = city_in_song)
         songs = []
         for o in ob:
             if o.song not in songs:
                 songs.append(o.song)
+        return songs
+
+    @staticmethod
+    def get_song_by_city_with_dups(city_in_song):
+        ob = CitiesInSong.objects.filter(googleLoc = city_in_song)
+        songs = []
+        for o in ob:
+            songs.append(o.song)
         return songs
 
     @staticmethod
