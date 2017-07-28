@@ -1,4 +1,4 @@
-from django.http import HttpResponse
+from django.http import HttpResponseRedirect
 from django.http import HttpResponseRedirect
 from .models import Song
 from .models import CitiesInSong
@@ -53,10 +53,11 @@ def search(request):
     if artist is not None:
         songs_to_show = Song.get_song_by_artist(artist)
         songs_ids = [q.id for q in songs_to_show]
+        #locs_list = [CitiesInSong.get_google_locations_in_song(id) for id in songs_ids]
 
         # Get the cities in songs
         for song in songs_ids:
-            cities_in_song = CitiesInSong.get_locations_in_song(song)
+            cities_in_song = CitiesInSong.get_google_locations_in_song(song)
             for city_artist in cities_in_song:
                     artists_cities.append(city_artist)
 
@@ -114,6 +115,7 @@ def search(request):
                  'cities_in_song'	     :    json.dumps(dict(collections.Counter(artists_cities))), 
 				 'artists_same_cities'   :    stats, 
                  'artists_city_count'    :    json.dumps(artists_city_count),
+               #  'locs_list'             :   locs_list,
 				 },
     )
 

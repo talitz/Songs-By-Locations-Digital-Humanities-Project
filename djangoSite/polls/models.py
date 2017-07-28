@@ -36,6 +36,7 @@ class CitiesInSong(models.Model):
     id = models.AutoField(primary_key = True, db_column = 'cityId')
     song = models.ForeignKey(Song, db_column = 'songId')
     city = models.CharField(max_length = 200, db_column = 'city')
+    googleLoc = models.CharField(max_length = 200, db_column = 'googleLoc')
 
     @staticmethod
     def get_song_by_city(city_in_song):
@@ -52,6 +53,14 @@ class CitiesInSong(models.Model):
         ret = []
         for i in ob:
             ret.append(i.city)
+        return ret
+
+    @staticmethod
+    def get_google_locations_in_song(id):
+        ob = CitiesInSong.objects.filter(song_id = id)
+        ret = []
+        for i in ob:
+            ret.append(i.googleLoc)
         return ret
 
     @staticmethod

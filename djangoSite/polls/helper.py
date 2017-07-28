@@ -37,24 +37,31 @@ def add_song_to_db(artistName, songName, song_text):
 def insert_cities_in_song_to_db_from_file(request):
     print("INSERTING CITIES TO DATABASE FROM FILE")
     base_path = os.getcwd()
-    file_to_load_path = base_path + "/Db/TEIToText/results/gimel/lexicon.tsv"
+    file_to_load_path = base_path + "/../Yoav/improveTagger/fix2.tsv"
     with open(file_to_load_path) as tsv_file:
         tsv_file = csv.reader(tsv_file, delimiter='\t')
         for row in tsv_file:
             name = row[0][:-4]
             artist = row[1]
             city = row[2]
-            add_city_to_db(name, artist, city)
-
+            googleLoc = row[-1]
+            add_city_to_db(name, artist, city, googleLoc)
     return HttpResponse("The database was updated from file")
 
 
-def add_city_to_db(name, artist, city):
+def delete_locations(request):
+    student_list = CitiesInSong.objects.all()
+    for city in student_list:
+        print city.city
+        city.delete()
+
+def add_city_to_db(name, artist, city, googleLoc):
     song = Song.objects.filter(song_name=name, song_artist=artist).first()
     if song is not None:
             city_to_add = CitiesInSong()
             city_to_add.song = song
             city_to_add.city = city
+            city_to_add.googleLoc = googleLoc
             city_to_add.save()
 
 
