@@ -143,7 +143,8 @@ def search(request):
                  'cities_in_song'	     :    json.dumps(dict(collections.Counter(artists_cities))), 
 				 'artists_same_cities'   :    stats, 
                  'artists_city_count'    :    json.dumps(artists_city_count),
-                 'songs_to_locations'    : songs_to_locations,
+                 'songs_to_locations'    : 	  songs_to_locations,
+				 'songs_for_csv'         :    songs_to_show,
                  				 },
     )
 
@@ -206,6 +207,8 @@ def find_song_by_artist(request, song_artist):
 def download_ti_by_song_id(request, song_id):
     _song = Song.get_song_by_id(song_id)
     return helper.get_tei_template(_song.song_artist, _song.song_name, _song.song_text, song_id)
+	
+
 
 def get_locations_list(request):
     if request.is_ajax():
