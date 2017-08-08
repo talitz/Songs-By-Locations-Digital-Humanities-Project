@@ -8,6 +8,13 @@ import json
 from . import helper
 import collections
 from collections import Counter
+from django.template.defaulttags import register
+
+@register.filter
+def get_item(dictionary, key):
+   # print int(key) , '####'
+    print dictionary
+    return dictionary.get(int(key))
 
 def cityName(request, song_cities):
     return HttpResponse("You're looking at song")
@@ -50,17 +57,23 @@ def search(request):
     artists_cities = []
     page_to_rend = "search.html";
     artists_city_count = {}
+    songs_to_locations = {}
 
     if artist is not None:
+
         songs_to_show = Song.get_song_by_artist(artist)
         songs_ids = [q.id for q in songs_to_show]
         #locs_list = [CitiesInSong.get_google_locations_in_song(id) for id in songs_ids]
 
         # Get the cities in songs
         for song in songs_ids:
+            songs_to_locations[song] = []
             cities_in_song = CitiesInSong.get_google_locations_in_song(song)
             for city_artist in cities_in_song:
                     artists_cities.append(city_artist)
+                    songs_to_locations[song].append(city_artist)
+            songs_to_locations[song] = list(set(songs_to_locations[song]))
+            songs_to_locations[song] = ', '.join(songs_to_locations[song])
 
         top_10 = collections.Counter(artists_cities).most_common(10)
         artists_cities2 = []
@@ -130,7 +143,8 @@ def search(request):
                  'cities_in_song'	     :    json.dumps(dict(collections.Counter(artists_cities))), 
 				 'artists_same_cities'   :    stats, 
                  'artists_city_count'    :    json.dumps(artists_city_count),
-				 },
+                 'songs_to_locations'    : songs_to_locations,
+                 				 },
     )
 
 
@@ -147,6 +161,7 @@ def find_song_by_id(request, song_id):
             city_to_add = CitiesInSong()
             city_to_add.song = Song.get_song_by_id(song_id)
             city_to_add.city = city_add
+            city_to_add.googleLoc = city_add
             city_to_add.save()
         return HttpResponseRedirect('/findbyid/'+ str(song_id) +'/')
 

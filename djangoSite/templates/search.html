@@ -142,11 +142,14 @@
                                                 <hr>
     							                <div dir="rtl" class="post-preview">
     							                    <a href="/findbyid/{{song.id}}">
-    							                        <h2 class="post-title">
+    							                        <h1 class="post-title">
     							                            {{ song.song_name }}
-    							                        </h2>
+    							                        </h1>
     							                    </a>
-    							                    <p dir="rtl" class="post-meta">{{ song.song_artist }}</p>
+    							                    <p dir="rtl" class="post-meta">{{song.song_artist}}
+                                                    <br>
+                                                    {{songs_to_locations|get_item:song.id}}
+                                                    </p>
     							                </div>
                                                 
                               {% endfor %}
