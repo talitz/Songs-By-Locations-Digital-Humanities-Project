@@ -134,6 +134,13 @@ def search(request):
                 stats.append(temp)
 
 
+
+    str_to_return = ''     
+    for song in songs_to_show:
+        str_to_return += song.song_name+','+str(song.id) + ' ! '
+
+    print str_to_return
+
     # Render the HTML template index.html with the data in the context variable
     return render(
         request,
@@ -144,8 +151,8 @@ def search(request):
 				 'artists_same_cities'   :    stats, 
                  'artists_city_count'    :    json.dumps(artists_city_count),
                  'songs_to_locations'    : 	  songs_to_locations,
-				 'songs_for_csv'         :    songs_to_show,
-                 				 },
+                 'string_for_csv'        :    str_to_return,
+                 },
     )
 
 

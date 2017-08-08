@@ -211,22 +211,16 @@
 
 
  <link rel="stylesheet" href="http://code.jquery.com/ui/1.8.18/themes/base/jquery-ui.css" type="text/css" media="all" />
-	<script type="text/javascript">
-	function createCSV() { 
-		var songs_list = JSON.serialize('{{songs_for_csv|safe}}');
-		var csvRows = [["title1", "title2","title3"]];
-		for (i = 0; i < songs_list.length ; i++) {
-			var ele = [];
-			console.log(songs_list[i]);
-			//console.log(songs_list[i]);
-			ele.push(songs_list[i]);
-			csvRows.push(ele); 
-        }
-    
-		//var csvRows = [["label first","details of label 1"],["label sec","details of label 2"],["label 3","details of label 3"],["label 4","details of label 4 and 3"],["label 5","details of label 5"],["label 6","details of label 6"],["label 7","details of label 7"],["label 8","details of label 8"],["label 9","details of label 9"]];
-		var csvString = csvRows.join("%0A");
+	
+
+    <script type="text/javascript">
+	
+    function createCSV() { 
+        var yoav = "{{string_for_csv|safe}}";
+        yoav = yoav.replace(/!/g,"\n");
 		var a         = document.createElement('a');
-		a.href        = 'data:attachment/csv,' + csvString;
+        console.log(yoav);
+		a.href        =   'data:attachment/csv,' +  yoav;
 		a.target      = '_blank';
 		a.download    = 'searchDetails.csv';
 		document.body.appendChild(a);
