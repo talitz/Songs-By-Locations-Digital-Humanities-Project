@@ -99,7 +99,7 @@
                         </form>
                         <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
                             <div class="form-group">
-                            <input  class="form-control" id="search_box" type="text" name="search_box_song"  placeholder="הקלד שם שיר" >
+                            <input  class="form-control" id="search_box" type="text" name="search_box_song"  placeholder="חיפוש עיר בתוכן השיר" >
                             <button id="search_submit" type="submit" >
                                 <span class="glyphicon glyphicon-search"></span>
                             </button>
@@ -107,7 +107,7 @@
                         </form>
                         <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
                             <div class="form-group">
-                            <input  class="form-control" id="drugs" type="text" name="search_box_city"  placeholder="הקלד שם עיר" >
+                            <input  class="form-control" id="drugs" type="text" name="search_box_city"  placeholder="חיפוש עיר בתוכן השיר" >
                             <button id="search_submit" type="submit" >
                                 <span class="glyphicon glyphicon-search"></span>
                             </button>
@@ -216,11 +216,11 @@
     <script type="text/javascript">
 	
     function createCSV() { 
-        var yoav = "{{string_for_csv|safe}}";
-        yoav = yoav.replace(/!/g,"\n");
+        var yoav      = "{{string_for_csv|safe}}";
+        yoav          = yoav.replace(/!/g,"\r\n");
+		console.log(yoav);
 		var a         = document.createElement('a');
-        console.log(yoav);
-		a.href        =   'data:attachment/csv,' +  yoav;
+		a.href        = 'data:text/csv;charset=utf-8;base64,' + yoav;
 		a.target      = '_blank';
 		a.download    = 'searchDetails.csv';
 		document.body.appendChild(a);

@@ -16,7 +16,7 @@ class Song(models.Model):
 
     @staticmethod
     def get_song_by_name(name):
-        return Song.objects.filter(song_name=name)
+       return Song.objects.filter(song_name__contains=name)
 
     @staticmethod
     def get_song_by_artist(artist):
