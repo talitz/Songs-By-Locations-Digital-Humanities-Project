@@ -22,6 +22,16 @@
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{% static 'css/screen.css' %}" />
+
+  <link rel="stylesheet" href="{%static 'css/MarkerCluster.css' %}" />
+  <link rel="stylesheet" href="{%static 'css/MarkerCluster.Default.css' %}" />
+  <script src="{%static 'js/leaflet.markercluster-src.js' %}"></script>
+
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -136,6 +146,70 @@
                             <h4> ערים רלוונטיות </h4>
                             <canvas id="songChart" width="600" height="400"></canvas>
                             </ul>
+
+                            <div>
+                                <div id="progress"><div id="progress-bar"></div></div>
+  <div id="map"></div>
+  <span></span>
+  <script type="text/javascript">
+    var addressPoints = {{locations|safe}};
+    if(addressPoints.length > 0){
+        var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Points &copy 2012 LINZ'
+          }),
+          latlng = L.latLng(31.771959, 35.217018);
+
+        var map = L.map('map', { center: latlng, zoom: 1, layers: [tiles] });
+
+        var progress = document.getElementById('progress');
+        var progressBar = document.getElementById('progress-bar');
+
+        function updateProgressBar(processed, total, elapsed, layersArray) {
+          if (elapsed > 1000) {
+            // if it takes more than a second to load, display the progress bar:
+            progress.style.display = 'block';
+            progressBar.style.width = Math.round(processed/total*100) + '%';
+          }
+
+          if (processed === total) {
+            // all markers processed - hide the progress bar:
+            progress.style.display = 'none';
+          }
+        }
+
+        var markers = L.markerClusterGroup({ chunkedLoading: true, chunkProgress: updateProgressBar });
+
+        var markerList = [];
+
+        //console.log('start creating markers: ' + window.performance.now());
+
+        
+
+        for (var i = 0; i < addressPoints.length; i++) {
+          var a = addressPoints[i];
+          var title = a[2];
+          var loc = a[3];
+          var marker = L.marker(L.latLng(a[0], a[1]), { title: title});
+          marker.bindPopup(L.popup()
+            .setLatLng(latlng)
+            .setContent('<p ><b>שם השיר: </b> </div>' + title + '<p> <b> מיקום: </b>' + loc +'</p>')
+            );
+          markerList.push(marker);
+        }
+
+
+        //console.log('start clustering: ' + window.performance.now());
+
+        markers.addLayers(markerList);
+        map.addLayer(markers);
+    }
+    else{
+        document.getElementById("map").remove();
+    }
+    //console.log('end clustering: ' + window.performance.now());
+  </script>
+                            </div>
 
                          </div>
                             <ul>

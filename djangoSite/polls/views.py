@@ -9,11 +9,11 @@ from . import helper
 import collections
 from collections import Counter
 from django.template.defaulttags import register
+import pickle
 
 @register.filter
 def get_item(dictionary, key):
    # print int(key) , '####'
-    print dictionary
     return dictionary.get(int(key))
 
 def cityName(request, song_cities):
@@ -47,19 +47,47 @@ def contact(request):
     )
 
 
+def create_dict(request):
+    import requests
+    from bs4 import BeautifulSoup
+    dic={}
+    pickle.dump(dic, open( "locs_list.p", "wb" ) )
+    for entry in CitiesInSong.objects.all():
+        lng = None
+        lat = None
+        try:
+            if entry.googleLoc not in dic:
+                url = 'https://maps.googleapis.com/maps/api/geocode/xml?language=he&address=' + entry.googleLoc+ '&key=AIzaSyCogn8eumPsEriVg11B9bbT0HOLiKob3CI'
+                r = requests.get(url, timeout=30)
+                soup = BeautifulSoup(r.content)
+                lng = soup.find('lng').text
+                lat = soup.find('lat').text
+                if lng and lat:
+                    dic[entry.googleLoc] = (lng, lat)
+                    print entry.googleLoc,lng,lat
+            else:
+                print 'already here'
+        except:
+            print 'no'
+
+    pickle.dump(dic, open( "locs_list.p", "wb" ) )
+    return HttpResponse('wow finish')
+
 def search(request):
     songs_to_show = ""
     artist = request.GET.get('search_box_artist')
     song_name = request.GET.get('search_box_song')
     city = request.GET.get('search_box_city')
-    stats = []
     songs_ids = []
     artists_cities = []
     page_to_rend = "search.html";
     artists_city_count = {}
     songs_to_locations = {}
-
+    stats = []
+    artist_map = []
     if artist is not None:
+
+        artist_map = get_loc_map(artist)
 
         songs_to_show = Song.get_song_by_artist(artist)
         songs_ids = [q.id for q in songs_to_show]
@@ -82,10 +110,15 @@ def search(request):
         
         for city_to_add in artists_cities2:
             songs_by_city = CitiesInSong.get_song_by_city(city_to_add)
-            for song in songs_by_city:
+            for song in set(songs_by_city):
                 artist_to_add = song.song_artist
-                if artist_to_add not in stats:
-                    stats.append(artist_to_add)
+                stats.append(artist_to_add)
+
+        temp = collections.Counter(stats).most_common(15)
+        stats = []
+        for x,y in temp:
+            print x , y
+            stats.append(x)
 
         if artist in stats:
             stats.remove(artist)
@@ -107,8 +140,10 @@ def search(request):
                 artist_to_add = song.song_artist
                 if artist_to_add not in stats:
                     stats.append(artist_to_add)
+        stats = []
 
     if city is not None:
+        stats = []
         songs_to_show = CitiesInSong.get_song_by_city(city)
         songs_ids = [q.id for q in songs_to_show]
         page_to_rend = "searchCity.html";
@@ -126,21 +161,20 @@ def search(request):
             artist = song.song_artist
             count = Song.get_number_of_cities_by_artist(artist, city, art)
             artists_city_count.update({artist: count})
-        '''
+        
 
         # Get the artists which sing about 'city'
         for song in songs_ids:
                 temp = Song.get_song_by_id(song).song_artist
                 stats.append(temp)
 
-
+        '''
 
     str_to_return = ''     
     for song in songs_to_show:
         str_to_return += song.song_name+','+str(song.id) + ' ! '
 
-    print str_to_return
-
+    print artist_map
     # Render the HTML template index.html with the data in the context variable
     return render(
         request,
@@ -152,6 +186,7 @@ def search(request):
                  'artists_city_count'    :    json.dumps(artists_city_count),
                  'songs_to_locations'    : 	  songs_to_locations,
                  'string_for_csv'        :    str_to_return,
+                 'locations'             :    artist_map,
                  },
     )
 
@@ -199,6 +234,48 @@ def find_song_by_name(request, song_name):
         context={'song': _song},
     )
 
+
+def create_point_object(name, song_name, lng, alt):
+    point = {
+        'type': 'Feature',
+        'geometry': {
+                'type': 'Point',
+                'coordinates': [lng, alt]
+                    },
+        'properties': {
+                'name': name,
+                'song_name' : song_name
+                     }
+              }
+    return point
+
+def get_locations_to_map(request, id):
+    locs_dict = pickle.load( open( "locs_list.p", "rb" ) )
+    ret = []
+    songs_of_artist = Song.objects.filter(song_artist=id)
+    for x in songs_of_artist:
+        for loc in CitiesInSong.get_google_locations_in_song(x.id):
+            if loc in locs_dict:           
+                lng, lat = locs_dict[loc]
+                ret.append([float(lat),float(lng),x.song_name])
+
+    return render(
+    request,
+    'mapbox.html',
+    context={'locations': json.dumps(ret)},
+    )
+       
+def get_loc_map(id):
+    locs_dict = pickle.load( open( "locs_list.p", "rb" ) )
+    ret = []
+    songs_of_artist = Song.objects.filter(song_artist=id)
+    for x in songs_of_artist:
+        for loc in CitiesInSong.get_google_locations_in_song(x.id):
+            if loc in locs_dict:           
+                lng, lat = locs_dict[loc]
+                ret.append([float(lat),float(lng),x.song_name,loc])
+
+    return json.dumps(ret)
 
 def find_song_by_artist(request, song_artist):
     # Render the HTML template index.html with the data in the context variable

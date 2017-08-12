@@ -18,4 +18,8 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^api/get_drugs/', views.get_locations_list, name='get_drugs'),
     url(r'^api/get_artists/', views.get_artists_list, name='get_artists'),
+    url(r'^map/(.*)/$', views.get_locations_to_map, name='get_map'),
+    url(r'^createdict/', views.create_dict,name='insert to db all songs from file'),
+
 ]
+#

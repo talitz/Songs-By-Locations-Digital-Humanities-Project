@@ -175,7 +175,7 @@
     <script src="{% static 'js/clean-blog.min.js' %} "></script>
 
     <script type="text/JavaScript">
-    var locations = JSON.parse("{{ locations|safe }}");
+    var locations = JSON.parse('{{ locations|safe }}');
     for (i = 0; i < locations.length ; i++) {
         var text1 = "div:contains(" + locations[i] + ")";
         $(text1).each(function () {
