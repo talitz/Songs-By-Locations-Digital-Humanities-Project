@@ -267,22 +267,25 @@ def create_point_object(name, song_name, lng, alt):
 			  }
 	return point
 
-def get_locations_to_map(request, id):
-	locs_dict = pickle.load( open( "locs_list.p", "rb" ) )
-	ret = []
-	songs_of_artist = Song.objects.filter(song_artist=id)
-	for x in songs_of_artist:
-		for loc in CitiesInSong.get_google_locations_in_song(x.id):
-			if loc in locs_dict:           
-				lng, lat = locs_dict[loc]
-				ret.append([float(lat),float(lng),x.song_name])
 
-	return render(
-	request,
-	'mapbox.html',
-	context={'locations': json.dumps(ret)},
-	)
-	   
+def get_locations_to_map(request):
+    locs_dict = pickle.load( open( "locs_list.p", "rb" ) )
+    ret = pickle.load( open( "locarr.p", "rb" ) )
+    '''
+    songs_of_artist = Song.objects.all()
+    for x in songs_of_artist:
+        for loc in CitiesInSong.get_google_locations_in_song(x.id):
+            if loc in locs_dict:           
+                lng, lat = locs_dict[loc]
+                ret.append([float(lat),float(lng),x.song_name,x.song_artist,loc])
+    '''
+    #pickle.dump( ret, open( "locarr.p", "wb" ) )
+    return render(
+    request,
+    'map.html',
+    context={'locations': json.dumps(ret)},
+    )
+       
 def get_loc_map(id):
 	locs_dict = pickle.load( open( "locs_list.p", "rb" ) )
 	ret = []

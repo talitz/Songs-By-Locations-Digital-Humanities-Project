@@ -1,129 +1,181 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset='utf-8' />
-    <title></title>
-    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.css' rel='stylesheet' />
-    <style>
-        body { margin:0; padding:0; }
-        #map { position:absolute; top:0; bottom:0; width:40%; height:70% }
-    </style>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Songs By Locations - Digital Humanities Project</title>
+    {% load staticfiles %}
+    <!-- Bootstrap Core CSS -->
+
+
+
+    <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="{% static 'css/clean-blog.min.css' %}" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="{% static 'vendor/font-awesome/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{% static 'css/screen2.css' %}" />
+
+  <link rel="stylesheet" href="{%static 'css/MarkerCluster.css' %}" />
+  <link rel="stylesheet" href="{%static 'css/MarkerCluster.Default.css' %}" />
+  <script src="{%static 'js/leaflet.markercluster-src.js' %}"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
 </head>
+
 <body>
 
-<div id='map'></div>
-<script>
+
+      <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="contact.html">צור קשר</a>
+                    </li>
+                    <li>
+                        <a href="map.html">מפה</a>
+                    </li>
+                    <li>
+                        <a href="search.html">חיפוש</a>
+                    </li>
+                    <li>
+                        <a href="index.html">ראשי</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url({% static 'img/home-bg.jpg' %})">
+        <div class="container">
+            <div class="row">
+                <div dir="rtl" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="page-heading">
+                        <h1>מפה</h1>
+                        <hr class="small">
+                        <span class="subheading"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div align="center" class="container">
+   <div id="progress"><div id="progress-bar"></div></div>
+  <div id="map"></div>
+  <span></span>
+  <script type="text/javascript">
+    var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 18,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Points &copy 2012 LINZ'
+      }),
+      latlng = L.latLng(31.771959, 35.217018);
+
+    var map = L.map('map', { center: latlng, zoom: 1, layers: [tiles] });
+
+    var progress = document.getElementById('progress');
+    var progressBar = document.getElementById('progress-bar');
+
+    function updateProgressBar(processed, total, elapsed, layersArray) {
+      if (elapsed > 1000) {
+        // if it takes more than a second to load, display the progress bar:
+        progress.style.display = 'block';
+        progressBar.style.width = Math.round(processed/total*100) + '%';
+      }
+
+      if (processed === total) {
+        // all markers processed - hide the progress bar:
+        progress.style.display = 'none';
+      }
+    }
+
+    var markers = L.markerClusterGroup({ chunkedLoading: true, chunkProgress: updateProgressBar });
+
+    var markerList = [];
+
+    //console.log('start creating markers: ' + window.performance.now());
+
+    var addressPoints = {{locations|safe}};
+
+    for (var i = 0; i < addressPoints.length; i++) {
+      var a = addressPoints[i];
+      var title = a[2];
+      var artist = a[3];
+      var loca = a[4];
+      var marker = L.marker(L.latLng(a[0], a[1]), { title: title});
+      marker.bindPopup(L.popup()
+        .setLatLng(latlng)
+        .setContent('<p dir=rtl> <b>שם השיר: </b>' + title + '</p> <br> <b>שם האמן: </b>' +artist  + '</p> <br> <b>שם המקום: </b>' + loca + '</p>')
+        );
+      markerList.push(marker);
+    }
 
 
-var parks = {{locations|safe}}
+    //console.log('start clustering: ' + window.performance.now());
 
-mapboxgl.accessToken = 'pk.eyJ1IjoieW9hdmNvaGVuIiwiYSI6ImNqNjViamF0ejF3NmYyeG56ZDY0dTJqZHUifQ.Z84Kll2oSB4kwUCBpMvhSg';
-var map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v8',
-    center: [31.771959, 31.217018],
-    zoom: 7
-});
+    markers.addLayers(markerList);
+    map.addLayer(markers);
 
-map.on('style.load', function () {
-    map.addSource("markers2", {
-        "type": "geojson",
-        "data": parks,
-        "cluster": true,
-        "clusterMaxZoom" : 14, // Max zoom to cluster points on
-        "clusterRadius" : 50 // Radius of each cluster when clustering points (defaults to 50)
-    });
+    //console.log('end clustering: ' + window.performance.now());
+  </script>
 
-    map.addLayer({
-        "id": "markers",
-        "interactive": true,
-        "type": "circle",
-        "source": "markers2",
-        "layout": {
-            "icon-image": "park-15",
-            "icon-size": 0.8
-        },
-        "paint": {
-            "circle-color": {
-                property: "point_count",
-                type: "interval",
-                stops: [
-                    [0, "#51bbd6"],
-                    [100, "#f1f075"],
-                    [750, "#f28cb1"],
-                ]
-            },
-            "circle-radius": {
-                property: "point_count",
-                type: "interval",
-                stops: [
-                    [0, 20],
-                    [100, 30],
-                    [750, 40]
-                ]
-            }
-        }
-    });
+  </div>
 
 
-    map.addLayer({
-        id: "cluster-count",
-        type: "symbol",
-        source: "markers2",
-        filter: ["has", "point_count"],
-        layout: {
-            "text-field": "{point_count_abbreviated}",
-            "text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
-            "text-size": 12
-        }
-    });
+    <hr>
 
-    map.addLayer({
-        id: "unclustered-point",
-        type: "circle",
-        source: "markers2",
-        filter: ["!has", "point_count"],
-        paint: {
-            "circle-color": "#11b4da",
-            "circle-radius": 4,
-            "circle-stroke-width": 1,
-            "circle-stroke-color": "#fff"
-        }
-    });
-});
-
-map.on('click', function (e) {
-    // Use featuresAt to get features within a given radius of the click event
-    // Use layer option to avoid getting results from other layers
-    map.featuresAt(e.point, {layer: 'markers', radius: 10, includeGeometry: true}, function (err, features) {
-        if (err) throw err;
-        // if there are features within the given radius of the click event,
-        // fly to the location of the click event
-        if (features.length) {
-            // Get coordinates from the symbol and center the map on those coordinates
-            map.flyTo({center: features[0].geometry.coordinates});
-            var featureName = features[0].properties.name;
-            var songName = features[0].properties.song_name;
-            var tooltip = new mapboxgl.Popup()
-                .setLngLat(e.lngLat)
-                .setHTML('<p  dir="rtl">' + featureName  + '<br>' + songName + '</p>' )
-                .addTo(map);
-        }
-    });
-});
+    <!-- Footer -->
 
 
-// Use the same approach as above to indicate that the symbols are clickable
-// by changing the cursor style to 'pointer'.
-map.on('mousemove', function (e) {
-    map.featuresAt(e.point, {layer: 'markers', radius: 10}, function (err, features) {
-        if (err) throw err;
-        map.getCanvas().style.cursor = features.length ? 'pointer' : '';
-    });
-});
-</script>
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
 
 </body>
+
 </html>
