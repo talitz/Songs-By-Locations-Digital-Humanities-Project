@@ -64,7 +64,6 @@ def create_dict(request):
 				lat = soup.find('lat').text
 				if lng and lat:
 					dic[entry.googleLoc] = (lng, lat)
-					print entry.googleLoc,lng,lat
 			else:
 				print 'already here'
 		except:
@@ -124,7 +123,6 @@ def search(request):
 		temp = collections.Counter(stats).most_common(15)
 		stats = []
 		for x,y in temp:
-			print x , y
 			stats.append(x)
 
 		if artist in stats:
@@ -161,22 +159,6 @@ def search(request):
 		artists_city_count = {}
 		for index , val in top_20:
 			artists_city_count[index] = val
-
-		'''
-		for song in art:
-			print song.song_artist
-
-			artist = song.song_artist
-			count = Song.get_number_of_cities_by_artist(artist, city, art)
-			artists_city_count.update({artist: count})
-		
-
-		# Get the artists which sing about 'city'
-		for song in songs_ids:
-				temp = Song.get_song_by_id(song).song_artist
-				stats.append(temp)
-
-		'''
 	
 	for song in songs_to_show:
 		str_to_return_by_title += song.song_name + ',' + song.song_artist + '!'
@@ -190,7 +172,6 @@ def search(request):
 		else:
 			str_to_return_by_artist += song.song_name + ',' + song.song_artist + '!'
 			
-	print artist_map
 	# Render the HTML template index.html with the data in the context variable
 	return render(
 		request,

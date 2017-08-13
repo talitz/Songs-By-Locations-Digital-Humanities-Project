@@ -73,8 +73,6 @@ class CitiesInSong(models.Model):
 
     @staticmethod
     def remove_city_by_song_id_and_city(song_id_to_delete, city_name_to_delete):
-        print(song_id_to_delete)
-        print(city_name_to_delete)
         city_to_delete = CitiesInSong.objects.filter(song_id=song_id_to_delete, city=city_name_to_delete)
         print(city_to_delete)
         city_to_delete.delete()

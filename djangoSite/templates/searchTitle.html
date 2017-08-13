@@ -58,16 +58,16 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="contact.html">צור קשר</a>
+                        <a href="/contact">צור קשר</a>
                     </li>
                     <li>
-                        <a href="map.html">מפה</a>
+                        <a href="/map">מפה</a>
                     </li>
                     <li>
-                        <a href="searchCity.html">חיפוש</a>
+                        <a href="/searchCity">חיפוש</a>
                     </li>
                     <li>
-                        <a href="index.html">ראשי</a>
+                        <a href="/index">ראשי</a>
                     </li>
                 </ul>
             </div>
@@ -226,7 +226,6 @@
     							                    </a>
     							                    <p dir="rtl" class="post-meta">{{song.song_artist}}
                                                     <br>
-                                                    {{songs_to_locations|get_item:song.id}}
                                                     </p>
     							                </div>
                                                 
@@ -302,7 +301,7 @@
 
 	<script type="text/javascript">
 		function createCSVByTitle() { 
-			var yoav      = "{{string_for_csv_by_title|safe}}";
+			var yoav      = "{{string_for_csv_by_title|escapejs}}";
 			yoav          = 'artist,song name' + '\n' + yoav.replace(/!/g,"\n");
 			console.log('create_csv_artist_log');
 			console.log(yoav);
