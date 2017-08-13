@@ -137,6 +137,43 @@
 
 </body>
 
+	<script type="text/javascript">
+			function createCSVByCity() { 
+			var yoav      = "{{string_for_csv_by_content|safe}}";
+			yoav          = 'artist,song name' + '\n' + yoav.replace(/!/g,"\n");
+			console.log('create_csv_artist_log');
+			var a         = document.createElement('a');
+			a.href        = 'data:text/csv;charset=utf-8,' + encodeURIComponent(yoav);
+			a.target      = '_blank';
+			a.download    = 'searchDetails.csv';
+			document.body.appendChild(a);
+			a.click();
+		}
+		
+				function createCSVByTitle() { 
+			var yoav      = "{{string_for_csv_by_title|safe}}";
+			yoav          = 'artist,song name' + '\n' + yoav.replace(/!/g,"\n");
+			console.log('create_csv_artist_log');
+			console.log(yoav);
+			var a         = document.createElement('a');
+			a.href        = 'data:text/csv;charset=utf-8,' + encodeURIComponent(yoav);
+			a.target      = '_blank';
+			a.download    = 'searchDetails.csv';
+			document.body.appendChild(a);
+			a.click();
+		}
+		
+				function createCSVByArtist() { 
+			var yoav      = "{{string_for_csv_by_artist|safe}}";
+			yoav          = 'artist,song name,locations' + '\n' + yoav.replace(/!/g,"\n");
+			var a         = document.createElement('a');
+			a.href        = 'data:text/csv;charset=utf-8,' + encodeURIComponent(yoav);
+			a.target      = '_blank';
+			a.download    = 'searchDetails.csv';
+			document.body.appendChild(a);
+			a.click();
+		}
+	</script>
 
     {% load staticfiles %}
     <!-- jQuery -->
