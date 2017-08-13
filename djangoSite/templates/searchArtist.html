@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Songs By Locations - Digital Humanities Project</title>
+    {% load staticfiles %}
+    <!-- Bootstrap Core CSS -->
+    <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="{% static 'css/clean-blog.min.css' %}" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="{% static 'vendor/font-awesome/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{% static 'css/screen.css' %}" />
+
+  <link rel="stylesheet" href="{%static 'css/MarkerCluster.css' %}" />
+  <link rel="stylesheet" href="{%static 'css/MarkerCluster.Default.css' %}" />
+  <script src="{%static 'js/leaflet.markercluster-src.js' %}"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="contact.html">צור קשר</a>
+                    </li>
+                    <li>
+                        <a href="map.html">מפה</a>
+                    </li>
+                    <li>
+                        <a href="searchCity.html">חיפוש</a>
+                    </li>
+                    <li>
+                        <a href="index.html">ראשי</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+	
+	
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url( {% static 'img/home-bg.jpg' %})">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1>שירים לפי מקומות</h1>
+                        <hr class="small">
+                        <span class="subheading">פרויקט בקורס מדעי הרוח הדיגיטלים</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-preview">
+                        <h2 class="post-title">
+                        </h2>
+                        <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
+                            <div class="form-group">
+                            <input  class="form-control" id="artists" type="text" name="search_box_artist"  placeholder="הקלד שם אומן" >
+                            <button id="search_submit" type="submit" >
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                                </div>
+                        </form>
+
+                        <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
+                            <div class="form-group">
+							<input  class="form-control" id="search_box" type="text" name="search_box_song"  placeholder="חיפוש עיר בשם השיר" >
+                            <button id="search_submit" type="submit" >
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                                </div>
+                        </form>
+
+                        <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
+                            <div class="form-group">
+                            <input  class="form-control" id="drugs" type="text" name="search_box_city"  placeholder="חיפוש עיר בתוכן השיר" >
+                            <button id="search_submit" type="submit" >
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                                </div>
+                        </form>
+						<br><br><center>
+						<form action="" method="post">
+							<input type="button" dir="rtl" value="צור קובץ CSV" onclick="createCSVByArtist()">
+						</form>
+						</center>
+                        <span style="padding-left:20px">
+                            <div align="center" dir="rtl" class="stats">
+                            <ul>
+                            <h2 style="color:red"> סטטיסטיקות </h2>
+                            <h4> אמנים רלוונטים </h4>
+                                {% for artist in artists_same_cities%}
+                                    <li style="display: inline-block">
+                                        <a href="search.html?search_box_artist={{artist}}">
+    							                        <h6 class="post-title">
+    							                            {{artist}}
+    							                        </h6>
+    							                    </a> </li>
+
+
+
+                                {% endfor %}
+                            <h4> ערים רלוונטיות </h4>
+                            <canvas id="songChart" width="600" height="400"></canvas>
+                            </ul>
+
+                            <div>
+                                <div id="progress"><div id="progress-bar"></div></div>
+  <div id="map"></div>
+  <span></span>
+  <script type="text/javascript">
+    var addressPoints = {{locations|safe}};
+    if(addressPoints.length > 0){
+        var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Points &copy 2012 LINZ'
+          }),
+          latlng = L.latLng(31.771959, 35.217018);
+
+        var map = L.map('map', { center: latlng, zoom: 1, layers: [tiles] });
+
+        var progress = document.getElementById('progress');
+        var progressBar = document.getElementById('progress-bar');
+
+        function updateProgressBar(processed, total, elapsed, layersArray) {
+          if (elapsed > 1000) {
+            // if it takes more than a second to load, display the progress bar:
+            progress.style.display = 'block';
+            progressBar.style.width = Math.round(processed/total*100) + '%';
+          }
+
+          if (processed === total) {
+            // all markers processed - hide the progress bar:
+            progress.style.display = 'none';
+          }
+        }
+
+        var markers = L.markerClusterGroup({ chunkedLoading: true, chunkProgress: updateProgressBar });
+
+        var markerList = [];
+
+        //console.log('start creating markers: ' + window.performance.now());
+
+        
+
+        for (var i = 0; i < addressPoints.length; i++) {
+          var a = addressPoints[i];
+          var title = a[2];
+          var loc = a[3];
+          var marker = L.marker(L.latLng(a[0], a[1]), { title: title});
+          marker.bindPopup(L.popup()
+            .setLatLng(latlng)
+            .setContent('<p ><b>שם השיר: </b> </div>' + title + '<p> <b> מיקום: </b>' + loc +'</p>')
+            );
+          markerList.push(marker);
+        }
+
+
+        //console.log('start clustering: ' + window.performance.now());
+
+        markers.addLayers(markerList);
+        map.addLayer(markers);
+    }
+    else{
+        document.getElementById("map").remove();
+    }
+    //console.log('end clustering: ' + window.performance.now());
+  </script>
+                            </div>
+
+                         </div>
+                            <ul>
+                              {% for song in songs_list%}
+                                                <hr>
+    							                <div dir="rtl" class="post-preview">
+    							                    <a href="/findbyid/{{song.id}}">
+    							                        <h1 class="post-title">
+    							                            {{ song.song_name }}
+    							                        </h1>
+    							                    </a>
+    							                    <p dir="rtl" class="post-meta">{{song.song_artist}}
+                                                    <br>
+                                                    {{songs_to_locations|get_item:song.id}}
+                                                    </p>
+    							                </div>
+                                                
+                              {% endfor %}
+                            </ul> 
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                             <a href="https://github.com/talitz/Songs-By-Locations-Digital-Humanities-Project">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; Songs By Locations 2017</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+
+    {% load staticfiles %}
+    <!-- jQuery -->
+    <script src= "{% static 'vendor/jquery/jquery.min.js' %}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{% static 'vendor/bootstrap/js/bootstrap.min.js' %}"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="{% static 'js/jqBootstrapValidation.js' %}"></script>
+    <script src="{% static 'js/contact_me.js' %}"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="{% static 'js/clean-blog.min.js' %} "></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js" ></script>
+
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.8.18/themes/base/jquery-ui.css" type="text/css" media="all" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript">
+    </script> 
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+
+	<script type="text/javascript">
+		function createCSVByArtist() { 
+			var yoav      = "{{string_for_csv_by_artist|safe}}";
+			yoav          = 'artist,song name,locations' + '\n' + yoav.replace(/!/g,"\n");
+			var a         = document.createElement('a');
+			a.href        = 'data:text/csv;charset=utf-8,' + encodeURIComponent(yoav);
+			a.target      = '_blank';
+			a.download    = 'searchDetails.csv';
+			document.body.appendChild(a);
+			a.click();
+		}
+	</script>
+	
+    <script type="text/JavaScript">
+        $(function() {
+         $("#drugs").autocomplete({
+            source: "/api/get_drugs/",
+            minLength: 2,
+            });
+        });
+    </script>
+
+       <script type="text/JavaScript">
+        $(function() {
+         $("#artists").autocomplete({
+            source: "/api/get_artists/",
+            minLength: 2,
+            });
+        });
+    </script>
+
+    <script type="text/JavaScript">
+        var dictionary = JSON.parse('{{ cities_in_song | safe | escapejs }}');
+        if (Object.keys(dictionary).length > 0){
+
+            var colors = [];
+            for(var key in dictionary){
+              colors.push('#'+(0x1000000+(Math.random())*0xffffff).toString(16).substr(1,6));
+            }
+
+            var songChart = document.getElementById('songChart');
+            console.log(songChart);
+            options = {
+                scale: {
+                    // Hides the scale
+                    display: true
+                }
+            };
+            data = {
+                datasets: [{
+                    data: Object.values(dictionary),
+                    backgroundColor: colors
+                }],
+                labels: Object.keys(dictionary)
+            };
+            new Chart(songChart, {
+                data: data,
+                type: 'polarArea',
+                options: options
+            });
+        }
+
+    </script>
+
+</html>
