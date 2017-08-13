@@ -304,7 +304,6 @@
 		function createCSVByTitle() { 
 			var yoav      = "{{string_for_csv_by_title|safe}}";
 			yoav          = 'artist,song name' + '\n' + yoav.replace(/!/g,"\n");
-			yoav 		  = yoav.replace(" ","");
 			console.log('create_csv_artist_log');
 			console.log(yoav);
 			var a         = document.createElement('a');

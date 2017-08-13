@@ -97,14 +97,16 @@
                             </button>
                                 </div>
                         </form>
+
                         <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
                             <div class="form-group">
-                            <input  class="form-control" id="search_box" type="text" name="search_box_song"  placeholder="חיפוש עיר בשם השיר" >
+							<input  class="form-control" id="search_box" type="text" name="search_box_song"  placeholder="חיפוש עיר בשם השיר" >
                             <button id="search_submit" type="submit" >
                                 <span class="glyphicon glyphicon-search"></span>
                             </button>
                                 </div>
                         </form>
+
                         <form class="navbar-form navbar-left" role="search" dir="rtl" type="get" action="" style="margin: 0">
                             <div class="form-group">
                             <input  class="form-control" id="drugs" type="text" name="search_box_city"  placeholder="חיפוש עיר בתוכן השיר" >
@@ -113,7 +115,7 @@
                             </button>
                                 </div>
                         </form>
-					    <br><br><center>
+						<br><br><center>
 						<form action="" method="post">
 							<input type="button" dir="rtl" value="צור קובץ CSV" onclick="createCSVByCity()">
 						</form>
@@ -219,7 +221,6 @@
 			function createCSVByCity() { 
 			var yoav      = "{{string_for_csv_by_content|safe}}";
 			yoav          = 'artist,song name' + '\n' + yoav.replace(/!/g,"\n");
-			yoav 		  = yoav.replace(" ","");
 			console.log('create_csv_artist_log');
 			var a         = document.createElement('a');
 			a.href        = 'data:text/csv;charset=utf-8,' + encodeURIComponent(yoav);
